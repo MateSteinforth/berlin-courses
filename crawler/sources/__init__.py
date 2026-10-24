@@ -60,9 +60,11 @@ def catalog_sources() -> dict[str, CatalogSource]:
     from .tu_moses import TuMoses
     from .udk_hisinone import UdkHisinone
     from .fu_vv import FuVv
-    from .lsf import HtwLsf, HuAgnes
+    from .khb_incom import KhbIncom
+    from .lsf import AshLsf, HtwLsf, HuAgnes
     from .udk_sg import UdkStudiumGenerale
-    return {s.name: s for s in (TuMoses(), UdkHisinone(), UdkStudiumGenerale(), FuVv(), HuAgnes(), HtwLsf())}
+    return {s.name: s for s in (TuMoses(), UdkHisinone(), UdkStudiumGenerale(), FuVv(), HuAgnes(),
+                                HtwLsf(), KhbIncom(), AshLsf())}
 
 
 def lms_sources() -> dict[str, LmsSource]:

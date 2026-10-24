@@ -17,15 +17,15 @@ everything that publishes a catalog.
 | **FU Berlin** | Vorlesungsverzeichnis `fu-berlin.de/vv` | public | `fu_vv` | "Kommentar" |
 | **HU Berlin** | AGNES (HIS-LSF) | public | `hu_agnes` | "Kommentar" |
 | **HTW Berlin** | HIS-LSF `lsf.htw-berlin.de` | public | `htw_lsf` | "Kommentar" (where filled in) |
+| **weißensee kunsthochschule (KHB)** | Incom `see.incom.org/vlv/<year>-<1\|2>` | public | `khb_incom` | workspace "Info" text; block dates extracted by Claude Haiku |
+| **ASH (Alice Salomon Hochschule)** | HIS-LSF `ash-berlin.eu/qisserver` | public | `ash_lsf` | "Kommentar" (where filled in) |
 
 ## Not yet covered
 
 | Institution | What we know | Next step |
 |---|---|---|
-| **weißensee kunsthochschule (KHB)** | No public course catalog found; the website returns 403 to automated requests. Course info lives in module handbooks and the semester program PDFs. | Ask KHB students where the semester's Lehrangebot is published; maybe a PDF source. |
-| **BHT (Berliner Hochschule für Technik)** | Uses its own course allocation system; no public LSF found (`lsf.bht-berlin.de` doesn't resolve). | Find the Fachbereich timetables (FB VI Informatik & Medien is most relevant). |
-| **HWR Berlin** | No public catalog URL found. | Research. |
-| **ASH (Alice Salomon Hochschule)** | Uses LSF for its catalog (per its study handbook), portal URL not found yet. | Find URL → `LsfSource` subclass, likely ~20 lines. |
+| **BHT (Berliner Hochschule für Technik)** | Runs **HISinOne** at `polli.bht-berlin.de` (same system as UdK). The catalog is public but for WiSe 26/27 says "wird gerade aufgebaut" (still being built, empty). Public lecturer and room timetables exist in the same system. | Generalize `udk_hisinone` to take a host and enable it once the catalog is filled; until then a room-timetable crawler could supply times (descriptions from the module handbook PDFs). |
+| **HWR Berlin** | Moved to **S.A.M.** (academyFIVE) at `sam.hwr-berlin.de` (Campus4u retired). Its public catalog lists 1,165 WiSe 2026 entries (50 per page, `?page=N`), but they're modules only, with title, credits and lecturer. Dates and rooms aren't public. | Low relevance for D+C (business, law, public administration). Could list modules without times, or crawl with a login. |
 | **HfM Hanns Eisler** | Music conservatory, website only. | Low priority. |
 | **HfS Ernst Busch** | Acting/directing school, website only. | Low priority. |
 | **EHB / KHSB** | Church-run universities of applied sciences. | Low priority. |

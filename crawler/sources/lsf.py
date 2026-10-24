@@ -208,3 +208,13 @@ class HtwLsf(LsfSource):
         if re.search(r"\bTA\b|Treskowallee", txt):
             return "ADDR:Treskowallee 8"
         return super().building(gebaeude, raum)
+
+
+class AshLsf(LsfSource):
+    name = "ash_lsf"
+    university = "ASH"
+    base = "https://www.ash-berlin.eu/qisserver/rds"
+    root = "8509|8513"   # "Vorlesungsverzeichnis" (skips committees, staff events)
+
+    def building(self, gebaeude, raum):
+        return "ADDR:Alice-Salomon-Platz 5"  # single campus in Hellersdorf

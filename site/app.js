@@ -423,7 +423,7 @@ function renderWeek() {
 function renderMeta() {
   const m = S.meta;
   const next = m.next_update ? ` · next update ${new Date(m.next_update).toLocaleDateString("en-GB", { day: "numeric", month: "short" })}` : "";
-  $("#metaLine").textContent = `${m.count?.toLocaleString() ?? "?"} courses · TU & UdK · updated ${m.built ? new Date(m.built).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) : "?"}${next}`;
+  $("#metaLine").textContent = `${m.count?.toLocaleString() ?? "?"} courses · ${[...new Set(S.courses.map((c) => c.u))].join(", ")} · updated ${m.built ? new Date(m.built).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) : "?"}${next}`;
   $("#favCount").textContent = S.favs.size || "";
 }
 
@@ -461,7 +461,8 @@ function chipGroup(el, items, key, { single = false, counts = null } = {}) {
 function buildFilters() {
   const cnt = (fn) => S.courses.reduce((m, c) => { for (const v of [].concat(fn(c))) m[v] = (m[v] || 0) + 1; return m; }, {});
   chipGroup($("#semesters"), (S.meta.semesters || []).filter((s) => s.count).map((s) => [s.key, s.label]), "sems", { counts: cnt((c) => c.sem) });
-  chipGroup($("#unis"), [["TU", "TU Berlin"], ["UdK", "UdK Berlin"]], "unis", { counts: cnt((c) => c.u) });
+  const uniCounts = cnt((c) => c.u);
+  chipGroup($("#unis"), Object.keys(uniCounts).sort((a, b) => uniCounts[b] - uniCounts[a]).map((u) => [u, u]), "unis", { counts: uniCounts });
   chipGroup($("#formats"), FORMATS, "formats", { counts: cnt((c) => c._fmt) });
   chipGroup($("#days"), DAYS.map((d, i) => [i, d]), "days");
   chipGroup($("#tod"), TOD.map((t) => [t[0], t[1]]), "tod");
@@ -524,7 +525,9 @@ async function openCourse(id) {
     <h3>Dates</h3>
     ${rows ? `<table>${rows}</table>` : `<p class="hint">${c.arr ? "By arrangement." : "No dates published."}</p>`}
     ${c.path ? `<h3>Catalog</h3><p class="hint">${esc(c.path.join(" › "))}</p>` : ""}
-    <h3>Description</h3><div class="desc" id="desc">${c.hasd ? "Loading…" : "<span class='hint'>No description published.</span>"}</div>`;
+    <h3>Description</h3><div class="desc" id="desc">${c.hasd ? "Loading…" : c.sum
+      ? `${esc(c.sum)}<p class="hint">AI-generated from the title and department – the catalog has no description for this course.</p>`
+      : "<span class='hint'>No description published.</span>"}</div>`;
   $("#drawer").hidden = false;
   if (c.hasd) {
     if (!S.details) S.details = await fetchJson("data/details.json", 60000).catch(() => ({}));
