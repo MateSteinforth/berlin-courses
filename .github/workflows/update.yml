@@ -1,0 +1,102 @@
+name: Update data & deploy
+
+on:
+  # Daily check is cheap: each source has its own next-update date in
+  # data/state.json, and only sources that are due get crawled.
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Crawl all sources now, ignoring their schedule"
+        type: boolean
+        default: false
+      source:
+        description: "Only this source (e.g. tu_moses, udk_hisinone, fu_vv, hu_agnes, htw_lsf, udk_sg)"
+        type: string
+        default: ""
+  push:
+    branches: [main]
+    paths: ["site/**", "crawler/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Crawl catalogs that are due
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Optional logins, only needed if a source stops being public:
+          UDK_USER: ${{ secrets.UDK_USER }}
+          UDK_PASS: ${{ secrets.UDK_PASS }}
+          TU_USER: ${{ secrets.TU_USER }}
+          TU_PASS: ${{ secrets.TU_PASS }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.force }}" != "true" ]; then ARGS="--due"; fi
+          if [ -n "${{ inputs.source }}" ]; then ARGS="$ARGS --source ${{ inputs.source }}"; fi
+          python -m crawler crawl $ARGS || echo "::warning::some catalog sources failed"
+          if [ -z "${{ inputs.source }}" ]; then
+            python -m crawler lms $( [ "${{ inputs.force }}" != "true" ] && echo --due ) || echo "::warning::LMS crawl failed"
+          fi
+
+      - name: Build site data (AI enrichment for new courses only)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m crawler build --ai
+
+      - name: Commit data
+        id: commit
+        run: |
+          git config user.name "berlin-courses bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update course data $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Upload site
+        if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true' || github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
