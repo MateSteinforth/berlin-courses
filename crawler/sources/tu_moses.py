@@ -185,15 +185,19 @@ class TuMoses(CatalogSource):
                 if not nxt.count() or "ui-state-disabled" in (nxt.get_attribute("class") or ""):
                     break
                 cur = pg.locator(".ui-paginator-page.ui-state-active").last.inner_text()
-                nxt.click()
-                try:
-                    pg.wait_for_function(
-                        """(cur) => { const a = [...document.querySelectorAll('.ui-paginator-page.ui-state-active')];
-                                      return a.length && a[a.length-1].textContent.trim() !== cur; }""",
-                        arg=cur, timeout=60_000)
-                except Exception:
-                    log.info("MOSES: paginator stopped at page %s", cur)
-                    break
+                for attempt in range(3):  # MOSES sometimes drops a paging request under load
+                    try:
+                        nxt.click()
+                        pg.wait_for_function(
+                            """(cur) => { const a = [...document.querySelectorAll('.ui-paginator-page.ui-state-active')];
+                                          return a.length && a[a.length-1].textContent.trim() !== cur; }""",
+                            arg=cur, timeout=60_000)
+                        break
+                    except Exception:
+                        log.warning("MOSES: page after %s did not load (attempt %d)", cur, attempt + 1)
+                        pg.wait_for_timeout(5000)
+                else:
+                    raise RuntimeError(f"MOSES paginator stuck after page {cur} ({len(ids)} ids) – not saving a partial list")
                 pg.wait_for_timeout(300)
             browser.close()
         return (ids[:limit] if limit else ids), sem_id
