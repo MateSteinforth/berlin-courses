@@ -15,8 +15,10 @@ from __future__ import annotations
 import hashlib
 import json
 import logging
+import re
 import threading
 import time
+import zlib
 from concurrent.futures import ThreadPoolExecutor
 
 from .util import CACHE, env, load_json, save_json
@@ -83,8 +85,84 @@ def _key(c: dict) -> str:
     return hashlib.sha1((PROMPT_VERSION + _text(c)).encode()).hexdigest()[:16]
 
 
+# ---------------------------------------------------------------------------
+# Reuse across semesters: most courses come back with nearly the same text (new dates,
+# "WiSe" -> "SoSe", a reworded sentence). An exact-text miss falls back to a previous
+# result of the same university + title whose description is similar enough.
+# ai_index.json keeps {university|title: [[cache key, type, dept, word sketch], …]}
+# for every enriched course ever seen, so it survives old semesters leaving data/raw.
+
+INDEX_FILE = CACHE / "ai_index.json"
+SIMILAR = 0.6   # estimated word overlap (Jaccard) of descriptions needed to reuse a result
+_SKETCH = 48    # bottom-k sketch size
+
+
+def _sig(c: dict) -> str:
+    t = re.sub(r"\b(wise|sose|ws|ss|wintersemester|sommersemester)\b|\d+", " ", (c.get("title") or "").lower())
+    return f"{c.get('university')}|{' '.join(re.findall(r'[a-zäöüß]+', t))}"
+
+
+def _sketch(c: dict) -> list[int]:
+    words = {w for w in re.findall(r"[a-zäöüß]{3,}", (c.get("description") or c.get("lms_summary") or "").lower())}
+    return sorted(zlib.crc32(w.encode()) for w in words)[:_SKETCH]
+
+
+def _jaccard(a: list[int], b: list[int]) -> float:
+    if not a and not b:
+        return 1.0
+    if not a or not b:
+        return 0.0
+    union = sorted(set(a) | set(b))[:_SKETCH]
+    both = set(a) & set(b)
+    return sum(1 for x in union if x in both) / len(union)
+
+
+def _reuse_similar(todo: list, cache: dict, out: dict) -> list:
+    index = load_json(INDEX_FILE, {})
+    rest, reused = [], 0
+    for c, k in todo:
+        sk = _sketch(c)
+        hit = None
+        for key, typ, dept, osk in index.get(_sig(c), []):
+            if key not in cache:
+                continue
+            if (sk or osk) and _jaccard(sk, osk) >= SIMILAR:
+                hit = key
+                break
+            if not sk and not osk and typ == c.get("type") and dept == c.get("org"):
+                hit = key
+                break
+        if hit:
+            cache[k] = cache[hit]
+            out[c["id"]] = cache[k]
+            reused += 1
+        else:
+            rest.append((c, k))
+    if reused:
+        save_json(CACHE_FILE, cache)
+        log.info("AI: reused %d results from similar earlier courses", reused)
+    return rest
+
+
+def _update_index(courses: list[dict], cache: dict) -> None:
+    index = load_json(INDEX_FILE, {})
+    changed = False
+    for c in courses:
+        k = _key(c)
+        if k not in cache:
+            continue
+        entries = index.setdefault(_sig(c), [])
+        if any(e[0] == k for e in entries):
+            continue
+        entries.append([k, c.get("type"), c.get("org"), _sketch(c)])
+        del entries[:-5]   # a few variants per title are plenty
+        changed = True
+    if changed:
+        save_json(INDEX_FILE, index, compact=True)
+
+
 def enrich(courses: list[dict], max_new: int | None = None, wait_min: int = BATCH_WAIT_MIN) -> dict[str, dict]:
-    """Return {course_id: ai_fields}; calls the API only for uncached courses."""
+    """Return {course_id: ai_fields}; calls the API only for new courses (exact or similar text unseen)."""
     cache = load_json(CACHE_FILE, {})
     out, todo = {}, []
     for c in courses:
@@ -93,6 +171,9 @@ def enrich(courses: list[dict], max_new: int | None = None, wait_min: int = BATC
             out[c["id"]] = cache[k]
         else:
             todo.append((c, k))
+    _update_index(courses, cache)
+    if todo:
+        todo = _reuse_similar(todo, cache, out)
     if not env("ANTHROPIC_API_KEY"):
         if todo:
             log.info("AI: %d courses need enrichment but ANTHROPIC_API_KEY is not set – skipping", len(todo))
@@ -138,6 +219,7 @@ def enrich(courses: list[dict], max_new: int | None = None, wait_min: int = BATC
         k = _key(c)
         if k in cache:
             out[c["id"]] = cache[k]
+    _update_index(courses, cache)
     return out
 
 
