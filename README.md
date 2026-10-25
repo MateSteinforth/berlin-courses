@@ -1,3 +1,5 @@
+**→ Live: [matesteinforth.github.io/berlin-courses](https://matesteinforth.github.io/berlin-courses/)**
+
 # Berlin Courses
 
 One searchable list of the courses at Berlin universities (TU, UdK, FU, HU, HTW, KHB, ASH, FH Potsdam, …),
