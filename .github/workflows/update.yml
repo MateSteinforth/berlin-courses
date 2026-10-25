@@ -71,30 +71,34 @@ jobs:
             python -m crawler lms $( [ "${{ inputs.force }}" != "true" ] && echo --due ) || echo "::warning::LMS crawl failed"
           fi
 
-      - name: Build site data (AI enrichment for new courses only)
+      # Save crawled data right away, even if a crawl failed – later steps can't lose it.
+      - name: Commit crawled data
+        if: always() && github.event_name != 'push'
+        run: bash scripts/commit-data.sh "Crawl $(date -u +%F)"
+
+      # AI only on scheduled/manual runs (a code push never spends tokens). Submit the
+      # Batch API job first and commit its id, so a cancelled run can be resumed.
+      - name: Submit AI batch (new/changed courses only)
+        if: github.event_name != 'push'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          # test phase: AI only for UdK. Set the repo variable AI_UNIS=all (or pass the input) to enrich everything.
           AI_UNIS: ${{ inputs.ai_unis || vars.AI_UNIS || 'UdK' }}
-        run: python -m crawler build --ai --ai-unis "$AI_UNIS"
+        run: |
+          python -m crawler build --ai --ai-unis "$AI_UNIS" --ai-wait 0
+          bash scripts/commit-data.sh "AI batch submitted $(date -u +%F)"
+
+      - name: Build site data (collect AI results, up to 2 h)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AI_UNIS: ${{ inputs.ai_unis || vars.AI_UNIS || 'UdK' }}
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then python -m crawler build
+          else python -m crawler build --ai --ai-unis "$AI_UNIS" --ai-wait 120; fi
 
       - name: Commit data
         id: commit
-        run: |
-          git config user.name "berlin-courses bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "Update course data $(date -u +%F)"
-            # main may have moved during a long crawl: replay our data commit on top (our files win on conflicts)
-            for i in 1 2 3; do
-              git pull --rebase -X theirs origin main && git push && break
-              sleep 10
-            done
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
+        if: always()
+        run: bash scripts/commit-data.sh "Update course data $(date -u +%F)"
 
       - name: Upload site
         if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'

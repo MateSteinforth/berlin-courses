@@ -101,7 +101,7 @@ def _merge_studium_generale(courses: list[dict]) -> list[dict]:
     return out
 
 
-def build(ai: bool = False, ai_max: int | None = None, ai_unis: list[str] | None = None) -> None:
+def build(ai: bool = False, ai_max: int | None = None, ai_unis: list[str] | None = None, ai_wait: int = 120) -> None:
     sems = semester_keys()
     courses: list[dict] = []
     sources_meta = {}
@@ -148,7 +148,7 @@ def build(ai: bool = False, ai_max: int | None = None, ai_unis: list[str] | None
     if ai:
         subset = [c for c in courses if not ai_unis or c["university"] in ai_unis]
         log.info("AI: enrichment for %s (%d courses)", ", ".join(ai_unis) if ai_unis else "all universities", len(subset))
-        ai_data.update(enrich(subset, max_new=ai_max))
+        ai_data.update(enrich(subset, max_new=ai_max, wait_min=ai_wait))
 
     keys = {s["building"] for c in courses for s in c.get("sessions", []) if s.get("building")}
     locations = resolve(keys)

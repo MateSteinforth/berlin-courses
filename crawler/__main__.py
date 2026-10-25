@@ -55,6 +55,7 @@ def main(argv=None) -> int:
     b = sub.add_parser("build", help="merge raw data into site/data")
     b.add_argument("--ai", action="store_true", help="call Claude for uncached courses")
     b.add_argument("--ai-max", type=int)
+    b.add_argument("--ai-wait", type=int, default=120, help="minutes to wait for AI batches (0 = submit only)")
     b.add_argument("--ai-unis", help="only call the AI for these universities, comma-separated (default: all)")
     sub.add_parser("list", help="list available sources")
     args = ap.parse_args(argv)
@@ -121,7 +122,7 @@ def main(argv=None) -> int:
     elif args.cmd == "build":
         from .build import build
         unis = [u.strip() for u in (args.ai_unis or "").split(",") if u.strip() and u.strip() != "all"]
-        build(ai=args.ai, ai_max=args.ai_max, ai_unis=unis or None)
+        build(ai=args.ai, ai_max=args.ai_max, ai_unis=unis or None, ai_wait=args.ai_wait)
     return 1 if failed else 0
 
 

@@ -3,6 +3,12 @@
 Results are cached by a hash of the course's text, so each run only sends new
 or changed courses. Without ANTHROPIC_API_KEY this step is skipped and the
 site still works (just without tags/summaries).
+
+Cost: courses go out through the Message Batches API (50% off), GROUP courses
+per request (the instructions are sent once per group instead of once per
+course) and with thinking off (plain classification doesn't need it).
+Unfinished batches are remembered in ai_batches.json and collected by the next
+run, so a slow batch never gets paid for twice.
 """
 from __future__ import annotations
 
@@ -10,6 +16,7 @@ import hashlib
 import json
 import logging
 import threading
+import time
 from concurrent.futures import ThreadPoolExecutor
 
 from .util import CACHE, env, load_json, save_json
@@ -18,7 +25,10 @@ log = logging.getLogger(__name__)
 
 MODEL = "claude-haiku-5-5"
 CACHE_FILE = CACHE / "ai.json"
-PROMPT_VERSION = "v1"
+BATCH_FILE = CACHE / "ai_batches.json"   # pending batch id -> {custom_id: [cache keys]}
+GROUP = 40                               # courses per request
+BATCH_WAIT_MIN = 120                     # how long a run waits for a batch before leaving it for the next run
+PROMPT_VERSION = "v2"
 
 TAGS = [
     "art", "design", "architecture", "urbanism", "music", "sound", "performance",
@@ -30,58 +40,50 @@ TAGS = [
     "writing-language", "education-teaching", "workshop-practice", "career-professional",
 ]
 
+# Output per course, with one-letter keys to keep output tokens down (expanded to SHORT's values in the cache).
+SHORT = {"s": "summary", "t": "tags", "l": "language", "r": "dc_relevance"}
 SCHEMA = {
     "type": "object",
     "properties": {
-        "summary": {"type": "string", "description": "1-2 sentence English summary of what the course is about"},
-        "tags": {"type": "array", "items": {"type": "string", "enum": TAGS}},
-        "keywords": {"type": "array", "items": {"type": "string"}},
-        "language": {"type": "string", "enum": ["de", "en", "de+en", "other", "unknown"]},
-        "level": {"type": "string", "enum": ["intro", "intermediate", "advanced", "any"]},
-        "dc_relevance": {"type": "integer", "enum": [0, 1, 2, 3]},
-        "kind": {"type": "string", "enum": ["lecture", "seminar", "project", "workshop", "lab",
-                                            "exercise", "colloquium", "exam", "individual", "other"]},
+        "s": {"type": "string"},
+        "t": {"type": "array", "items": {"type": "string", "enum": TAGS}},
+        "l": {"type": "string", "enum": ["de", "en", "de+en", "other", "unknown"]},
+        "r": {"type": "integer", "enum": [0, 1, 2, 3]},
     },
-    "required": ["summary", "tags", "keywords", "language", "level", "dc_relevance", "kind"],
+    "required": ["s", "t", "l", "r"],
     "additionalProperties": False,
 }
 
 SYSTEM = (
-    "You classify courses from Berlin and Potsdam universities and art schools (TU, UdK, FU, HU, HTW, ASH, "
-    "weißensee, FH Potsdam, …) for a "
-    "course finder used by students of the Master 'Design & Computation' (a joint UdK/TU program "
-    "spanning architecture, design, art, computation, digital fabrication, interaction, AI and "
-    "critical theory). Given a course record, return:\n"
-    "- summary: 1-2 plain English sentences on what the course covers (no marketing, no 'This course').\n"
-    "- tags: 1-5 from the fixed list that best describe the subject.\n"
-    "- keywords: up to 5 short specific English keywords (methods, tools, topics).\n"
-    "- language: teaching language if stated or clearly implied by the text, else 'unknown'.\n"
-    "- level: intro / intermediate / advanced / any.\n"
-    "- dc_relevance: 0 unrelated, 1 tangential, 2 relevant, 3 core interest for Design & Computation students.\n"
-    "- kind: the course format.\n"
-    "If the record is sparse, infer cautiously from the title and department."
+    "You classify courses from Berlin/Potsdam universities for a course finder used by students of "
+    "the Master 'Design & Computation' (UdK/TU: architecture, design, art, computation, digital "
+    "fabrication, interaction, AI, critical theory). For each course return:\n"
+    "s: ONE short plain English sentence on what it covers (max 25 words, no 'This course').\n"
+    "t: 1-3 tags from the fixed list.\n"
+    "l: teaching language if stated or clearly implied, else 'unknown'.\n"
+    "r: relevance for Design & Computation students: 0 unrelated, 1 tangential, 2 relevant, 3 core.\n"
+    "If a record is sparse, infer cautiously from title and department."
 )
+
+DESC_CHARS = 1000  # enough to classify and summarize; long module texts were most of the input cost
 
 
 def _text(c: dict) -> str:
+    desc = " ".join((c.get("description") or c.get("lms_summary") or "").split())[:DESC_CHARS]
     parts = [
-        f"University: {c.get('university')}",
-        f"Title: {c.get('title')}",
-        f"Type: {c.get('type') or ''}",
-        f"Department: {c.get('org') or ''}",
-        f"Catalog path: {' > '.join(c.get('catalog_path') or [])}",
-        f"Lecturers: {', '.join(c.get('lecturers') or [])}",
-        f"Language (as published): {c.get('language') or ''}",
-        f"Description: {(c.get('description') or c.get('lms_summary') or '')[:3000]}",
+        f"{c.get('university')} | {c.get('title')} | {c.get('type') or ''}",
+        f"Dept: {c.get('org') or ' > '.join((c.get('catalog_path') or [])[-2:])}",
+        f"Lang: {c.get('language')}" if c.get("language") else "",
+        f"Desc: {desc}" if desc else "",
     ]
-    return "\n".join(parts)
+    return "\n".join(p for p in parts if p)
 
 
 def _key(c: dict) -> str:
     return hashlib.sha1((PROMPT_VERSION + _text(c)).encode()).hexdigest()[:16]
 
 
-def enrich(courses: list[dict], max_new: int | None = None) -> dict[str, dict]:
+def enrich(courses: list[dict], max_new: int | None = None, wait_min: int = BATCH_WAIT_MIN) -> dict[str, dict]:
     """Return {course_id: ai_fields}; calls the API only for uncached courses."""
     cache = load_json(CACHE_FILE, {})
     out, todo = {}, []
@@ -91,61 +93,105 @@ def enrich(courses: list[dict], max_new: int | None = None) -> dict[str, dict]:
             out[c["id"]] = cache[k]
         else:
             todo.append((c, k))
-    if not todo:
-        return out
     if not env("ANTHROPIC_API_KEY"):
-        log.info("AI: %d courses need enrichment but ANTHROPIC_API_KEY is not set – skipping", len(todo))
+        if todo:
+            log.info("AI: %d courses need enrichment but ANTHROPIC_API_KEY is not set – skipping", len(todo))
+        return out
+    if not todo and not load_json(BATCH_FILE, {}):
         return out
     if max_new is not None:
         todo = todo[:max_new]
 
     import anthropic
+    from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
+    from anthropic.types.messages.batch_create_params import Request
 
     client = anthropic.Anthropic(max_retries=5)
-    lock = threading.Lock()
-    done = 0
+    pending = load_json(BATCH_FILE, {})
+    in_flight = {k for groups in pending.values() for keys in groups.values() for k in keys}
+    todo = [(c, k) for c, k in todo if k not in in_flight]
 
-    def one(item):
-        nonlocal done
-        c, k = item
-        try:
-            resp = client.messages.create(
+    if todo:
+        # one request per GROUP courses; duplicate texts (same course listed twice) are sent once
+        uniq = list({k: c for c, k in todo}.items())
+        groups = [uniq[i:i + GROUP] for i in range(0, len(uniq), GROUP)]
+        reqs, mapping = [], {}
+        for gi, grp in enumerate(groups):
+            cid = f"g{gi}"
+            mapping[cid] = [k for k, _ in grp]
+            body = "\n\n".join(f"### Course {i}\n{_text(c)}" for i, (_, c) in enumerate(grp))
+            reqs.append(Request(custom_id=cid, params=MessageCreateParamsNonStreaming(
                 model=MODEL,
-                max_tokens=2048,
-                system=SYSTEM,
-                messages=[{"role": "user", "content": _text(c)}],
-                output_config={"effort": "low", "format": {"type": "json_schema", "schema": SCHEMA}},
-            )
-        except anthropic.RateLimitError as e:
-            log.warning("AI rate limited on %s: %s", c["id"], e)
-            return
-        except anthropic.APIStatusError as e:
-            log.warning("AI API error %s on %s: %s", e.status_code, c["id"], e.message)
-            return
-        except anthropic.APIConnectionError as e:
-            log.warning("AI connection error on %s: %s", c["id"], e)
-            return
-        if resp.stop_reason in ("refusal", "max_tokens"):
-            log.warning("AI %s on %s", resp.stop_reason, c["id"])
-            return
-        text = next((b.text for b in resp.content if b.type == "text"), None)
-        if not text:
-            return
-        data = json.loads(text)
-        with lock:
-            cache[k] = data
-            out[c["id"]] = data
-            done += 1
-            if done % 200 == 0:
-                log.info("AI: %d/%d", done, len(todo))
-                save_json(CACHE_FILE, cache)
+                max_tokens=150 * len(grp) + 300,
+                system=SYSTEM + GROUP_NOTE,
+                messages=[{"role": "user", "content": body}],
+                thinking={"type": "disabled"},
+                output_config={"effort": "low", "format": {"type": "json_schema", "schema": GROUP_SCHEMA}},
+            )))
+        batch = client.messages.batches.create(requests=reqs)
+        pending[batch.id] = mapping
+        save_json(BATCH_FILE, pending)
+        log.info("AI: batch %s submitted: %d courses in %d requests", batch.id, len(uniq), len(reqs))
 
-    log.info("AI: enriching %d courses with %s", len(todo), MODEL)
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        list(ex.map(one, todo))
-    save_json(CACHE_FILE, cache)
-    log.info("AI: done (%d new)", done)
+    _collect_batches(client, pending, cache, wait_min=wait_min)
+    for c in courses:
+        k = _key(c)
+        if k in cache:
+            out[c["id"]] = cache[k]
     return out
+
+
+GROUP_NOTE = (
+    "\n\nThe message contains several course records, each starting with '### Course <n>'. "
+    "Return one entry per course in `results`, with `n` set to that course's number."
+)
+GROUP_SCHEMA = {
+    "type": "object",
+    "properties": {"results": {"type": "array", "items": {
+        **SCHEMA,
+        "properties": {"n": {"type": "integer"}, **SCHEMA["properties"]},
+        "required": ["n", *SCHEMA["required"]],
+    }}},
+    "required": ["results"],
+    "additionalProperties": False,
+}
+
+
+def _collect_batches(client, pending: dict, cache: dict, wait_min: int) -> None:
+    """Poll pending batches up to wait_min minutes; store finished results in the cache.
+    Batches still running stay in ai_batches.json for the next run."""
+    deadline = time.time() + wait_min * 60
+    while pending:
+        for bid in list(pending):
+            b = client.messages.batches.retrieve(bid)
+            if b.processing_status != "ended":
+                continue
+            got = 0
+            for r in client.messages.batches.results(bid):
+                keys = pending[bid].get(r.custom_id, [])
+                if r.result.type != "succeeded":
+                    log.warning("AI: request %s %s – retried next run", r.custom_id, r.result.type)
+                    continue
+                msg = r.result.message
+                if msg.stop_reason in ("refusal", "max_tokens"):
+                    log.warning("AI: request %s stopped (%s) – retried next run", r.custom_id, msg.stop_reason)
+                    continue
+                text = next((x.text for x in msg.content if x.type == "text"), None)
+                for item in (json.loads(text).get("results", []) if text else []):
+                    n = item.pop("n", None)
+                    if isinstance(n, int) and 0 <= n < len(keys):
+                        cache[keys[n]] = {SHORT[k]: v for k, v in item.items() if k in SHORT}
+                        got += 1
+            del pending[bid]
+            save_json(CACHE_FILE, cache)
+            save_json(BATCH_FILE, pending)
+            log.info("AI: batch %s collected (%d courses; %s)", bid, got, b.request_counts)
+        if not pending:
+            break
+        if time.time() > deadline:
+            log.info("AI: %d batch(es) still running – results are collected by the next run", len(pending))
+            break
+        time.sleep(60)
 
 
 # ---------------------------------------------------------------------------
