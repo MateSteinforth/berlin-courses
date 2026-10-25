@@ -111,7 +111,7 @@ function haversineKm(a, b) {
 const ESTIMATE = {   // fallback minutes from straight-line km
   walk: (km) => km * 1.3 / 4.8 * 60,
   bike: (km) => km * 1.25 / 15 * 60 + 2,
-  car: (km) => km * 1.3 / 22 * 60 + 6,
+  car: (km) => km * 1.3 / 22 * 60,
   transit: (km) => 9 + km * 1.35 / 20 * 60,
 };
 
@@ -169,8 +169,8 @@ async function computeTravel() {
           // OSRM durations are optimistic; use distance with realistic Berlin speeds
           if (mode === "walk") res[k] = Math.round(dist / 1000 / 4.8 * 60);
           else if (mode === "bike") res[k] = Math.round(Math.max(dur / 60, dist / 1000 / 15 * 60) + 2);
-          // car: OSRM times are optimistic in city traffic; ~22 km/h average + 6 min to find parking
-          else res[k] = Math.round(Math.max(dur / 60 * 1.3, dist / 1000 / 22 * 60) + 6);
+          // car: OSRM times are optimistic in city traffic; ~22 km/h average (no parking time)
+          else res[k] = Math.round(Math.max(dur / 60 * 1.3, dist / 1000 / 22 * 60));
         });
       } catch { status("Routing service unavailable – using estimates"); }
     }
