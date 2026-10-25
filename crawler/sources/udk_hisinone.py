@@ -61,10 +61,13 @@ class UdkHisinone(CatalogSource):
             pg.goto(CATALOG.format(pid=pid))
             pg.wait_for_load_state("networkidle")
             # top-level sections are the children of the root node
+            # use the node index from the DOM id ("…courseCatalog:0:13:t2g_0-13"): it skips numbers,
+            # so the button's position is NOT its index (that once skipped 2 sections and hit 2 empty ones)
             top = pg.locator("button.treeTableIcon[aria-expanded='false']")
-            n_top = top.count()
+            sections = sorted({int(m.group(1)) for i in range(top.count())
+                               if (m := re.search(r"courseCatalog:0:(\d+):", top.nth(i).get_attribute("id") or ""))})
             browser.close()
-        log.info("UdK %s (period %s): %d top-level sections", semester, pid, n_top)
+        log.info("UdK %s (period %s): top-level sections %s", semester, pid, sections)
 
         # Each worker thread owns its own Playwright instance + browser (the sync
         # API isn't shareable across threads) and expands a share of the sections.
@@ -81,7 +84,7 @@ class UdkHisinone(CatalogSource):
                         log.warning("UdK section %d failed: %s", i, e)
                 b2.close()
 
-        buckets = [list(range(n_top))[k::WORKERS] for k in range(WORKERS)]
+        buckets = [sections[k::WORKERS] for k in range(WORKERS)]
         with ThreadPoolExecutor(max_workers=WORKERS) as ex:
             list(ex.map(section_worker, [b for b in buckets if b]))
 
@@ -120,12 +123,21 @@ class UdkHisinone(CatalogSource):
     # ---- detail ----------------------------------------------------------
     def _course(self, page, uid, pid, semester, path, cache, lock) -> Course | None:
         url = DETAIL.format(uid=uid, pid=pid)
-        page.goto(url)
-        page.wait_for_load_state("domcontentloaded")
-        soup = BeautifulSoup(page.content(), "lxml")
-        fields = _label_fields(soup)
-        title = fields.get("Titel")
-        if not title:
+        # under load the JSF page renders late; an early read has no fields yet (dropped 87 of 523 courses once)
+        for attempt in range(3):
+            if attempt != 1:
+                page.goto(url)
+            if attempt == 0:
+                page.wait_for_load_state("domcontentloaded")
+            else:
+                _wait_idle(page)
+            soup = BeautifulSoup(page.content(), "lxml")
+            fields = _label_fields(soup)
+            title = fields.get("Titel")
+            if title:
+                break
+        else:
+            log.warning("UdK unit %s: no title after 3 tries, skipped", uid)
             return None
 
         sessions, by_arr = _parse_appointments(soup)
