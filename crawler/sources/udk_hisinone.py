@@ -88,6 +88,8 @@ class UdkHisinone(CatalogSource):
         with ThreadPoolExecutor(max_workers=WORKERS) as ex:
             list(ex.map(section_worker, [b for b in buckets if b]))
 
+        # keep the expanded unit list (the slow part, ~2 h) so details can be refetched without it
+        save_json(CACHE / f"udk_units_{semester}.json", units)
         uids = sorted(units, key=int)
         if limit:
             uids = uids[:limit]
@@ -100,16 +102,28 @@ class UdkHisinone(CatalogSource):
         def detail_worker(chunk: list[str]):
             with sync_playwright() as p3:
                 b3 = p3.chromium.launch()
-                page = b3.new_page()
-                page.set_default_timeout(90_000)
+
+                def fresh():
+                    pg = b3.new_context().new_page()
+                    pg.set_default_timeout(90_000)
+                    return pg
+
+                page = fresh()
                 for uid in chunk:
-                    try:
-                        c = self._course(page, uid, pid, semester, units.get(uid, []), cache, rlock)
+                    # a HISinOne session can expire mid-crawl; after that every page renders empty
+                    # (88 courses lost that way once) – so retry an empty page in a fresh session
+                    for attempt in range(2):
+                        try:
+                            c = self._course(page, uid, pid, semester, units.get(uid, []), cache, rlock)
+                        except Exception as e:
+                            log.warning("UdK unit %s failed: %s", uid, e)
+                            c = None
                         if c:
                             with rlock:
                                 results[uid] = c
-                    except Exception as e:
-                        log.warning("UdK unit %s failed: %s", uid, e)
+                            break
+                        page.context.close()
+                        page = fresh()
                 b3.close()
 
         chunks = [uids[k::WORKERS] for k in range(WORKERS)]

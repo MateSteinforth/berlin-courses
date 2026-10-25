@@ -19820,6 +19820,3211 @@
    "extra": {
     "raw_title": "INTER-Projekt_Am I the One? Selbsterzählungen zwischen Autofiktion, Autotheorie, Crying Selfies und Confessionals"
    }
+  },
+  {
+   "id": "udk_hisinone:6556:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Methodik /Lehrpraxis Gitarre",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=6556&periodId=342",
+   "type": "Gruppenunterricht",
+   "number": "3AKPAML0008",
+   "lecturers": [
+    "Roxanna Timme"
+   ],
+   "org": "Fakultät Musik (Veranstalter)",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich per Email. Bitte melden Sie sich unter der angegebenen Mailadresse der jeweiligen Dozierenden an. Nur bei Mitteilung folgender Informationen können wir Ihre Anmeldung berücksichtigen: Titel der Veranstaltung: Name: Matrikelnummer: Studiengang/Fachsemester: Emailadresse: Bitte melden Sie sich wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.\n\nKommentar: Veranstaltungs-Art: Gruppenuntericht Wochentag: n.Vbg. Raum: Fa 203",
+   "by_arrangement": true
+  },
+  {
+   "id": "udk_hisinone:6655:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Stücke lesen, Kooperation mit dem Studiengang Szenisches Schreiben, Regieinstitut HfS Ernst Busch,. Schauspiel 2. Jahrgang",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=6655&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "421006",
+   "lecturers": [
+    "Prof. Marion Hirte",
+    "Daniel Nartschick",
+    "Barbara Meerkötter"
+   ],
+   "org": "Fakultät Darstellende Kunst (Veranstalter)",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "11:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Ka - 302(P3)",
+     "building": "UDK:Ka",
+     "group": "Stücke lesen, Kooperation mit dem Studiengang Szenisches Schreiben, Regieinstitut HfS Ernst Busch,. Schauspiel 2. Jahrgang",
+     "note": "sowie auch in P2 Karlsruher Str."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:6677:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Sprechen - 1. Jahrgang - Einzel",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=6677&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "421023",
+   "lecturers": [
+    "Prof. Irene Wagner"
+   ],
+   "org": "Fakultät Darstellende Kunst (Veranstalter)",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "12:00",
+     "end": "15:00",
+     "rhythm": "weekly",
+     "first_date": "2026-11-05",
+     "last_date": "2026-11-12",
+     "room": "UNI.T - 004",
+     "building": "UDK:T",
+     "group": "Sprechen - 1. Jahrgang - Einzel",
+     "note": "Fa 02"
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:6809:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Schreiben für junges Publikum in Kooperation mit Theater Strahl - 19. Jahrgang",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=6809&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "461202",
+   "lecturers": [
+    "Claudius Lünstedt"
+   ],
+   "org": "Fakultät Darstellende Kunst (Veranstalter)",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "13:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-21",
+     "last_date": "2026-10-21",
+     "room": "BuA - 016",
+     "building": null,
+     "group": "Schreiben für junges Publikum in Kooperation mit Theater Strahl - 19. Jahrgang",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:6840:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Künstlerisches Gruppenprojekt (Angeleitetes Projekt)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=6840&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "471118",
+   "lecturers": [
+    "Sebastian Eggers",
+    "Larissa Gorn",
+    "Prof. Dr. Ute Schlegel-Pinkert"
+   ],
+   "org": "Fakultät Darstellende Kunst (Veranstalter)",
+   "description": "Kommentar: Im angeleiteten Projekt arbeiten alle Studierenden zu einem gemeinsamen Oberthema, wobei jede und jeder sowohl ein Szenenstudium selbst inszeniert als auch in den Szenen der Kommiliton*innen mitspielt. Alle Bereiche professioneller Theaterarbeit sollen in dieser Arbeit unter Anleitung der Lehrenden im eigenen Handeln praktisch und konkret erfahren werden, Am Ende steht ein wiederholbarer Theaterabend, der zum Ende des Wintersemesters mehrmals öffentlich aufgeführt wird.",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "BuA - 201",
+     "building": null,
+     "group": "Künstlerisches Gruppenprojekt (Angeleitetes Projekt)",
+     "note": "Raum 201 und 104"
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "BuA - 201",
+     "building": null,
+     "group": "Künstlerisches Gruppenprojekt (Angeleitetes Projekt)",
+     "note": "Raum 201 und Raum 202"
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:7261:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Kolloquium (Peters)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=7261&periodId=342",
+   "type": "Colloquium",
+   "number": "262708",
+   "lecturers": [
+    "Prof. Dr. Kathrin Peters"
+   ],
+   "org": "Fakultät Gestaltung (Veranstalter) Institut für Geschichte und Theorie der Gestaltung (Veranstalter)",
+   "description": "Kommentar: Kolloquium zur Begleitung der wissenschaftlichen Abschlussarbeit für Studierende, die bei mir ihren Abschluss angemeldet haben. Weitere Interessenten bitte per Mail melden. Anmeldung: https://moodle.udk-berlin.de/moodle/course/view.php?id=3340\n\nZu erbringende Studienleistung: Regelmäßige Teilnahme, Projektvorstellung",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "17:00",
+     "end": "19:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Gru - Z3",
+     "building": "UDK:Gru",
+     "group": "Kolloquium (Peters)",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:7724:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Projektmanagement 1.-5.Sem.",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=7724&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "45.1.03.2",
+   "lecturers": [
+    "Anna Bergel"
+   ],
+   "org": "Fakultät Darstellende Kunst (Veranstalter)",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "17:00",
+     "rhythm": "biweekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-05",
+     "room": null,
+     "building": null,
+     "group": "Projektmanagement 1.-5.Sem.",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:7428:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Kammerchor und Frauenchor der Künste",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=7428&periodId=342",
+   "type": "Gruppenunterricht",
+   "number": "3AKDK00001",
+   "lecturers": [
+    "Prof. Maike Katharina Bühle"
+   ],
+   "org": "Fakultät Musik (Veranstalter) Institut für Musikpädagogik (Veranstalter)",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich per Email. Anmeldung unter: j.krueger@udk-berlin.de Nur bei Mitteilung folgender Informationen können wir Ihre Anmeldung berücksichtigen: Titel der Veranstaltung: Name: Matrikelnummer: Studiengang/Fachsemester: Emailadresse: Bitte melden Sie sich wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.\n\nKommentar: Bitte vereinbaren Sie einen Termin für das obligatorische Vorsingen per Mail und geben darin ihre bisherige (chor-)sängerische Erfahrung an.",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "BuA - Konzertsaal",
+     "building": null,
+     "group": "Frauenchor der Künste (1. Parallelgruppe)",
+     "note": "Di 12-14 Blocktermine: 08.-10.01.2027 Probenwochenende in Sauen 03.-04.05.2027 Deutscher Chorwettbewerb in Leipzig Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=63 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=63 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-20",
+     "last_date": "2027-02-09",
+     "room": "BuA - Konzertsaal",
+     "building": null,
+     "group": "Kammerchor der Künste (2. Parallelgruppe)",
+     "note": "Di 14-16 Uhr Blocktermine: 20.-22.11.2026 Probenwochenende 27.01.2027 Semesterabschlusskonzert Feb. und März verschiedene Konzerte tba 12.-19.04.2027 Konzertreise 06.05.2027 Konzert Deutscher Chorwettbewerb Leipzig Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=64 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=64 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:7772:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Sprechen - Kleingruppenunterricht",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=7772&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "471123",
+   "lecturers": [
+    "Beate Krützkamp"
+   ],
+   "org": "Fakultät Darstellende Kunst (Veranstalter)",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "BuA - 104",
+     "building": null,
+     "group": "Sprechen - Kleingruppenunterricht",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:7943:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Montage-Seminar",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=7943&periodId=342",
+   "type": "Seminar",
+   "number": "2670104",
+   "lecturers": [
+    "Reinaldo Pinto Almeida"
+   ],
+   "org": "Fakultät Gestaltung (Veranstalter)",
+   "description": "Kommentar: Lehrbeauftragte ist Bettina Böhler",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8501:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Labor",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8501&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "471104",
+   "lecturers": [
+    "Prof. Melanie Hinz",
+    "Frank Oberhäußer"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "BuA - 201",
+     "building": null,
+     "group": "Labor",
+     "note": "Räume 104, 201, 202 und 203"
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8613:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Experimentelle Musik - Einführung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8613&periodId=342",
+   "type": "Gruppenunterricht",
+   "number": "3AExM0001",
+   "lecturers": [
+    "Tobias Müller-Kopp"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich per Email. Bitte melden Sie sich unter der angegebenen Mailadresse der jeweiligen Dozierenden an. Nur bei Mitteilung folgender Informationen können wir Ihre Anmeldung berücksichtigen: Titel der Veranstaltung: Name: Matrikelnummer: Studiengang/Fachsemester: Emailadresse: Bitte melden Sie sich wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "16:15",
+     "end": "17:45",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Fa1b - 302",
+     "building": "UDK:Fa1b",
+     "group": "EXPERIMENTELLE MUSIK - EINFÜHRUNG",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=248 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=248 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8687:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Profilmodul Chorleitung (klassisch) / Chorleitung 2",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8687&periodId=342",
+   "type": "Gruppenunterricht",
+   "number": "3APCLK0001",
+   "lecturers": [
+    "Vinzenz Weissenburger",
+    "Prof. Maike Katharina Bühle"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich per Email. Bitte melden Sie sich unter der angegebenen Mailadresse der jeweiligen Dozierenden an. Nur bei Mitteilung folgender Informationen können wir Ihre Anmeldung berücksichtigen: Titel der Veranstaltung: Name: Matrikelnummer: Studiengang/Fachsemester: Emailadresse: Bitte melden Sie sich wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-23",
+     "last_date": "2027-02-12",
+     "room": "Lie - 103",
+     "building": "UDK:Lie",
+     "group": "Chorleitung klassisch",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=61 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=61 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8748:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Profilmodul Elementare Ensembleleitung ISS/GYM",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8748&periodId=342",
+   "type": "Gruppenunterricht",
+   "number": "3APEE0002",
+   "lecturers": [
+    "Ralf Simons"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich per Email. Bitte melden Sie sich unter der angegebenen Mailadresse der jeweiligen Dozierenden an. Nur bei Mitteilung folgender Informationen können wir Ihre Anmeldung berücksichtigen: Titel der Veranstaltung: Name: Matrikelnummer: Studiengang/Fachsemester: Emailadresse: Bitte melden Sie sich wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-22",
+     "last_date": "2027-02-04",
+     "room": "Lie - 404",
+     "building": "UDK:Lie",
+     "group": "And Orff We Go!",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=191 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=191 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8729:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Musikpädagogik / Allgemeine Instrumentaldidaktik",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8729&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "3AKPA00001",
+   "lecturers": [
+    "Prof. Marieke Rügert"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich per Email. Bitte melden Sie sich unter der angegebenen Mailadresse der jeweiligen Dozierenden an. Nur bei Mitteilung folgender Informationen können wir Ihre Anmeldung berücksichtigen: Titel der Veranstaltung: Name: Matrikelnummer: Studiengang/Fachsemester: Emailadresse: Bitte melden Sie sich wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-11-04",
+     "last_date": "2027-02-10",
+     "room": "Fa1b - 302",
+     "building": "UDK:Fa1b",
+     "group": "Proseminar: Einführung in Studium und Beruf (1. Parallelgruppe)",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=73 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=73 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-11-02",
+     "last_date": "2027-02-08",
+     "room": "Fa1b - 308",
+     "building": "UDK:Fa1b",
+     "group": "Kolloquium für Bachelor- und Masterarbeiten (2. Parallelgruppe)",
+     "note": "Fa308 sowie online Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=77 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=77 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 1,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-11-03",
+     "last_date": "2027-02-09",
+     "room": "Fa1b - 302",
+     "building": "UDK:Fa1b",
+     "group": "Überblicksvorlesung 1. Teil, Musikpädagogik/Allgemeine Instrumental- und Vokaldidaktik (5. Parallelgruppe)",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=74 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=74 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-11-04",
+     "last_date": "2027-02-10",
+     "room": "Fa1b - 302",
+     "building": "UDK:Fa1b",
+     "group": "Hauptseminar: Musik und ihre Wirkungen (6. Parallelgruppe)",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=76 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=76 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 0,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-11-02",
+     "last_date": "2027-02-08",
+     "room": "Fa1b - 302",
+     "building": "UDK:Fa1b",
+     "group": "Examenskolloquium Musikpädagogik/ Allgemeine Instrumental- und Vokaldidaktik (8. Parallelgruppe)",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=75 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=75 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 3,
+     "start": "12:15",
+     "end": "15:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "BuA - 106",
+     "building": null,
+     "group": "Fachdidaktik, NUR Master Elementare Musikpädagogik (10. Parallelgruppe)",
+     "note": "Dieses Seminar ist nur für Studierende des Masters \"Elementare Musikpädagogik\""
+    },
+    {
+     "weekday": 3,
+     "start": "09:45",
+     "end": "11:15",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": null,
+     "building": null,
+     "group": "Lehrpraxis Elementare Musikpädagogik \"Menschen mit Behinderung\", NUR Master Elementare Musikpädagogik (11. Parallelgruppe)",
+     "note": "Info: dieses Seminar ist nur für Studierende des Masters \"Elementare Musikpädagogik\" ​Unterricht ist extern im Wohnheim der Menschen mit Behinderung ​ ​Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=228 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=228 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 1,
+     "start": "10:30",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "BuA - 106",
+     "building": null,
+     "group": "Lehrpraxis EMP \"Senior*innen\", NUR Master Elementare Musikpädagogik (12. Parallelgruppe)",
+     "note": "Info: Dieser Kurs ist nur für Studierende des Masters \"Elementare Musikpädagogik\""
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8777:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Profilmodul Chorleitung JRP",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8777&periodId=342",
+   "type": "Gruppen- und Kleingruppenunterricht",
+   "number": "3AJRPCL001",
+   "lecturers": [
+    "Winnie Brückner"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich über das Online-Vorlesungsverzeichnis, in folgendem Zeitraum: 20.09. und 20.10. Klicken Sie hierfür oben auf den roten Button. Bitte melden Sie sich im Vorlesungsverzeichnis wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase am 20.10. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": null,
+     "building": null,
+     "group": "Chorleitung JRP",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=278 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=278 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8767:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Kompositionslehre / Satztechnik des 20. und 21. Jhd.",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8767&periodId=342",
+   "type": "Seminar",
+   "number": "3AKOM00009",
+   "lecturers": [
+    "Prof. Dr. Manolis Vlitakis"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich über das Online-Vorlesungsverzeichnis, in folgendem Zeitraum: 20.09. und 20.10. Klicken Sie hierfür oben auf den roten Button. Bitte melden Sie sich im Vorlesungsverzeichnis wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase am 20.10. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "18:00",
+     "end": "20:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Lie - 417",
+     "building": "UDK:Lie",
+     "group": "Kompositionslehre / Satztechnik des 20. und 21. Jhd.",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=206 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=206 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8940:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Sprecherziehung - 3. Jahrgang - Einzel",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8940&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "421041",
+   "lecturers": [
+    "Christel Tietge"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "19:00",
+     "end": "21:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Fa1b - 004",
+     "building": "UDK:Fa1b",
+     "group": "Sprecherziehung - 3. Jahrgang - Einzel",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Fa1b - 008",
+     "building": "UDK:Fa1b",
+     "group": "Sprecherziehung - 3. Jahrgang - Einzel",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8843:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Schulbezogenes Arrangieren",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8843&periodId=342",
+   "type": "Kleingruppenunterricht",
+   "number": "3AMuT00007",
+   "lecturers": [
+    "Stefan Schröter"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu den einzelnen Veranstaltungen. Die Anmeldungen erfolgen ab diesem Semester ausschließlich per Email. Bitte melden Sie sich unter der angegebenen Mailadresse der jeweiligen Dozierenden an. Nur bei Mitteilung folgender Informationen können wir Ihre Anmeldung berücksichtigen: Titel der Veranstaltung: Name: Matrikelnummer: Studiengang/Fachsemester: Emailadresse: Bitte melden Sie sich wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase am 15.04.2024 durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "08:00",
+     "end": "10:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-19",
+     "last_date": "2027-02-08",
+     "room": "Lie - 214",
+     "building": "UDK:Lie",
+     "group": "Schulbezogenes Arrangieren (2. Parallelgruppe)",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=215 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=215 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:9077:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Die Kunst des Auftritts. Performing Power-Trepope, Gesten - ab 5. Sem.",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=9077&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "45.1.05.2",
+   "lecturers": [
+    "Prof. Janina Audick"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": null,
+     "building": null,
+     "group": "Die Kunst des Auftritts. Performing Power-Trepope, Gesten - ab 5. Sem.",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:8998:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Jazz Level III",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=8998&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "430916",
+   "lecturers": [
+    "Götz Hellriegel"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "09:30",
+     "end": "11:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Gra - R2",
+     "building": "UDK:Gra",
+     "group": "Jazz Level III",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "09:30",
+     "end": "11:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Gra - R2",
+     "building": "UDK:Gra",
+     "group": "Jazz Level III",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:9253:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Streicher- und Bläserklasse",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=9253&periodId=342",
+   "type": "Gruppenunterricht",
+   "number": "3AMuGSB",
+   "lecturers": [
+    "Roland Voigt"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Wird im WS wieder stattfinden.",
+   "by_arrangement": true
+  },
+  {
+   "id": "udk_hisinone:9095:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Projektbegleitung Fak Darstellende Kunst",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=9095&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "45.1.06.4",
+   "lecturers": [
+    "Johanna Meyer"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "by_arrangement": true
+  },
+  {
+   "id": "udk_hisinone:9729:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Sprechen - 3. Jahrgang - Einzel",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=9729&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "421039",
+   "lecturers": [
+    "Prof. Irene Wagner"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "17:30",
+     "end": "21:30",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "UNI.T - 301",
+     "building": "UDK:T",
+     "group": "Sprechen - 3. Jahrgang - Einzel",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "19:00",
+     "end": "22:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "UNI.T - 003",
+     "building": "UDK:T",
+     "group": "Sprechen - 3. Jahrgang - Einzel",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "UNI.T - 002",
+     "building": "UDK:T",
+     "group": "Sprechen - 3. Jahrgang - Einzel",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:10140:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Theorie der Gestaltung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=10140&periodId=342",
+   "type": "Seminar",
+   "lecturers": [
+    "Michael Schultze"
+   ],
+   "org": "Institut für Architektur und Städtebau",
+   "description": "Inhalte: Theorie in der Bildenden Kunst\n\nZu erbringende Studienleistung: 2 Leistungspunkte\n\nQualifikationsziel: BA Modul 10",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "17:00",
+     "end": "18:30",
+     "rhythm": "weekly",
+     "first_date": "2026-10-21",
+     "last_date": "2027-02-10",
+     "room": "Ha33 - 336",
+     "building": "UDK:Ha33",
+     "group": "Theorie der Gestaltung",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:9471:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Combo - (Bandarbeit in der Schule)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=9471&periodId=342",
+   "type": "Kleingruppenunterricht",
+   "number": "3ACOMBO001",
+   "lecturers": [
+    "Moritz Sembritzki"
+   ],
+   "org": "Fakultät Musik",
+   "description": "Verpflichtende Anweisung: Bitte öffnen Sie oben in der Leiste \"Parallelgruppen / Termine\" - hier finden Sie alle Informationen zu folgenden Veranstaltungen: Combo (Bandarbeit in der Schule) - Martin Hegel Combo (Bandarbeit in der Schule) - Jewgeni Ginzburg Die Anmeldungen erfolgen ab diesem Semester ausschließlich per Email. Bitte melden Sie sich unter der angegebenen Mailadresse der jeweiligen Dozierenden an. Nur bei Mitteilung folgender Informationen können wir Ihre Anmeldung berücksichtigen: Titel der Veranstaltung: Name: Matrikelnummer: Studiengang/Fachsemester: Emailadresse: Bitte melden Sie sich wieder ab, sollten Sie den gewählten Kurs doch nicht besuchen wollen. Vielen Dank für Ihre vorläufige Anmeldung. Bitte beachten Sie, dass Sie Ihre endgültige Zulassung erst nach Abschluss der Anmeldephase. durch Ihre Dozent:innen erhalten. Bitte sehen Sie bis dahin von Nachfragen ab.\n\nInhalte: In der Veranstaltung wird auf der Basis genrebezogener Ensembles (Drums, Bass, Gitarre,Keys, Vocals) ein Repertoire spezifisch populärer Stilistiken erworben. Es werden vier Songs erarbeitet, bei denen jeder Teilnehmer jedes Instrument einmal spielt. Desweiteren wird die Notation von Leadsheets und Einzelstimmen mit entsprechneder Software erarbeitet.\n\nEmpfohlene Voraussetzung: Gitarren- und Drumset-Kurs vorab",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Lie - 213",
+     "building": "UDK:Lie",
+     "group": "Combo (Instrumentalpraktischer Kurs) (1. Parallelgruppe)",
+     "note": "Bitte unbedingt Instrument , Fachsemester und Prüfungsabsicht mit angeben ! Vorkenntnisse in Gitarre und Drumset erwünscht ! Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=164 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=164 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 4,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Lie - 213",
+     "building": "UDK:Lie",
+     "group": "Combo (Instrumentalpraktischer Kurs) (1. Parallelgruppe)",
+     "note": "Bitte unbedingt Instrument , Fachsemester und Prüfungsabsicht mit angeben ! Vorkenntnisse in Gitarre und Drumset erwünscht ! ​ ​ Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=165 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=165 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 2,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Lie - 213",
+     "building": "UDK:Lie",
+     "group": "Combo - (Bandarbeit in der Schule) - Band 2 (2. Parallelgruppe)",
+     "note": "Bitte unbedingt Instrument , Fachsemester und Prüfungsabsicht mit angeben ! Vorkenntnisse in Gitarre und Drumset erwünscht ! ​ ​Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=267 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=267 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    },
+    {
+     "weekday": 1,
+     "start": "09:15",
+     "end": "11:15",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Lie - 002",
+     "building": "UDK:Lie",
+     "group": "Combo (3. Parallelgruppe)",
+     "note": "Die Anmeldung erfolgt über diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/750344c9-b069-4d3c-b0c5-95a25dfdc05a?Veranstaltung=167 Es gibt keine Bestätigung nach dem Ausfüllen des Online-Formulars, notieren Sie sich dementsprechend zu welchen Veranstaltungen Sie sich angemeldet haben. Zur Abmeldung benutzen Sie bitte diesen Link: https://nocodb.musik.udk-berlin.de/dashboard/#/nc/form/5a26d07e-1908-4e69-ad03-dc37ff343e2e?Veranstaltung=167 Für eine erfolgreiche Abmeldung müssen Sie GENAU die E-Mail-Adresse und Matrikelnummer angeben, die Sie auch bei der Anmeldung verwendet haben."
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:12274:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Somatische Perspiektiven auf Kostüm und Bewegung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=12274&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "440703",
+   "lecturers": [
+    "Lea Søvso",
+    "Anna Weißenfels"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "by_arrangement": true
+  },
+  {
+   "id": "udk_hisinone:10130:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Jenseits der Schi-Schi-isierung der Welt. Die Maschine träumt vom Himmel ab 1. Sem.",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=10130&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "45.2.01.1",
+   "lecturers": [
+    "Prof. Janina Audick"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "by_arrangement": true
+  },
+  {
+   "id": "udk_hisinone:13575:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Doktorandencolloquium für Musikpädagogik",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=13575&periodId=342",
+   "type": "Colloquium",
+   "number": "3ADC00002",
+   "lecturers": [
+    "Prof. Dr. Ulrich Mahlert"
+   ],
+   "org": "Fakultät Musik",
+   "by_arrangement": true
+  },
+  {
+   "id": "udk_hisinone:10670:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "\"Anthropozän\" - Sauen-Exkursion mit Prof. Ute Pinkert, Theaterpädagogik - 18. Jahrgang",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=10670&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "461206",
+   "lecturers": [
+    "Paul Brodowsky",
+    "Prof. Dr. Ute Schlegel-Pinkert"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "17:00",
+     "rhythm": "block",
+     "first_date": "2026-10-19",
+     "last_date": "2026-10-23",
+     "room": "Gutshof Sauen",
+     "building": null,
+     "group": "\"Anthropozän\" - Sauen-Exkursion mit Prof. Ute Pinkert, Theaterpädagogik - 18. Jahrgang",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:13996:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Digitalfotolabor / Digitalgroßfoto",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=13996&periodId=342",
+   "type": "Einzelunterricht",
+   "number": "1KW201c",
+   "lecturers": [
+    "Frank Bartsch"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Kommentar: Information für ERASMUS- und Austauschstudierende: Teilnahme nach Absprache mit dem Lehrenden und maximal 4 ECTS. Information for ERASMUS and other exchange students: Participation dependent on consultation with the teacher concerned and maximum 4 ECTS credits.\n\nInhalte: Individuelle Projektbetreuung - Betreuung digitaler Fotoprojekte, Scannen, Bildbearbeitung, Großformatdruck, Großformat-Ausbelichtungen auf Fotopapier. Werkstattpraxis - selbstständiges Arbeiten an digitalen Fotoprojekten. Termine - in der Vorlesungszeit 12.10.2026 - 11.2.2027 nach vorheriger Anmeldung persönlich oder per mail an frank.bartsch@udk-berlin.de unter Angabe von: Vor- und Nachname Studiengang (BK / BK Lehramt / etc.) - Professor*in Semesterzahl E-Mailadresse (bitte UdK Emailadresse verwenden)",
+   "by_arrangement": true,
+   "extra": {
+    "raw_title": "Bartsch_Digitalfotolabor / Digitalgroßfoto"
+   }
+  },
+  {
+   "id": "udk_hisinone:12691:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Szene 1. Jahrgang - Gruppe",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=12691&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "421031",
+   "lecturers": [
+    "Prof. Hermann Schmidt-Rahmer"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2026-10-26",
+     "room": "Ka - 313(P5)",
+     "building": "UDK:Ka",
+     "group": "Szene - 1. Jahrgang - Gruppe",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2026-10-27",
+     "room": "Ka - 313(P5)",
+     "building": "UDK:Ka",
+     "group": "Szene - 1. Jahrgang - Gruppe",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "13:30",
+     "end": "17:30",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2026-10-28",
+     "room": "Ka - 313(P5)",
+     "building": "UDK:Ka",
+     "group": "Szene - 1. Jahrgang - Gruppe",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "18:00",
+     "end": "22:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2026-10-29",
+     "room": "Ka - 313(P5)",
+     "building": "UDK:Ka",
+     "group": "Szene - 1. Jahrgang - Gruppe",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:14025:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Photoshop für Anfänger",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14025&periodId=342",
+   "type": "theoret.-prakt. Lehrveranstaltung",
+   "number": "1KW215d",
+   "lecturers": [
+    "Dagmar Tränkle"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Adobe Photoshop ist das am weitesten verbreitete professionelle Programm für digitale Bildbearbeitung. Der Einsatzbereich das fotografische Bild betreffend reicht von der Bildoptimierung bis zur Bildmanipulation und -montage, vom Einsatz als Tool für die reine Dokumentation bis hin zur Umsetzung künstlerischer Projekte. Den Rahmen des Kurses bildet die Vermittlung von Kenntnissen, die uns in die Lage versetzen, Bilder gezielt zu optimieren. In diesem Zusammenhang lernen wir die wichtigsten Korrekturoptionen und Werkzeuge kennen. Der Einstieg in die erweiterten Methoden der Bildbearbeitung erschließt uns die Möglichkeiten des selektiven Arbeitens mittels Ebenen, Masken und Auswahlwerkzeugen. Kleine Exkurse liefern interessantes Hintergrundwissen z. B. zu Farbsystemen, zu Tonwerttiefe und Histogrammen wie auch zu themenspezifischen Fachbegriffen. Ziel des Kurses sind erste Schritte im sicheren Umgang mit den Bordmitteln des Programms sowie das Wecken der Neugier für Entdeckungsreisen hinsichtlich der eigenen künstlerischen Arbeit wie auch der Freude an der Arbeit mit dem Programm.\n\nZwingende Voraussetzung: Kurs findet in deutscher Sprache statt. Infos zur Anmeldung: Anmeldungen an dtraenkle@udk-berlin.de mit folgenden Angaben: • Name • Studiengang • Klasse • Semester + Ba oder Ma • Matrikelnummer Der Kurs kann bei regelmäßiger Teilnahme und zusätzlicher eigener Arbeit in Form eines Projektes im Anschluss an den Kurs auf einen Werkstattschein angerechnet werden. Bei unvollständigen Angaben kann die Anmeldung leider nicht berücksichtigt werden. Die Benachrichtigung über die Kursteilnahme erfolgt bis spätestens zum 2.10.2026 Die Anmeldungen sind verbindlich! Bei mehr als 1-mal Fehlen kann leider kein Werkstattschein vergeben werden.\n\nZielgruppe: Dieser Kurs richtet sich an Photoshop-Anfänger mit keinen oder geringen Vorkenntnissen, der routinierte Umgang mit Computern ist wünschenswert.",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "14:00",
+     "end": "17:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-28",
+     "last_date": "2026-11-25",
+     "room": "Ha33 - 141",
+     "building": "UDK:Ha33",
+     "group": "Tränkle_Photoshop für Anfänger",
+     "note": "Kurssprache: deutsch"
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Tränkle_Photoshop für Anfänger"
+   }
+  },
+  {
+   "id": "udk_hisinone:13982:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Forschungspositionen Kunstdidaktik",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=13982&periodId=342",
+   "type": "Seminar",
+   "number": "1KD407e",
+   "lecturers": [
+    "Prof. Dr. phil. Kirsten Winderlich"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Lektüregebundene Auseinandersetzung mit relevanter Literatur für die Kunstdidaktik. Entwicklung einer theoriegebundenen Grundlage für die Masterarbeit.\n\nZwingende Voraussetzung: Anmeldung per Email im Anmeldezeitraum 01. September 2026 - 30. Oktober 2026 an: winderlich@udk-berlin.de",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-20",
+     "last_date": "2027-02-09",
+     "room": "BuA - 012",
+     "building": null,
+     "group": "Winderlich_Forschungspositionen Kunstdidaktik",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Winderlich_Forschungspositionen Kunstdidaktik"
+   }
+  },
+  {
+   "id": "udk_hisinone:14135:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Kleines Plenum",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14135&periodId=342",
+   "type": "Gruppenunterricht",
+   "number": "1FK110c",
+   "lecturers": [
+    "Prof. Susanne Lorenz"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Kommentar: Starttermin und Einteilung wird den Studierenden der Grundlehre per Mail bekannt gegeben / Nur für Studierende der Grundlehre\n\nInhalte: -> alle Studierenden der Grundlehre, fortlaufend im Semester Es gibt eine feste Einteilung, Termine werden den Studierenden der Grundlehre mitgeteilt.",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "10:30",
+     "end": "13:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": null,
+     "building": null,
+     "group": "Lorenz_Kleines Plenum",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Lorenz_Kleines Plenum"
+   }
+  },
+  {
+   "id": "udk_hisinone:14294:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Projektbetreuung Digitale Medien / Video",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14294&periodId=342",
+   "type": "Einzelunterricht",
+   "number": "1KW208a",
+   "lecturers": [
+    "Stefan Kunzmann"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Empfehlung: Termine nach Absprache unter kunzmann@udk-berlin.de wöchentlich, Montag bis Freitag von 12 bis 18 Uhr, nach Absprache Ha33 - 137 bis 143\n\nInhalte: Beratung und individuelle Betreuung studentischer Projekte Schwerpunkte: audio-visuelle, Computer basierte und interaktive Arbeiten, Grafik, Layout, digitales Publizieren, Netz Für umfangreichere Projekte die im Rahmen der Projektbetreuung realisiert werden, kann ein Werkstattschein der Medienwerkstatt ausgestellt werden. Termine nach Absprache unter kunzmann@udk-berlin.de",
+   "by_arrangement": true,
+   "extra": {
+    "raw_title": "Kunzmann _ Projektbetreuung Digitale Medien / Video"
+   }
+  },
+  {
+   "id": "udk_hisinone:14008:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Projekt Film, Video und Audio",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14008&periodId=342",
+   "type": "Einzelunterricht",
+   "number": "1KW210a",
+   "lecturers": [
+    "Christoph Manz"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Zwingende Voraussetzung: Anmeldung per E-Mail an c.manz@udk-berlin.de",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "12:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-03-29",
+     "room": "Ha33 - 139",
+     "building": "UDK:Ha33",
+     "group": "Manz_Projekt Film, Video und Audio",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "12:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-03-30",
+     "room": "Ha33 - 139",
+     "building": "UDK:Ha33",
+     "group": "Manz_Projekt Film, Video und Audio",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "12:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-03-31",
+     "room": "Ha33 - 139",
+     "building": "UDK:Ha33",
+     "group": "Manz_Projekt Film, Video und Audio",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Manz_Projekt Film, Video und Audio"
+   }
+  },
+  {
+   "id": "udk_hisinone:14679:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Künstlerischer Einzelunterricht - 18. Jahrgang",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14679&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "461213",
+   "lecturers": [
+    "Claudius Lünstedt"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "09:30",
+     "end": "11:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-23",
+     "last_date": "2027-02-12",
+     "room": "BuA - 016",
+     "building": null,
+     "group": "Künstlerischer Einzelunterricht - 18. Jahrgang",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "11:00",
+     "end": "12:30",
+     "rhythm": "weekly",
+     "first_date": "2026-10-23",
+     "last_date": "2027-02-12",
+     "room": "BuA - 016",
+     "building": null,
+     "group": "Künstlerischer Einzelunterricht - 18. Jahrgang",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:14077:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Fotografie / Individuelle Projektbetreuung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14077&periodId=342",
+   "type": "Einzelunterricht",
+   "number": "1KW214e",
+   "lecturers": [
+    "Bodo Schlack"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Die Werkstatt ist Ansprechpartner für alle fotospezifischen Arbeitsvorhaben und gibt künstlerischen und technischen Support. Dies folgt keinen grundsätzlichen zeitlichen oder inhaltlichen Vorgaben, weshalb Sie Ihre Anfrage am besten vorab per Mail, mit einer kurzen Projektbeschreibung stellen. Eine Projektbetreuung erfolgt im Anschluss nach individuell zu vereinbarenden Absprachen. Interessenten melden sich bitte unter schlack@udk-berlin.de\n\nEmpfohlene Voraussetzung: Grundlegende Kenntnisse auf dem Gebiet der Fotografie sind von Vorteil.Umsetzung\n\nZu erbringende Studienleistung: Umsetzung eines eigenen künstlerischen Vorhabens",
+   "by_arrangement": true,
+   "extra": {
+    "raw_title": "Schlack_Fotografie / Individuelle Projektbetreuung"
+   }
+  },
+  {
+   "id": "udk_hisinone:14805:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Mikrofonsprechen - 2. Jahrgang - Kleingruppe",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14805&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "421028",
+   "lecturers": [
+    "Prof. Simon Schlingplässer"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "18:00",
+     "end": "21:00",
+     "rhythm": "single",
+     "first_date": "2026-10-20",
+     "last_date": "2026-10-20",
+     "room": "UNI.T - 301",
+     "building": "UDK:T",
+     "group": "Mikrofonsprechen - 2. Jahrgang - Kleingruppe",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "18:00",
+     "end": "21:00",
+     "rhythm": "weekly",
+     "first_date": "2026-11-10",
+     "last_date": "2026-11-24",
+     "room": "UNI.T - 301",
+     "building": "UDK:T",
+     "group": "Mikrofonsprechen - 2. Jahrgang - Kleingruppe",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "18:00",
+     "end": "21:00",
+     "rhythm": "weekly",
+     "first_date": "2026-12-08",
+     "last_date": "2026-12-15",
+     "room": "UNI.T - 301",
+     "building": "UDK:T",
+     "group": "Mikrofonsprechen - 2. Jahrgang - Kleingruppe",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:14165:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Workshop für fortgeschrittene Studierende: Perspektiven und Probleme aktueller kunstwissenschaftlicher Forschung (MA-/Doktorandenkolloquium)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14165&periodId=342",
+   "type": "Colloquium",
+   "number": "1KWi503c",
+   "lecturers": [
+    "Prof. Dr. Barbara Wittmann"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Zwingende Voraussetzung: Anmeldung erfolgt per E-Mail an l.dudeck@udk-berlin.de",
+   "by_arrangement": true,
+   "extra": {
+    "raw_title": "Wittmann_Workshop für fortgeschrittene Studierende: Perspektiven und Probleme aktueller kunstwissenschaftlicher Forschung (MA-/Doktorandenkolloquium)"
+   }
+  },
+  {
+   "id": "udk_hisinone:15015:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Musikmanagement",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15015&periodId=342",
+   "type": "Seminar",
+   "number": "3AMuMa001",
+   "lecturers": [
+    "Dr. Irene Kletschke"
+   ],
+   "org": "Fakultät Musik",
+   "by_arrangement": true
+  },
+  {
+   "id": "udk_hisinone:14660:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Schauspiel",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14660&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "471112",
+   "lecturers": [
+    "Sebastian Eggers",
+    "Larissa Gorn"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "BuA - 201",
+     "building": null,
+     "group": "Schauspiel",
+     "note": "Raum 201 und Raum 202"
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15060:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Grundlagen: Performance",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15060&periodId=342",
+   "type": "Kurs",
+   "number": "1KD452a",
+   "lecturers": [
+    "Lisa Flachmeyer",
+    "Anna Slobodnik"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Wir erproben erste Zugänge zum performativen Arbeiten und setzen uns dabei praktisch mit der Frage auseinander: Welche Faktoren – wie Raum, Zeit, Körper, … – kann ich als ‘performatives Material’ nutzen und auf welche Weise? Wie können wir uns als Gruppe performativ ausdrücken? Und welche Mittel und Wege interessieren mich, wenn ich allein arbeite?",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:15",
+     "end": "13:30",
+     "rhythm": "weekly",
+     "first_date": "2026-12-09",
+     "last_date": "2027-02-10",
+     "room": "Ha33 - 071",
+     "building": "UDK:Ha33",
+     "group": "Flachmeyer_Grundlagen: Performance",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Flachmeyer_Grundlagen: Performance"
+   }
+  },
+  {
+   "id": "udk_hisinone:14710:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Kunstgeschichte im Überblick I-1. Von der Antike bis Giotto",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14710&periodId=342",
+   "type": "Vorlesung/Übung",
+   "number": "1KWi502b",
+   "lecturers": [
+    "Prof. Dr. Stefan Neuner"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Die zweiteilige Vorlesung bietet einen Überblick über die Geschichte der europäischen Kunst von der Antike bis ins 18. Jahrhundert. Historische Schlüsselsituationen und paradigmatische Werke werden beleuchtet. Schwerpunkte im ersten Teil der Vorlesung im Wintersemester: die Kunst der heidnischen Antike, die Herausbildung der christlichen Kunst, die Geschichte des Kultbildes zwischen Antike und Mittelalter, die Entwicklung der Architektur und Bildhauerei zwischen Romanik und Gotik. Schwerpunkte im zweiten Teil der Vorlesung im Sommersemester: die Entwicklung des Bildbegriffs der Neuzeit, die Entstehung des internationalen Kunstmarktes, das Aufkommen von Bildreproduktionstechniken und ihre Folgen, die Auswirkungen von Reformation und Gegenreformation auf die Kunstproduktion.\n\nZwingende Voraussetzung: Eine Anmeldung bis 09.10.2025 unter Angabe von Name, Matrikelnummer und Studiengang ist erforderlich Anmeldung bei: ma.knoll@udk-berlin.de\n\nZu erbringende Prüfungsleistung: Protokolle oder Klausur (nicht frei wählbar: für die entsprechenden Regelungen siehe die Studienordnung)\n\nZielgruppe: Studierende des Studiengangs \"Bildende Kunst\" (Studienordnung 2019) besuchen im Rahmen des Grundstudiums einen Teil der Überblicksvorlesung zur Kunst der Vormoderne und die Überblicksvorlesung zur Kunst der Moderne und Gegenwart. Die Überblicksvorlesungen schließen mit einem unbenoteten Testat für die Abgabe zweier Sitzungsprotokolle ab. Der zweite Teil der Vorlesung zur Kunst der Vormoderne kann innerhalb des Hauptstudiums absolviert werden, muss dann aber mit einer schriftlichen Hausarbeit abgeschlossen werden. Studierende nach der Studienordnung für den Bachelorstudiengang \"Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Fach Bildende Kunst\" (Studienordnung 2018 bzw. 2025) müssen einen Teil der Vorlesung zur Kunst der Vormoderne und die Vorlesung zur Kunst der Moderne und Gegenwart innerhalb des Einführungsmoduls (M3 bzw. M5) verbindlich besuchen. (Der zweite Teil der Vorlesung zur Kunst der Vormoderne kann innerhalb des Moduls 4 bzw. Modul 6 oder im Masterstudium absolviert werden.) Eine der beiden Überblicksvorlesungen schließt mit einer benoteten schriftlichen Prüfung ab, die andere Vorlesung mit einem unbenoteten Testat für die Abgabe zweier Sitzungsprotokolle. Studierende des Bachelorstudiengangs \"Lehramt an Integrierten Sekundarschulen und Gymnasien mit dem Fach Bildende Kunst (in Kombination mit dem Kernfach Sonderpädagogik)\" (Studienordnung 2025) müssen einen Teil der Vorlesung zur Kunst der Vormoderne und die Vorlesung zur Kunst der Moderne und Gegenwart innerhalb des Einführungsmoduls (M5) verbindlich besuchen. (Der zweite Teil der Vorlesung zur Kunst der Vormoderne kann innerhalb des Moduls 6 oder im Masterstudium absolviert werden.) Eine der beiden Überblicksvorlesungen schließt mit einer benoteten schriftlichen Prüfung ab, die andere Vorlesung mit einem unbenoteten Testat für die Abgabe zweier Sitzungsprotokolle. Studierende des Bachelorstudiengangs \"Lehramt an Grundschulen mit dem vertieften Fach Bildende Kunst\" (Studienordnung 2018) bzw. \"Lehramt an Grundschulen mit dem Ersten Fach Bildende Kunst\" (Studienordnung 2026) besuchen im Rahmen des Moduls 4 eine Überblicksvorlesung, also entweder einen Teil von \"Kunstgeschichte der Vormoderne im Überblick\" oder \"Kunstgeschichte der Moderne und Gegenwart im Überblick\". Die Vorlesung schließt mit einem unbenoteten Testat für die Abgabe zweier Sitzungsprotokolle ab. Studierende des Masterstudiengangs \"Bildende Kunst für das Lehramt an integrierten Sekundarschulen und Gymnasien – Quereinstieg\" (Studienordnung 2019 bzw. 2022) wird der Besuch aller Teile der Überblicksvorlesung im Rahmen der Module 1 bzw. 2 empfohlen. Für Gast- und NebenhörerInnen geeignet.\n\nLiteratur: - Michael Brandt u. Arne Eggebrecht (Hg.): Ausst.-Kat. Bernward von Hildesheim und das Zeitalter der Ottonen, 2 Bde. Hildesheim u.a.: Bernward-Verl. u.a., 1993. - Filippo Coarelli u.a.: Römische Kunst, 4 Bde., Darmstadt: von Zabern, 2011–2014. - Robin Cormack: Byzantine Art, Oxford u. a.: Oxford University Press, 2000 (= Oxford History Art). - Anne Derbes u. Mark Sandona (Hg.): The Cambridge Companion to Giotto, Cambridge u. a.: Cambridge University Press, 2004. - Thorsten Droste: Die Skulpturen von Moissac. Gestalt und Funktion romanischer Bauplastik, München: Hirmer, 1996. - Burkhard Fehr: Die Tyrannentöter oder: Kann man der Demokratie ein Denkmal setzen?, Frankfurt a. Main: Fischer Taschenbuchverlag, 1984. - Dagobert Frey: \"Giotto und die maniera greca. Bildgesetzlichkeit und psychologische Deutung\", in Wallraf-Richartz-Jahrbuch, 14, 1952, S. 73–98. - Ulrike Heckner: Die karolingische Pfalzkapelle in Aachen. Material, Bautechnik, Restaurierung, Worms: Werner, 2012. - Wolf-Dieter Heilmeyer u. Wolfgang Maßmann: Die 'Berliner Göttin'. Schicksale einer archaischen Frauenstatue in Antike und Neuzeit, Lindenberg i. Allgäu: Kunstverlag Josef Fink, 2014. - Hugh Honour u. John Fleming: Weltgeschichte der Kunst, München/London/New York: Prestel, 2000. - Max Imdahl: Giotto. Arenafresken. Ikonographie, Ikonologie, Ikonik, München: Fink, 1980. - Wilfried E. Keil: Romanische Bestiensäulen, Berlin: Lukas Verlag, 2018. - Wolfgang Kemp: \"Mittelalterliche Bildsysteme\", in: Marburger Jahrbuch für Kunstwissenschaft, 22, 1989, S. 121–134. - Wolfgang Kemp: Christliche Kunst. Ihre Anfänge, ihre Strukturen, München u. a.: Schirmer-Mosel, 1994. - Dieter Kimpel u. Robert Suckale: Die gotische Architektur in Frankreich 1130–1270, München 1985. - Richard Krautheimer: Ausgewählte Aufsätze zur Europäischen Kunstgeschichte, Köln: DuMont, 2003. - Phyllis Williams Lehmann: \"The Ship-Fountain from the Victory of Samothrace to the Galera\", in: ders., Samothracian Reflections, Princeton: Princeton University Press, 1973, S. 179–259. - Richard T. Neer: Kunst und Archäologie der griechischen Welt von den Anfängen bis zum Hellenismus, Darmstadt: Wiss. Buchges., 2013. - Vincenzo Fiocchi Nicolai, Fabrizio Bisconti u. Danilo Mazzoleni: Roms christliche Katakomben, Regensburg: Schnell & Steiner, 1998. - Erwin Panofsky: Gotische Architektur und Scholastik. Zur Analogie von Kunst, Philosophie und Theologie im Mittelalter, Köln: DuMont, 1989. - Bissera V. Pentcheva: Icons and Power. The Mother of God in Byzantium, University Park: Pennsylvania State University Press, 2006. - Jan Pieper u. Bruno Schindler: Thron und Altar, Oktogon und Sechzehneck. Die Herrschaftsikonographie der karolingischen Pfalzkapelle zu Aachen, Aachen: Geymüller, Verlag für Architektur, 2017. - Thomas Puttfarken: The Discovery of Pictorial Composition. Theories of Visual Order in Painting 1400–1800, New Haven/London: Yale Univ. Press, 2000. - Michael Viktor Schwarz: Giottus pictor, 2 Bde., Wien u. a.: Böhlau, 2004–2008. - Michael Viktor Schwarz: \"Padua, Its Arena and the Arena Chapel. A Litugical Ensemble\", in: Journal of the Warburg and Courtauld Institutes, 73, 2010, S. 39–64. - Willibald Sauerländer: Das Königsportal in Chartres. Heilsgeschichte und Lebenswirklichkeit, Frankfurt am Main: Fischer-Taschenbuch-Verl., 1984. - Norbert Schneider: Geschichte der mittelalterlichen Plastik. Von der frühchristlichen Antike bis zur Spätgotik. Ein historischer Überblick mit 43 Werkanalysen, Köln. - Adrian Stähli: \"Nacktheit und Körperinszenierung in Bildern der griechischen Antike\", in: Images and Gender, hrsg. v. Silvia Schroer, Fribourg: Academic Press/Göttingen: Vandenhoeck & Ruprecht, 2006, S. 209–227. - Adrian Stähli: \"Herakles zieht sich aus\", in: Körper im Kopf. Antike Diskurse zum Körper, hrsg. v. Peter Mauritsch, Graz: Universitätsverlag, 2010, S. 123–141. - Herbert Alexander Stützer: Frühchristliche Kunst in Rom, Köln: DuMont, 1991. - Ittai Weinryb: \"Hildesheim Avant-Garde. Bronze, Columns, and Colonialism\", in: Speculum, 93 (3), Juli 2018, S. 728–782.",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Ha33 - 158",
+     "building": "UDK:Ha33",
+     "group": "Neuner_Kunstgeschichte im Überblick I-1. Von der Antike bis Giotto",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Neuner_Kunstgeschichte im Überblick I-1. Von der Antike bis Giotto"
+   }
+  },
+  {
+   "id": "udk_hisinone:15314:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "SOFT FORMS (Textile Konstruktionen)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15314&periodId=342",
+   "type": "Werkstatt/Übung/Kurs",
+   "number": "1KW205f",
+   "lecturers": [
+    "Marei Loellmann"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: In dem Vertiefungskurs erlernen die Studierenden grundlegende Herangehensweisen zur Entwicklung von Schnittmustern sowie zur Konstruktion textiler Körper. Ausgangspunkt ist ein Gegenstand, dessen Form analysiert, in einen Schnitt übersetzt und anschließend in Stoff transformiert wird. Der Kurs untersucht, wie sich durch die Verschiebung von Proportion und materieller Beschaffenheit, Bedeutung und Wahrnehmung verändern und erweitern. Voraussetzung für den Kurs sind sichere Nähkentnisse und das selbstständige Arbeiten an der Maschine.\n\nLernziele: Vermittlung grundlegender Herangehensweisen zur Entwicklung von Schnittmustern sowie zur Konstruktion textiler Körper.\n\nZwingende Voraussetzung: Voraussetzung für die Teilnahme sind sichere Nähkenntnisse sowie die Fähigkeit zum selbstständigen Arbeiten an der Nähmaschine. Idealerweise kennen die Studierenden schon die textile Werkstatt. Der Kurs erfordert eine regelmäßige und aktive Teilnahme. Anmeldung per Mail an m.loellmann@udk-berlin.de bis spätestens zum 04.10.2026\n\nZu erbringende Prüfungsleistung: Regelmäßige und aktive Teilnahme/ Entwicklung eines Schnittmusters und Übertragung in Stoff.\n\nZu erbringende Studienleistung: Regelmäßige und aktive Teilnahme/ Entwicklung eines Schnittmusters und Übertragung in Stoff.\n\nZielgruppe: Der Kurs ist ein Aufbau und Vertiefungskurs. Die Voraussetzung für die Teilnahme sind sichere Nähkenntnisse sowie die Fähigkeit zum selbstständigen Arbeiten an der Nähmaschine. Der Kurs erfordert eine regelmäßige und aktive Teilnahme. Idealerweise kennen die Studierenden die Werkstatt bereits.\n\nLehrmethoden: eigenständiges praktisches Arbeiten",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "13:30",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Ha33 - 064",
+     "building": "UDK:Ha33",
+     "group": "Loellmann_SOFT FORMS (Textile Konstruktionen)",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Loellmann_SOFT FORMS (Textile Konstruktionen)"
+   }
+  },
+  {
+   "id": "udk_hisinone:14905:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Jazz Level II",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=14905&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "430923",
+   "lecturers": [
+    "Sabine Hack"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "11:15",
+     "end": "12:45",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Gra - R1",
+     "building": "UDK:Gra",
+     "group": "Jazz Level II",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15051:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Fachklasse Malerei",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15051&periodId=342",
+   "type": "Hauptseminar",
+   "number": "1FK124a",
+   "lecturers": [
+    "Taslima Ahmed"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Zwingende Voraussetzung: Anmeldung: Erscheinen am ersten Seminartag",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "10:00",
+     "end": "13:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Ha33 - 245",
+     "building": "UDK:Ha33",
+     "group": "Ahmed_Fachklasse Malerei",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "13:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Ha33 - 245",
+     "building": "UDK:Ha33",
+     "group": "Ahmed_Fachklasse Malerei",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Ahmed_Fachklasse Malerei"
+   }
+  },
+  {
+   "id": "udk_hisinone:15437:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Projekt 1984 - 4. Jahrgang",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15437&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "430908",
+   "lecturers": [
+    "Melissa King",
+    "Damian Omansen",
+    "Mathias Noack"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:30",
+     "rhythm": "block",
+     "first_date": "2026-09-28",
+     "last_date": "2026-10-09",
+     "room": null,
+     "building": null,
+     "group": "Projekt 1984 - 4. Jahrgang",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "18:15",
+     "end": "21:15",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2026-11-09",
+     "room": "Gra - R1",
+     "building": "UDK:Gra",
+     "group": "Projekt 1984 - 4. Jahrgang",
+     "note": "in der Zeit vom 16. Februar bis 01.03.2026 UNI.T"
+    },
+    {
+     "weekday": 1,
+     "start": "18:30",
+     "end": "21:30",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2026-11-10",
+     "room": "Gra - R1",
+     "building": "UDK:Gra",
+     "group": "Projekt 1984 - 4. Jahrgang",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "18:00",
+     "end": "21:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2026-11-11",
+     "room": "Gra - R1",
+     "building": "UDK:Gra",
+     "group": "Projekt 1984 - 4. Jahrgang",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:45",
+     "end": "19:45",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2026-11-12",
+     "room": null,
+     "building": null,
+     "group": "Projekt 1984 - 4. Jahrgang",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15211:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Städtebau und Stadterneuerung II",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15211&periodId=342",
+   "type": "Vorlesung",
+   "lecturers": [
+    "Prof. Dipl. Ing. Klaus Schäfer"
+   ],
+   "org": "Fakultät Gestaltung",
+   "description": "Empfohlene Voraussetzung: Städtebau und Stadterneuerung I\n\nZu erbringende Prüfungsleistung: Übung\n\nZu erbringende Studienleistung: 3 Leistungspunkte\n\nZielgruppe: BA 3. Studienjahr, MA",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "13:30",
+     "end": "15:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-19",
+     "last_date": "2027-02-08",
+     "room": "Ha33 - 336",
+     "building": "UDK:Ha33",
+     "group": "Städtebau und Stadterneuerung II",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15500:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "nonstandard AI",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15500&periodId=342",
+   "type": "Seminar",
+   "number": "2690302",
+   "lecturers": [
+    "Georgy Bagdasarov"
+   ],
+   "org": "Fakultät Gestaltung",
+   "description": "Inhalte: Georgy Bagdasarov Title: Look Ma, no hands! The multiagency structure raises the question that intelligence emerges not only from the learning process of the entity itself, but rather through interaction between the vehicles of the entity and the environment. Through such separation—when an entity can distinguish its own species from the environment and intercommunication occurs between them—intelligence is created as a social rather than individual property. Using deep learning methods, the plan for this course is to develop autonomous agents that can operate in a sonic environment. They will be driving and interacting with each other and with the environment, and through searching their paths, they will transform the environment itself. We will listen to their communication and maybe try to understand their ontology. For this, we don't need to know their language beyond Python, which will help us develop such systems that can work autonomously without human involvement. So at the very end, we can yell in excitement like a little kid who releases the bicycle handlebars—\"Look Ma, no hands!\"—right before he's about to crash. when: dates to be announced credits: 2SWSt, 3 CP",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15374:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Basis Metall - Blockveranstaltung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15374&periodId=342",
+   "type": "Blockveranstaltung",
+   "number": "1KW202c",
+   "lecturers": [
+    "Martin Nielandt"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Empfehlung: Für das freie Arbeiten ist das Absolvieren eines Werkstattkurses (Einzelbetreuung oder Blockveranstaltung) Voraussetzung.\n\nInhalte: Di. - Do. 13.10. - 15.10. und Mo. - Mi. 19.10. - 21.10. 10:00 - 12:30 und 13:30 - 16:30 s.t. Ha33 R.066\n\nEmpfohlene Voraussetzung: Bitte Arbeitsbekleidung und Sicherheitsschuhe mitbringen - nach Absprache.\n\nZwingende Voraussetzung: Kontaktaufnahme per E-Mail unter Angabe Kursnummer 1KW202c und verbindliche und persönliche Anmeldung über Aushang in der Werkstatt eine Woche vor Kursbeginn\n\nZu erbringende Prüfungsleistung: Fertigung eines Übungsstücks\n\nZielgruppe: Einführungen und Grundlagenkurse richten sich an Studenten ohne Vorkenntnisse und somit ohne absolvierten Werkstattkurs.",
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Nielandt_Werkstattkurs_Basis Metall - Blockveranstaltung"
+   }
+  },
+  {
+   "id": "udk_hisinone:15933:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Bake_Weiche Macht_KW",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15933&periodId=342",
+   "type": "Seminar",
+   "number": "13262104",
+   "lecturers": [
+    "Linnéa Eleonora Bake"
+   ],
+   "org": "Studium Generale",
+   "description": "Zu erbringende Studienleistung: Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Moderation/Referat/Erarbeitung eines künstlerisch-diskursiven Formats zu der ausgewählten Textlektüre inkl. anschließende Diskussion zum Thema der Sitzung.",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15450:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Sprechen - 1. Jahrgang - Einzel",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15450&periodId=342",
+   "type": "interne Veranstaltung",
+   "number": "421070",
+   "lecturers": [
+    "Christel Tietge"
+   ],
+   "org": "Fakultät Darstellende Kunst",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "09:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Ka - 312(P4)",
+     "building": "UDK:Ka",
+     "group": "Sprechen - 1. Jahrgang - Einzel",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15945:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Yanes_Amazofuturism: Technologische Utopien des Regenwaldes_KW",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15945&periodId=342",
+   "type": "Seminar",
+   "number": "13262113",
+   "lecturers": [
+    "Aliza Yanes Viacava"
+   ],
+   "org": "Studium Generale",
+   "description": "Kommentar: Aliza Yanes Viacava Amazofuturism: Technologische Utopien des Regenwaldes Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Samstags, jeweils 10-16 Uhr, 5 Termine: 7.11., 14.11., 21.11., 28.11. und 5.12.2026 Hardenbergstr. 33, Raum 150 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3322 Einschreibeschlüssel / Enrollment Key: amazon Wie können wir uns die Zukunft des Amazonasgebiets in einer zunehmend technologisierten Welt vorstellen? Wer hat das Recht, sich diese Zukunft vorzustellen und darüber zu schreiben? Science-Fiction und der größte Regenwald der Welt vereinen sich im Begriff des „Amazofuturism\" – einem literarischen Genre, das sich mit der Stellung des Amazonasgebiets in Zukunftsvisionen auseinandersetzt und dabei koloniale und festgefahrene Sichtweisen hinterfragt. Seit der Einführung des Begriffs im Jahr 2020 zur Bezeichnung einer aus Brasilien stammenden Strömung der bildenden Kunst hat sich das Konzept in der Science-Fiction- Literatur etabliert. Es wirft eine Reihe von Fragen darüber auf, wie man sich die Zukunft dieser Region vorstellt, insbesondere die Frage, wer (selbst im 21. Jahrhundert) das amazonische Subjekt ist. Handelt es sich um das indigene, das mestizische oder das urbane Subjekt? Wie viele mögliche Darstellungen des Amazonasgebiets gibt es und welche davon betont die Strömung des Amazofuturism besonders? Ziel dieses Seminars ist es, uns dem Begriff des Amazofuturism anzunähern, zu erfahren, woher er kommt, wohin er sich entwickelt und wer seine bedeutendsten Vertreter:innen sowohl in der Literatur als auch in der bildenden Kunst sind. Dies erfordert wiederum, dass wir uns mit der Geschichte des Kolonialismus und des Extraktivismus in der Region, der Bedeutung der aktuellen Umweltkämpfe und der Frage auseinandersetzen, wie all dies in literarischen Werken und visuellen Darstellungen ästhetisch zusammenfließt. Während des Seminars werden wir Texte lesen sowie Dokumentarfilme sehen. Außerdem wird angestrebt, im Rahmen des Seminars ein Zoom-Gespräch mit einer Expertin für indigene Literatur in Brasilien zu organisieren. Für die Abschlusspräsentation werden die Studierenden aufgefordert, sich eingehend mit einem der im Seminar behandelten Themen zu befassen oder weitere Beispiele für zeitgenössische Darstellungen in der Science-Fiction aus anderen Teilen der Welt vorzustellen. Aliza Yanes Viacava hat einen Bachelor in Literaturwissenschaft an der Universidad Nacional Mayor de San Marcos (Lima, Peru), sowie einen Master in Interdisziplinäre Lateinamerikastudien (FU Berlin) und einen Master in Kunst im Kontext an der UdK Berlin. Ihre künstlerische Praxis verbindet literarische Forschung, kreatives Schreiben, Vermittlung, Video und Performance. Ihre Arbeiten thematisieren vor allem die diskursiven Aspekte der historischen und kulturellen Beziehungen zwischen Lateinamerika und Europa. Sie übersetzt komplexe wissenschaftliche Inhalte in zugängliche Formate. Ihr Fokus liegt auf Spuren der Kolonialzeit, besonders in den Diskursen des 16. Jahrhunderts über Fabelwesen der sogenannten „Neuen Welt\". Am Studium Generale leitete sie Seminare zu den Themen Eurozentrismus, lateinamerikanische Avantgarde und Mythen zur Zeit der Eroberung Amerikas.\n\nZu erbringende Studienleistung: Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: aktive, regelmäßige Teilnahme, Textlektüre und Abschlusspräsentation.",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15926:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Stoffentwicklung und Beratung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15926&periodId=342",
+   "type": "Seminar",
+   "number": "2670103",
+   "lecturers": [
+    "Horst Markgraf"
+   ],
+   "org": "Fakultät Gestaltung",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15957:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Porombka_Meditation und ästhetische Praxis_IK",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15957&periodId=342",
+   "type": "theoret.-prakt. Lehrveranstaltung",
+   "number": "13262213",
+   "lecturers": [
+    "Prof. Dr. Stephan Porombka"
+   ],
+   "org": "Studium Generale",
+   "description": "Kommentar: Prof. Dr. Stephan Porombka Meditation & ästhetische Praxis Kompaktwoche, Deutsch, 2 SWS, 2 ECTS Montag bis Freitag, 15.-19.2.2027 ganztägig in Sauen verbindliches Vorbereitungstreffen: Freitag, 5.2.2027, 18-21 Uhr, Hardenbergstr. 33, Raum 101 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3310 Einschreibeschlüssel / Enrollment Key: meditate INFOSESSION: Freitag, 16.10.2026, 10 Uhr: https://udk-berlin.webex.com/join/s.porombka DAS SEMINAR In diesem Blockseminar wollen wir uns auf die Suche nach Kunstprojekten begeben, in denen die Praxis der Meditation mit der ästhetischen Praxis verbunden wird. Dabei geht es nicht nur um die genauere Bekanntschaft mit bereits bekannten Werken bzw. Werkzusammenhängen. Es geht auch um die Frage der Verbindung von Meditation und ästhetischer Praxis im Kontext der eigenen Arbeit. Wir fragen dafür nach den Bedingungen und Möglichkeiten des Hineingelangens in meditationstypische Zustände. Wir fragen nach meditativen Aspekten der Produktion. Und wir fragen nach meditativen Aspekten der Rezeption. Verbinden werden wir das mit aufeinander aufbauenden Meditationsexperimenten. Am Ende des Seminars soll ein kleiner Übungskatalog zusammengestellt werden, an dem man sich die Semesterferien über orientieren kann. Damit wir den Retreat in Sauen gleich mit der Meditationspraxis beginnen können, treffen wir uns vorher zu einer 3-stündigen Veranstaltung, um kleinere Übungen vorzubereiten und alles Organisatorische zu klären. Die Teilnahme an der vorbereitenden Veranstaltung ist verpflichtend. DIE BEWERBUNG Mit der Anmeldung ist es notwendig, über die UdK-Cloud ein Motivationsschreiben hochzuladen. Dieses Motivationsschreiben sollte eine PDF-Seite sein, das folgendermaßen beschriftet ist: Nachname, Vorname_Motivation_SE_Porombka_WiSe2026-27). Das Hochladen in die Cloud (Link ist im Moodle-Kurs zu finden!) ist NACH der Infosession möglich. Abgabeschluss, Montag, 19.10.2026, abends . In dem kurzen Motivationsschreiben sollte zu lesen sein: a. Notizen zum Stand der eigenen Meditationserfahrung sowie b. eine kurze Erläuterung des künstlerischen oder wissenschaftlichen Projekts/Werkstücks, an dem man während des Retreats in Sauen gerne arbeiten möchte (alles ist möglich, auch einfaches Lesen, Nachdenken, Notieren, Skizzieren; ausgeschlossen ist Bildschirm- und Onlinearbeit). Stephan Porombka wird dann aus den eingereichten Schreiben 20 Studierende auswählen. Alle Bewerber*innen werden bis in der Woche ab dem 19.10. informiert. Stephan Porombka , geboren 1967, ist experimenteller Kulturwissenschaftler und produktiver Gegenwartsbeobachter, der sich ganz besonders für die Formen und Formate des „Nächsten” interessiert. Im Mittelpunkt steht dabei die Aufgabe, die alten, immer noch buch-basierten Konzepte literarischer, essayistischer und journalistischer Produktivität und Kreativität zu transformieren und den Bedingungen der neuen – vor allem: der nächsten! – Schrift- und Schreibkulturen anzupassen. An der Berliner Universität der Künste forscht und lehrt Porombka seit 2013 als Professor für Texttheorie und Textgestaltung.\n\nZu erbringende Studienleistung: Leistungsanforderungen für den unbenoteten Schein: Aktive und verbindliche Teilnahme am kompletten Workshop inklusive Vorbereitungstreffen.",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15939:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Hassan_How to be Fabulous?_KW",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15939&periodId=342",
+   "type": "Seminar",
+   "number": "13262107",
+   "lecturers": [
+    "Mohammad Shawky Hassan"
+   ],
+   "org": "Studium Generale",
+   "description": "Kommentar: Mohammad Shawky Hassan How to be Fabulous? Block seminar, English/Deutsch, 2 SWS, 2 ECTS Fridays, 10-18 h on 6.11., 13.11., 20.11. and 27.11.2026 in Hardenbergstr. 33, room 150 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3328 Einschreibeschlüssel / Enrollment Key: sofab! In this participatory, discussion-based, interdisciplinary seminar, we will examine the history and evolution of “fabulation” as a critical, political, and aesthetic practice. Tracing its development from its early use in literary theory to its adaptations by Black scholars, feminist writers, and queer artists, we will explore the possibilities of fabulation as a methodology that emerges precisely where archives are broken, traces are erased, dissident voices are structurally excluded, and futures are foreclosed. Through readings, screenings, case studies, and discussions, we will focus on historical moments when archival gaps, erasure tactics, or the failure of the cultural apparatus to fully interpellate its intended subjects created openings for fabulators to project their desires and imagine selves and worlds that might have otherwise remained impossible. Mohammad Shawky Hassan is an Egyptian multidisciplinary artist, writer, and educator living and working in Berlin. His works include And on a Different Note, which was acquired by the Museum of Modern Art (MoMA) for its permanent collection, and Shall I Compare You to a Summer's Day?, which premiered at the Berlinale Forum. He studied theater, philosophy, video production, and cinema studies at the American University in Cairo, the Academy of Cinematic Arts, and Columbia University in New York. Alongside his artistic practice, he has designed and taught seminars at the Cairo Institute for Liberal Arts & Sciences, Arsenal Film Institute, the German University in Cairo, and Humboldt University.\n\nZu erbringende Studienleistung: Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Reading assigned texts, active participation in seminar discussions, and regular journaling in English or German.",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15974:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Die Schwellen urbaner Commons - Alltägliche Praxis, Pflege, Aushandlung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15974&periodId=342",
+   "type": "Projekt",
+   "number": "I2_15",
+   "lecturers": [
+    "Karla Yumari Royal",
+    "Lorenz Krauth"
+   ],
+   "org": "Studium Generale",
+   "description": "Kommentar: Die Schwellen urbaner Commons - Alltägliche Praxis, Pflege, Aushandlung Karla Yumari Royal (Architektur) & Lorenz Krauth (Kunst im Kontext) Architektur & Kunst im Kontext & Visuelle Kommunikation & Theaterpädagogik & Gesellschafts- und Wirtschaftskommunikation offen für weitere Studiengänge der UdK Anmeldung bis zum 18.10. per E-Mail an k.royal@udk-berlin.de oder l.krauth@udk-berlin.de . About Wie werden urbane Commons durch alltägliche Praktiken der Öffnung, Pflege und Aushandlung produziert? Das Seminar versteht urbane Commons nicht als gegebene Orte, sondern als fortlaufende soziale Praxis des Commonings (Gemeinschaffens). Während Städte weltweit durch Privatisierung, Gentrifizierung und renditeorientierte Stadtentwicklung geprägt werden, entwickeln sich durch urbane Commons alternative Formen und Geschichten. Doch selbst wenn Räume gemeinschaftlich angeeignet oder erkämpft werden, entstehen Commons nicht allein durch ihr physisches Bestehen. Erst durch soziale Beziehungen, kollektive Verantwortung und gemeinwohlorientierte Praktiken werden sie hergestellt und dauerhaft aufrechterhalten. In diesem interdisziplinären Seminar erarbeiten wir gemeinsam Wissen mit unterschiedlichen Methoden. Die Perspektiven der Teilnehmenden aus verschiedenen Studiengängen bilden dabei die Grundlage für gemeinsame Diskussionen und die Entwicklung eigener Fragestellungen. Die Seminargruppe findet zunächst mit der kritischen Auseinandersetzung einiger Grundlagentexte und Autor*innen in das Thema hinein. Ein Schwerpunkt des Seminars ist der Besuch und Austausch mit Projekten und Gäst*innen. Die Sitzungen werden von Studierenden in Kleingruppen moderiert und gemeinsam vor- und nachbereitet und ermöglichen uns einen gemeinsamen Einblick in die alltägliche Arbeit der Personen, die die Commons dauerhaft aufrechterhalten. Parallel kartieren und erforschen wir Orte und Praktiken des Commonings in Berlin. Die Ergebnisse werden im Rahmen eines gemeinsamen Stadtspaziergangs vorgestellt und diskutiert. Die Ergebnisse und Prozesse des Seminars werden in einem Booklet dokumentiert. Dieses soll als Grundlage für ein mögliches Anschlussseminar dienen, in dem die entstandenen Arbeiten weiterentwickelt und vertieft werden sollen. Time & Dates Montags, 16:00 - 18:30 Uhr, Hardenbergstraße 33, 2.OG (Raum tba) Leistungsanforderungen Beitrag zum Glossar Beitrag zur kollektiven Map Zwischenpräsentation einer eigens recherchierten Praxis / eines Ortes des Commonings in Berlin Vor-/ Nachbereitung eines Gastvortrags / Besuchs (Gruppenarbeit) Stadtspaziergang mit Route aller recherchierten / erforschten Commons in Berlin Credits Architektur: 4 ECTS für MA Modul 05, BA Modul 14 IfKiK: 4 ECTS für S (Seminar) Weitere Studiengänge: 4 ECTS Die Schwellen urbaner Commons - Alltägliche Praxis, Pflege, Aushandlung Karla Yumari Royal (Architektur) & Lorenz Krauth (Kunst im Kontext) Architektur & Kunst im Kontext & Visuelle Kommunikation & Theaterpädagogik & Gesellschafts- und Wirtschaftskommunikation offen für weitere Studiengänge der UdK Anmeldung bis zum 18.10. per E-Mail an k.royal@udk-berlin.de oder l.krauth@udk-berlin.de . About Wie werden urbane Commons durch alltägliche Praktiken der Öffnung, Pflege und Aushandlung produziert? Das Seminar versteht urbane Commons nicht als gegebene Orte, sondern als fortlaufende soziale Praxis des Commonings (Gemeinschaffens). Während Städte weltweit durch Privatisierung, Gentrifizierung und renditeorientierte Stadtentwicklung geprägt werden, entwickeln sich durch urbane Commons alternative Formen und Geschichten. Doch selbst wenn Räume gemeinschaftlich angeeignet oder erkämpft werden, entstehen Commons nicht allein durch ihr physisches Bestehen. Erst durch soziale Beziehungen, kollektive Verantwortung und gemeinwohlorientierte Praktiken werden sie hergestellt und dauerhaft aufrechterhalten. In diesem interdisziplinären Seminar erarbeiten wir gemeinsam Wissen mit unterschiedlichen Methoden. Die Perspektiven der Teilnehmenden aus verschiedenen Studiengängen bilden dabei die Grundlage für gemeinsame Diskussionen und die Entwicklung eigener Fragestellungen. Die Seminargruppe findet zunächst mit der kritischen Auseinandersetzung einiger Grundlagentexte und Autor*innen in das Thema hinein. Ein Schwerpunkt des Seminars ist der Besuch und Austausch mit Projekten und Gäst*innen. Die Sitzungen werden von Studierenden in Kleingruppen moderiert und gemeinsam vor- und nachbereitet und ermöglichen uns einen gemeinsamen Einblick in die alltägliche Arbeit der Personen, die die Commons dauerhaft aufrechterhalten. Parallel kartieren und erforschen wir Orte und Praktiken des Commonings in Berlin. Die Ergebnisse werden im Rahmen eines gemeinsamen Stadtspaziergangs vorgestellt und diskutiert. Die Ergebnisse und Prozesse des Seminars werden in einem Booklet dokumentiert. Dieses soll als Grundlage für ein mögliches Anschlussseminar dienen, in dem die entstandenen Arbeiten weiterentwickelt und vertieft werden sollen. Time & Dates Montags, 16:00 - 18:30 Uhr, Hardenbergstraße 33, 2.OG (Raum tba) Credits Architektur: 4 ECTS für MA Modul 05, BA Modul 14 IfKiK: 4 ECTS für S (Seminar) Weitere Studiengänge: 4 ECTS\n\nZu erbringende Studienleistung: Leistungsanforderungen Beitrag zum Glossar Beitrag zur kollektiven Map Zwischenpräsentation einer eigens recherchierten Praxis / eines Ortes des Commonings in Berlin Vor-/ Nachbereitung eines Gastvortrags / Besuchs (Gruppenarbeit) Stadtspaziergang mit Route aller recherchierten / erforschten Commons in Berlin",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15951:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Hintze_Geschichten des Gelingens – Konstruktives Erzählen_IK",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15951&periodId=342",
+   "type": "theoret.-prakt. Lehrveranstaltung",
+   "number": "13262206",
+   "lecturers": [
+    "Dagrun Hintze"
+   ],
+   "org": "Studium Generale",
+   "description": "Kommentar: Dagrun Hintze Geschichten des Gelingens – Konstruktives Erzählen Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Samstags/Sonntags, jeweils 10-18 Uhr am 31.10./1.11.2026 und 6./7.2.2027 Hardenbergstr. 33, Raum 110 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3317 Einschreibeschlüssel / Enrollment Key: konstruktiv In herausfordernden Zeiten bedeutet Zuversicht eine wichtige Ressource für die Visualisierung und Gestaltung von Zukunft – und aus Doomscrolling ist sowieso noch nie etwas Konstruktives erwachsen. In diesem Seminar schreiben wir „Geschichten des Gelingens“ und greifen dafür auf unsere persönliche Erfahrung genauso zurück wie auf die guten Nachrichten des positiven Journalismus. Inspiriert von Texten bekannter Autorinnen und Autoren erproben wir verschiedene literarische Verfahren, von essayistischem Schreiben über Autofiktion bis hin zum Gedicht. Dabei erweitern wir unser schriftstellerisches Handwerkszeug und trainieren ganz nebenbei unseren Zuversichts- und Zukunftsmuskel. Teilnahmevoraussetzungen: Teilnehmende sollten über so viel Deutschkenntnisse verfügen, dass sie die vorgestellten Texte und die Diskussionen dazu verstehen können. Eigene Texte auf Englisch zu schreiben, ist möglich. Dagrun Hintze veröffentlicht Gedichte, Theaterstücke, Prosa und Essays und publiziert über zeitgenössische Kunst und Dokumentartheater. Für ihre Arbeit wurde sie mehrfach ausgezeichnet, zuletzt 2026 mit einem Stipendium der Shanghai Writers’ Association. Im SS 2019 nahm sie schon einmal einen Lehrauftrag im Studium Generale der UDK wahr, vom SS 2024 bis WS 2025/26 war sie Dozentin für Poetik und Kreatives Schreiben an der HAW Hamburg, im WS 2026/27 unterrichtet sie außerdem im Regie-Studiengang der Folkwang Universität der Künste in Essen.\n\nZu erbringende Studienleistung: Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: aktive Teilnahme an Diskussionen über Texte, Teilen von „guten Nachrichten“, Schreiben verschiedener, auf die Zukunft ausgerichteter Texte, Vortragen eigener Texte.",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15988:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Begriffe des Ästhetischen (Peters)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15988&periodId=342",
+   "type": "Seminar",
+   "number": "262704",
+   "lecturers": [
+    "Prof. Dr. Kathrin Peters"
+   ],
+   "org": "Fakultät Gestaltung",
+   "description": "Kommentar: Das Wort „ästhetisch“ kann sich auf vieles und sehr Verschiedenes beziehen: Auf Schönheit, Angemessenheit, Erhabenheit, auf Geschmack oder Stil, auf Kunst, Populärkultur oder Medien. Eine etwas verschüttete Bedeutungsebene ist die der sinnlichen Wahrnehmung. Das Seminar nimmt sich vor, diese Gebrauchsweisen und Bedeutungsebenen der Begriffe des Ästhetischen zu durchstreifen, die Auf- und Abwertungen, die mit ihnen verbunden sind, zueinander ins Verhältnis zu setzen. Es handelt sich um ein Lektüreseminar, das aber auch Bilder, Praktiken und Phänomene hinzuzieht und sich auf Recherche begibt. Anmeldung: https://moodle.udk-berlin.de/moodle/course/view.php?id=3342\n\nZu erbringende Studienleistung: Aktive Teilnahme, Hausarbeit (5 ECTS)",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Gru - 306",
+     "building": "UDK:Gru",
+     "group": "Begriffe des Ästhetischen (Peters)",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:15965:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Am ‘I’ the One? Selbsterzählungen zwischen Autotheorie, Crying Selfies und Confessionals",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15965&periodId=342",
+   "type": "Projekt",
+   "number": "I2_10",
+   "lecturers": [
+    "Alicia Augustín-Fröhlich",
+    "Tereza Yakovyna",
+    "Franca Zajac",
+    "Paula Regine Erb"
+   ],
+   "org": "Studium Generale",
+   "description": "Kommentar: Am 'I' the One? Selbsterzählungen zwischen Autofiktion, Autotheorie, Crying Selfies und Confessionals Alicia Agustín & Tereza Yakovyna & Franca Zajac & Paula Regine Erb Kunst im Kontext & Szenisches Schreiben Anmeldung per Mail an t.yakovyna@udk-berlin.de About Was bedeutet es, heute ein „Ich“ zu erzählen? Wie prägen Romane, Theater, Essays und Social Media unsere Vorstellungen von Identität, Authentizität und Selbstinszenierung? Und was passiert, wenn persönliche Geschichten öffentlich werden und das eigene Ich zugleich zum Subjekt und Objekt der Erzählung wird? Das Seminar „Am I the One?“ lädt zur kritischen Auseinandersetzung mit autofiktionalen Formen des Schreibens und anderen auto-narrativen Methoden der Gegenwartskultur ein. Wir beschäftigen uns unter anderem mit Social-Media-Confessionals, Romanen, Gegenwartsdramatik und Essayistik. Dabei fragen wir, welche politischen und historischen Bedingungen unser modernes Verständnis des individuellen Ichs prägen und welche Rolle Authentizität, Affekte und persönliche Erzählungen in der heutigen Aufmerksamkeitsökonomie spielen. Wir untersuchen, wie sich individuelle und kollektive Identitäten verändern, wie Subjektivität im digitalen Kapitalismus inszeniert wird und welche Möglichkeiten künstlerische Praktiken eröffnen, bestehende Erzählformen neu zu denken. Dabei beschäftigen wir uns mit unterschiedlichen historischen und künstlerischen Formen des Selbstbezugs – von viktorianischer Introspektion über Samuel Becketts Not I bis hin zu aktuellen Social-Media-Phänomenen. Neben der theoretischen Auseinandersetzung entwickeln die Studierenden in Schreibwerkstätten und Performance-Workshops eigene Texte und künstlerische Arbeiten. Das Seminar verbindet szenisches Schreiben mit performativer Praxis und endet mit einer gemeinsamen Performance, Lesung oder einem Showing. Time & Dates Alle Veranstaltungen finden in Präsenz statt. Die Raumangaben können sich gegebenenfalls noch ändern; Änderungen werden rechtzeitig bekannt gegeben. Samstag, 24.10.2026, 10–18 Uhr – Kick-off Raum: Hardenbergstraße 33, R101 Donnerstag, 12.11.2026, 10–18 Uhr – Schreibwerkstatt (Deutsch; Fragen auch auf Deutsch und Englisch willkommen) Raum: Einsteinufer 43, R035 Freitag, 13.11.2026, 10–18 Uhr – Seminar (Deutsch/Englisch) Raum: Grunewaldstraße 2–5, R110 (Aula) Samstag, 14.11.2026, 10–18 Uhr – Seminar (Deutsch/Englisch) Raum: Grunewaldstraße 2–5, R110 (Aula) Mittwoch, 16.12.2026, 10–18 Uhr – Workshop mit Ivana Sajko (Englisch; Fragen auch auf Deutsch und Englisch willkommen) Raum: Einsteinufer 43, R035 Donnerstag, 04.02.2027, 10–18 Uhr – Seminar (Deutsch/Englisch) Raum: Einsteinufer 43, R035 Freitag, 05.02.2027, 10–18 Uhr – Workshop mit Olympia Bukkakis (Englisch; Fragen auch auf Deutsch und Englisch willkommen) Raum: Einsteinufer 43, R035 Samstag, 06.02.2027, 10–18 Uhr – Seminar (Deutsch/Englisch) Raum: wird noch bekannt gegeben Donnerstag, 11.02.2027, 10–18 Uhr – Präsentationsvorbereitung (Deutsch/Englisch) Raum: Einsteinufer 43, R035 Freitag, 12.02.2027, 10–18 Uhr – Präsentationsvorbereitung (Deutsch/Englisch) Raum: Hardenbergstraße 33, R101 Samstag, 13.02.2027, 10–18 Uhr – Abschließende Präsentationen der künstlerischen Arbeiten (Deutsch/Englisch) Raum: Hardenbergstraße 33, R101 Die Veranstaltungen finden in Präsenz statt. Bitte beachtet, dass sich die Raumangaben gegebenenfalls noch ändern können. Änderungen werden rechtzeitig bekannt gegeben. Credits Leistungspunkte: 4 LP + 2 LP Umfang: 3 SWS Workload: 120 Stunden Veranstaltungstyp: S+Ü Modul: E, SF 3,4, BF B–D\n\nZu erbringende Studienleistung: Leistungsanforderungen Regelmäßige aktive Teilnahme und selbstständige Arbeit am Entwurf einer eigenen künstlerischen Arbeit. Die Studierenden bereiten ihre Präsentationen am 11. und 12. Februar vor und präsentieren ihre Arbeiten am 13. Februar 2027.",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:16001:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Praxissemester Nachbereitung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16001&periodId=342",
+   "type": "Seminar",
+   "number": "1KD407k",
+   "lecturers": [
+    "Prof. Dr. phil. Kirsten Winderlich"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Theoriegebundene Nachbereitung des Praxissemesters\n\nZwingende Voraussetzung: Durchführung des Praxissemesters in der Schule Anmeldung per Email im Anmeldungszeitraum an: winderlich@udk-berlin.de\n\nZu erbringende Studienleistung: Regelmäßige und aktive Teilnahme",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "17:00",
+     "rhythm": "block",
+     "first_date": "2027-02-13",
+     "last_date": "2027-02-14",
+     "room": "BuA - 009",
+     "building": null,
+     "group": "Winderlich_Praxissemester Nachbereitung",
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "17:00",
+     "rhythm": "block",
+     "first_date": "2027-02-20",
+     "last_date": "2027-02-21",
+     "room": "BuA - 009",
+     "building": null,
+     "group": "Winderlich_Praxissemester Nachbereitung",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Winderlich_Praxissemester Nachbereitung"
+   }
+  },
+  {
+   "id": "udk_hisinone:15981:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "MAKE SHIFT",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15981&periodId=342",
+   "type": "Projekt",
+   "number": "I2_28",
+   "lecturers": [
+    "Prof. Mathias Hahn",
+    "Prof. Ineke Hans",
+    "Barbara Kotte",
+    "Prof. Fons Matthias Hickmann"
+   ],
+   "org": "Studium Generale",
+   "description": "Kommentar: Ineke Hans & Mathias Hahn & Barbara Kotte & Fons Hickmann Master Visuelle Kommunikation & Produktdesign Externe Gäste sind zu den Vorträgen willkommen! About MAKE SHIFT ist ein gemeinsames Format der Studiengänge Visuelle Kommunikation und Produktdesign im Rahmen von INTER - Lehrarchitektur (Stiftung Innovation in der Hochschullehre) zur Förderung des Austauschs zwischen den Fachgebieten und Gestaltungsräumen. Als Kombination aus interdisziplinären Lernformaten, Vortragsreihen und Gastkolloquien lädt MAKE SHIFT internationale Designer:innen und Forscher:innen ein, Einblicke in aktuelle Diskurse jenseits des regulären Curriculums geben. Studierende und Lehrende diskutieren Positionen, reflektieren Masterarbeiten und entwickeln gemeinsam neue Formen der Zusammenarbeit und Vernetzung interdisziplinärer Lehre. MAKE SHIFT stärkt damit den Austausch zwischen den Studierenden und Lehrenden der Masterstudiengänge Produktdesign und Visuelle Kommunikation. Grundlage sind gemeinsame Interessen, eine Gemeinsamkeit im Geiste und das Ziel ein Format für einen offenen Austausch, mit Platz für unterschiedliche Positionen und Vernetzung. MAKE SHIFT will nicht nur die Scheuklappen von Disziplinen untereinander ablegen, sondern auch den eigenen Stallgeruch. Was passiert außerhalb von Berlin? Abseits der UdK? Welche Themen werden aktuell in unterschiedlichen Fachgebieten heiß diskutiert? Welche Impulse aus der internationalen Praxis und Forschung wecken derzeit Interesse bei Studierenden und Lehrenden beider Studiengänge? Wie können diese Themen verknüpft oder in künstlerische/wissenschaftliche Ansätze innerhalb der Masterarbeiten integriert werden? Im laufenden Masterjahr werden während des Wintersemesters vier Termine mit internationale Gastredner:innen angeboten,, die eine Bandbreite von Positionen und Ausrichtungen innerhalb des Designs abbilden und von Studierenden wie Vertretern der Lehre ausgesucht sind. Beide Studiengänge / Institute sind für jeweils zwei Gäst:innen verantwortlich. Vor den öffentlichen Vorträgen finden interne Gesprächsrunden und Kolloquien (sowie gemeinsame Mittagessen) statt, in denen Studierende mit externen Stimmen ihre Masterarbeiten besprechen und reflektieren können. Damit eröffnen wir Einblicke in Themen, die anderweitig nicht zwingend vom Curriculum abgebildet werden und kommen ins Gespräch. Time & Dates Die Termine werden in Kürze veröffentlicht. Die Veranstaltungen finden sowohl im Medienhaus der UdK wie auch in der Straße des 17. Juni 118 statt. Credits Entsprechend den Regularien in den Masterstudiengängen",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:16013:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Ideen, Verträge, Recht",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16013&periodId=342",
+   "type": "Seminar",
+   "number": "2630006",
+   "lecturers": [
+    "Dr. Lucas Elmenhorst",
+    "Barbara Wilkens"
+   ],
+   "org": "Fakultät Gestaltung",
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:16026:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Interdisziplinäre Zugänge zur Kunstpädagogik/Kunstvermittlung Projekt + Kolloquium",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16026&periodId=342",
+   "type": "Projekt",
+   "number": "1KD446e",
+   "lecturers": [
+    "Prof. Dr. Fatma Kargın-Zahn"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: 8.1: Positionierung: Ausgehend von kulturwissenschaftlichen, phänomenologischen, postdigitalen, posthumanen sowie raumtheoretischen Perspektiven bietet diese Lehrveranstaltung ein diskursives Setting, in dem die Student:innen ihr kunstvermittelndes und kunstpädagogisches Wissen vertiefen können. ​ ​8.2.: Kolloquium: An der Schnittstelle der Theorie und Praxis bietet diese LV den Student:innen die Möglichkeit, das eigene Verständnis der künstlerischen Kunstvermittlung zu vertiefen und weiterzuentwickeln. Ausgehend von einem Ausstellungsbesuch bzw. ausgehend von einem konkreten Kunstwerk entwickeln Student:innen ein künstlerisch-edukatives Projekt, indem sie zwei oder mehrere der dargestellten theoretischen Positionen für die Entwicklung und Begründung der eigenen Projekte verwenden. ​ ​Die Anmeldung erfolgt ausschließlich über moodle.\n\nZwingende Voraussetzung: Die Anmeldung erfolgt ausschließlich über moodle.\n\nZu erbringende Prüfungsleistung: Das Modul wird mit der Präsentation des Projektes von min. 20 Minuten abgeschlossen. Die Studierenden entwickeln ein eigenes künstlerisch-edukatives Projekt, wobei sie auf die eigene künstlerische Praxis und Erfahrungen im Praxissemester zurückgreifen, welches durch ein fachdidaktisches Kolloquium begleitet wird. ​ ​In der Prüfung stellen Student:innen eigene Projekte vor, indem das jeweilige Projekt auf seine Potenziale, Grenzen und Anwendbarkeit im schulischen Kontext hin spezifisch kontextualisiert wird.\n\nZu erbringende Studienleistung: Regelmäßige aktive Teilnahme.",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "09:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-22",
+     "last_date": "2027-02-04",
+     "room": "Ha33 - 004",
+     "building": "UDK:Ha33",
+     "group": "Kargın-Zahn_Interdisziplinäre Zugänge zur Kunstpädagogik/Kunstvermittlung Projekt + Kolloquium",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Kargın-Zahn_Interdisziplinäre Zugänge zur Kunstpädagogik/Kunstvermittlung Projekt + Kolloquium"
+   }
+  },
+  {
+   "id": "udk_hisinone:15994:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15994&periodId=342",
+   "type": "Seminar",
+   "number": "1KD464c",
+   "lecturers": [
+    "Judith Rompel"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Empfehlung: Begleitseminar ergänzend zum Praxissemester in den ungeraden Wochen.\n\nZwingende Voraussetzung: Die Anmeldung erfolgt per E-Mail an: j.rompel@udk-berlin.de",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-09-11",
+     "last_date": "2026-09-11",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-09-25",
+     "last_date": "2026-09-25",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-10-23",
+     "last_date": "2026-10-23",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-11-06",
+     "last_date": "2026-11-06",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-11-20",
+     "last_date": "2026-11-20",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-12-04",
+     "last_date": "2026-12-04",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-08",
+     "last_date": "2027-01-08",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-22",
+     "last_date": "2027-01-22",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-02-05",
+     "last_date": "2027-02-05",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Rompel_MA ISS/Gym M4 Praxissemester Begleitung Gr. 1"
+   }
+  },
+  {
+   "id": "udk_hisinone:16039:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Suchen Erkunden Fragen kunstpädagogisches Forschen und der professionalisierte Blick",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16039&periodId=342",
+   "type": "Seminar",
+   "number": "1KD428h",
+   "lecturers": [
+    "Prof. Dr. Katharina Brönnecke"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Empfehlung: Suchen, Erkunden, Fragen – kunstpädagogisches Forschen und der professionalisierte Blick (Seminar)\n\nInhalte: Seminar und Übung geben einen einführenden Überblick über grundlegende und relevante Forschungsmethoden und -methodologien in der aktuellen kunstpädagogischen Forschung und beschäftigen sich mit den Fragen: ​- Wie und auf welchem Wege entstehen eigentlich kunstpädagogik relevante Forschungsfragen? - Wie und mit welchen Methoden lassen sich solche Fragestellungen vertiefend bearbeiten? - Wie lassen sich Erfahrungen aus der kunstpädagogischen Praxis fachdidaktisch-wissenschaftlich reflektieren? ​- Wie lassen sich Verknüpfungen zwischen Theorie und Forschung auf der einen und dem praktischen Handeln auf der anderen Seite herstellen? ​ ​Es rahmt diese im Kontext der spezifischen Fachlichkeit kunstpädagogischer Bildungsprozesse. Ein besonderer Fokus der Lehrveranstaltung liegt auf der gemeinsamen Erarbeitung basaler Methodenkenntnisse (qualitative Inhalts- und Bildanalyseverfahren) aber auch der forschungspraktischen Selbstorganisation: ​- Wie lassen sich aus ersten Themen und Interessen spezifische Forschungsfragen zu ästhetischen Bildungsprozessen formulieren? ​- Welche methodischen Erhebungsverfahren sind geeignet, um eine Fragestellung zu bearbeiten? ​- Wie und auf welche Weise lassen sich empirische Daten mit theoretischem Wissen verknüpfen? ​- Wie lässt sich eine wissenschaftliche Arbeit sinnvoll gliedern und strukturieren? ​- Und welche konkreten Schritte sind mit der Praxis des Forschens dabei verbunden? ​\n\nEmpfohlene Voraussetzung: Die Anmeldung bis zum 15.09. über die Selbsteinschreibung bei Moodle. Die max. TN beträgt 20 Personen. WICHTIG: Sollte der Kurs voll sein und somit keine Selbsteinschreibung auf Moodle mehr möglich sein, melden Sie sich bitte via E-Mail (k.broennecke@udk-berlin.de), um in die Warteliste aufgenommen zu werden. Personen, die am ersten und zweiten Seminartermin unentschuldigt fehlen, werden automastisch ausgetragen, sodass Personen der Warteliste nachrücken können.\n\nZwingende Voraussetzung: Die Anmeldung bis zum 15.09. über die Selbsteinschreibung bei Moodle. Die max. TN beträgt 20 Personen. WICHTIG: Sollte der Kurs voll sein und somit keine Selbsteinschreibung auf Moodle mehr möglich sein, melden Sie sich bitte via E-Mail (k.broennecke@udk-berlin.de), um in die Warteliste aufgenommen zu werden.\n\nZu erbringende Prüfungsleistung: 12 Seiten Hausarbeit (benotet)\n\nZu erbringende Studienleistung: Regelmäßige Aktive Teilnahme",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "12:00",
+     "end": "13:30",
+     "rhythm": "weekly",
+     "first_date": "2026-10-19",
+     "last_date": "2027-02-08",
+     "room": "Ha33 - 004",
+     "building": "UDK:Ha33",
+     "group": "Brönnecke_Suchen Erkunden Fragen kunstpädagogisches Forschen und der professionalisierte Blick",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Brönnecke_Suchen Erkunden Fragen kunstpädagogisches Forschen und der professionalisierte Blick"
+   }
+  },
+  {
+   "id": "udk_hisinone:16007:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Text und Kontext",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16007&periodId=342",
+   "type": "Seminar",
+   "number": "2611002",
+   "lecturers": [
+    "Martin Conrads"
+   ],
+   "org": "Fakultät Gestaltung",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "13:15",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": null,
+     "building": null,
+     "group": "2611002 - Text und Kontext",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:16051:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "How to Create a Nomadic Afterlife for the Gaza Biennale: The Istanbul Pavilion",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16051&periodId=342",
+   "type": "Hauptseminar",
+   "number": "1KWi542b",
+   "lecturers": [
+    "Almut Shulamit Bruckstein"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: This seminar examines the epistemic architecture, performances, artistic works, poetic practices, and public discourses generated by The Istanbul Pavilion of the Gaza Biennale Initiative—an exhibition bringing together more than 70 artists and scholars, held at Depo Istanbul from September 19 to November 8, 2025. ​ ​The Gaza Biennale was initiated by an artist collective on a Gazan beach under siege in November 2024, leading to the emergence of collaborative “Pavilions” across more than sixteen cities worldwide. ​ ​Together, participants will develop the fourth edition of the newly founded Newspaper & Magazine of The Istanbul Pavilion, dedicated to exploring the nomadic and fractal afterlife of the Pavilion. This edition is scheduled to be presented at the 17th Sharjah Biennale (SB17), opening in Sharjah in January 2027. ​ ​Students are expected to engage the materials of The Istanbul Pavilion and to focus on one specific contribution. Their focus may be selected from the full range of the Biennale’s material, including poetry and art, aesthetic and political theory, as well as the Biennial’s epistemic structures and community networks. ​ ​Participation is limited to fifteen students. Admission is subject to an application process. Applicants are required to send a statement of interest, or submit a sample of writing and/or artistic work to: taswir.projects@gmail.com",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": null,
+     "building": null,
+     "group": "Bruckstein_How to Create a Nomadic Afterlife for the Gaza Biennale: The Istanbul Pavilion",
+     "note": "Raum tba"
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Bruckstein_How to Create a Nomadic Afterlife for the Gaza Biennale: The Istanbul Pavilion"
+   }
+  },
+  {
+   "id": "udk_hisinone:16019:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Where Images Take Place",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16019&periodId=342",
+   "type": "Seminar",
+   "number": "2610002",
+   "lecturers": [
+    "Tabea Marschall"
+   ],
+   "org": "Fakultät Gestaltung",
+   "description": "Inhalte: Where Images Take Place Das Seminar untersucht, wie Bewegtbilder Orte nicht nur abbilden, sondern durch Perspektive, Montage, Ton und Auslassung mit hervorbringen. Doreen Masseys relationaler Ortsbegriff bildet den Ausgangspunkt: Orte entstehen aus sozialen, historischen und politischen Beziehungen. Trinh T. Minh-has Auseinandersetzung mit dem Dokumentarischen richtet den Blick darauf, wie filmische Wirklichkeit, Wahrheit und Autorität durch formale Konventionen erzeugt werden. Tiffany Sias On and Off-Screen Imaginaries verschränkt die Frage nach der medialen Hervorbringung von Ort mit Bildzirkulation, diasporischer Erinnerung und den politischen Bedingungen von Sichtbarkeit. Im Zentrum stehen gemeinsame Sichtungen und Analysen zeitgenössischer Film- und Videoarbeiten. Wir untersuchen, wie Orte gefilmt, historische Materialien montiert, Stimmen eingesetzt und Kontexte sichtbar gemacht oder im Off belassen werden. Gespräche mit eingeladenen Künstler:innen führen diese Fragen in die Praxis weiter und geben Einblick in Recherche, Formfindung und Produktionsprozesse. Where Images Take Place The seminar examines how moving images do not simply depict places, but actively shape them through perspective, montage, sound, and omission. Doreen Massey’s relational concept of place provides a starting point: places emerge through social, historical, and political relations. Trinh T. Minh-ha’s engagement with documentary draws attention to the ways cinematic reality, truth, and authority are constructed through formal conventions. Tiffany Sia’s On and Off-Screen Imaginaries extends these questions by considering image circulation, diasporic memory, and the political conditions of visibility. At the centre of the seminar are shared screenings and analyses of contemporary film and video works. We will look at how places are filmed, how historical materials are edited, how voices are positioned, and how context is made visible or deliberately kept off-screen. Conversations with invited artists will bring these questions into direct dialogue with artistic practice, offering insight into research methods, formal decisions, and production processes. Schein: künstlerisch gestalterisch / kunst- und medienwissenschaftlich",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-10-30",
+     "last_date": "2026-10-30",
+     "room": null,
+     "building": null,
+     "group": "2610002 - Where Images Take Place",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-11-20",
+     "last_date": "2026-11-20",
+     "room": null,
+     "building": null,
+     "group": "2610002 - Where Images Take Place",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-12-04",
+     "last_date": "2026-12-04",
+     "room": null,
+     "building": null,
+     "group": "2610002 - Where Images Take Place",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-01-08",
+     "last_date": "2027-01-08",
+     "room": null,
+     "building": null,
+     "group": "2610002 - Where Images Take Place",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:16063:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Bookmarks to Remember and Dismember",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16063&periodId=342",
+   "type": "Blockveranstaltung",
+   "number": "1KiK706h",
+   "lecturers": [
+    "Prof. Dr. Karina Griffith"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: This event marks the conclusion of the “Bookmarks to Remember and Dismember” project, which emerged from the inter-institutional seminar “Intersectional Black European Studies,” a collaboration between students at TU Berlin (Prof. Maisha Auma), Yale University (Prof. Fatima El-Tayeb), and the Berlin University of the Arts (UdK Berlin). In the first part of the interactive project (SoSe 2023), participants designed and produced prototypes of bookmarks. The objects explored the possibility of radically inclusive archives, particularly the (shadow) archives of Black people, Africans, and members of the Afro-diaspora, Indigenous peoples, people of color (PoC), and queer subjects, collectives, and communities in Germany/Europe. The students created bookmarks to intervene in existing libraries and collections by “marking” books and passages that are either colonial or decolonial. The prototypes were presented in 2023 at the Unlearning University in collaboration with the expanded speculative library project SichtBar2018, a mobile mini-library. In this second part of the project, students will design a new bookmark design, to be printed and put into use. The final event will consist of two happenings in the IfKiK and HfS libraries respectively, during which participants will use the bookmarks to intervene in the collection. The seminar will engage with texts that include The Undercommons: Fugitive Planning & Black Study by Stefano Harney and Fred Moten, Decolonising Design by Dori Tunstall and Archive Fever by Jacques Derrida. This project is made possible by a grant from the incentive program of the Women* and Gender Equality Officer at the Faculty of Design, Berlin University of the Arts, equalACT and the Berlin Chancengleichheitsprogramm (BCP)\n\nZwingende Voraussetzung: Anmeldeform: k.griffith@udk-berlin.de",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2026-10-30",
+     "room": null,
+     "building": null,
+     "group": "Griffith_Bookmarks to Remember and Dismember",
+     "note": "u.n.V. (Raum: TBC)"
+    },
+    {
+     "weekday": 2,
+     "start": "13:00",
+     "end": "19:00",
+     "rhythm": "single",
+     "first_date": "2026-12-02",
+     "last_date": "2026-12-02",
+     "room": null,
+     "building": null,
+     "group": "Griffith_Bookmarks to Remember and Dismember",
+     "note": "u.n.V. (Raum: TBC)"
+    },
+    {
+     "weekday": 2,
+     "start": "13:00",
+     "end": "19:00",
+     "rhythm": "single",
+     "first_date": "2026-12-09",
+     "last_date": "2026-12-09",
+     "room": null,
+     "building": null,
+     "group": "Griffith_Bookmarks to Remember and Dismember",
+     "note": "u.n.V. (Raum: TBC)"
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Griffith_Bookmarks to Remember and Dismember"
+   }
+  },
+  {
+   "id": "udk_hisinone:16033:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "BA ISS/Gym 7.1 Fachdidaktik I Einführung: (Wie) Kunst vermitteln? Situierte Praktiken und Zugänge",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16033&periodId=342",
+   "type": "Seminar",
+   "number": "1KD469a",
+   "lecturers": [
+    "Silke Wittig"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Was heißt es, Kunst zu vermitteln? Welche kunstnahen, situierten Praktiken und Modi des Zeigens von Kunst können zugleich subjektive Zugänge ermöglichen und ästhetische Prozesse im Kunstunterricht provozieren? Welche Rolle spielen die eigene Situierung, die institutionelle Rahmung und die Aspekte Raum, Materialität und Medialität? Und wie bedingen sie sich? Im Einführungsseminar befassen wir uns mit den spezifischen Herausforderungen, Widersprüchen, Potenzialen und Zugängen ausgewählter kunstpädagogischer Positionen und kunstdidaktischer Fragestellungen. Anhand von Theorie und Raum für praktische Erprobungen reflektieren wir unsere eigene Situiertheit und entwerfen erste Perspektiven für die eigene kunstpädagogische Praxis und Haltung. ​ ​Das Seminar findet im Zweiwochen-Rhythmus an den folgenden Terminen statt: 20.10.26, 03.11.26, 17.11.26, 01.12.26, 15.12.26, 05.01.27, 19.01.27, 02.02.27\n\nZwingende Voraussetzung: Anmeldung bis zum 15.09.2026 via Moodle, Einschreibeschlüssel: WieKunstVermitteln Sollten alle Seminarplätze belegt und eine Einschreibung nicht mehr möglich sein, bitte zwecks Warteliste per Email an s.wittig@udk-berlin.de wenden\n\nZu erbringende Studienleistung: - Kurzimpuls zu einer Theorie-Position - Kartierung zur eigenen kunstpädagogischen Haltung Genauere Informationen zur Studienleistung werden in der ersten Sitzung am 20.10.2026 besprochen.\n\nLiteratur: Siehe Moodle-Kurs",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "09:00",
+     "end": "12:00",
+     "rhythm": "biweekly",
+     "first_date": "2026-10-20",
+     "last_date": "2027-01-26",
+     "room": "Ha33 - 004",
+     "building": "UDK:Ha33",
+     "group": "Wittig_BA ISS/Gym 7.1 Fachdidaktik I Einführung: (Wie) Kunst vermitteln? Situierte Praktiken und Zugänge",
+     "note": "Silke Wittig"
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Wittig_BA ISS/Gym 7.1 Fachdidaktik I Einführung: (Wie) Kunst vermitteln? Situierte Praktiken und Zugänge"
+   }
+  },
+  {
+   "id": "udk_hisinone:16076:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "ADDONS (Finanzierungsstrategien)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16076&periodId=342",
+   "type": "Seminar",
+   "number": "1KiK703l",
+   "lecturers": [
+    "Kristina Leko"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Die Lehrveranstaltung ist als Ergänzung zum Projektkolloquium „Intervenieren und Experimentieren im öffentlichen und sozialen Raum“ konzipiert und widmet sich der Finanzierung und dem Anwerben von Ressourcen für eigene künstlerische Projekte. Wenn wir als Künstler*innen von unseren Projekten leben wollen, brauchen wir neben künstlerischen auch unternehmerische Kompetenzen. Doch wie viel unternehmerisches Denken ist notwendig, um die eigene Arbeit nachhaltig zu gestalten? Muss finanziell tragfähige künstlerische Arbeit immer kommerziell oder neoliberal sein? Oder lässt sich das künstlerische Unternehmertum auch positiv verstehen? Zu Beginn des Semesters verschaffen wir uns einen Überblick über mögliche Finanzierungsquellen: Ausschreibungen, öffentliche Förderprogramme, Stiftungen sowie alternative Finanzierungsstrategien, nachhaltige Projektmodelle und Kooperationen werden gemeinsam recherchiert und analysiert. Zudem betrachten wir positive Beispiele künstlerischen Unternehmertums sowie aktuelle Coaching-Angebote für Künstler*innen, etwa Brainard Carey und sein Praxis Center for Aesthetic Studies. Im weiteren Verlauf arbeiten die Studierenden an konkreten Aufgaben für ihre eigenen Projekte, entwickeln eine individuelle Finanzierungsstrategie und stellen im Laufe des Semesters einen Finanzierungsantrag sowie eine Kooperationsanfrage für ihr Vorhaben.\n\nLernziele: Ziel des Seminars ist es, künstlerische Projekte nicht nur inhaltlich und konzeptuell, sondern auch strukturell, organisatorisch und finanziell zu denken.\n\nZwingende Voraussetzung: Teilnahmevoraussetzung ist ein konkretes Projektvorhaben. Die Studierenden können auch in Zweiergruppen an einem Vorhaben arbeiten. Regelmäßige aktive Teilnahme, Ausarbeitung einer Finanzierungsstrategie und eines Finanzplans sowie Einreichung eines Finanzierungsantrags und einer Kooperationsanfrage. Anmeldung per Email an: k.leko@udk-berlin.de",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "18:00",
+     "end": "20:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Ha33 - 102",
+     "building": "UDK:Ha33",
+     "group": "Leko_ADDONS (Finanzierungsstrategien)",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Leko_ADDONS (Finanzierungsstrategien)"
+   }
+  },
+  {
+   "id": "udk_hisinone:16045:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Spiele - Regeln - Lernen: Das Spiel im Kunstunterricht",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16045&periodId=342",
+   "type": "Blockveranstaltung",
+   "number": "1KD462c",
+   "lecturers": [
+    "Lennart Krauss"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Worin unterscheiden sich \"Spiel\", \"Kunst\" und \"Bildung\"? Welche Gemeinsamkeiten weisen sie auf und wie können sie aufeinander Bezug nehmen? Wie kreativ ist \"spielerisches Lernen\"? Welche Folgen hat eine \"Gamification\" von Unterrichtsmethoden in der Schule? Und welche Perspektiven eröffnet eine Pädagogik des Spiels für den Kunstunterricht? ​Kindliche Entwicklung vollzieht sich spielerisch in der Erprobung und Verhandlung der erfahrbaren Umwelt. In pädagogischen Kontexten wird spielerisches Lernen zum einen für seine motivierende Funktion geschätzt, zum anderen für seinen Selbstzweck. Die pädagogische Indienstnahme des Spiels wird dabei zuweilen kritisch gesehen, ebenso wie die bruchlose Einbettung von wettbewerbsbasierten Spielen in die Konkurrenzverhältnisse der Schule. ​Die Begriffe \"Spiel\" und \"Kunst\" in ihrem pädagogischen Verhältnis sind Ausgangspunkt dieses Blockseminars, das sich mit den Freiheiten und Grenzen beider Tätigkeitsbereiche befassen möchte. Dazu werden grundlegende Texte zu Spieltheorie und Spielpädagogik gelesen und diskutiert. Spielerische Vollzüge sind von gesellschaftlichen Strukturen geprägt und stellen eine Einübungsform dar, die auch in pädagogischen Kontexten Anwendung findet. Neben der theoretischen, kunstpädagogischen Betrachtung des Themenfeldes eröffnen Praxisbeispiele und auch eigene Konzeptionen des künstlerischen, spielbasierten Lernens Perspektiven für den Kunstunterricht. ​ ​Das Seminar findet nach einer vorbereitenden Einführungssitzung an drei aufeinanderfolgenden Tagen statt. Anmeldung unter lennart.krauss@udk-berlin.de bis zum 9.10.2026. ​\n\nZwingende Voraussetzung: Das Seminar findet nach einer vorbereitenden Einführungssitzung an drei aufeinanderfolgenden Tagen statt. Anmeldung unter lennart.krauss@udk-berlin.de bis zum 9.10.2026.",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-10-12",
+     "last_date": "2026-10-12",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Krauss_Spiele - Regeln - Lernen: Das Spiel im Kunstunterricht",
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "17:00",
+     "rhythm": "block",
+     "first_date": "2026-11-09",
+     "last_date": "2026-11-09",
+     "room": "Ha33 - 011A",
+     "building": "UDK:Ha33",
+     "group": "Krauss_Spiele - Regeln - Lernen: Das Spiel im Kunstunterricht",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Krauss_Spiele - Regeln - Lernen: Das Spiel im Kunstunterricht"
+   }
+  },
+  {
+   "id": "udk_hisinone:16089:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Werkstatt Erzählen & Spielen",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16089&periodId=342",
+   "type": "Seminar",
+   "number": "1KD405h",
+   "lecturers": [
+    "Conrad Rodenberg"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Spielen ist eine zentrale ästhetische Praxis von Kindern, an die zahlreiche weitere Formen der Selbst- und Weltaneignung anschließen. Modi des Spielens scheinen im Erwachsenenalter oft wenig zugänglich, sind aber für das Einnehmen der ‘Perspektive Kind’ im Kontext ästhetischer (Selbst-)Bildungsprozesse von großer Bedeutung. In diesem Werkstattseminar werden wir uns dem Spielen mit neuen Zugängen (wieder) annähern. Im Besonderen werden wir uns dabei mit unterschiedlichen Erzählspielen beschäftigen, die, aus der Tradition von Abenteuer- und Rollenspielen ab Mitte der 1970er Jahre kommend, in den letzten Jahrzehnten eine Öffnung hin zum verstärkt kollektiven Erzählen von Geschichten erfahren haben. Im Zentrum steht das Ausloten narrativer Spielräume, die Nähe zu kindlichen Rollenspielen herstellen sowie die Beschäftigung mit der Frage, inwiefern Menschen ‘natural born storyteller’ sind.\n\nLernziele: Erwerb der Fähigkeit, sich Zugänge zu eigenen ästhetischen (Selbst-)Bildungsprozessen zu erschließen und diese in Bezug zu ästhetischen Praktiken von Kindern zu setzen\n\nEmpfohlene Voraussetzung: abgeschlossenen Einführungsmodul in MÄERZ (BA)\n\nZwingende Voraussetzung: Anmeldung per E-Mail an c.rodenberg@udk-berlin.de\n\nZu erbringende Prüfungsleistung: -\n\nZu erbringende Studienleistung: Aktive Teilnahme; Präsentation (mindestens 10 Minuten) eigener ästhetischer Erfahrung\n\nQualifikationsziel: Reflexion eigener ästhetischer Erfahrungen sowie die Verknüpfung mit einschlägiger Literatur aus dem Feld der Ästhetischen Bildung\n\nZielgruppe: Grundschullehramtsstudierende mit den vertieften Fächern Musik und Bildende Kunst, sowie FU-Grundschullehramtsstudierende, die MÄERZ im Ergänzungsbereich wählen\n\nLehrmethoden: Experimentelle Gruppenarbeit; seminarbegleitendes Erstellen eines unbenoteten Portfolios zur Seminarreflexion\n\nLiteratur: Literatur wird gemeinsam und sukzessive im Seminar recherchiert und diskutiert.",
+   "sessions": [
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "17:00",
+     "rhythm": "single",
+     "first_date": "2027-01-16",
+     "last_date": "2027-01-16",
+     "room": "BuA - 009",
+     "building": null,
+     "group": "Rodenberg_Werkstatt Erzählen & Spielen",
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "10:00",
+     "end": "15:00",
+     "rhythm": "single",
+     "first_date": "2027-01-17",
+     "last_date": "2027-01-17",
+     "room": "BuA - 009",
+     "building": null,
+     "group": "Rodenberg_Werkstatt Erzählen & Spielen",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Rodenberg_Werkstatt Erzählen & Spielen"
+   }
+  },
+  {
+   "id": "udk_hisinone:16057:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Die Kunst und die Künste",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16057&periodId=342",
+   "type": "Seminar",
+   "number": "1KWi539a",
+   "lecturers": [
+    "Katharina Hausladen"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Die Frage, ob es sinnvoll ist, von der Kunst im Singular zu sprechen, gehört zu den zentralen Problemen der zeitgenössischen Ästhetik und Kunsttheorie. Gibt es eine von anderen menschlichen Tätigkeiten zuverlässig unterscheidbare Sphäre der Kunst, die unterschiedliche Genres, Disziplinen und Praktiken in sich zusammenfasst, oder stellen Vielfalt und Intermedialität ästhetischer Formen diese Einheit grundsätzlich infrage? Ausgehend von Theodor W. Adornos Diagnose einer „Verfransung der Künste“ untersucht das Seminar die zunehmende Entgrenzung der Künste seit den Avantgarden des 20. Jahrhunderts. Im Zentrum stehen dabei insbesondere die künstlerischen Transformationen seit den 1960er Jahren – vom Readymade über Fluxus, Happening und Land-Art bis zu Nouvelle Vague, Direct Cinema und Formen des musikalischen Minimalismus. Praktiken wie Performance, Kunstvideo, Popmusik und künstlerischer Aktivismus – von Mike Kelley und Adrian Piper über Arthur Jafa und Josiane M.H. Pozi bis zu Forensic Architecture und Florentina Holzinger – führen diese Entwicklung bis in die Gegenwart fort. Anmeldung bis zum 21.10.2026 per E-Mail an k.hausladen@udk-berlin.de\n\nLernziele: Ziel ist ein methodisch-kritischer Überblick über zentrale kunst- und kulturtheoretische Positionen sowie die kritische Reflexion von Begriffen wie Autonomie, Werk, Medium und Genre unter den Bedingungen massenmedialer und digitaler Öffentlichkeiten.\n\nEmpfohlene Voraussetzung: Vorkenntnisse kunst- und kulturtheoretischer Denkschulen sind wünschenswert, jedoch nicht notwendig.\n\nZwingende Voraussetzung: Regelmäßige Anwesenheit (80 %) sowie die Vorbereitung und Diskussion der Seminarlektüre werden vorausgesetzt.\n\nZu erbringende Prüfungsleistung: Die Prüfungsleistung richtet sich nach Studiengang, Modul und geltender Studien- und Prüfungsordnung.\n\nZu erbringende Studienleistung: Regelmäßige und aktive Teilnahme, einschließlich der Vorbereitung und Diskussion der Seminarlektüre, sowie ein Referat (ca. 20 Minuten).\n\nQualifikationsziel: Fähigkeit zur eigenständigen Analyse und kritischen Diskussion kunst- und kulturtheoretischer Texte und ästhetischer Praktiken.\n\nLehrmethoden: Im Mittelpunkt steht die Analyse der Übergänge zwischen Musik, bildender Kunst, Film und digitalen Medien anhand theoretischer Texte sowie ausgewählter ästhetischer Praktiken.\n\nLiteratur: Literatur (Auswahl): Georg W. Bertram / Stefan Deines / Daniel Martin Feige (Hg.), Die Kunst und die Künste. Ein Kompendium zur Kunsttheorie der Gegenwart , Berlin: Suhrkamp 2021. Peter Bürger, Theorie der Avantgarde , Berlin: Suhrkamp 1974. Hubertus Butin, Begriffslexikon zur zeitgenössischen Kunst , Köln: Snoeck 2014. Douglas Crimp, Our Kind of Movie , Cambridge, MA: MIT Press 2012. Diedrich Diederichsen, Über Pop-Musik , Köln: Kiepenheuer & Witsch 2014. Rosalind Krauss, A Voyage on the North Sea. Art in the Age of the Post-Medium Condition , London: Thames & Hudson 1999. Juliane Rebentisch, T heorien der Gegenwartskunst. Zur Einführung . Hamburg: Junius 2013. Kristin Ross, The Politics and Poetics of Everyday Life , London / New York: Verso 2023. Marina Vishmidt / Kerstin Stakemeier, Reproducing Autonomy. Work, Money, Crisis and Contemporary Art , London: Mute 2016. La Monte Young / Jackson Mac Low (Hg.), An Anthology of Chance Operations , New York 1963.",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "15:00",
+     "end": "19:00",
+     "rhythm": "single",
+     "first_date": "2026-10-28",
+     "last_date": "2026-10-28",
+     "room": "Ha33 - 151",
+     "building": "UDK:Ha33",
+     "group": "Hausladen_Die Kunst und die Künste",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "15:00",
+     "end": "19:00",
+     "rhythm": "single",
+     "first_date": "2026-11-11",
+     "last_date": "2026-11-11",
+     "room": "Ha33 - 151",
+     "building": "UDK:Ha33",
+     "group": "Hausladen_Die Kunst und die Künste",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "15:00",
+     "end": "19:00",
+     "rhythm": "single",
+     "first_date": "2026-12-02",
+     "last_date": "2026-12-02",
+     "room": "Ha33 - 151",
+     "building": "UDK:Ha33",
+     "group": "Hausladen_Die Kunst und die Künste",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "15:00",
+     "end": "19:00",
+     "rhythm": "single",
+     "first_date": "2027-01-06",
+     "last_date": "2027-01-06",
+     "room": "Ha33 - 151",
+     "building": "UDK:Ha33",
+     "group": "Hausladen_Die Kunst und die Künste",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "15:00",
+     "end": "19:00",
+     "rhythm": "single",
+     "first_date": "2027-01-20",
+     "last_date": "2027-01-20",
+     "room": "Ha33 - 151",
+     "building": "UDK:Ha33",
+     "group": "Hausladen_Die Kunst und die Künste",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "15:00",
+     "end": "17:00",
+     "rhythm": "single",
+     "first_date": "2027-02-03",
+     "last_date": "2027-02-03",
+     "room": "Ha33 - 151",
+     "building": "UDK:Ha33",
+     "group": "Hausladen_Die Kunst und die Künste",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Hausladen_Die Kunst und die Künste"
+   }
+  },
+  {
+   "id": "udk_hisinone:16103:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "LiveVideo",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16103&periodId=342",
+   "type": "theoret.-prakt. Lehrveranstaltung",
+   "number": "1KW208f",
+   "lecturers": [
+    "Stefan Kunzmann"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: In dem Kurs wollen wir Möglichkeiten und Techniken kennenlernen, Video über das rein “Filmische” hinaus für Installationen oder Performance-Projekte zu nutzen. Im Laufe des Semesters untersuchen wir gemeinsam Beispiele künstlerischer Arbeiten auf ihre Machart, lernen einige Grundlagen, recherchieren weitere Techniken und Anwendungsmöglichkeiten und probieren diese in kleinen praktischen Projekten aus. ​Einige der Themen: Mehrkanal-Video – Mischen von unterschiedlichen Videosignalen, Animationen oder Grafiken “in Echtzeit”. Manipulation von Live-Streams mit Effekten. – Erkennen von Farben oder Bewegungen mit der Kamera zur Steuerung von anderen Videos (Stichwort “Tracking”). ​Im Laufe der Kurse arbeiten die Teilnehmenden an kleinen Übungen und entwickeln eigene kleine Projekte.\n\nZwingende Voraussetzung: Anmeldung per E-Mail an kunzmann@udk-berlin.de",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "10:00",
+     "end": "13:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-20",
+     "last_date": "2027-02-16",
+     "room": "Ha33 - 141",
+     "building": "UDK:Ha33",
+     "group": "Kunzmann_LiveVideo",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Kunzmann_LiveVideo"
+   }
+  },
+  {
+   "id": "udk_hisinone:16070:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Worldbuilding - Einführung in Virtual Reality (VR)und Mixed Reality (MR)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16070&periodId=342",
+   "type": "Werkstatt/Übung/Kurs",
+   "number": "1KW209l",
+   "lecturers": [
+    "Vadim Schäffler"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: **Worldbuilding** - **Einführung in Virtual Reality (VR)und Mixed Reality (MR):** theoret.-prakt. Lehrveranstaltung für Studierende ohne Vorkenntnisse Wie entsteht eine eigene VR-Welt? Welche Atmosphären, Mechaniken und Bilder lassen sich kreieren und erlebbar machen? In diesem Seminar vermitteln wir grundlegende Techniken des Worldbuildings in Virtual Reality (VR) und Mixed Reality (MR). Wir experimentieren mit dem Entwerfen virtueller Räume, kombinieren gefundene und selbst modellierte 3D-Objekte, setzen Licht und Sound ein und machen unsere Welten im VR-Headset begehbar. Dabei lernen wir Schritt für Schritt, mit einem VR-Skulpting-Werkzeug zu arbeiten, und gewinnen Einblicke in die Grundlagen der Game-Engine Unity – vom ersten Entwurf bis zur einfachen interaktiven Szene. Am Ende steht eine gemeinsame VR-Welt aller Studierenden: ein begehbares Environment, das gleichzeitig Spielfeld und künstlerischer Raum sein kann. **Termine:** - 21.10.25 – 16.12.2025, jeweils am Mittwoch, von 13:00 - 16:00 Uhr im Raum 139 Der Kurs richtet sich an Studierende ohne Vorkenntnisse in VR- oder 3D-Techniken (Grundlagen in 3D-Techniken sind hilfreich, aber nicht entscheidend). Bei mehr Anmeldungen als verfügbaren Plätzen entscheidet die Projektbeschreibung über die Teilnahme. Anmeldung bis zum 11**. Oktober 2025** an v.schaeffler@udk-berlin.de bitte mit folgenden Angaben: - kurze Beschreibung eines geplanten Projektes - Name - Studiengang - Klasse - Semester - Matrikelnummer - Wird ein Werkstattschein benötigt (Ja/Nein)? Anmerkungen: Nicht für Gast- und Nebenhörer geeignet. Zahl der Teilnehmenden beschränkt, nur mit Voranmeldung. Die Veranstaltung beginnt pünktlich. Die Anmeldungen sind verbindlich – bei unentschuldigtem Fernbleiben erfolgt eine Sperrung für die Teilnahme an Veranstaltungen in der Werkstatt für das darauffolgende Semester. Leistungsnachweis: Werkstattschein der Medienwerkstatt (nur bei regelmäßiger Teilnahme und der Realisation einer eigenen Arbeit). Bemerkung: Information für ERASMUS- und Austauschstudierende: Teilnahme nach Absprache mit dem Lehrenden und maximal 4 ECTS. Information for ERASMUS and other exchange students: Participation dependent on consultation with the teacher concerned and maximum 4 ECTS credits.",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "13:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-21",
+     "last_date": "2026-12-16",
+     "room": "Ha33 - 139",
+     "building": "UDK:Ha33",
+     "group": "Schäffler_Worldbuilding - Einführung in Virtual Reality (VR)und Mixed Reality (MR)",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Schäffler_Worldbuilding - Einführung in Virtual Reality (VR)und Mixed Reality (MR)"
+   }
+  },
+  {
+   "id": "udk_hisinone:16083:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Ortsspezifik",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16083&periodId=342",
+   "type": "Seminar",
+   "org": "Fakultät Gestaltung",
+   "description": "Inhalte: Das Seminar stellt künstlerische Entwürfe der letzten fünf Jahrzehnte vor, die Ortsspezifik und damit konkrete lokale Bedingungen verhandeln und betrachtet sie im Hinblick auf ihre Bedeutung für architektonische Entwürfe. Das Seminar findet, nach zwei vorbereitenden Sitzungen, als Blockveranstaltung an zwei Wochenenden im Wintersemester statt. Anmeldung in der ersten Sitzung ​ ​BA Architektur: Modul 12/14, 2 SWS, 3-5 ECTS MA Architektur: Modul 3/5, 2 SWS, 3-5 ECTS BA/MA Visuelle Kommunikation: Theorie Offen für alle Studiengänge der Fakultäten 1 und 2",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "17:00",
+     "end": "18:30",
+     "rhythm": "single",
+     "first_date": "2026-10-22",
+     "last_date": "2026-10-22",
+     "room": "Ha33 - 310",
+     "building": "UDK:Ha33",
+     "group": "Ortsspezifik",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "17:00",
+     "end": "18:30",
+     "rhythm": "single",
+     "first_date": "2026-10-29",
+     "last_date": "2026-10-29",
+     "room": null,
+     "building": null,
+     "group": "Ortsspezifik",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:16116:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Grundlagen: Installation",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16116&periodId=342",
+   "type": "Blockveranstaltung",
+   "number": "1KD471a",
+   "lecturers": [
+    "Antje Blumenstein",
+    "Anna Slobodnik"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Arbeit im Raum Dieser praxisorientierte Kurs führt in die Grundlagen und Konzepte der Installationskunst ein. Die Teilnehmer*Innen setzen sich mit dem Zusammenspiel von Raum, Objekt, Materialität und Betrachterwahrnehmung auseinander, besuchen aktuelle Ausstellungen und setzen Erkenntnisse und Ideen in installative Arbeiten um.",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-02-19",
+     "last_date": "2027-02-21",
+     "room": "Ha33 - 071",
+     "building": "UDK:Ha33",
+     "group": "Blumenstein_Grundlagen: Installation",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Blumenstein_Grundlagen: Installation"
+   }
+  },
+  {
+   "id": "udk_hisinone:16129:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Apokalypse: Ästhetik der Offenbarung",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16129&periodId=342",
+   "type": "Blockveranstaltung",
+   "number": "1KWi523c",
+   "lecturers": [
+    "Dr. Oxana Timofeeva"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Das Wort „Apokalypse“ wird heute meist im Sinne von „Weltuntergang“ bzw. „Ende der Zeit“ verstanden. Dabei stellt man sich kommende planetarische oder kosmische Katastrophen vor, die unsere Zivilisation bedrohen. Atomkrieg, Klimakatastrophe, Aussterben und sogar eine „KI-Apokalypse“ sind häufige Beispiele, die unsere Vorstellung von der Zukunft prägen und zugleich einen Horizont der Gegenwart bilden. Wie kann man in diesem Horizont leben? Diese Frage wollen wir aus ästhetischer Perspektive erörtern, ausgehend von der ursprünglichen Bedeutung des Wortes „Apokalypse“, das aus dem Altgriechischen als „Offenbarung“ übersetzt wird. Es geht also nicht um eine katastrophale Zukunft, sondern um Visionen der Gegenwart und um die Art und Weise, wie Philosophie und Künste mit solchen Visionen umgehen. Wir lesen und analysieren Texte von Günther Anders, Walter Benjamin, Antonin Artaud, Susan Sontag und anderen, die diese Frage radikal stellen. Zum Abschluss schauen wir den Film Lieder von Hoffnung und Verzweiflung (Chto Delat, 2025) und diskutieren ihn gemeinsam mit den Künstler:innen. Anmeldung: bis zum 01.12.2026 per E-Mail an o.timofeeva@udk-berlin.de",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "12:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2026-12-19",
+     "last_date": "2026-12-20",
+     "room": "Ha33 - 151",
+     "building": "UDK:Ha33",
+     "group": "Timofeeva_Apokalypse: Ästhetik der Offenbarung",
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "12:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-01-30",
+     "last_date": "2027-01-31",
+     "room": "Ha33 - 102",
+     "building": "UDK:Ha33",
+     "group": "Timofeeva_Apokalypse: Ästhetik der Offenbarung",
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-02-12",
+     "last_date": "2027-02-12",
+     "room": "Ha33 - 151",
+     "building": "UDK:Ha33",
+     "group": "Timofeeva_Apokalypse: Ästhetik der Offenbarung",
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-02-13",
+     "last_date": "2027-02-13",
+     "room": "Ha33 - 102",
+     "building": "UDK:Ha33",
+     "group": "Timofeeva_Apokalypse: Ästhetik der Offenbarung",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Timofeeva_Apokalypse: Ästhetik der Offenbarung"
+   }
+  },
+  {
+   "id": "udk_hisinone:16097:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Ästhetische Erfahrung in der Kindheit im Kontext der Künste (A)",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16097&periodId=342",
+   "type": "Blockveranstaltung",
+   "number": "1KD402e",
+   "lecturers": [
+    "Elisa Bauer"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Zwingende Voraussetzung: Anmeldung per E-Mail an el.bauer@udk-berlin.de",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "17:00",
+     "rhythm": "block",
+     "first_date": "2026-10-31",
+     "last_date": "2026-10-31",
+     "room": "BuA - 009",
+     "building": null,
+     "group": "Bauer_Ästhetische Erfahrung in der Kindheit im Kontext der Künste (A)",
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "15:00",
+     "rhythm": "block",
+     "first_date": "2026-11-01",
+     "last_date": "2026-11-01",
+     "room": "BuA - 009",
+     "building": null,
+     "group": "Bauer_Ästhetische Erfahrung in der Kindheit im Kontext der Künste (A)",
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "17:00",
+     "rhythm": "block",
+     "first_date": "2026-11-14",
+     "last_date": "2026-11-14",
+     "room": "BuA - 009",
+     "building": null,
+     "group": "Bauer_Ästhetische Erfahrung in der Kindheit im Kontext der Künste (A)",
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "15:00",
+     "rhythm": "block",
+     "first_date": "2026-11-15",
+     "last_date": "2026-11-15",
+     "room": "BuA - 009",
+     "building": null,
+     "group": "Bauer_Ästhetische Erfahrung in der Kindheit im Kontext der Künste (A)",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Bauer_Ästhetische Erfahrung in der Kindheit im Kontext der Künste (A)"
+   }
+  },
+  {
+   "id": "udk_hisinone:16148:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Zwischen Nähe und Distanz –Inszenierung und Beziehungen im Film",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16148&periodId=342",
+   "type": "Seminar",
+   "number": "2617002",
+   "lecturers": [
+    "Jeroen Wijne"
+   ],
+   "org": "Fakultät Gestaltung",
+   "description": "Inhalte: Die Schreibwerkstatt mit Berlinale-Regisseurin Alissa Jung eröffnet das Semester und bildet den Ausgangspunkt für die Entwicklung der Kurzfilmprojekte. Ausgehend von persönlichen Beobachtungen, Erinnerungen und Erfahrungen zum Thema Liebe werden erste Figuren, Situationen und Erzählansätze entwickelt. Im Zentrum steht die Frage: Wie wird aus einer Beobachtung, einer Erinnerung oder einem Gefühl eine filmische Situation? In konzentrierten Schreibübungen, Figurenarbeit und gemeinsamen Lesungen wird Material gesammelt, erprobt und verdichtet. Dabei geht darum einen Stoff zu entdecken und seine filmischen Möglichkeiten auszuloten.",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "13:00",
+     "end": "13:45",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": null,
+     "building": null,
+     "group": "2617002 - Zwischen Nähe und Distanz –Inszenierung und Beziehungen im Film",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
+  },
+  {
+   "id": "udk_hisinone:16109:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Maximal Systems. On Beauty. And Love",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16109&periodId=342",
+   "type": "Seminar",
+   "number": "1KWi544a",
+   "lecturers": [
+    "Prof. Dr. Angelika Seppi"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: Was ist es, das uns am Schönen so tief bewegt – und was hat diese Bewegung mit Liebe und Begehren zu tun? Woher rührt das Gefühl, dass es in der ästhetischen Erfahrung um mehr geht als um Geschmack oder Gefallen, dass sie uns etwas sagt, das sich anderswo nicht sagen lässt? Und was könnte es bedeuten, in einer von Krisen und Katastrophen geprägten Gegenwart Kategorien wie Schönheit und Liebe nicht als bürgerliche Flucht aus der Politik, sondern als mögliche Formen des Widerstands und der Veränderung ernst zu nehmen? Das Seminar geht diesen Fragen nach, indem es das Schöne und die Liebe als ästhetische, affektive und politische Kräfte untersucht. Im Zentrum steht dabei weniger die Frage, was das Schöne oder die Liebe sind, als vielmehr, was sie tun: wie sie unsere Wahrnehmung verändern, Begehren hervorbringen, Aufmerksamkeit lenken, Bindungen schaffen und andere Formen des Miteinanders vorstellbar und erfahrbar machen. Neben philosophischen Texten bilden Literatur und Kunst den Gegenstand der Diskussion. Das Seminar arbeitet dabei nicht chronologisch, sondern konstellativ. Unterschiedliche Werke, Stimmen, Wissens- und Kunstformen werden über historische, geografische und mediale Grenzen hinweg miteinander in Beziehung gesetzt. So können etwa Sapphos Fragmente neben der Lyrik Lal Deds stehen, Dantes Kosmologie neben der Mystik Rumis oder Pasolinis Filme neben der Dichtung Audre Lordes. Fragen nach Geschlecht, Begehren, Körper und Klasse sowie nach kolonialen Ordnungen gehören ebenso zum Seminar wie Fragen nach Wahrnehmung, Intimität, Fürsorge und Imagination. Ziel des Seminars ist es, Schönheit und Liebe als ästhetische, affektive und politische Kräfte kritisch zu befragen, ihre widersprüchlichen Wirkungen und gesellschaftlichen Bedingungen zu analysieren und eigene theoretische wie künstlerische Perspektiven darauf zu entwickeln.\n\nZwingende Voraussetzung: Eine Anmeldung bis 9.10.2026 unter Angabe von Name, Matrikelnummer und Studiengang ist erforderlich. ​ ​Anmeldung unter: a.seppi@udk-berlin.de\n\nZu erbringende Prüfungsleistung: Regelmäßige Teilnahme und Referat\n\nZu erbringende Studienleistung: Vorbereitung der Sitzung durch Lektüren, Erarbeitung eines Themas",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Ha33 - 110",
+     "building": "UDK:Ha33",
+     "group": "Seppi_Maximal Systems. On Beauty. And Love",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Seppi_Maximal Systems. On Beauty. And Love"
+   }
+  },
+  {
+   "id": "udk_hisinone:16123:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16123&periodId=342",
+   "type": "Blockveranstaltung",
+   "number": "1KWi510e",
+   "lecturers": [
+    "Mathilda Blanquet"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "description": "Inhalte: This seminar approaches curating and guiding as complementary methods of art-historical inquiry. Students select 4–5 works from the Gemäldegalerie's collection and build a thematic visit around a question drawn from a proposed list - female and male nudity, the body and political power, martyrdom, the abduction of women, landscape as autonomous subject, self-portraiture and the artist's signature, the city represented, among others - or a theme of their own devising, subject to approval. Reading across European art of the 15th–16th centuries, the seminar combines art-historical methods (iconography, gender studies, political history) to introduce students to both cultural mediation and critical problematization.\n\nZwingende Voraussetzung: Anmeldung per Email an:",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "16:30",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-10-29",
+     "last_date": "2026-10-29",
+     "room": null,
+     "building": null,
+     "group": "Blanquet_Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie",
+     "note": "Oktober 29 : Ha33 151 / Dezember 10 : Ha151 / Andere Termine @Gemäldgalerie Berlin"
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-05",
+     "last_date": "2026-11-05",
+     "room": null,
+     "building": null,
+     "group": "Blanquet_Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie",
+     "note": "Oktober 22 : Ha33 102 / Dezember 10 : Ha151 / Andere Termine @Gemäldgalerie Berlin"
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-12-10",
+     "last_date": "2026-12-10",
+     "room": null,
+     "building": null,
+     "group": "Blanquet_Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie",
+     "note": "Oktober 22 : Ha33 102 / Dezember 10 : Ha151 / Andere Termine @Gemäldgalerie Berlin"
+    },
+    {
+     "weekday": 3,
+     "start": "12:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-28",
+     "last_date": "2027-01-28",
+     "room": null,
+     "building": null,
+     "group": "Blanquet_Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie",
+     "note": "Oktober 22 : Ha33 102 / Dezember 10 : Ha151 / Andere Termine @Gemäldgalerie Berlin"
+    },
+    {
+     "weekday": 1,
+     "start": "12:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-02-02",
+     "last_date": "2027-02-02",
+     "room": null,
+     "building": null,
+     "group": "Blanquet_Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie",
+     "note": "Oktober 22 : Ha33 102 / Dezember 10 : Ha151 / Andere Termine @Gemäldgalerie Berlin"
+    },
+    {
+     "weekday": 1,
+     "start": "12:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-02-09",
+     "last_date": "2027-02-09",
+     "room": null,
+     "building": null,
+     "group": "Blanquet_Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie",
+     "note": "Oktober 22 : Ha33 102 / Dezember 10 : Ha151 / Andere Termine @Gemäldgalerie Berlin"
+    },
+    {
+     "weekday": 3,
+     "start": "12:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-02-11",
+     "last_date": "2027-02-11",
+     "room": null,
+     "building": null,
+     "group": "Blanquet_Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie",
+     "note": "Oktober 22 : Ha33 102 / Dezember 10 : Ha151 / Andere Termine @Gemäldgalerie Berlin"
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Blanquet_Curating and Guiding: Problematizing Renaissance Art at the Gemäldegalerie"
+   }
+  },
+  {
+   "id": "udk_hisinone:16142:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Großes Plenum",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16142&periodId=342",
+   "type": "Gruppen- und Kleingruppenunterricht",
+   "number": "1KD412i",
+   "lecturers": [
+    "Jennifer Claire Heck",
+    "Prof. Susanne Lorenz"
+   ],
+   "org": "Fakultät Bildende Kunst",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "14:30",
+     "end": "17:30",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": null,
+     "building": null,
+     "group": "Heck_Lorenz_Großes Plenum",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "raw_title": "Heck_Lorenz_Großes Plenum"
+   }
+  },
+  {
+   "id": "udk_hisinone:16155:2026W",
+   "source": "udk_hisinone",
+   "university": "UdK",
+   "semester": "2026W",
+   "title": "Work hard, play hard II - Dokumentarische Miniaturen",
+   "url": "https://my.udk-berlin.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=16155&periodId=342",
+   "type": "Vorlesung/Übung",
+   "number": "2670105",
+   "lecturers": [
+    "Juliane Großheim"
+   ],
+   "org": "Fakultät Gestaltung",
+   "description": "Inhalte: Anknüpfend an das SoSe 2026 werden wir uns nun der Praxis des dokumentarischen Filmemachens widmen. Erprobt werden soll die Suche nach geeigneten Wegen der Recherche, der Beobachtung und Vororterkundung sowie der Umgang mit Protagonist*innen. Wo verlaufen die Grenzen der Beobachtung, inwieweit beeinflusse ich als Filmemacher*in das Geschehen oder greife auf inszenatorische Mittel zurück? Formal sind den Arbeiten keine Grenzen gesetzt. Ob im Stil des Direct Cinema, des Essays oder des Interviewfilms sollen dokumentarische Miniaturen oder Kurzfilme entstehen, die sich mit dem Thema Arbeit im Allgemeinen oder mit einem spezifischen Arbeitsprozess auseinandersetzen.",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-10-22",
+     "last_date": "2026-10-22",
+     "room": "Gru - 123",
+     "building": "UDK:Gru",
+     "group": "2670105 - Work hard, play hard II - Dokumentarische Miniaturen",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-11-05",
+     "last_date": "2026-11-05",
+     "room": "Gru - 123",
+     "building": "UDK:Gru",
+     "group": "2670105 - Work hard, play hard II - Dokumentarische Miniaturen",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-11-26",
+     "last_date": "2026-11-26",
+     "room": "Gru - 123",
+     "building": "UDK:Gru",
+     "group": "2670105 - Work hard, play hard II - Dokumentarische Miniaturen",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-12-17",
+     "last_date": "2026-12-17",
+     "room": "Gru - 123",
+     "building": "UDK:Gru",
+     "group": "2670105 - Work hard, play hard II - Dokumentarische Miniaturen",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-01-14",
+     "last_date": "2027-01-14",
+     "room": "Gru - 123",
+     "building": "UDK:Gru",
+     "group": "2670105 - Work hard, play hard II - Dokumentarische Miniaturen",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-02-04",
+     "last_date": "2027-02-04",
+     "room": "Gru - 123",
+     "building": "UDK:Gru",
+     "group": "2670105 - Work hard, play hard II - Dokumentarische Miniaturen",
+     "note": null
+    }
+   ],
+   "by_arrangement": false
   }
  ]
 }
