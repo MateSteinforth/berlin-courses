@@ -8653,5 +8653,1112 @@
   "level": "any",
   "dc_relevance": 1,
   "kind": "seminar"
+ },
+ "d148454a4c6c070c": {
+  "summary": "Introduction to material studies and the aesthetics of materials, combining theory with hands-on exploration.",
+  "tags": [
+   "materials",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "8a37cb927a1aa791": {
+  "summary": "Documentation and presentation methods, focusing on visualizing work in space for exhibitions.",
+  "tags": [
+   "design",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "9b17633b78747afe": {
+  "summary": "Project exploring fruit as symbolic motif in art, myth, literature and iconography through visual communication.",
+  "tags": [
+   "art",
+   "history"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "ab5bbc83b26493d3": {
+  "summary": "Design project reflecting on the changing role of typography and graphic design amid analog-to-AI workflows and collaboration.",
+  "tags": [
+   "design",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "54e33754747e3bfb": {
+  "summary": "Project building a fictional exhibition space based on Bruno Latour's imaginary planetarium of competing future forces.",
+  "tags": [
+   "philosophy-theory",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "8d09cc074953b3fd": {
+  "summary": "Social design project on rural pubs as third places, combining data visualization and scenography with urban planning.",
+  "tags": [
+   "design",
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "c633d2579e576ec5": {
+  "summary": "Seminar examining the political and social meaning of abstract painting across historical and contemporary contexts.",
+  "tags": [
+   "art",
+   "history"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "cca863f8ce69b359": {
+  "summary": "Film seminar on contemporary film and video art, with introductions to greenscreen, Blender and DaVinci Resolve.",
+  "tags": [
+   "film-video",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "88d87468cfcfc082": {
+  "summary": "Three short painting workshops covering traditional and contemporary grounds, painting techniques and paper.",
+  "tags": [
+   "art",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "db738d5a6ba70902": {
+  "summary": "Studio discussion of students' artistic work, inspirations and process, culminating in an exhibition.",
+  "tags": [
+   "art",
+   "workshop-practice"
+  ],
+  "language": "de+en",
+  "dc_relevance": 1
+ },
+ "79be9f231ae87344": {
+  "summary": "Mandatory studio practice workspace required to earn a grade for the painting artistic practice.",
+  "tags": [
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "5b67996f43fd6efc": {
+  "summary": "Individual one-on-one consultation sessions with the painting instructor on Tuesdays.",
+  "tags": [
+   "art",
+   "education-teaching"
+  ],
+  "language": "de+en",
+  "dc_relevance": 1
+ },
+ "50433a069514582b": {
+  "summary": "Sculpture seminar on photography as installation and spatial practice, with relational approaches to images in space.",
+  "tags": [
+   "art",
+   "fabrication-making"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "e084808ff0367e0f": {
+  "summary": "Lecture surveying European theatre history from Greek tragedy through Shakespeare and French classicism to Sturm und Drang.",
+  "tags": [
+   "history",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "956cf4bc889e1b00": {
+  "summary": "Lecture on modern theatre from expressionism to absurd theatre, covering Brecht, Dada and Ausdruckstanz.",
+  "tags": [
+   "history",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "ffd8cae93ec51f3d": {
+  "summary": "Course on stage technology and technical drawing fundamentals for set design.",
+  "tags": [
+   "engineering",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "a13f3ff96accf72f": {
+  "summary": "Seminar reading dramatic and theoretical texts from various epochs in relation to contemporary discourses.",
+  "tags": [
+   "writing-language",
+   "history"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "ba0eeb3394a04e48": {
+  "summary": "Basic course on spatial design for stage sets.",
+  "tags": [
+   "design",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "ecf189e7533beff3": {
+  "summary": "Project developing a staging concept for Euripides/Pussy Riot and a free artistic work based on Pasolini's Teorema.",
+  "tags": [
+   "theatre",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "40b75fbbd5e77a77": {
+  "summary": "Seminar on radical contemporary theatre practices, with shared performance visits and discussions.",
+  "tags": [
+   "theatre",
+   "history"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "ab3eb42b0699b11f": {
+  "summary": "Colloquium supporting students preparing their theoretical master's thesis through presentations and discussion.",
+  "tags": [
+   "writing-language",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "5db84b1214a70f8c": {
+  "summary": "Workshop on preparing digital technical drawings for stage sets, coordinating with theatre technical departments and budgets.",
+  "tags": [
+   "design",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "76bea92dfad08789": {
+  "summary": "Mandatory course building a detailed 3D stage model in SketchUp and deriving digital 2D technical drawings.",
+  "tags": [
+   "design",
+   "xr-3d"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "6aea74a95b2bbd00": {
+  "summary": "Seminar on climate change as rooted in colonial histories, using decolonial ecology to imagine futures beyond the present.",
+  "tags": [
+   "sustainability",
+   "philosophy-theory"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "8f9d4f8936818a20": {
+  "summary": "Deep reading of Trouillot's Silencing the Past, examining how power shapes historical narratives and the Haitian revolution.",
+  "tags": [
+   "history",
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "fbf624f41b7f64b6": {
+  "summary": "Practice-based seminar using Mariame Kaba's abolitionist work to explore collective care and liberation through creative practice.",
+  "tags": [
+   "society-politics",
+   "art"
+  ],
+  "language": "en",
+  "dc_relevance": 1
+ },
+ "c2aaf4d0886ef005": {
+  "summary": "Seminar exploring the threshold as a concept and lived experience across physical, spatial and social perspectives.",
+  "tags": [
+   "philosophy-theory",
+   "architecture"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "f83878207a97f120": {
+  "summary": "Seminar on sound as a medium for social transformation, self-determination and emancipatory practices in art.",
+  "tags": [
+   "sound",
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "fc20f705f1959b65": {
+  "summary": "Interdisciplinary seminar on flânerie and the body as research practice within urban space.",
+  "tags": [
+   "urbanism",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "0215a1fddfbb7d15": {
+  "summary": "Seminar on digital media, internet ecologies and AI-generated imagery as contested spaces of utopia and surveillance.",
+  "tags": [
+   "media-theory",
+   "ai-ml"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "c37001277da45bbf": {
+  "summary": "Seminar reading Berlin's postwar housing and urban layers through ruination, power and displacement.",
+  "tags": [
+   "urbanism",
+   "history"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "5ab6c8b6537fc77d": {
+  "summary": "Foundation course on material, form and fabrication, exploring how processes and tools shape a three-dimensional design.",
+  "tags": [
+   "fabrication-making",
+   "materials"
+  ],
+  "language": "de+en",
+  "dc_relevance": 2
+ },
+ "b0d0e6a5626fda56": {
+  "summary": "Foundation course on anatomy and morphology as basis for artistic form and figure study.",
+  "tags": [
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "5e499d0ff126d509": {
+  "summary": "Foundation course on colour, colour relationships and painting with pigments and acrylic binders.",
+  "tags": [
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "a237eb363044a88b": {
+  "summary": "Foundation course on anatomy and morphology as basis for artistic form and figure study.",
+  "tags": [
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "f6d4f30cc7de8229": {
+  "summary": "Foundation drawing course on representing object, space and figure through perspective and figure drawing.",
+  "tags": [
+   "art",
+   "design"
+  ],
+  "language": "de+en",
+  "dc_relevance": 2
+ },
+ "bf36e106d12a5111": {
+  "summary": "Introduction to digital media fundamentals, including binary encoding, algorithms and collaborative beginner programming.",
+  "tags": [
+   "programming",
+   "media-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "535c2281ccacc130": {
+  "summary": "Foundation drawing course on representing object, space and figure through perspective and figure drawing.",
+  "tags": [
+   "art",
+   "design"
+  ],
+  "language": "de+en",
+  "dc_relevance": 2
+ },
+ "38ea619158c8b4ff": {
+  "summary": "Introduction to digital media fundamentals, including binary encoding, algorithms and collaborative beginner programming.",
+  "tags": [
+   "programming",
+   "media-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "22479e55109c0631": {
+  "summary": "Foundation drawing course on representing object, space and figure through perspective and figure drawing.",
+  "tags": [
+   "art",
+   "design"
+  ],
+  "language": "de+en",
+  "dc_relevance": 2
+ },
+ "c7121866af431b6e": {
+  "summary": "Workshop space for master's students in product design focusing on interaction perspectives and practice.",
+  "tags": [
+   "design",
+   "hci-interaction",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "c39f9e09405037ae": {
+  "summary": "Introduces digital media fundamentals such as binary numbers, encoding, and algorithms, with critical perspectives and collaborative programming for everyone.",
+  "tags": [
+   "media-theory",
+   "programming",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "f159a8d44f9c143a": {
+  "summary": "Drawing course exploring object, space and figure through axonometry, perspective, figure drawing and an individual drawing project.",
+  "tags": [
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "9c0c0e45114849fa": {
+  "summary": "Drawing course exploring object, space and figure through axonometry, perspective, figure drawing and an individual drawing project.",
+  "tags": [
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "e146868e05d20cb5": {
+  "summary": "Introduces digital media fundamentals such as binary numbers, encoding, and algorithms, with critical perspectives and collaborative programming for everyone.",
+  "tags": [
+   "media-theory",
+   "programming",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "7d32938486daceeb": {
+  "summary": "Workshop on colour theory and painting with pigments and acrylic binders, combining observation and documented creative process.",
+  "tags": [
+   "art",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "590f0d7279b5d18e": {
+  "summary": "Drawing course exploring object, space and figure through axonometry, perspective, figure drawing and an individual drawing project.",
+  "tags": [
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "5b313dcc37751d37": {
+  "summary": "Workshop on colour theory and painting with pigments and acrylic binders, combining observation and documented creative process.",
+  "tags": [
+   "art",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "e006290d86db04f8": {
+  "summary": "Workshop on colour theory and painting with pigments and acrylic binders, combining observation and documented creative process.",
+  "tags": [
+   "art",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "ad51ef3d8527f137": {
+  "summary": "Explores the history and concepts of morphology and anatomy across art, architecture, biology and materials, with hands-on studies of form.",
+  "tags": [
+   "art",
+   "history",
+   "natural-sciences"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "fe9c8aa30d3d5105": {
+  "summary": "Introduces digital media fundamentals such as binary numbers, encoding, and algorithms, with critical perspectives and collaborative programming for everyone.",
+  "tags": [
+   "media-theory",
+   "programming",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "eb5f9de7fce0b869": {
+  "summary": "Workshop on colour theory and painting with pigments and acrylic binders, combining observation and documented creative process.",
+  "tags": [
+   "art",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "87faae1c9f82f130": {
+  "summary": "Explores the history and concepts of morphology and anatomy across art, architecture, biology and materials, with hands-on studies of form.",
+  "tags": [
+   "art",
+   "history",
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "cd519293062ed391": {
+  "summary": "Introduces digital media fundamentals such as binary numbers, encoding, and algorithms, with critical perspectives and collaborative programming for everyone.",
+  "tags": [
+   "media-theory",
+   "programming",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "4ab976d7fa73d858": {
+  "summary": "Workshop on colour theory and painting with pigments and acrylic binders, combining observation and documented creative process.",
+  "tags": [
+   "art",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "4478c756b72dfff2": {
+  "summary": "Block seminar on curatorial approaches in contemporary art institutions, researching how art mediation can translate knowledge into exhibitions.",
+  "tags": [
+   "art",
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "51f98e990b8e0d1c": {
+  "summary": "Explores historical textile materials, fibre properties and production techniques, building material literacy for design and craft.",
+  "tags": [
+   "textiles-fashion",
+   "history",
+   "materials"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "f939ec713e86f353": {
+  "summary": "Reading group on the role of theory in artistic and design practice, with weekly texts and critical discussion.",
+  "tags": [
+   "philosophy-theory",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "45b28c565bcc3a1c": {
+  "summary": "Lecture surveying design history from the mid-19th century to today, reflecting on its relevance for contemporary design practice.",
+  "tags": [
+   "history",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "1d4fbadf77e981d9": {
+  "summary": "Introduction to theory and history of visual cultures, examining how images relate to queerness and queer theory.",
+  "tags": [
+   "history",
+   "philosophy-theory",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "c69f5f71f75361f0": {
+  "summary": "Seminar on fashion theory and sociology, examining clothing's functions, materiality and agency across cultures and practices.",
+  "tags": [
+   "textiles-fashion",
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "b221531dddec93f5": {
+  "summary": "Artistic research seminar on art as movement, tracing UNESCO travelling exhibitions and developing students' own collaborative projects.",
+  "tags": [
+   "art",
+   "history"
+  ],
+  "language": "en",
+  "dc_relevance": 1
+ },
+ "a53119c6fcb571c1": {
+  "summary": "Colloquium for theoretical thesis projects, offering interdisciplinary presentation and discussion of research questions and methods.",
+  "tags": [
+   "philosophy-theory",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "77c63f71f638de51": {
+  "summary": "Colloquium supporting theoretical thesis work in visual cultures, with group discussion of ongoing projects.",
+  "tags": [
+   "art",
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "82e7b10e3d75a393": {
+  "summary": "Seminar examining how generative AI tools reshape design process logic, grounded in theories of designing and their cultural contexts.",
+  "tags": [
+   "ai-ml",
+   "philosophy-theory",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "66fbfeb28fe35762": {
+  "summary": "Excursion to the 61st Venice Biennale with student presentations, discussing curation, art evaluation and global art systems.",
+  "tags": [
+   "art",
+   "history"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "7db022d768bca873": {
+  "summary": "Seminar on subversive aesthetics like kitsch and camp in the 20th century, tracing counterculture and canon-formation debates.",
+  "tags": [
+   "history",
+   "philosophy-theory",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "6c63eda215746c7a": {
+  "summary": "Seminar on curating live performance, examining relationships between curator, artist, institution and audience in exhibitions.",
+  "tags": [
+   "performance",
+   "art"
+  ],
+  "language": "en",
+  "dc_relevance": 1
+ },
+ "66e1df34408e8a66": {
+  "summary": "Course on critical writing skills for art and design students, though details are not provided in the record.",
+  "tags": [
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "53b83d42128ca30a": {
+  "summary": "Writing workshop and one-to-one consultations supporting students' texts, including those arising from artistic practice.",
+  "tags": [
+   "writing-language",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "cccaf00fe73e8cce": {
+  "summary": "Introduction to art-related media theory and philosophy of art, surveying diverse theoretical and artistic positions.",
+  "tags": [
+   "media-theory",
+   "philosophy-theory",
+   "art"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "40ea974614369dda": {
+  "summary": "Lecture on influential exhibitions of the 19th and 20th centuries, examining their political and ideological contexts and mediatisation of art.",
+  "tags": [
+   "history",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "13c5150ee392f7ab": {
+  "summary": "Seminar on surrealism and antifascism, examining theories and artistic interventions that investigate fascism and its archaeology.",
+  "tags": [
+   "history",
+   "society-politics",
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "70b99bfb2a2fe691": {
+  "summary": "Colloquium for students writing theoretical theses in art history, including academic writing instruction and project presentations.",
+  "tags": [
+   "history",
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "76a68778bdc1e398": {
+  "summary": "Block seminar on professional self-organisation for artists and designers, covering networking, marketing, legal and tax matters.",
+  "tags": [
+   "career-professional",
+   "economics-business"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "f6da4a414a9782d9": {
+  "summary": "Introduction to academic writing for art and design students, linking artistic practice with writing and peer feedback.",
+  "tags": [
+   "writing-language",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "7da3fd350fc4c6e9": {
+  "summary": "Lecture on costume history from antiquity to the Middle Ages, covering textile survival, religion, politics and clothing change.",
+  "tags": [
+   "history",
+   "textiles-fashion"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "18a0682fb3335318": {
+  "summary": "Colloquium on artistic and design research, developing formats for producing theory through practice-based methods in MA and diploma projects.",
+  "tags": [
+   "philosophy-theory",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "188d9894cbd1faac": {
+  "summary": "Seminar tracing cyberfeminism from the 1990s to today, examining gender, bodies and visual strategies in digital culture.",
+  "tags": [
+   "media-theory",
+   "society-politics",
+   "history"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "14d68e1cc646b48f": {
+  "summary": "Introduces sustainability challenges including the Anthropocene and planetary boundaries, with alternatives like circular economy and bioregionalism for design.",
+  "tags": [
+   "sustainability",
+   "philosophy-theory"
+  ],
+  "language": "en",
+  "dc_relevance": 3
+ },
+ "f67374dfacae6d39": {
+  "summary": "Course on creative entrepreneurship, though no description is provided in the record.",
+  "tags": [
+   "career-professional",
+   "economics-business"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "e74490b411180028": {
+  "summary": "Covers translating digital product designs into manufacturable prototypes, focusing on CAD data, technical drawings, and communication with workshops.",
+  "tags": [
+   "design",
+   "fabrication-making",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "146cd4331dafeb74": {
+  "summary": "Introduces parametric solid modeling in Autodesk Fusion 360 from sketches to manufacturing-ready assemblies and visualizations.",
+  "tags": [
+   "design",
+   "fabrication-making",
+   "programming"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "ac997bfdd8c866bf": {
+  "summary": "Teaches NURBS surface modeling in Rhinoceros for converting sketches into CAD and preparing models for rapid prototyping.",
+  "tags": [
+   "design",
+   "fabrication-making"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "4f089b5c96109a8e": {
+  "summary": "Covers Blender for photorealistic visualization and raytracing of 3D product models.",
+  "tags": [
+   "design",
+   "xr-3d"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "3cdbca93f15026ee": {
+  "summary": "Introduces the design fundamentals of product design through weekly teaching formats exploring technological, aesthetic and social perspectives.",
+  "tags": [
+   "design",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "85e6f763bd6282d2": {
+  "summary": "Compares Affinity Designer and Photo with Adobe products for basic graphic and image design work.",
+  "tags": [
+   "design"
+  ],
+  "language": "en",
+  "dc_relevance": 1
+ },
+ "422e0c6536bfc240": {
+  "summary": "Project exploring glass as a material, combining design with the manual glassmaking process and collaboration with glass craftspeople.",
+  "tags": [
+   "design",
+   "materials",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "9c62c1bbaf417d68": {
+  "summary": "Project developing communicative porcelain objects reflecting German-French cultural exchange, co-run with a French partner school.",
+  "tags": [
+   "design",
+   "materials",
+   "history"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "586122dd5618b524": {
+  "summary": "Introduces Vizcom AI, an AI-powered tool for turning rough design sketches into realistic product visuals.",
+  "tags": [
+   "design",
+   "ai-ml",
+   "fabrication-making"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "0d8f66c172ed9537": {
+  "summary": "Students use AI to write custom software tools for 3D printing, reflecting on authorship and how AI changes design practice.",
+  "tags": [
+   "creative-coding",
+   "ai-ml",
+   "fabrication-making"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "7b97f2d7c2425208": {
+  "summary": "Design project titled future careness; description unavailable, inferred as a product design project.",
+  "tags": [
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "aa52e0bf365d725a": {
+  "summary": "Course titled Übersee; no description given, likely an exchange or overseas-related product design offering.",
+  "tags": [
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "6e2a4f747267c52f": {
+  "summary": "Course on material, construction and technology for product design; no further description provided.",
+  "tags": [
+   "materials",
+   "engineering",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "3c9e53df1dbef387": {
+  "summary": "Introduction to interaction and user experience design covering methods, processes, and rapid prototyping over a weekend.",
+  "tags": [
+   "hci-interaction",
+   "design",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "e1159bab99ab5070": {
+  "summary": "Block seminar on typography and layout principles for print and digital product design communication.",
+  "tags": [
+   "design",
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "0dbfaefbb7d0f9cf": {
+  "summary": "Explores the camera as a cognitive tool and designs a physical instrument to organize visual intent beyond smartphone photo chaos.",
+  "tags": [
+   "hci-interaction",
+   "design",
+   "photography"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "4f9044ee00050689": {
+  "summary": "Block course on plastic/sculptural form-giving for fashion design, covering shaping techniques and garment modeling.",
+  "tags": [
+   "textiles-fashion",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "65c97cbd4ae95c21": {
+  "summary": "Presentation of internship results in fashion design; administrative student event.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "ab95cbb0e74556d8": {
+  "summary": "Methodology and professionalization course for master fashion design students.",
+  "tags": [
+   "career-professional",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "1e7906b6d61e688b": {
+  "summary": "Colloquium for the theoretical master thesis in fashion theory, with oral presentation and written exposé.",
+  "tags": [
+   "philosophy-theory",
+   "textiles-fashion"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "1caf6cc3afb0683a": {
+  "summary": "Block course on fashion illustration and drawing for bachelor students.",
+  "tags": [
+   "art",
+   "textiles-fashion"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "a2fe8e2705d2816c": {
+  "summary": "Teaches Clo3D as a fashion design tool and develops a digital exhibition of animated avatars projected via a Pepper's Ghost effect.",
+  "tags": [
+   "textiles-fashion",
+   "xr-3d",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "2838e5b7671ef6b0": {
+  "summary": "Design project course in fashion; no description provided.",
+  "tags": [
+   "textiles-fashion",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "728a98c01c5710d3": {
+  "summary": "Portfolio and presentation techniques course for first-semester master fashion students.",
+  "tags": [
+   "design",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "c335e84bf217ad4f": {
+  "summary": "Students design their professional portfolio using InDesign and editorial design principles, with individual coaching.",
+  "tags": [
+   "design",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "5c4ecd426e01afb8": {
+  "summary": "Design project course in fashion; no description provided.",
+  "tags": [
+   "textiles-fashion",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "8f7a6330f64e25b9": {
+  "summary": "Block course on drawing for fashion design bachelor students.",
+  "tags": [
+   "art",
+   "textiles-fashion"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "81408f6267de761e": {
+  "summary": "Fashion design project course for third-semester bachelor students.",
+  "tags": [
+   "textiles-fashion",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "62794d24f96a9d21": {
+  "summary": "Introduces methods of plastic form-giving for garments, including molding, construction, and modeling techniques.",
+  "tags": [
+   "textiles-fashion",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "91d2da1618edd7e5": {
+  "summary": "Develops a personal pattern library exploring fit, form, structure, and material variation in garment construction.",
+  "tags": [
+   "textiles-fashion",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "f889aeb375c8fc0a": {
+  "summary": "Jacquard weaving on a computer-controlled loom, covering CAD/CAM surface construction for textiles.",
+  "tags": [
+   "textiles-fashion",
+   "fabrication-making",
+   "programming"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "8d550d74322a8472": {
+  "summary": "Design project exploring material and space relationships in textiles and installation contexts.",
+  "tags": [
+   "design",
+   "materials",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "1a0cb31e4c9da405": {
+  "summary": "Introduces soft interactive technologies integrating electronics and sensing into textile materials.",
+  "tags": [
+   "electronics-hardware",
+   "hci-interaction",
+   "textiles-fashion"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "3c014cb486cc9ada": {
+  "summary": "Introduces technical textiles and functional surfaces with an emphasis on performance-driven material design.",
+  "tags": [
+   "materials",
+   "textiles-fashion"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "fb6f9ee686f1427e": {
+  "summary": "Covers typography and layout fundamentals for presenting design content in documentation.",
+  "tags": [
+   "writing-language",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "8387cb271a7dbb61": {
+  "summary": "Introduces design documentation and presentation with InDesign and Photoshop, from concept to print-ready files.",
+  "tags": [
+   "design",
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "a542f05cd8d1e691": {
+  "summary": "Technical drawing course translating 3D Rhino models into 2D drawings and developing a visual language for textiles.",
+  "tags": [
+   "design",
+   "xr-3d",
+   "textiles-fashion"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "27f379999106fe71": {
+  "summary": "Explores multisensory materiality, smell and taste as design knowledge, translating sensory experience into material and social practice.",
+  "tags": [
+   "materials",
+   "design",
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "30ef6dd9e58137dd": {
+  "summary": "Design project exploring designing with living matter, transformation and interdependence between materials, species and environments.",
+  "tags": [
+   "sustainability",
+   "materials",
+   "design"
+  ],
+  "language": "en",
+  "dc_relevance": 3
+ },
+ "4ebeb81d61bcfd24": {
+  "summary": "Covers screen printing fundamentals and surface finishing techniques for textile design.",
+  "tags": [
+   "textiles-fashion",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 2
  }
 }
