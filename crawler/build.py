@@ -18,6 +18,10 @@ from .util import RAW, SITE_DATA, load_json, save_json, semester_keys, semester_
 log = logging.getLogger(__name__)
 
 EXAM = re.compile(r"klausur|prüfung|exam\b|modulprüfung|^\s*-|raum anfragen|raumreservierung|platzhalter", re.I)
+# admin entries that LSF search listings include (committees, building works, room bookings like "BE 2, 139a")
+ADMIN = re.compile(r"sitzung|\bsenat\b|kuratorium|konzil|fakultätsrat|gremi|personalversammlung|alarmtest|"
+                   r"rauchmelder|\bumbau\b|semesterferien|raumbuchung|reservierung|\bintern\s*$|^ATD\b|"
+                   r"^[A-Z]{1,4} ?\d+[a-z]?, ?\w+\d*\w*$", re.I)
 _STOP = {"und", "der", "die", "das", "the", "and", "of", "in", "für", "for", "mit", "with",
          "ii", "i", "iii", "a", "an", "zu", "zur", "zum", "von", "on", "to", "im", "am"}
 
@@ -111,7 +115,7 @@ def build(ai: bool = False, ai_max: int | None = None, ai_unis: list[str] | None
             continue
         n = 0
         for c in dump["courses"]:
-            if EXAM.search(c.get("type") or "") or EXAM.search(c.get("title") or ""):
+            if EXAM.search(c.get("type") or "") or EXAM.search(c.get("title") or "") or ADMIN.search(c.get("title") or ""):
                 continue
             for s in c.get("sessions", []):
                 if s.get("note") and len(s["note"]) > 300:

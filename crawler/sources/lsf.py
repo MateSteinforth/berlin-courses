@@ -81,8 +81,15 @@ class LsfSource(CatalogSource):
                             queue.append((r, p))
             if limit and len(courses) >= limit:
                 break
+        n_tree = len(courses)
+        # The tree misses courses that aren't filed under it (ASH: 2/3 of all courses!).
+        # The search listing has everything; admin entries are filtered out in build.
+        if not limit:
+            for pid in self._search_ids(s, semester):
+                courses.setdefault(pid, [])
         ids = sorted(courses, key=int)[: limit or None]
-        log.info("%s: %d tree nodes, %d courses", self.name, len(seen_nodes), len(ids))
+        log.info("%s: %d tree nodes, %d courses in tree, %d in total with search", self.name,
+                 len(seen_nodes), n_tree, len(ids))
 
         out = []
         done = [0]
@@ -103,6 +110,29 @@ class LsfSource(CatalogSource):
             log.info("%s: catalog shows another semester, not %s", self.name, semester)
             return []
         return [c for c in out if c.semester == semester]
+
+    def _search_ids(self, s, semester: str) -> list[str]:
+        """All course ids of a semester from the search listing (100 per page)."""
+        code = f"{semester[:4]}{2 if semester.endswith('W') else 1}"   # LSF: 20262 = WiSe 2026/27
+
+        def page(start):
+            url = (f"{self.base}?state=wsearchv&search=1&subdir=veranstaltung&veranstaltung.semester={code}"
+                   f"&P_start={start}&P_anzahl=100&_form=display")
+            soup = BeautifulSoup(get(s, url).text, "lxml")
+            return {parse_qs(urlparse(a["href"]).query)["publishid"][0] for a in soup.find_all("a", href=True)
+                    if "publishid=" in a["href"] and "publishSubDir=veranstaltung" in a["href"]}
+
+        first = page(0)
+        m = re.search(r"(\d+)\s*Treffer", clean(BeautifulSoup(get(s, (
+            f"{self.base}?state=wsearchv&search=1&subdir=veranstaltung&veranstaltung.semester={code}"
+            f"&P_start=0&P_anzahl=100&_form=display")).text, "lxml").get_text(" ")) or "")
+        total = int(m.group(1)) if m else 0
+        ids = set(first)
+        with ThreadPoolExecutor(self.workers) as ex:
+            for r in ex.map(page, range(100, total, 100)):
+                ids |= r
+        log.info("%s: search lists %d of %d courses", self.name, len(ids), total)
+        return sorted(ids)
 
     def _course(self, s, pid, semester, path) -> Course | None:
         url = (f"{self.base}?state=verpublish&status=init&vmfile=no&publishid={pid}"
