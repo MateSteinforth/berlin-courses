@@ -15,6 +15,13 @@ RAW = DATA / "raw"
 CACHE = DATA / "cache"
 SITE_DATA = ROOT / "site" / "data"
 
+# local secrets (gitignored): KEY=value lines in .env, never override the real environment
+if (ROOT / ".env").exists():
+    for _line in (ROOT / ".env").read_text().splitlines():
+        _k, _, _v = _line.strip().partition("=")
+        if _k and not _k.startswith("#") and _v:
+            os.environ.setdefault(_k.strip(), _v.strip().strip("'\""))
+
 USER_AGENT = (
     "berlin-courses/0.1 (+https://github.com/MateSteinforth/berlin-courses; "
     "student course-catalog aggregator)"

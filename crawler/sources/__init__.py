@@ -16,22 +16,13 @@ from ..model import Course, LmsCourse
 log = logging.getLogger(__name__)
 
 
-# Course catalogs change around publication and the start of lectures, not
-# continuously. Default refresh dates (month, day); sources may override.
-DEFAULT_UPDATE_DATES = [(2, 1), (3, 15), (4, 10), (5, 5), (8, 1), (9, 15), (10, 10), (11, 5)]
-
-
 class _Scheduled:
-    update_dates: list[tuple[int, int]] = DEFAULT_UPDATE_DATES
+    """Recrawl dates come from the university's academic calendar (calendars.py)."""
+    university: str = ""
 
-    def next_update(self, after: date) -> date:
-        """First scheduled refresh date strictly after `after`."""
-        for y in (after.year, after.year + 1):
-            for m, d in sorted(self.update_dates):
-                cand = date(y, m, d)
-                if cand > after:
-                    return cand
-        raise AssertionError("unreachable")
+    def next_update(self, semester: str, after: date, published: bool = True) -> date:
+        from ..calendars import next_update
+        return next_update(self.university, semester, after, published)
 
 
 class CatalogSource(_Scheduled, ABC):
@@ -60,11 +51,12 @@ def catalog_sources() -> dict[str, CatalogSource]:
     from .tu_moses import TuMoses
     from .udk_hisinone import UdkHisinone
     from .fu_vv import FuVv
-    from .khb_incom import KhbIncom
+    from .incom import FhpIncom, KhbIncom
     from .lsf import AshLsf, HtwLsf, HuAgnes
+    from .manual import Manual
     from .udk_sg import UdkStudiumGenerale
     return {s.name: s for s in (TuMoses(), UdkHisinone(), UdkStudiumGenerale(), FuVv(), HuAgnes(),
-                                HtwLsf(), KhbIncom(), AshLsf())}
+                                HtwLsf(), KhbIncom(), AshLsf(), FhpIncom(), Manual())}
 
 
 def lms_sources() -> dict[str, LmsSource]:

@@ -1,0 +1,1883 @@
+{
+ "kind": "catalog",
+ "source": "tu_moses",
+ "semester": "2026W",
+ "crawled": "2026-10-25T06:07+00:00",
+ "courses": [
+  {
+   "id": "tu_moses:9024:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "5G Evolution / 6G",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=9024&semester=77",
+   "type": "Projekt",
+   "lecturers": [
+    "Magedanz, Thomas"
+   ],
+   "org": "FG S-Professur Architekturen der Vermittlungsknoten",
+   "language": "Englisch",
+   "description": "Modul: 5G Evolution / 6G Project\n\nLernergebnisse: Die Absolventinnen und Absolventen dieses Moduls verfügen über Kompetenzen in folgenden Bereichen: Dienste, Protokolle und Elemente von Infrastrukturen in klassischen drahtgebundenen und mobilen Telekommunikationsnetzen, softwarebasierten Netzen, 5G Mobilfunknetzen oder Mobilfunknetzen der aufkommenden sechsten Generation (6G). Des Weiteren können sie dieses Wissen in der Praxis anwenden und sind in der Lage, Entwicklungsaufgaben in kleinen Gruppen zu bearbeiten, die Verfahren zu dokumentieren und die Ergebnisse zu präsentieren. Sie können selbstständig die notwendige Literaturrecherche durchführen und eigene Konzepte entwickeln.\n\nLehrinhalte: In diesem Modul werden bereits bekannte Themen aus dem Modul \"5G / 6G Software Networks\" in der Praxis angewendet. Mit Blick auf die 5G Evolution in Richtung 6G und sich entwickelnde Technologien werden ausgewählte Themen im Kontext von 5G und 6G wie zum Beispiel Network Function Virtualization (NFV), Software Defined Networks (SDN), Edge Computing, Network Slicing, Backhaul Communication, Data Exchange, Data-oriented Network Optimization, Intent-based Management, Zero Touch, Network Performance Management, Requirement-based Network Customization, Network Automation mittels ML/KI Algorithmen, 5G Campus Networks und Nomadic Private Networks ausführlich behandelt.\n\nBeschreibung der Lehr- und Lernformen: Basierend auf dem Modul \"5G / 6G Software Networks\" werden ausgewählte Themen im Kontext von 5G und 6G im Rahmen eines Projektes vertieft. Das Projekt besteht aus einer Konzeptions-, Design-, Implementierungs- und Evaluierungsphase für einen Lösungsansatz einer vorgegebenen Problemstellung. Die Projektarbeit erfolgt in einer Gruppe aus 1 bis 3 Studierenden, die von einem wissenschaftlichen Mitarbeiter betreut werden. Die Studierenden müssen in regelmäßigen Abständen den Fortschritt präsentieren. Abschließend müssen sie einen schriftlichen wissenschaftlichen Bericht über die Projektarbeit erstellen. Es besteht die Möglichkeit, das Forschungsgebiet zum Zwecke der Erstellung einer Masterarbeit weiterzuführen. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, MAR 0.015",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364580"
+   }
+  },
+  {
+   "id": "tu_moses:14660:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Abschlusskolloquium - ALFA (FG Fachdidaktik Arbeitslehre)",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=14660&semester=77",
+   "type": "Kolloquium",
+   "org": "FG Fachdidaktik Arbeitslehre (ALFA)",
+   "language": "Deutsch",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-21",
+     "last_date": "2027-02-10",
+     "room": "Charlottenburg, MAR 1.008 (Didaktische Werkstatt)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Doz. Bartsch/Wedel",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "366903"
+   }
+  },
+  {
+   "id": "tu_moses:14661:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Abschlusskolloquium - ArTe (FG Arbeitslehre/Technik und Partizipation)",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=14661&semester=77",
+   "type": "Kolloquium",
+   "lecturers": [
+    "Dienel, Hans-Liudger"
+   ],
+   "org": "FG Arbeitslehre/Technik und Partizipation (ArTe)",
+   "language": "Deutsch",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-19",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, MAR 1.001",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Doz. Dienel",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "366924"
+   }
+  },
+  {
+   "id": "tu_moses:14659:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Abschlusskolloquium - B!NErLe (FG Bildung für Nachhaltige Ernährung und Lebensmittelwissenschaft)",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=14659&semester=77",
+   "type": "Kolloquium",
+   "org": "FG Bildung für Nachhaltige Ernährung und Lebensmittelwissenschaft (B!NErLe)",
+   "language": "Deutsch",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-19",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, MAR 1.049 (Fachdidaktisches Labor)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Doz. Groth/Grundmann/Langen",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "366911"
+   }
+  },
+  {
+   "id": "tu_moses:10504:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Abschlusskolloquium - FG Arbeitslehre/Ökonomie und Nachhaltiger Konsum (ALÖNK)",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=10504&semester=77",
+   "type": "Kolloquium",
+   "lecturers": [
+    "Gossen, Maike"
+   ],
+   "org": "FG Arbeitslehre/Ökonomie und Nachhaltiger Konsum (ALÖNK)",
+   "language": "Deutsch",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Charlottenburg, MAR 1.065B",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Doz. Gossen",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363192"
+   }
+  },
+  {
+   "id": "tu_moses:7348:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Absolventen-Seminar Numerische Mathematik",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=7348&semester=77",
+   "type": "Seminar",
+   "number": "3236 L 632",
+   "lecturers": [
+    "Mehrmann, Volker",
+    "Breiten, Tobias",
+    "Mehl, Christian",
+    "May, Sandra"
+   ],
+   "org": "FG Numerische Mathematik",
+   "language": "Deutsch",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Charlottenburg, MA 376",
+     "building": "TU:Charlottenburg/MA",
+     "group": "1. Termingruppe",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363113"
+   }
+  },
+  {
+   "id": "tu_moses:14593:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Abstrakte Funktionen I",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=14593&semester=77",
+   "type": "Vorlesung",
+   "lecturers": [
+    "Emmrich, Etienne"
+   ],
+   "org": "FG Differentialgleichungen",
+   "language": "Deutsch",
+   "description": "Modul: Abstrakte Funktionen I\n\nLernergebnisse: Die Studierenden haben die Fähigkeit, ausgewählte Probleme von hohem Schwierigkeitsgrad mit analytischen Methoden zu untersuchen, qualitative Aussagen zu treffen und diese interpretieren zu können. Sie bauen ihre Fähigkeit zur Analyse und Bearbeitung komplexer Problemstellungen weiter aus.\n\nLehrinhalte: Die mathematische Beschreibung zeitabhängiger Prozesse führt oftmals auf Differential- oder Integralgleichungsprobleme. Deren funktionalanalytische Behandlung fußt auf Funktionenräumen, die es erlauben, Eigenschaften der auftretenden Funktionen geeignet zu klassifizieren. Dabei unterscheidet sich die Zeit von den Ortsvariablen und es bietet sich an, Funktionen in der Zeit zu betrachten, die in einen Banach-Raum abbilden, - sogenannte abstrakte Funktionen. Derartige abstrakte Funktionen sind Gegenstand der Vorlesung. Behandelt werden • stetige, skalar stetige, absolut stetige und stetig differenzierbare Funktionen, • Funktionen von beschränkter Variation, • Bochner-messbare und Bochner-integrierbare Funktionen, • im verallgemeinerten Sinne differenzierbare Funktionen, • Funktionen über einem Gelfand-Dreier und • Funktionen mit gebrochener Ableitung. Neben grundlegenden Eigenschaften und Aussagen werden insbesondere verschiedene Messbarkeitsbegriffe, der Hauptsatz der Differential- und Integralrechnung und kompakte Teilmengen Bochner-integrierbarer Funktionen studiert. Im Zentrum des ersten Teils stehen absolut stetige Funktionen sowie Funktionen von beschränkter Variation, die Bochner-Messbarkeit und weitere Messbarkeitsbegriffe, das Bochner-Integral und schließlich der Hauptsatz der Differential- und Integralrechnung.\n\nBeschreibung der Lehr- und Lernformen: Vorlesungen Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, MA 376",
+     "building": "TU:Charlottenburg/MA",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "366726"
+   }
+  },
+  {
+   "id": "tu_moses:1633:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Abwasserverfahrenstechnik I",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=1633&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "number": "0333 L 150",
+   "lecturers": [
+    "Faßlrinner, Katharina Andrea",
+    "Reich, Jascha",
+    "Geißen, Sven-Uwe"
+   ],
+   "org": "FG Umweltverfahrenstechnik",
+   "language": "Deutsch",
+   "description": "Modul: Wastewater process engineering I\n\nLernergebnisse: Die Studierenden - kennen die verfahrenstechnischen Grundlagen der Abwassertechnik in Theorie und Praxis. - verstehen die physikalischen, chemischen und biologischen Prinzipien einzelner Grundoperationen der Abwassertechnik. - können Grundoperationen beschreiben, gezielt für die jeweilige Aufgabenstellung auswählen und/oder optimieren. - können die technische und betriebswirtschaftliche Effizienz von Verfahren im Labor, halbtechnischen und großtechnischen Maßstab jederzeit bewerten. - sind befähigt zur Gruppenarbeit, Ergebnispräsentation und -verteidigung sowie der Kommunikation mit Experten aus der Verfahrens-, Betriebs- und Anlagentechnik sowie der Siedlungswasserwirtschaft. Die Veranstaltung vermittelt: 40% Wissen und Verstehen, 20% Entwicklung und Design, 20% Recherche und Bewertung, 20% Anwendung und Praxis\n\nLehrinhalte: Dieses Modul verbindet die Werkzeuge der Verfahrenstechnik mit der Abwassertechnik, in dem die biologischen, chemischen und physikalischen Grundlagen der einzelnen Prozesse und deren Kopplung vorgestellt werden. - Einführung mit einem Überblick über Industrieabwasserarten, produktionsintegrierte Maßnahmen, internationale gesetzliche Regelungen - Fest-Flüssig-Trennung - Aerobe biologische Verfahren - Verfahren zur Stickstoffelimination - Belüftung - Anaerobe biologische Verfahren - Praktikumsversuch zur Umsetzung und Vertiefung der theoretischen Kenntnisse Durch die Übungen und das Praktikum werden die gelehrten Kenntnisse angewandt und vertieft.\n\nBeschreibung der Lehr- und Lernformen: Das Modul besteht aus einer integrierten Veranstaltung mit einem Vorlesungs- und Übungsteil sowie einem Praktikum. Durch die Übungen und das Praktikum wird der Vorlesungsinhalt aufbereitet, vertieft und die Praxisrelevanz verdeutlicht. In den Übungen und für das Praktikum werden Kleingruppen gebildet, die für Bearbeitung und Ergebnispräsentation der Aufgaben verantwortlich sind. Die Lehrveranstaltung kann in englischer Sprache abgehalten werden. Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Abwasserverfahrenstechnik\n\nLernergebnisse: Die Studierenden - kennen die verfahrenstechnischen Grundlagen der Abwassertechnik in Theorie und Praxis, - verstehen die physikalischen, chemischen und biologischen Prinzipien einzelner Grundoperationen der Abwassertechnik, - besitzen ein vertieftes Verständnis der physikalischen, chemischen und biologischen Prinzipien einzelner Grundoperationen der Abwassertechnik und der weitergehenden Verfahren und können diese beschreiben, - können Grundoperationen unter Nutzung von Modellen und Simulationswerkzeugen gezielt für die jeweilige Aufgabenstellung auswählen und/oder optimieren, - können die technische und betriebswirtschaftliche Effizienz von Verfahren im Labor, halbtechnischen und großtechnischen Maßstab jederzeit bewerten und - sind befähigt zur Gruppenarbeit, Ergebnispräsentation und -verteidigung sowie der Kommunikation mit Experten aus der Verfahrens-, Betriebs- und Anlagentechnik sowie der Siedlungswasserwirtschaft. Die Veranstaltung vermittelt: 40% Wissen und Verstehen, 20% Entwicklung und Design, 20% Recherche und Bewertung, 20% Anwendung und Praxis\n\nLehrinhalte: Dieses Modul verbindet die Werkzeuge der Verfahrenstechnik mit der Abwassertechnik, in dem die biologischen, chemischen und physikalischen Grundlagen der einzelnen Prozesse und deren Kopplung vorgestellt werden. - Einführung mit einem Überblick über Industrieabwasserarten, produktionsintegrierte Maßnahmen, internationale gesetzliche Regelungen - Fest-Flüssig-Trennung - Aerobe biologische Verfahren - Verfahren zur Stickstoffelimination - Belüftung - Anaerobe biologische Verfahren - Praktikumsversuch zur Umsetzung und Vertiefung der theoretischen Kenntnisse - Anaerobe biologische Verfahren - Phosphorelimination - Oxidative Verfahren - Entkeimung - Modellierung in der Abwasserbehandlung - Übungsteil zur Modellierung und Simulation Durch die Übungen und das Praktikum werden die theoretischen Kenntnisse angewandt und vertieft.\n\nBeschreibung der Lehr- und Lernformen: Das Modul besteht aus zwei integrierten Veranstaltungen mit einem Vorlesungs- und Übungsteil mit Rechneranwendungen sowie einem Praktikum. Durch die Übungen und das Praktikum wird der Vorlesungsinhalt aufbereitet, vertieft und die Praxisrelevanz verdeutlicht. In den Übungen und für das Praktikum werden Kleingruppen gebildet, die für Bearbeitung und Ergebnispräsentation der Aufgaben verantwortlich sind. Die Lehrveranstaltung AVT I kann in englischer Sprache abgehalten werden. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Charlottenburg, MAR 0.001 (EG re.)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "08:00",
+     "end": "10:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": null,
+     "building": null,
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364400"
+   }
+  },
+  {
+   "id": "tu_moses:12079:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Abwasserverfahrenstechnik I",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=12079&semester=77",
+   "type": "Klausur / Exam",
+   "org": "FG Umweltverfahrenstechnik",
+   "language": "Deutsch",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "367050"
+   }
+  },
+  {
+   "id": "tu_moses:12078:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Abwasserverfahrenstechnik II",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=12078&semester=77",
+   "type": "Klausur",
+   "org": "FG Umweltverfahrenstechnik",
+   "language": "Deutsch",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "323328"
+   }
+  },
+  {
+   "id": "tu_moses:7818:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Acquisition and Analysis of Neural Data",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=7818&semester=77",
+   "type": "Praktikum",
+   "org": "FG Neuronale Informationsverarbeitung",
+   "language": "Deutsch",
+   "description": "Modul: Acquisition and Analysis of Neural Data\n\nLernergebnisse: In this module, students will gain knowledge about: - the most important methods for experimental acquisition of neural data - the respective analytical methods - the different fields of application - the advantages and disadvantages of the different methods - how to handle the respective raw data. They will be enabled to: - choose the most appropriate analysis method - apply them to experimental data.\n\nLehrinhalte: The module intends to provide knowledge about experimental acquisition of neural data and their analysis. This comprises two major parts: 1) Acquisition of neural data -The lecture and tutorial aim at providing a broad overview of the most common techniques for acquiring neural data and the theoretical underpinnings of these techniques. -Both lecture and tutorial will be divided in a first part dealing with large scale signals (fMRI, EEG, MEG etc) and a second part concerned with cellular signals. In the tutorial emphasis is placed on hands on experience with neural data acquisition techniques. 2) Analysis of neural data This lecture gives an broad overview over analysis techniques for neural data. Specifically it will deal with: firing rates, spike statistics, spike statistics and the neural code, neural encoding, neural decoding, discrimination and population decoding, information theory, statistical analysis of electroencephalogram (EEG) data, e.g., investigation of event-related potentials (ERPs) and event-related desynchronization (ERD), spatial filters, classification, adaptive classifiers. In the tutorial emphasis is placed on hands on experience with neural data analysis.\n\nBeschreibung der Lehr- und Lernformen: Lecture: Theoretical and experimental basic knowledge is presented to the class by a lecturer. Tutorial: self-contained solving of programming exercises regarding problems of data analysis. Practical: lab work, supervised conduction of an experiment and analysis of data Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "12:00",
+     "end": "15:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Charlottenburg",
+     "building": "TU:Charlottenburg",
+     "group": "1. Termingruppe",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363354"
+   }
+  },
+  {
+   "id": "tu_moses:13863:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Additive manufacturing of metallic materials",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13863&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "number": "3417 L 001",
+   "lecturers": [
+    "Haase, Christian",
+    "Stockmar, Janosch"
+   ],
+   "org": "FG Materials for Additive Manufacturing",
+   "language": "Englisch",
+   "description": "Modul: Additive Fertigung metallischer Werkstoffe\n\nLernergebnisse: Im Modul \"Additive Fertigung metallischer Werkstoffe\" (EN: Additive manufacturing of metallic materials) erwerben die Studierenden ein fundiertes Verständnis der additiven Fertigungstechnologien. Sie lernen, die Zusammenhänge zwischen den AM-Prozessen (Additive Manufacturing), der Mikrostrukturentwicklung sowie den resultierenden Werkstoffeigenschaften zu erkennen und zu bewerten. Neben den primären Fertigungsprozessen werden auch relevante Nachbehandlungsverfahren thematisiert. Die Veranstalung vermittelt: 40 % Wissen und Verstehen 40 % Analyse und Methodik 10 % Anwendung und Praxis 10 % Soziale Kompetenz\n\nLehrinhalte: -Motivation, additive Fertigungsverfahren und Werkstoffklassen -Eingangsmaterialien für den additiven Fertigungsprozess, deren Eigenschaften, Bestimmung und Bewertung dieser Eigenschaften -Entstehung von Materialdefekten, deren Ursachen und Auswirkungen -Allgemeine Mikrostruktur- und Texturentwicklung während der additiven Fertigung und des Nachbehandlungsprozesses; Einflussgrößen auf die ausgebildeten Mikrostrukturen und Texturen in additiv gefertigten Werkstoffen -Korrelation zwischen Mikrostruktur, Textur und Eigenschaften additiv gefertigter Werkstoffe (u.a. Stähle, Aluminium-, Nickel-, Titanlegierungen) -Simulation des Materialverhaltens während und nach der additiven Fertigung -Nachhaltigkeitsaspekte\n\nBeschreibung der Lehr- und Lernformen: Integrierte Veranstaltungen (Vorlesung, Übung, Seminar) Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Charlottenburg, FH 312",
+     "building": "TU:Charlottenburg/FH",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Charlottenburg, EW 109",
+     "building": "TU:Charlottenburg/EW",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363014"
+   }
+  },
+  {
+   "id": "tu_moses:13807:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "ADDTRUTH: manipulation recognition and media literacy",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13807&semester=77",
+   "type": "Projekt",
+   "number": "51153",
+   "org": "FG Wissensdynamik und Nachhaltigkeit in den Technikwissenschaften",
+   "language": "Englisch",
+   "description": "Modul: Critical Design Thinking (MA-DC P3)\n\nLernergebnisse: Nach dem erfolgreichem Abschluss des Moduls - kennen die Studierenden zentrale Positionen von Entwurfstheorien und können sie in ihrem argumentativen Gehalt analysieren und historisch kontextualisieren - können die Studierenden entwurfstheoretische Fragestellungen auf den praktischen Entwurfskontext anwenden und eigenständig weiterentwickeln - kennen die Studierenden zentrale Grundbegriffe und Positionen der Technikreflexion im weiten Sinn, d.h. Technikethik, Technikfolgenabschätzung, Entwurfstheorie, Wissenstheorie der Technikwissenschaften, und der Inter- und Transdisziplinäritätsforschung - verfügen die Studierenden über Reflexionskompetenzen (Reflexion der eigenen Wissensposition, kritische Analyse der Gegebenheiten, Abwägen von Argumenten) sowie Kompetenzen der Stakeholder-Analysen, lösungsorientierten Problembearbeitung, Prozessgestaltung interdisziplinärer Teamarbeit und Ausarbeitung sowie Präsentation von Ergebnissen\n\nLehrinhalte: Das Modul „Critical Design Thinking“ vermittelt die kritische Reflexion von Entwicklungs- und Entwurfsprozessen sowie den Transfer von Fragestellungen aus diesem Bereich in die Entwurfspraxis. Zu den Lehrinhalten gehören beispielsweise: - Theorien der computergestützten Entwurfstheorien und -methoden sowie Design Thinking - Wissenschaftstheorie des Bildes, des Modells und der Simulation - Kritische Reflektion zu sozio-kulturellen Auswirkungen von computergestützten Gestaltungsprozessen (partizipative Technikentwicklung, Value Sensitive Design, Technikfolgenabschätzung, inter- und transdisziplinäre Technikgestaltung). Das Modul besteht wahlweise aus a) einem Projekt (6 ECTS) oder b) zwei Seminaren jeweils mit einer kleine Leistung (2 x 3 ECTS), die für dieses Modul angeboten werden.\n\nBeschreibung der Lehr- und Lernformen: Projekt. Nähere Beschreibung s. § 35 AllgStuPO Seminar mit aktiver Teilnahme der Studierenden. Nähere Beschreibung s. § 35 AllgStuPO Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Technik, Ethik, Bildung\n\nLernergebnisse: Mit dem erfolgreichen Abschluss des Moduls erwerben die Studierenden Kenntnisse - Überblick über zentrale Grundbegriffe der Ethik und Wissenschaftstheorie- und philosophie - Überblick über Bedingungen und Positionen der Multi-, Inter- und Transdisziplinarität in den Wissenschaften - Einblick in Fallstudien zur praktischen Ethik (z.B. Technikethik, Umweltethik, Bio- und Medizinethik) Fertigkeiten - Interpretation von Forschungsliteratur zur Ethik, Technik- und Wissenschaftsreflexion - Erkennen der Bedeutung ethischer und epistemischer Fragestellungen im Alltag, in der Gesellschaft, in den Wissenschaften und der Bildung - Entwickeln, Analysieren, Rekonstruieren, Diskutieren und Weiterentwickeln ethischer Fragestellungen im Feld der Bildung - Kreative Auseinandersetzung und Entwicklung eigener Projekte von ethischer Relevanz Kompetenzen - Ausbildung von Reflexionskompetenzen (kritische Reflexion der eigenen Wissensposition, kritische Analyse von Gegebenheiten, Abwägen von Argumenten, Entwicklung eines gutbegründeten Standpunktes, Befähigung zur (selbst-)kritischen Diskussion und Bewertung von Argumenten) - Ausbildung von Kompetenzen der Textinterpretation und Argumentationsanalyse - Kennenlernen von Bedingungen multi-, inter- und transdisziplinärer Zusammenarbeit (Wissenssituierung, lösungsorientierte Problem-, Projektbearbeitung)\n\nLehrinhalte: Das Modul \"Technik, Ethik, Bildung\" vermittelt theoretische Grundlagen der Ethik, Technik- und Wissenschaftsreflexion. Studierende wählen aus einem wechselnden Lehrangebot mit LV zu aktuellen Themen und Fallstudien der angewandeten Ethik, Technikphilosophie, und Wissenschaftstheorie und -philosophie. Studierende erarbeiten ethische Problemstellungen mit wissenschaftlichen Methoden im Wechsel von Vortrag und Diskussion. Erlernte Kenntnisse, Fähigkeiten und Kompetenzen werden für den Bereich der Bildung, für Bildungsprozesse- und praktiken angewandt und analysiert. Eingebrachte Leistungen können im Berliner Ethik Zertifikat als Vertiefung anerkannt werden.\n\nBeschreibung der Lehr- und Lernformen: Seminar mit aktiver Teilnahme der Studierenden. Nähere Beschreibung siehe AllgStuPO § 35. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "block",
+     "first_date": "2026-11-30",
+     "last_date": "2026-12-04",
+     "room": "Charlottenburg, MAR 3.048 (BEL-Lab)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Blockveranstaltung Mo. 19.10.2026, 16-18 Uhr, Mo. 30.11.- Fr. 04.12.2026, 16-20 Uhr, Mo. 25.01.2027, 16-20 Uhr",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2027-01-25",
+     "last_date": "2027-01-25",
+     "room": "Charlottenburg, MAR 3.048 (BEL-Lab)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Blockveranstaltung Mo. 19.10.2026, 16-18 Uhr, Mo. 30.11.- Fr. 04.12.2026, 16-20 Uhr, Mo. 25.01.2027, 16-20 Uhr",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-10-19",
+     "last_date": "2026-10-19",
+     "room": "Charlottenburg, MAR U.001 (Werkstatt- und Ausstellungsraum)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Blockveranstaltung Mo. 19.10.2026, 16-18 Uhr, Mo. 30.11.- Fr. 04.12.2026, 16-20 Uhr, Mo. 25.01.2027, 16-20 Uhr",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "367370"
+   }
+  },
+  {
+   "id": "tu_moses:5706:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Adjustment Theory I",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=5706&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "number": "3633 L 201",
+   "lecturers": [
+    "Neitzel, Frank",
+    "Weisbrich, Sven"
+   ],
+   "org": "FG Geodäsie und Ausgleichungsrechnung",
+   "language": "Englisch",
+   "description": "Modul: Adjustment Theory I\n\nLernergebnisse: Students will gain a profound theoretical and methodical knowledge in variance-covariance propagation and parameter estimation via least-squares adjustment. They are able to design functional and stochastic models and apply these on geodetic and general engineering tasks.\n\nLehrinhalte: Adjustment Theory I [IV 3633 L 201] Content - Distribution of a random variable - Mean value, expectation and true value of a random variable - Variance and standard deviation - Random vectors - Propagation of observation errors - Propagation of variances and covariances - The Gaussian or Normal Distribution - Introduction to least squares adjustment - Functional model and stochastic model - Observation equations - Linear functional models - Non-linear functional models - Variance-Covariance Matrices (VCM) for the results - Least squares adjustment with constraints for the unknown parameters - Applications of least squares adjustment Didactic concept -Lecture 50% -Exercise 50%\n\nBeschreibung der Lehr- und Lernformen: - Lecture 50% - Exercise 50% Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": null,
+     "building": null,
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-10-26",
+     "last_date": "2026-10-26",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-11-02",
+     "last_date": "2026-11-02",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-11-09",
+     "last_date": "2026-11-09",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-11-16",
+     "last_date": "2026-11-16",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-11-23",
+     "last_date": "2026-11-23",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-12-07",
+     "last_date": "2026-12-07",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-12-14",
+     "last_date": "2026-12-14",
+     "room": "Charlottenburg, EW 203",
+     "building": "TU:Charlottenburg/EW",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2027-01-11",
+     "last_date": "2027-01-11",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2027-01-18",
+     "last_date": "2027-01-18",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2027-01-25",
+     "last_date": "2027-01-25",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2027-02-01",
+     "last_date": "2027-02-01",
+     "room": "Charlottenburg, A 151",
+     "building": "TU:Charlottenburg/A",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "08:00",
+     "end": "10:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Charlottenburg, EB 431D (PC-Pool)",
+     "building": "TU:Charlottenburg/EB",
+     "group": "Termingruppe 3",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Charlottenburg, EB 431D (PC-Pool)",
+     "building": "TU:Charlottenburg/EB",
+     "group": "Termingruppe 2",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364571"
+   }
+  },
+  {
+   "id": "tu_moses:12832:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Adjustment Theory I",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=12832&semester=77",
+   "type": "Klausur",
+   "org": "FG Geodäsie und Ausgleichungsrechnung",
+   "language": "Deutsch",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "11:30",
+     "end": "13:30",
+     "rhythm": "single",
+     "first_date": "2026-10-02",
+     "last_date": "2026-10-02",
+     "room": "Charlottenburg, EB 431 (PC-Pool), EB 431D (PC-Pool)",
+     "building": "TU:Charlottenburg/EB",
+     "group": "Zweitzeitraum Woche 4, 5 Wiederholung im Folgesemester 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "334282"
+   }
+  },
+  {
+   "id": "tu_moses:12288:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Adjustment Theory II",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=12288&semester=77",
+   "type": "Written Test",
+   "org": "FG Geodäsie und Ausgleichungsrechnung",
+   "language": "Deutsch",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "366724"
+   }
+  },
+  {
+   "id": "tu_moses:4391:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "ADM III",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=4391&semester=77",
+   "type": "Vorlesung",
+   "number": "3236 L 261",
+   "lecturers": [
+    "Skutella, Martin"
+   ],
+   "org": "FG S-Professur Kombinatorische Optimierung und Graphenalgorithmen",
+   "language": "Deutsch",
+   "description": "Modul: Approximationsalgorithmen (ADM III)\n\nLernergebnisse: In der Veranstaltung sollen algorithmische und strukturelle Grundlagen der approximativen Lösung kombinatorischer Optimierungsprobleme vermittelt werden. Einen Schwerpunkt bilden Algorithmen und algorithmische Techniken, die (oder deren Analyse) auf linearer Optimierung beruhen. Dazu gehören insbesondere das Primal-Duale Schema und LP-Runden. Fachkompetenz: 55% Methodenkompetenz: 30% Systemkompetenz: 10% Sozialkompetenz: 5%\n\nLehrinhalte: Approximierbarkeit und Nichtapproximierbarkeit Polynomiale Approximationsschemata LP-Runden: randomisiert, deterministisch, iteriert Dual Fitting am Beispiel von Set Cover Primal-duales Schema und Local Ratio Methode Anwendungen bei Netzwerkdesign-Problemen Schranken aus semideniten Relaxationen am Beispiel von MAX CUT PCP Theorem (ohne Beweis), luckenerzeugende Reduktionen Klasse MAX-SNP, lüuckenbewahrende Reduktionen\n\nBeschreibung der Lehr- und Lernformen: Vorlesungen Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Computational Mixed Integer Programming (ADM III)\n\nLernergebnisse: In der Veranstaltung wird an den Stand der Technik bei algorithmischen und programmiertechnischen Fragestellungen der rechnerischen Losung gemischt-ganzzahliger Programme herangefuhrt. Die Teilnehmer sollen in die Lage versetzt werden, eine geeignete Kombination von Modell und Algorithmus zu finden oder zu entwickeln, um für komplexe kombinatorische Optimierungsprobleme Optimallösungen oder Lösungen beweisbarer Gute berechnen zu können. Ein unverzichtbarer Schwerpunkt ist dabei die Kenntnis des internen Aufbaus moderner Lösungssoftware. Fachkompetenz: 35% Methodenkompetenz: 50% Systemkompetenz: 10% Sozialkompetenz: 5%\n\nLehrinhalte: Modellierung mit binaren und ganzzahligen Variablen Modelierungssprachen wie zimpl und gams Branchand-Bound, Branch-and-Cut, Branch-and-Price MIP Loser: Preprocessing, Branchingregeln, Knotenauswahl, Primalheuristiken Dekompositionstechniken wie Lagrange Relaxation, Spaltengenerierung Schnittebenentechniken\n\nBeschreibung der Lehr- und Lernformen: Vorlesungen, Übungen, Programmierübungen Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, MAR 0.010 (EG li.)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Topics in Algorithmic Discrete Mathematics (ADM III)",
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-11-16",
+     "last_date": "2026-11-16",
+     "room": null,
+     "building": null,
+     "group": "Topics in Algorithmic Discrete Mathematics (ADM III)",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Charlottenburg, MAR 0.017 (EG li.)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Topics in Algorithmic Discrete Mathematics (ADM III)",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364600"
+   }
+  },
+  {
+   "id": "tu_moses:10604:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Vorlesungsverzeichnis (VVZ) Veranstaltungssuche Veranstaltungsvorlage Lehrveranstaltung Advanced Blockchain Prototyping",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=10604&semester=77",
+   "type": "Projekt",
+   "description": "Modul: Advanced Blockchain Prototyping\n\nLernergebnisse: Students have advanced hands-on experience with all aspects of software project work (including team-based software development, project management, collaborative decision making, documenting and communicating project results). They are able to solve real-world problems in the context of the advanced design, implementation, and evaluation of blockchain-based application systems in, e.g., enterprise, start-up, and IoT contexts. They are able to identify and articulate open research questions and theses for further work.\n\nLehrinhalte: Small groups of students analyze and solve challenging software and prototyping problems. They explore and use modern, state-of the art blockchain technologies, e.g., Ethereum, and modern software technology stacks as applicable to the specific project focus defined each term. Depending on the focus, they apply advanced cutting-edge blockchain concepts such as on-off-chain-models, hybrid cloud-blockchain-architectures, or zero-knowledge-proofs. The student teams work independently, supported and supervised by members of the chair. Hands-on experimentation with blockchain-based systems is expected. Concrete tasks and project objectives as well as themes and technology stacks will be communicated at the beginning of the term. Some projects may be in cooperation with external partners.\n\nBeschreibung der Lehr- und Lernformen: Small teams of students will develop blockchain-focused software prototypes, supported and supervised by members of the chair. The number of student participants is limited. Voraussetzungen für die Teilnahme / Prüfung",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "365392"
+   }
+  },
+  {
+   "id": "tu_moses:2841:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Brewing Technology I",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=2841&semester=77",
+   "type": "Vorlesung",
+   "number": "0335 L 298",
+   "lecturers": [
+    "Wietstock, Philip",
+    "Barreto Carvalhal Pinto, Mariana"
+   ],
+   "org": "FG Brau- und Getränketechnologie",
+   "language": "Englisch",
+   "description": "Modul: Advanced Brewing Technology (12 LP)\n\nLernergebnisse: Mit Abschluss des Moduls Advanced Brewing Technology für den Master beherrschen die Studierenden folgende Kenntnisse: - Anspruchsvolle, ingenieurtechnische Problemstellungen aus dem Bereich der Brauindustrie bewerten und lösen - Aspekte der Ressourceneinsparung und Nachhaltigkeit kennen und anwenden - Zusammenhänge bestimmter Inhaltsstoffe des Malzes, der Würze und des Bieres, deren biochemische Funktionalität und Beeinflussungsmöglichkeiten im Mälzungs- und Brauprozess erkennen und begreifen - Vertiefte Kenntnisse über stoffwechselphysiologische Vorgänge während der Gärung und deren technologische Beeinflussung kennen und verstehen - Faktoren, die die sensorische und olfaktorische Veränderung des Bieres während der Lagerung beeinflussen, bewerten und Optimierungsansätze entwickeln können Die Veranstaltung vermittelt überwiegend: Fachkompetenz 40%, Methodenkompetenz 30%, Systemkompetenz 25%, Sozialkompetenz 5%\n\nLehrinhalte: - Ausgewählte Problemstellungen in der Brautechnologie mit dem Fokus der Ressourceneinsparung und Nachhaltigkeitsaspekten - Technologische Beeinflussung von Pro- und Antioxidantien während der Malz- und Bierbereitung. - Detailwissen Stoffwechselphysiologie der Hefe und deren technologische Beeinflussung - Spezielle Filtrationsverfahren in der Brau- und Getränkeindustrie. - Aktuelle Themenkomplexe der Brauerei- und Getränkeindustrie. - Hopfenaromastoffe und deren Einbringung in den Brauprozess. - Fermentation mit ausgewählten Mikroorganismen zur Herstellung von speziellen Getränken. - Möglichkeiten der Optimierung des Brauprozesses mittels Methoden, die nicht dem Deutschen Reinheitsgebot entsprechen. - Internationale angewandte Verfahren, die eine ökonomischere Herstellung des Bieres erlauben. - Anwendung von technischen Enzymen sowie speziellen Hopfenprodukten und Klärmitteln im Brauprozess.\n\nBeschreibung der Lehr- und Lernformen: Hybridveranstaltung mit Lernvideos und Präsenzdiskussion sowie Präsenzvorträgen. Die Inhalte werden durch Literaturangaben ergänzt. Die Lehrninhalte folgen einem festgelegten und den Studierenden vorher bekannt gegebenen thematischen Aufbau, der bei Bedarf unterbrochen wird. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": null,
+     "building": null,
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "365093"
+   }
+  },
+  {
+   "id": "tu_moses:11665:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Cloud Prototyping",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=11665&semester=77",
+   "type": "Projekt",
+   "number": "3436 L 10610",
+   "lecturers": [
+    "Wolf, Karl Christoph",
+    "Kiesel, Jannis",
+    "Tai, Stefan"
+   ],
+   "org": "FG Wirtschaftsinformatik - Information Systems Engineering (ISE)",
+   "language": "Englisch",
+   "description": "Modul: Advanced Cloud Prototyping\n\nLernergebnisse: Students have advanced hands-on experience with all aspects of software project work (including team-based software development, project management, collaborative decision making, documenting and communicating project results). They are able to solve real-world problems in the context of the advanced design, implementation, and evaluation of cloud-based application systems in, e.g., enterprise, start-up, and IoT contexts. They are able to identify and articulate open research questions and theses for further work.\n\nLehrinhalte: Small groups of students analyze and solve challenging software and prototyping problems. They explore and use public cloud services, e.g., Amazon Web Services, and modern software technology stacks as applicable to the specific project focus defined each term. Depending on the focus, they apply advanced cloud concepts, paradigms, and practices such as cloud-native, serverless architectures, and/or quality-driven system development and assessment. The student teams work independently, supported and supervised by members of the chair. Hands-on experimentation with cloud services and open source systems is expected. Concrete tasks and project objectives as well as themes and technology stacks will be communicated at the beginning of the term. Some projects may be in cooperation with external partners.\n\nBeschreibung der Lehr- und Lernformen: Small teams of students will develop cloud-focused software prototypes, supported and supervised by members of the chair. The number of student participants is limited. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, MA 648",
+     "building": "TU:Charlottenburg/MA",
+     "group": "Gruppenarbeit",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Charlottenburg, MA 143 (Tafel defekt)",
+     "building": "TU:Charlottenburg/MA",
+     "group": "Präsenz",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364355"
+   }
+  },
+  {
+   "id": "tu_moses:14364:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Vorlesungsverzeichnis (VVZ) Veranstaltungssuche Veranstaltungsvorlage Lehrveranstaltung Advanced Prototyping of Intelligent and Trusted Systems",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=14364&semester=77",
+   "type": "Projekt",
+   "description": "Modul: Advanced Edge AI Prototyping\n\nLernergebnisse: Nach erfolgreichem Abschluss des Kurses haben Studierende: • fortgeschrittene praktische Erfahrungen bei der Anwendung von Software-Engineering-Methoden während des Designs und der Entwicklung von Edge-KI-Systemen gesammelt; • ihre Programmier- und Integrationskenntnisse vertieft, insbesondere bei der Implementierung, Integration und Evaluierung von KI-Komponenten in verteilten Edge- und Cloud-Umgebungen; • Anwendungsszenarien für Edge-AI-Systeme analysiert und darauf aufbauend technische Anforderungen für diese Systeme definiert, inkl. funktionaler und nichtfunktionaler Anforderungen; • praktische Lösungen auf der Grundlage von Cloud- und Edge-Umgebungen entworfen, entwickelt und systematisch bewertet; • technische Kompromisse, Einschränkungen und Gestaltungsalternativen von Edge-KI-Systemen bewertet und erörtert; • technische Entwurfsentscheidungen, Implementierungsergebnisse, Evaluierungsergebnisse und Einschränkungen in strukturierter und wissenschaftlicher Art und Weise dokumentiert und präsentiert; und • Erfahrungen in der selbstorganisierten Teamarbeit gesammelt und ihre Fähigkeit zur Kooperation und Kollaboration in komplexen Softwareentwicklungsprojekten gestärkt.\n\nLehrinhalte: Kleingruppen von Studierenden analysieren und lösen fortgeschrittene Probleme aus den Bereichen Softwareentwicklung und Prototyping im Bereich Edge-KI. Sie setzen sich mit modernen Edge-, Cloud- und KI-Technologien auseinander, wenden diese an und bewerten sie kritisch. Unter Betreuung des Fachgebiets Software and Business Engineering arbeiten die Teams eigenständig an ihren Projekten. Der Schwerpunkt des Moduls liegt auf praktischen Experimenten mit Edge-Computing-Umgebungen, KI-basierten Softwarekomponenten, Cloud-Diensten und Open-Source-Systemen sowie auf der systematischen Bewertung von Entwurfsentscheidungen und technischen Kompromissen. Konkrete Aufgaben und Projektziele in Bezug auf Themen, Anwendungsbereiche und Technologie-Stacks werden zu Beginn des Semesters bekanntgegeben. Einige Projekte können in Zusammenarbeit mit externen Partnern durchgeführt werden.\n\nBeschreibung der Lehr- und Lernformen: Praktische Arbeit in Projektteams und kleineren Untergruppen, Team- und Gruppentreffen, Kurzpräsentationen, Meilensteine, Dokumentation und Abschlusspräsentation. Voraussetzungen für die Teilnahme / Prüfung",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "366700"
+   }
+  },
+  {
+   "id": "tu_moses:14171:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Energy Systems: Technical Aspects and Simulation Methods",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=14171&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "number": "3715 L 005",
+   "org": "FG Energietechnik und Klimaschutz",
+   "language": "Englisch",
+   "description": "Modul: Advanced Energy Systems: Technical Aspects and Simulation Methods\n\nLernergebnisse: Nach Abschluss des Kurses verfügen die Studierenden über ein umfassendes Verständnis der Prinzipien und der Funktionsweise fortschrittlicher Technologien im Bereich der erneuerbaren Energien, wie beispielsweise wasserstoffbasierte Netzwerke, Power-to-X-Systeme, innovative Speicherlösungen und Power-to-Heat-Anwendungen. Sie lernen wie man Energieumwandlungs- und -speichersysteme mit TRNSYS und/oder MATLAB modelliert und analysiert und erwerben praktische Fähigkeiten in der dynamischen Simulation und Leistungsbewertung. Durch analytische Übungen und Projektarbeit entwickeln die Studierenden die Fähigkeit die technische Machbarkeit neuartiger Energienetze zu beurteilen und theoretische und methodische Konzepte bei der Konzeption und Optimierung von Technologien für erneuerbare Energien anzuwenden.\n\nLehrinhalte: Dieser Kurs konzentriert sich auf die Erforschung neuartiger Netzwerke und Technologien für erneuerbare Energien. Er vermittelt sowohl theoretische als auch technologische Einblicke in fortschrittliche Energiesysteme, darunter: • Wasserstoffbasierte Netzwerke • Power-to-X-Systeme • Innovative Energiespeicherlösungen wie Druckluftspeicher (CAES) und Flüssig-CO₂-Energiespeicher • Power-to-Heat-Systeme • Phasenwechselmaterialien (PCM) Die Vorlesungen bieten einen umfassenden Überblick über diese neuen Technologien und analytische Ansätze zur Bewertung ihrer Machbarkeit und ihres Integrationspotenzials. Die Studierenden sammeln außerdem praktische Erfahrungen durch vereinfachte Fallstudien, die in TRNSYS und/oder MATLAB implementiert sind, um die Systemleistung zu bewerten. Im Rahmen des Kurses entwickelt jeder Studierende ein vereinfachtes Projekt, das sich auf eine der in den Vorlesungen behandelten Technologien konzentriert.\n\nBeschreibung der Lehr- und Lernformen: Der Kurs kombiniert Vorlesungen, Software-Demonstrationen, angeleitete Übungen und Projektarbeit. Die Studierenden entwickeln aktiv TRNSYS-Modelle von Gebäuden und erneuerbaren Energiesystemen, führen Simulationen durch und analysieren die Ergebnisse. Diskussionen von Fallstudien und praktischen Beispielen ergänzen den theoretischen Stoff und stellen sicher, dass die Studierenden die Konzepte auf reale Szenarien anwenden können. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "08:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2026-09-21",
+     "last_date": "2026-10-02",
+     "room": "Charlottenburg, FH 311",
+     "building": "TU:Charlottenburg/FH",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "331917"
+   }
+  },
+  {
+   "id": "tu_moses:13161:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Information Systems Prototyping",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13161&semester=77",
+   "type": "Projekt",
+   "lecturers": [
+    "Korbel, Jakob Johannes"
+   ],
+   "org": "FG Informations- und Kommunikationsmanagement (IKM)",
+   "language": "Deutsch",
+   "description": "Modul: Advanced Information Systems Prototyping\n\nLernergebnisse: Advanced Information Systems Prototyping vermittelt den Studierenden praktische Kenntnisse in der Softwareentwicklung. Die Studierenden sammeln dabei im Rahmen des Moduls Erfahrungen in einem Praxisprojekt mit Partnern aus der Wirtschaft und Forschung. Sie lernen Facetten realer Projektarbeit kennen (bspw. Entscheidungsfindung, Implementierung, Projektdokumentation, und Ergebnispräsentation) und können teamorientiert komplexe Aufgaben im Kontext der Gestaltung und Bewertung von IT-Systemen bewältigen.\n\nLehrinhalte: Advanced Information Systems Prototyping bietet Studierende die Möglichkeit, gemeinsam an einem Softwareentwicklungsprojekt zu arbeiten. Kleine Gruppen von Studierenden analysieren und lösen dabei herausfordernde Software- und Prototyping-Probleme. Sie untersuchen und verwenden Open Source Tools und moderne Software-Technologie-Stacks, die auf den spezifischen Projektfokus anwendbar sind. Die Projektthemen variieren jedes Semester. Die Studierendenteams arbeiten unabhängig und werden vom Fachgebiet wissenschaftlich begleitet. Konkrete Aufgaben und Projektziele in Bezug auf Themen und Technologie werden zu Beginn des Semesters kommuniziert.\n\nBeschreibung der Lehr- und Lernformen: Innerhalb des Moduls entwickeln kleine Teams von Studierenden Software-Prototypen. Die Projekte werden dabei vom Fachgebiet IKM betreut und bei Praxisprojekten durch einen Praxispartner begleitet. Die Anzahl der Teilnehmenden ist begrenzt. Die Studierenden reichen zu Beginn des Semesters eine Bewerbung ein und werden aufgrund der vorhandenen Kapazität dem Projekt zugewiesen. Details zu dem Projekt und dem Anmeldeprozess werden etwa zwei Wochen vor Semesterbeginn im ISIS-Kurs bekannt gegeben. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "08:00",
+     "end": "10:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Charlottenburg",
+     "building": "TU:Charlottenburg",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363367"
+   }
+  },
+  {
+   "id": "tu_moses:13773:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Macroeconomics I",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13773&semester=77",
+   "type": "Klausur",
+   "org": "FG Volkswirtschaftlehre, insbesondere Makroökonomie",
+   "language": "Englisch",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "323217"
+   }
+  },
+  {
+   "id": "tu_moses:12765:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Media Technologies",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=12765&semester=77",
+   "type": "Klausur / Exam",
+   "org": "FG Open Distributed Systems (ODS)",
+   "language": "Deutsch",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "335983"
+   }
+  },
+  {
+   "id": "tu_moses:8156:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Media Technologies",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=8156&semester=77",
+   "type": "Projekt",
+   "number": "0432 L 753",
+   "lecturers": [
+    "Steglich, Stephan",
+    "Bassbouss, Louay"
+   ],
+   "org": "FG Open Distributed Systems (ODS)",
+   "language": "Englisch",
+   "description": "Modul: Advanced Media Technologies\n\nLernergebnisse: Absolventen dieses Moduls verfügen über grundlegende Kompetenzen in Anwendung und Weiterentwicklung von Medientechnologien, insbesondere in den Bereichen Online-Medien (z. B. Media & Entertainment, Medien Streaming & Playback, Content Protection, Immersive Media, Learning Technologien, Content Provenance, Green Streaming), Telekommunikation (z. B. Medienübertragung in 5G-Netzen, Webprotokolle wie WebRTC, HTTP/3, QUIC, WebSockets, WebTransport), Web Media APIs (MSE, EME, WebCodecs, MediaCapture, WebXR) und Standards (z. B. W3C, HbbTV, MPEG-DASH, CTA WAVE, C2PA, 5G-MAG).\n\nLehrinhalte: Der Kurs vermittelt den Teilnehmenden Kenntnisse über die neuesten und zukünftigen Online-Medientechnologien und -standards und bietet spezifische Einblicke in aktuelle Standardisierungsbestrebungen, Forschungs- und Entwicklungsaktivitäten sowie kommerzielle Anwendungen im Bereich Medientechnologien. Der Schwerpunkt liegt auf Technologien und Standards, die für das Medien-Streaming und die Wiedergabe im Internet von zentraler Bedeutung sind. Wichtige Themenbereiche umfassen Online-Medien (z. B. Medien & Unterhaltung, Streaming & Wiedergabe, Content Protection, Immersive Medien, Lerntechnologien, Content Provenance, Green Streaming), Telekommunikation (z. B. Medienübertragung in 5G-Netzen, Webprotokolle wie WebRTC, HTTP/3, QUIC, WebSockets, WebTransport), Web Media APIs (z. B. MSE, EME, WebCodecs, MediaCapture, WebXR) und Standards (z. B. W3C, HbbTV, MPEG-DASH, CTA WAVE, C2PA, 5G-MAG).\n\nBeschreibung der Lehr- und Lernformen: Das Modul besteht aus einer Vorlesung, die mit einem schriftlichen Test abgeschlossen wird und einem Projekt. Im Projekt werden die Inhalte der Vorlesung vertiefend behandelt und mit Vorträgen zum Projektfortschritt, der Implementierung und der schriftlichen Ausarbeitung/ Dokumentation abgeschlossen. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Online",
+     "building": "TU:Online",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364108"
+   }
+  },
+  {
+   "id": "tu_moses:8154:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Media Technologies",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=8154&semester=77",
+   "type": "Vorlesung",
+   "number": "0432 L 752",
+   "lecturers": [
+    "Steglich, Stephan",
+    "Bassbouss, Louay"
+   ],
+   "org": "FG Open Distributed Systems (ODS)",
+   "language": "Englisch",
+   "description": "Modul: Advanced Media Technologies\n\nLernergebnisse: Absolventen dieses Moduls verfügen über grundlegende Kompetenzen in Anwendung und Weiterentwicklung von Medientechnologien, insbesondere in den Bereichen Online-Medien (z. B. Media & Entertainment, Medien Streaming & Playback, Content Protection, Immersive Media, Learning Technologien, Content Provenance, Green Streaming), Telekommunikation (z. B. Medienübertragung in 5G-Netzen, Webprotokolle wie WebRTC, HTTP/3, QUIC, WebSockets, WebTransport), Web Media APIs (MSE, EME, WebCodecs, MediaCapture, WebXR) und Standards (z. B. W3C, HbbTV, MPEG-DASH, CTA WAVE, C2PA, 5G-MAG).\n\nLehrinhalte: Der Kurs vermittelt den Teilnehmenden Kenntnisse über die neuesten und zukünftigen Online-Medientechnologien und -standards und bietet spezifische Einblicke in aktuelle Standardisierungsbestrebungen, Forschungs- und Entwicklungsaktivitäten sowie kommerzielle Anwendungen im Bereich Medientechnologien. Der Schwerpunkt liegt auf Technologien und Standards, die für das Medien-Streaming und die Wiedergabe im Internet von zentraler Bedeutung sind. Wichtige Themenbereiche umfassen Online-Medien (z. B. Medien & Unterhaltung, Streaming & Wiedergabe, Content Protection, Immersive Medien, Lerntechnologien, Content Provenance, Green Streaming), Telekommunikation (z. B. Medienübertragung in 5G-Netzen, Webprotokolle wie WebRTC, HTTP/3, QUIC, WebSockets, WebTransport), Web Media APIs (z. B. MSE, EME, WebCodecs, MediaCapture, WebXR) und Standards (z. B. W3C, HbbTV, MPEG-DASH, CTA WAVE, C2PA, 5G-MAG).\n\nBeschreibung der Lehr- und Lernformen: Das Modul besteht aus einer Vorlesung, die mit einem schriftlichen Test abgeschlossen wird und einem Projekt. Im Projekt werden die Inhalte der Vorlesung vertiefend behandelt und mit Vorträgen zum Projektfortschritt, der Implementierung und der schriftlichen Ausarbeitung/ Dokumentation abgeschlossen. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Charlottenburg, ER 136",
+     "building": "TU:Charlottenburg/ER",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364278"
+   }
+  },
+  {
+   "id": "tu_moses:10563:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Media Technologies II",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=10563&semester=77",
+   "type": "Projekt",
+   "number": "3433 L 10563",
+   "lecturers": [
+    "Bassbouss, Louay",
+    "Steglich, Stephan"
+   ],
+   "org": "FG Open Distributed Systems (ODS)",
+   "language": "Englisch",
+   "description": "Modul: Projekt Advanced Media Technologies\n\nLernergebnisse: Die Studierenden lernen die Umsetzung (Implementierung) und praktische Anwendung neuer (sich in Entwicklung befindlicher) Medientechnologien, insbesondere in den Bereichen Streaming (z. B. Players, Multiscreen-Anwendungen, Content Protection, Extended Reality), Telekommunikation (z. B. WebRTC, HTTP/3, QUIC, WebSockets, WebTransport) sowie Web Media APIs (MSE, EME, WebCodecs, MediaCapture, WebXR).\n\nLehrinhalte: In diesem Modul wird ein Projekt durchgeführt. Dafür wird entlang eines vorgegebenen Themas eine Software- oder Hardwarekomponente spezifiziert, realisiert, getestet und dokumentiert. Die Themen variieren von Semester zu Semester und können aus folgenden Themenkomplexen gewählt werden: - Produktinnovation in der Telekommunikations- und IT-Welt - Interaktive Medien und Fernsehen - Internet Delivered Media - Green Streaming - Learning Technologien Das Projekt wird abhängig vom Thema durch Gastdozenten aus Industrie und Wirtschaft unterstützt und kann so einen starken Bezug zur Industrieforschung vermitteln.\n\nBeschreibung der Lehr- und Lernformen: Die Projekte werden je nach Thema durch Mitarbeiter:innen des Fachgebietes und externe Gastdozierende betreut. Zu Beginn des Semesters suchen sich die Studierenden ein Projektthema aus und setzen sich, sollte es keinen ersten Anwesenheitstermin geben, mit den Projektbetreuenden in Verbindung, um sich für das Thema zu bewerben und einen Termin für ein Treffen zu vereinbaren. Die Themen werden vor Semesterbeginn veröffentlicht. Die Projektbetreuenden erklären die Aufgabe und stellen Material und Hilfsmittel bereit. Darüber hinaus vereinbaren sie mit den Projektteilnehmer:innen Termine für regelmäßige Treffen. Im Laufe des Semesters müssen alle Teilnehmenden an Projekten unabhängig von den Terminen mit den Projektbetreuer:innen in drei Vorträgen ihr Thema und ihren Fortschritt in der Bearbeitung vorstellen. Dafür werden je nach Themenschwerpunkt Termine eingerichtet. Die Vorträge fließen in die Endnote ein. Die Projekte werden mit einer Dokumentation von Konzept, Implementierung und Test der Lösung abgeschlossen. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "08:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Online",
+     "building": "TU:Online",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364920"
+   }
+  },
+  {
+   "id": "tu_moses:12472:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Microeconomics",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=12472&semester=77",
+   "type": "Klausur",
+   "org": "FG Ökonomie des öffentlichen Sektors, insbesondere Gesundheitsökonomie",
+   "language": "Deutsch",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "336304"
+   }
+  },
+  {
+   "id": "tu_moses:1519:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Microeconomics",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=1519&semester=77",
+   "type": "Übung",
+   "number": "71 110 L 1519",
+   "lecturers": [
+    "Kaiser, Jonas Pilgaard"
+   ],
+   "org": "FG Ökonomie des öffentlichen Sektors, insbesondere Gesundheitsökonomie",
+   "language": "Englisch",
+   "description": "Modul: Advanced Microeconomics\n\nLernergebnisse: Die Lehrveranstaltung gibt einen Überblick über die mikroökonomische Theorie auf fortgeschrittenem Niveau. Der Kurs vermittelt die notwendigen Fähigkeiten, Probleme mit mikroökonomischen Ansätzen zu analysieren.\n\nLehrinhalte: Der Kurs umfasst eine Auswahl von Themen: Wettbewerbsmarkttheorie, Industrieökonomik, Wohlfahrtsökonomie, sowie Informationen und Anreizen. Er besteht aus 3 Teilen. Teil 1 beschäftigt sich mit individuellen Entscheidungen, der klassischen Konsumenten- und Produzententheorie. In Teil 2 werden Marktgleichgewichte, die fundamentalen Theoreme der Wohlfahrtsökonomie sowie Marktversagen (Monopol, Preisdiskriminierung, Externalitäten und öffentliche Güter) behandelt. Teil 3 umfasst die Theorie von Anreizen und asymmetrischen Informationen.\n\nBeschreibung der Lehr- und Lernformen: Es handelt sich um eine Vorlesung mit zugehöriger Übung. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Charlottenburg, MAR 0.011",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "1. Termingruppe",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-11-20",
+     "last_date": "2026-11-20",
+     "room": null,
+     "building": null,
+     "group": "1. Termingruppe",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "365364"
+   }
+  },
+  {
+   "id": "tu_moses:1520:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Microeconomics",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=1520&semester=77",
+   "type": "Vorlesung",
+   "number": "71 110 L 1520",
+   "lecturers": [
+    "Kaiser, Jonas Pilgaard"
+   ],
+   "org": "FG Ökonomie des öffentlichen Sektors, insbesondere Gesundheitsökonomie",
+   "language": "Englisch",
+   "description": "Modul: Advanced Microeconomics\n\nLernergebnisse: Die Lehrveranstaltung gibt einen Überblick über die mikroökonomische Theorie auf fortgeschrittenem Niveau. Der Kurs vermittelt die notwendigen Fähigkeiten, Probleme mit mikroökonomischen Ansätzen zu analysieren.\n\nLehrinhalte: Der Kurs umfasst eine Auswahl von Themen: Wettbewerbsmarkttheorie, Industrieökonomik, Wohlfahrtsökonomie, sowie Informationen und Anreizen. Er besteht aus 3 Teilen. Teil 1 beschäftigt sich mit individuellen Entscheidungen, der klassischen Konsumenten- und Produzententheorie. In Teil 2 werden Marktgleichgewichte, die fundamentalen Theoreme der Wohlfahrtsökonomie sowie Marktversagen (Monopol, Preisdiskriminierung, Externalitäten und öffentliche Güter) behandelt. Teil 3 umfasst die Theorie von Anreizen und asymmetrischen Informationen.\n\nBeschreibung der Lehr- und Lernformen: Es handelt sich um eine Vorlesung mit zugehöriger Übung. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Charlottenburg, MAR 0.011",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "1. Termingruppe",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-11-20",
+     "last_date": "2026-11-20",
+     "room": null,
+     "building": null,
+     "group": "1. Termingruppe",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363277"
+   }
+  },
+  {
+   "id": "tu_moses:9623:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Module Biotechnology / Vertiefungsmodul Biotechnologie",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=9623&semester=77",
+   "type": "Praktikum",
+   "number": "0335 L 888",
+   "org": "FG Angewandte und Molekulare Mikrobiologie",
+   "language": "Englisch",
+   "description": "Modul: Vertiefungsmodul Biotechnologie FG BVT\n\nLernergebnisse: Ziel ist es, den Studierenden die notwendigen Voraussetzungen für die hohen Ansprüche der Masterarbeit zu vermitteln. Es soll den Studierenden die Möglichkeit geben, sich intensiv vor Beginn der Masterarbeit mit dem Thema auseinanderzusetzen und vertraut zu machen. Darüber hinaus besteht die Möglichkeit, sich nach Abschluß des Vertiefungsmoduls unter Anerkennung der geleisteten Arbeit) auch noch einmal für ein anderes Thema zu entscheiden. Die Veranstaltung vermittelt überwiegend: Wissen&Verstehen 50% Methodenkompetenz 20% Recherche 20% Sozialkompetenz 10%\n\nLehrinhalte: Das Modul dient der Orientierung zur Erstellung einer Masterarbeit. In einem Zeitraum von 4 Wochen werden die notwendigen theoretischen Voraussetzungen für eine experimentelle Arbeit vermittelt. Grundlegende Techniken werden im Labor eingeübt. Das Modul ist unbenotet und kann innerhalb des Masterstudiums maximal zweimal durchgeführt werden.\n\nBeschreibung der Lehr- und Lernformen: Es werden Themen und Inhalte interaktiv vermittelt. Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Advanced Module Biotechnology FG Geobiotechnology\n\nLernergebnisse: Ziel ist es, den Studierenden die notwendigen Voraussetzungen für die hohen Ansprüche der Masterarbeit zu vermitteln. Es soll den Studierenden die Möglichkeit geben, sich intensiv vor Beginn der Masterarbeit mit dem Thema auseinanderzusetzen und vertraut zu machen. Darüber hinaus besteht die Möglichkeit, sich nach Abschluß des Vertiefungsmoduls (unter Anerkennung der geleisteten Arbeit) auch noch einmal für ein anderes Thema zu entscheiden. Die Veranstaltung vermittelt überwiegend : Wissen&Verstehen 50% Methodenkompetenz 20% Recherche 20% Sozialkompetenz 10%\n\nLehrinhalte: Das Modul dient der Orientierung zur Erstellung einer Masterarbeit. In einem Zeitraum von 4 Wochen werden die notwendigen theoretischen Voraussetzungen für eine experimentelle Arbeit vermittelt. Grundlegende Techniken werden im Labor eingeübt. Das Modul ist unbenotet und kann innerhalb des Masterstudiums maximal zweimal durchgeführt werden.\n\nBeschreibung der Lehr- und Lernformen: Praktische Laborarbeit. Es werden Themen und Inhalte interaktiv vermittelt. Die Arbeit teilt sich in drei Unterteile auf: 1. Erlernen von Methodik 2. Anwenden der erlernten Methodik und Produktion von wissenschaftlich fundierten Daten 3. Erweiterung auf ein selbständiges kleines Projekt Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "08:00",
+     "end": "16:00",
+     "rhythm": "block",
+     "first_date": "2026-10-13",
+     "last_date": "2026-10-16",
+     "room": "Wedding, TIB13b 110 (Hörsaal B), TIB20+21 004",
+     "building": "TU:Wedding/TIB",
+     "group": "Blockveranstaltung Di. 13.- Fr. 16.10.2026",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "18:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-10-13",
+     "last_date": "2026-10-13",
+     "room": "Wedding, TIB13b 110 (Hörsaal B)",
+     "building": "TU:Wedding/TIB",
+     "group": "Blockveranstaltung Di. 13.- Fr. 16.10.2026",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "08:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-10-14",
+     "last_date": "2026-10-14",
+     "room": "Wedding, TIB20+21 004",
+     "building": "TU:Wedding/TIB",
+     "group": "Blockveranstaltung Di. 13.- Fr. 16.10.2026",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "08:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2026-10-14",
+     "last_date": "2026-10-14",
+     "room": "Wedding, TIB13b 110 (Hörsaal B)",
+     "building": "TU:Wedding/TIB",
+     "group": "Blockveranstaltung Di. 13.- Fr. 16.10.2026",
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-10-15",
+     "last_date": "2026-10-15",
+     "room": "Wedding, TIB13b 110 (Hörsaal B)",
+     "building": "TU:Wedding/TIB",
+     "group": "Blockveranstaltung Di. 13.- Fr. 16.10.2026",
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "08:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-10-16",
+     "last_date": "2026-10-16",
+     "room": "Wedding, TIB20+21 004, TIB20+21 Z008 (Hörsaal C)",
+     "building": "TU:Wedding/TIB",
+     "group": "Blockveranstaltung Di. 13.- Fr. 16.10.2026",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "365038"
+   }
+  },
+  {
+   "id": "tu_moses:13834:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Natural Language Processing",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13834&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "lecturers": [
+    "Raithel, Lisa",
+    "Roller, Roland"
+   ],
+   "org": "FG S-Professur Quality and Usability",
+   "language": "Englisch",
+   "description": "Modul: Advanced Natural Language Processing\n\nLernergebnisse: Nach erfolgreichem Abschluss dieses Moduls sind die Studierenden in der Lage: - Zentrale Konzepte großer Sprachmodelle (LLMs), einschließlich Sprachmodellierung, Attention-Mechanismen, Transformer-Architekturen sowie Pre-Training, Fine-Tuning und Instruction Tuning zu beschreiben und zu analysieren; - Fortgeschrittene Techniken wie Reinforcement Learning mit menschlichem Feedback (RLHF) und Retrieval-augmented Generation (RAG) zu erklären und deren Einsatzbereiche einzuschätzen; - Die Funktionsweise von LLMs auf typische Aufgaben der natürlichen Sprachverarbeitung (z. B. Textgenerierung, Zusammenfassung, maschinelle Übersetzung, Konversationssysteme) anzuwenden und deren Eignung für spezifische Aufgaben zu beurteilen; - Domänenspezifische Anwendungen, etwa im Gesundheitswesen, zu entwickeln und dabei Datenschutz-, Fairness- und Fehlinformationsaspekte zu berücksichtigen.\n\nLehrinhalte: In diesem Kurs werden aktuelle grundlegende Themen der Verarbeitung natürlicher Sprache mit einem Schwerpunkt auf großen Sprachmodellen (LLMs) vermittelt. Die Inhalte umfassen zentrale Konzepte wie Sequenzmodellierung, Attention-Mechanismen, Transformer-Architekturen, Pre-Training und Fine-Tuning von LLMs, Prompting, Reinforcement Learning mit menschlichem Feedback (RLHF) sowie Retrieval-augmented Generation (RAG). Darüber hinaus werden verschiedene NLP-Aufgaben wie Textgenerierung, Zusammenfassung, maschinelle Übersetzung, Konversationssysteme, Informationsextraktion und domänenspezifische Anwendungen (z. B. im Gesundheitswesen) behandelt. Auch ethische und technische Fragestellungen wie Datenschutz, Fairness, Textanonymisierung und die Erkennung von Fehlinformationen sind Teil des Kurses. Der Kurs beinhaltet praxisorientierte Projektarbeit, bei der die erlernten Methoden auf reale Anwendungsfälle angewendet werden. Daher werden Grundkenntnisse in Python-Programmierung, maschinellem Lernen und Natural Language Processing empfohlen.\n\nBeschreibung der Lehr- und Lernformen: Das Lernen mit den Online-Videos auf der Lernplattform, die Diskussion von Themen und das Stellen von Fragen im Forum sowie das Bearbeiten von Quizzen und Projekten. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-20",
+     "last_date": "2027-02-09",
+     "room": "Online",
+     "building": "TU:Online",
+     "group": "Terminreihe - Online",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-10-13",
+     "last_date": "2026-10-13",
+     "room": "Charlottenburg, HFT-TA 101",
+     "building": "TU:Charlottenburg/HFT-TA",
+     "group": "Kick-Off",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363677"
+   }
+  },
+  {
+   "id": "tu_moses:14563:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Natural Language Processing",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=14563&semester=77",
+   "type": "Klausur / Exam",
+   "org": "FG S-Professur Quality and Usability",
+   "language": "Englisch",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "336105"
+   }
+  },
+  {
+   "id": "tu_moses:4943:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Network Technologies",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=4943&semester=77",
+   "type": "Projekt",
+   "number": "0432 L 307",
+   "lecturers": [
+    "Oczko, Marie-Christin Hannah"
+   ],
+   "org": "FG Telekommunikationsnetze",
+   "language": "Deutsch",
+   "description": "Modul: Project Advanced Network Technologies\n\nLernergebnisse: Students gain practical experience in dealing with modern communication systems, their design, evaluation and implementation. The focus is put primarily on modern systems of wireless mobile communications, as well as Internet protocols and applications. Skills obtained in this module will enable students to design, implement and evaluate modern communication systems. Thanks to working in small teams, graduates also develop project management and team working skills.\n\nLehrinhalte: This module solely consists of a project. The aim of the project is to work in small teams and obtain solution of a major task. The work needs to be planned and realized autonomously and in a systematic manner, with limited guidance from the supervisor. The project topics change every semester and are related directly to the current scientific work of the research group. Possible topics include: - Indoor Localisation - Cognitive Radio - Wireless LAN - Sensor- and Body-Area Networks - Spontaneous Communication - Cyberphysical Systems - Simulation of computer networks Topics are not limited to the list given above and students may, upon agreement with the supervisor, propose the subject of their own choice.\n\nBeschreibung der Lehr- und Lernformen: PJ: Project work in groups of about 3 students, weekly meetings with the supervisor, intermediate and final presentations. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "08:00",
+     "end": "10:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Charlottenburg, MAR 4.064",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363234"
+   }
+  },
+  {
+   "id": "tu_moses:8021:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Perspectives and Discussions of Environmental Assessments",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=8021&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "number": "0635100 L 04",
+   "lecturers": [
+    "Geißler, Gesa"
+   ],
+   "org": "FG Umweltprüfungen/Environmental Assessments",
+   "language": "Englisch",
+   "description": "Modul: Environmental Assessment\n\nLernergebnisse: The goal of this course is to enable students: to be able to apply the main instruments of environmental impact assessment in practical planning situations as based on fundamental knowledge prodvided in the bachelor's degree program, to gain expertese about the contents and planning processes of instruments such as impact mitigation regulation, Environmental Impact Assessment (EIA), EU Habitat Regulations Assessment (HRA) and Strategic Environmental Assessment (SEA), to recognize ecological needs and plan accordingly, and to identify interfaces with ecological disciplines, to be able to apply planning instruments both in domestic as well international arenas to be able to judge the different instruments in their effectiveness and know how to generate appropriate research when needed, to identify and formulate research approaches in the further development of planning instruments, to identify and analyze aspects of gender mainstreaming in planning processes. This course offers predominantly: Professional expertise 40% Methodological expertise 40% Systems thinking 10% Social competence 10%.\n\nLehrinhalte: The module addresses impact mitigation regulation, EU Habitat Regulations Assessment (HRA) including the Appropriate Assessment (AA), Environmental Impact Assessment (EIA) and Strategic Environmental Assessment (SEA) of plans and programs in Germany, Europe and beyond. Strategic Environmental Assessment will be discussed in the context of technical planning (e.g. road construction projects, waste management, etc.). In general, students will be supplied with research materials to facilitate a comparison of instruments such as impact mitigation regulation in Germany and the Wetland Mitigation Act in the United States, as well as different EU Habitat Regulations Assessment schemes across Europe. The scope of screening, the given “subjects of protection”, and the relevant decision-making processes comprise the initial focus of the module. Other subjects to be handled in the course include a supplementary landscape conservation plan, an Appropriate Assessment, an Environmental Impact Study (EIS), and finally an Environmental Report (document of the SEA) for technical planning. What planning and assessment methods can be applied and what subjects of protection should be considered? How can such necessary assessment questions be appropriately handled and how do these apply to relevant trends in impact assessment worldwide? In this sense reference to ecological issues such as biodiversity conservation should also be made. What is the role of public administration and public participation in national and international settings? Questions about monitoring and so- called “follow-up studies” will be addressed and examples of impact prevention, mitigation, and compensation will also be discussed. Recent international developments and requirements of various planning instruments will be presented, including, e.g. the expansion of test procedures to include a “Sustainability Appraisal” or the ability to use German planning expertise in the international arena. Finally, recent research topics and projects will be presented and discussed.\n\nBeschreibung der Lehr- und Lernformen: The integrated lecture is based on lecture blocks, which will be enriched with several practical exercises, short essay assignments, homework and literary research. Current German and English publications supplement the self-study aspect of the course. In the section on “Environmental Impact Assessment (EIA) and Strategic Environmental Assessment (SEA)”, students will act out a planning game, in which participants take on different roles in a practice- oriented planning situation. Gender issues can also be integrated into the exercise. The final credits for the course component “Impact Mitigation Regulation and EU Habitats Regulations Assessment” will be arranged individually in agreement with the course instructor. Both course components are held in English. Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Advanced Perspectives of Environmental Assessments\n\nLernergebnisse: The learning goals of this course are orientated along the International Best Practice Principles for Teaching Impact Assessment. This course enables students to: • gain expertise about international standards, regulations, contents and processes of Environmental Assessment (EA) instruments (e.g. Environmental Impact Assessment (EIA), Strategic Environmental Assessment (SEA), biodiversity and species-related assessments such as EU Habitat Regulations Assessment (HRA), as well as specific environmental mitigation regulations (such as e.g. U.S. Wetland and Endangered Species Mitigation or German Impact Mitigation Regulation), • gain insights into further impact assessment (IA) instruments (such as Social Impact Assessment, Health Impact Assessment, etc.) • apply international standards, concepts, and instruments of EA and mitigation in practical planning situations (in both German and international settings), • identify interfaces with natural and social sciences and recognise the role of institutions/ actors (practitioners, NGOs, World Bank/financiers, proponents, etc.) in EA processes, • judge the instruments‘ effectiveness and formulate research implications for the further development of EA and • incorporate aspects of gender, diversity, and environmental justice in EA processes. Professional expertise (40%): • International theories and (best) practice approaches of EA. • Learners familiarise themselves with the specifics of EA systems (standards, regulations and procedures). • Learners engage with emerging research and topics in the field. Methodological expertise (40%): • Judgement and critical thinking • Oral communication and discussion skills • Integrative and systems thinking Social competence (10%): • Learners are prepared to face ethical dilemmas and intercultural issues and are aware of expected professional standards.\n\nLehrinhalte: The module addresses various environmental assessments (EA) and mitigation instruments, including Strategic Environmental Assessments (SEA) of plans, policies, and programs and Environmental Impact Assessments (EIA) of projects in different contexts, settings, and regions. Part 1, ‘Concepts and Regulations of Environmental Assessments’, covers the conceptual and statutory bases of Environmental Assessment instruments. EA instruments (incl. EIA on the project and SEA on the plan/program levels, among other EA tools) are introduced in terms of their basic steps (e.g. screening, scoping, prediction, mitigation, etc.) and required contents (e.g. assessment of alternatives, cumulative effects, monitoring, etc.). The underlying concepts and principles of EA are discussed and critically reflected. The requirements for impact mitigation and offsetting as part of EAs are considered, and their implementation in different regions and contexts is compared in terms of what triggers their application, the covered environmental resources (e.g. protected species, habitats/biodiversity, wetlands), and the application of the mitigation sequence (avoid, minimise, compensate). Part 2, ‘Advanced Perspectives and Discussions of Environmental Assessments’, aims to discuss new approaches and current discourses in the field of EA. To deepen the understanding of various impact assessment and mitigation instruments, topics such as quality and effectiveness of instruments, digitisation, and innovative approaches (e.g., third-party compensation mechanisms, landscape-scale mitigation, AI-supported EA practice) are covered.\n\nBeschreibung der Lehr- und Lernformen: The integrated lecture (blended-learning format) is based on advisor input, student presentations and in-class discussions, practice examples, and weekly readings. Throughout the semester, the students will read and analyse practical cases and EA literature to better understand the content covered in class. These exercises and lessons learned from readings will be discussed in class. The teaching language is English. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, EB 414",
+     "building": "TU:Charlottenburg/EB",
+     "group": "Termingruppe 1 - Prof. Geißler",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364307"
+   }
+  },
+  {
+   "id": "tu_moses:3572:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Perspectives of Environmental Planning (MA-Course)",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=3572&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "number": "06351300 L 06",
+   "lecturers": [
+    "Heiland, Stefan"
+   ],
+   "org": "FG Landschaftsplanung und Landschaftsentwicklung",
+   "language": "Deutsch",
+   "description": "Modul: Landschafts- und Umweltplanung\n\nLernergebnisse: Die Studierenden sollen befähigt werden, Inhalte und Methoden der Landschafts- und Umweltplanung innerhalb landschaftsarchitektonischer Fragestellungen anwenden und umsetzen zu können. Das Modul vermittelt überwiegend: Fachkompetenz 50%; Methodenkompetenz 20%; Systemkompetenz 20%; Sozialkompetenz 10%.\n\nLehrinhalte: Es werden 2 Lehrveranstaltungen aus dem Angebot des Masterstudiengangs Umweltplanung (Environmental Planning) gemäß folgender Liste ausgewählt werden. - Instrumente der Landschaftsplanung im nationalen und internationalen Kontext (IV, 3 ECTS) (aus MA UP P 1) - Konzepte und Rahmenbedingungen der Landschaftsplanung (IV, 3 ECTS) (aus MA UP P 1) - Eingriffsregelung, FFH-Verträglichkeitsprüfung (IV, 3 ECTS) (aus MA UP P2) - Umweltverträglichkeitsprüfung, Strategische Umweltprüfung (IV, 3 ECTS) (aus MA UP P2) - Institutionenökonomie (IV, 3 ECTS) (aus MA UP P3) - Integration von Sektorpolitik (IV, 3 ECTS) (aus MA UP P3) - GIS-Einsatz in der Umweltplanung (IV, 3 ECTS) (aus MA UP P4) - Landschaftsanalyse und Bewertung mit GIS (IV, 3 ECTS) (aus MA UP P4) - Internationale Umweltpolitik: Kooperation und Konvention (IV, 3 ECTS) (aus MA UP WP3) - Umweltpolitik der Europäischen Union (IV, 3 ECTS) (aus MA UP WP3) - Grundlagen des Straßenentwurfs und des Straßenbaus (IV, 3 ECTS) (aus: Entwurf von Straßenverkehrsanlagen außerhalb bebauter Gebiete, Service Verkehrswesen) - Bodenpolitik und Bodenmanagement (IV, 3 ECTS) (aus MA UP WP8) - Internationale Bodenpolitik (IV, 3 ECTS) (aus MA UP WP8) - Umweltrecht I (IV, 3 ECTS) (aus MA UP WP7) Die Inhalte werden aus den entsprechenden Modulbeschreibungen ersichtlich. Nach Rücksprache mit der Modulverantwortlichen können auch andere Lehrveranstaltungen aus den folgenden Bereichen gewählt werden: • GIS und Luftbildauswertung • Grundlangen und Methoden der Landschaftsplanung • Instrumente der Umweltplanung • Umweltökonomie und Umweltrecht\n\nBeschreibung der Lehr- und Lernformen: Je nach gewählter Lehrveranstaltung; näheres regelt die Modulbeschreibung der gewählten Lehrveranstaltung Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Advanced Perspectives of Environmental Planning\n\nLernergebnisse: Das Modul versetzt die Studierenden in die Lage: - aufbauend auf den Inhalten des Bachelor-Abschlusses formelle und informelle Instrumente der Landschaftsplanung in der Praxis anzuwenden sowie ihre Leistungsfähigkeit, ihre Perspektiven sowie die Notwendigkeit ihrer Weiterentwicklung zu beurteilen, - Konzepte der Landschaftsplanung in ihrer Praxisrelevanz einzuordnen und bezogen auf konkrete Fragestellungen anzuwenden, die Spezifika der deutschen Landschaftsplanung gegenüber Planungssystemen in anderen Staaten zu reflektieren, - aktuelle planungspolitische und fachliche Entwicklungen in ihrer Bedeutung für das Berufsfeld wahrzunehmen und einzuschätzen, - für die Disziplin relevante Themen gezielt in deutsch- und englischsprachigen Fachzeitschriften zu recherchieren sowie die eigene Publikationstätigkeit in solchen Zeitschriften zu planen (insbesondere bei einer wissenschaftlichen Laufbahn). Das Modul vermittelt überwiegend: Fachkompetenz 50%; Methodenkompetenz 30%; Systemkompetenz 10%; Sozialkompetenz 10%.\n\nLehrinhalte: Die Lehrveranstaltung „Instrumente der Landschaftsplanung im nationalen und internationalen Kontext“ behandelt formelle und informelle Instrumente der Landschaftsplanung in Deutschland vor internationalem Hintergrund sowie landschafts- und raumbezogene Planungssysteme aus Europa und Übersee. Behandelt werden u.a. das Verhältnis der Landschaftsplanung zur Strategischen Umweltprüfung bzw. zur Umweltprüfung in der Bauleitplanung sowie die Rolle des Europäischen Raumentwicklungskonzepts (EUREK) sowie der Europäischen Landschaftskonvention des Europarats für eine deutsche und europäische Landschaftspolitik und -planung. Kritisch zu reflektieren sind die Perspektiven der Landschaftsplanung als vorsorgend-agierendes planerisches Instrument sowie Möglichkeiten und Notwendigkeit ihrer Weiterentwicklung im Zusammenhang mit anderen Instrumenten (z.B. Strategische Umweltprüfung, Schutzgebietsausweisungen, FFH, Agenda 21). In der Lehrveranstaltung „Konzepte und Rahmenbedingungen der Landschaftsplanung“ werden erstens wesentliche inhaltliche und methodische Konzepte der Landschaftsplanung thematisiert. Methodisch wird z.B. die Differenzierung der Landschaftsanalyse in Schutzgüter bzw. Landschaftsfunktionen oder die Hierarchie von Leitbildern und Umweltzielen angesprochen. Inhaltliche Konzepte sind beispielsweise „Schutz durch Nutzung“, „Prozessschutz“ oder „Wildnis“. Zweitens werden aktuelle nationale und internationale Entwicklungen innerhalb, aber auch außerhalb der Disziplin thematisiert, die für die Landschaftsplanung von Relevanz sind. Dies könnten etwa neue methodische oder rechtliche Probleme und Entwicklungen sein, ebenso aber auch Fragen der Auswirkungen des demografischen Wandels auf Natur und Landschaft oder die in den USA geführte Diskussion über „urban sprawl“. Die Themen werden jeweils im Rahmen der Lehrveranstaltung festgelegt.\n\nBeschreibung der Lehr- und Lernformen: Vorlesungsteile bilden die Grundlage für Referate, Übungen und workshopartige Passagen. Ein besonderer Schwerpunkt liegt in der Lehrveranstaltung „Konzepte und Rahmenbedingungen“ auf der Vorstellung und kritischen Diskussion aktueller Beiträge aus deutsch- und englischsprachigen Fachzeitschriften. Die Veranstaltungen finden in englischer Sprache statt. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "08:00",
+     "end": "10:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Charlottenburg, EB 222",
+     "building": "TU:Charlottenburg/EB",
+     "group": "1. Termingruppe",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Charlottenburg, EB 414A",
+     "building": "TU:Charlottenburg/EB",
+     "group": "1. Termingruppe",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "366000"
+   }
+  },
+  {
+   "id": "tu_moses:14574:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced probabilistic methods related to reinforcement learning",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=14574&semester=77",
+   "type": "Vorlesung",
+   "lecturers": [
+    "Iyer, Tejas"
+   ],
+   "org": "FG S-Professur Wahrscheinlichkeitstheorie",
+   "language": "Englisch",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Charlottenburg, MA 644",
+     "building": "TU:Charlottenburg/MA",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363511"
+   }
+  },
+  {
+   "id": "tu_moses:13435:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Python Programming for Deep Learning in Earth Observation (APP4EO)",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13435&semester=77",
+   "type": "Praktikum",
+   "number": "41199",
+   "lecturers": [
+    "Wilming, Rick",
+    "Demir, Begüm",
+    "Adler, Mathis Jürgen",
+    "Hackel, Leonard Wayne",
+    "Klotz, Jonas"
+   ],
+   "org": "FG Remote Sensing Image Analysis (RSiM)",
+   "language": "Englisch",
+   "description": "Modul: Advanced Python Programming for Deep Learning in Earth Observation (APP4EO)\n\nLernergebnisse: Die Teilnehmenden dieses Kurses erwerben fortgeschrittene Kenntnisse in der Python-Programmierung auf dem Gebiet für Deep Learning in der Erdbeobachtung und Fernerkundung. Darüber hinaus lernen die Teilnehmenden, wie sie Herausforderungen bei der Verarbeitung von Fernerkundungsdaten bewältigen können, und erwerben praktische Fähigkeiten beim Training aktueller Deep Learning Methoden. Nach Abschluss dieses Kurses werden die Teilnehmenden in der Lage sein, die notwendige Datenpipeline zu implementieren, um tiefe neuronale Netze auf großen Fernerkundungsdatensätzen effizient zu trainieren.\n\nLehrinhalte: Ziel des Kurses ist es, praktisches Wissen für die auf Deep Learning basierende Verarbeitung und Analyse von Fernerkundungsbildern für die Erdbeobachtung zu vermitteln. Der Kurs beginnt mit einer Einführung in die einzelnen technischen Schritte im Zusammenhang mit der Erstellung eines Datensatzes und dessen effizienter Vorverarbeitung. Anschließend wird eine Trainingspipeline implementiert und eine Vielzahl von Deep Learning Experimenten durchgeführt. Neben modernen Deep Learning Methoden und Architekturen werden relevante Daten- und Speicherformate vorgestellt, wobei ein besonderes Augenmerk auf Effizienz, Flexibilität und nahtlose Durchführung von Experimenten in Python gelegt wird, um eine effiziente, groß angelegte Fernerkundungsbildanalyse mit Deep Learning zu ermöglichen. Verschiedene Praktische Anwendungen werden während des gesamten Kurses behandelt.\n\nBeschreibung der Lehr- und Lernformen: Dieses Modul besteht aus 1) einem kurzen Vorlesungsteil (in dem die Dozenten die Methoden vorstellen und den theoretischen Hintergrund vermitteln) sowie 2) geführten und selbst organisierten Programmierübungen. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "12:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Charlottenburg, KWT-A 014",
+     "building": "TU:Charlottenburg/KWT-A",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363371"
+   }
+  },
+  {
+   "id": "tu_moses:6089:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced recycling technologies I",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=6089&semester=77",
+   "type": "Seminar",
+   "lecturers": [
+    "Rotter, Vera Susanne",
+    "Tang, Sijia",
+    "Scholz, Johannes Roland"
+   ],
+   "org": "FG Kreislaufwirtschaft und Recyclingtechnologie",
+   "language": "Englisch",
+   "description": "Modul: Advanced Recycling Technologies I\n\nLernergebnisse: Nach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage: - gesellschaftlich und industriell relevante Ressourcenströme unter besonderer Berücksichtigung von kritischen Rohstoffen (CRMs) und der steigenden Nachfrage nach Technologiemetallen in Schlüsselbereichen wie Elektronik, Mobilität und erneuerbare Energien zu analysieren und zu bewerten; - geologische, technologische und sozioökonomische Bewertungsmethoden anzuwenden, um die Verfügbarkeit, Zugänglichkeit und Versorgungsrisiken von Rohstoffen wie Seltene Erden, Platingruppenmetallen, Kobalt, Lithium u. a. zu beurteilen; - vertieftes technisches Verständnis für die primäre Gewinnung und die sekundäre Versorgung (Recycling) relevanter Materialien zu zeigen, einschließlich Metallen und Legierungen wie Stahl, Aluminium, Kupfer, NdFeB-Magneten oder nickelbasierte Superlegierungen; - die Auswirkungen von Verunreinigungen und Materialkomplexität in fortgeschrittenen Recyclingprozessen zu bewerten und geeignete Strategien zur Reinigung, Trennung oder Vorbehandlung (z. B. hydrometallurgische Verfahren, mechanische Aufbereitung, sensorgestützte Sortierung) vorzuschlagen; - technische und systemische Herausforderungen in industriellen Recyclingprozessen zu identifizieren und gezielt anzugehen, insbesondere im Hinblick auf die Rückgewinnung von kritischen und hochpreisigen Spurenelementen aus Verbund- oder Mehrkomponentenprodukten; - die Recyclingfähigkeit und Rückgewinnungspotenziale komplexer Produkte wie Batterien, Permanentmagnete, Elektronikgeräte oder Fahrzeugkomponenten einzuschätzen und zu verbessern, auch unter Anwendung von Prinzipien des „Design for Recycling“; - das erworbene Wissen in einen breiteren Kontext der Ressourceneffizienz, der ökologischen Auswirkungen sowie von Strategien der Kreislaufwirtschaft einzuordnen, unter Berücksichtigung aktueller Grenzen und Innovationspotenziale im Bereich der Materialrückgewinnung und -substitution.\n\nLehrinhalte: Das Modul behandelt die folgenden Themenschwerpunkte: - Erweiterte Klassifikationssysteme für geologische Ressourcen und Methoden zur Bewertung der Kritikalität von Rohstoffen; -Primär- und Sekundärtechnologien (Recycling) zur Gewinnung und Aufbereitung zentraler Materialien, einschließlich Stahl, Aluminium, Kupfer, Seltenerdmetalle, Spezialmetalle und Kunststoffe; - Nachfrage, Nutzung und gesellschaftliche Bedeutung von Metallen und mineralischen Rohstoffen; - Quantifizierung von Ressourcenschätzen in End-of-Life-Strömen und urbanen Lagerstätten; - Fortgeschrittene Sortiertechnologien (z. B. sensorbasierte Sortierung, robotergestützte Demontage); - Produktcharakterisierung im Hinblick auf Recyclingfähigkeit (z. B. Materialverbunde, Designeigenschaften, Schadstoffe); - Praktische Übung zur manuelle(n) Demontage und Analyse ausgewählter End-of-Life-Produkte zur Bewertung von Recyclingpotenzialen und kritischen Materialflüssen; - Analytische Werkzeuge des Ressourcenmanagements, einschließlich Stoffstromanalysen (MFA), Recycling-Performance-Indikatoren, Recyclability Assessments und Kritikalitätsanalysen; - Datenmanagement und statistische Auswertung von Unsicherheiten in Rohstoffflüssen und Recyclingprozessen.\n\nBeschreibung der Lehr- und Lernformen: Dieses Modul wird in Form eines wöchentlichen Seminars abgehalten, in dem die Studenten die Grundlagen und den neuesten Stand der Recyclingtechnologien erlernen. In Übungen wird die praktische Anwendung verschiedener Instrumente des Ressourcenmanagements demonstriert. Im Laborpraktikum lernen die Studierenden die Komplexität der Gewinnung empirischer Daten für das Rohstoffmanagement kennen. Die Inhalte aus Übungen und Laborarbeiten werden in der Erstellung eines benoteten Berichts und einer Präsentation praktisch umgesetzt. Eine Exkursion ergänzt die theoretischen Kenntnisse durch praktische Erfahrungen. Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Advanced Recycling Technologies\n\nLernergebnisse: After the successful completion of the module the students: - understand societal and industrial relevance resource flows and the demand for mineral and metal raw materials, - are familiar with assessment methods for the geological and socio-economic availability and supply risks for raw materials - have a good overview and technical knowledge of primary and secondary supply and production of relevant materials such as steel, aluminum, copper, precious metals, phosphate, plastics etc., - understand the impact of impurities in recycling processes and are able to suggest removal steps, - can address challenges in industrial recycling processes, - are able to assess and improve the recyclability of complex products, - are able to conceptualize and execute the appropriate experimental design for specific research questions or hypotheses in the field of circular economy and recycling technologies - are able to plan and design experiments based on concepts and fundamentals taught in the module \"Advanced Recycling Technologies I\" - are able to collect and critically assess empirical data sets - are capable to apply resource management tools and statistical data analysis tools - are able to write scientific reports or journal articles and familiarize with the procedure of peer review processes - are able to scientifically present results - know to apply resource management tools such as MFA and other statistical process modeling tools for planning recycling strategies - are able to apply the acquired knowledge in a broader environmental perspective The module’s qualification profile is : 30% knowledge and understanding, 20% development and design, 20% research and evaluation, 30% practical application\n\nLehrinhalte: - Framework for geological resource classification and criticality assessment - Fundamentals on primary and secondary production (recycling) of materials (e.g. steel, aluminum, copper, precious metals, specialty metals, plastics, and phosphate) - Demand for and use of metals and minerals in society - Quantification of resource potentials in end-of-life flows - Advanced sorting technologies - Recycling-oriented product characterization - Analytical tools in Resource Management (Material Flow Analysis, Recycling Performance Indicators, Recyclability Assessment, Criticality Assessment) - Data management and statistical analysis of uncertainties - Insights in ongoing research and development in the field of circular economy and recycling technologies - Scientific practices - such as formulation of hypotheses, experimental design, statistical tools, and other assessment methods - Experimental and analytical techniques for characterizing waste flows, waste-derived products, and recycling processes - Tools for data management and presentation - Competences for presentations - Scientific writing\n\nBeschreibung der Lehr- und Lernformen: The course ART I will be held as a weekly seminar where students learn the fundamentals and the state-of-art in recycling technologies. Exercises show the practical application of various resource management tools, as well as the practical laboratory training, exposes the students to the complexity of gaining empirical data for raw material management. The contents of the exercises are practically applied in the preparation of a total of 4 graded assignments. An excursion is complementing theoretical knowledge with practical experience. In the course ART II, the student groups apply the methods and tools learned in the module \"Advanced Recycling Technologies I\" to projects which are closely linked to ongoing research projects at the Chair of Circular Economy and Recycling Technology. With several seminars during the semester, lecturers give input to experimental design, data processing, statistical analysis, visualization, and scientific writing. The students formulate research questions and plan, design and apply scientific methods and data collection strategies accordingly. Results will be presented and discussed at a mid-term and a final poster presentation session and documented in a written report following standards of scientific peer-reviewed publication writing. The students receive feedback from independent reviewers which they have to address in a second revision in order to practice common procedures of scientific publishing. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "08:00",
+     "end": "10:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-11",
+     "room": "Charlottenburg, MAR 0.016 (EG li.)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363893"
+   }
+  },
+  {
+   "id": "tu_moses:13232:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Research Data Infrastructures",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13232&semester=77",
+   "type": "Projekt",
+   "lecturers": [
+    "Schimmler, Sonja"
+   ],
+   "org": "FG Forschungsdateninfrastruktur",
+   "language": "Englisch",
+   "description": "Modul: Project Advanced Research Data Infrastructures\n\nLernergebnisse: Die Studierenden können neue und aufkommende Technologien im Bereich der fortgeschrittenen Forschungsdateninfrastrukturen erforschen. Sie können ein vorgegebenes, praktisches Projekt von begrenztem Umfang auf der Grundlage einiger dieser Technologien planen und durchführen. Sie sind in der Lage zu entscheiden, ob die von ihnen erforschten Technologien für ein bestimmtes Projekt nützlich sind. Sie können auch ihre Fortschritte innerhalb des Projekts präsentieren und eine Dokumentation ihres Projekts erstellen. Sie sind außerdem in der Lage, über die Ergebnisse des Projekts unter Verwendung dieser Technologien zu reflektieren.\n\nLehrinhalte: In diesem Modul arbeiten die Studierenden an einem praktischen Projekt von begrenztem Umfang. Zu diesem Zweck wird eine Softwarekomponente zu einem bestimmten Thema spezifiziert, implementiert, getestet und dokumentiert. Die angebotenen Themen variieren von Semester zu Semester und ermöglichen die Erkundung neuer und aufkommender Technologien aus einem oder mehreren der folgenden Bereiche: • Semantic Web, Linked Data und Knowledge Graphs • Datenmanagement und Dateninfrastrukturen • Datenqualität und FAIRness von Daten • Sprachmodelle, natürliche Sprachverarbeitung • Informationsextraktion, Textzusammenfassung, Fragenbeantwortung, Empfehlungen\n\nBeschreibung der Lehr- und Lernformen: Die Studierenden arbeiten während des Semesters an einem vorgegebenen, praktischen Projekt. In drei Präsentationen stellen sie ihr Projekt und ihren Fortschritt vor. Das Projekt wird mit einer Dokumentation der Spezifikation, der Implementierung und des Tests abgeschlossen. Die Umsetzung, die Dokumentation und die Präsentationen gehen in die Endnote ein. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Charlottenburg, MAR 0.008",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-10-14",
+     "last_date": "2026-10-14",
+     "room": null,
+     "building": null,
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363366"
+   }
+  },
+  {
+   "id": "tu_moses:13509:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Topics in Data Integration (ATDISE)",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13509&semester=77",
+   "type": "Seminar",
+   "lecturers": [
+    "Abedjan, Ziawasch"
+   ],
+   "org": "FG Data Integration and Data Preparation (BIFOLD)",
+   "language": "Englisch",
+   "description": "Modul: Data Integration Seminar\n\nLernergebnisse: In diesem Seminar lesen Studierende aktuelle Forschungsarbeiten aus dem Bereich Datenintegration. Die Studierenden haben die Möglichkeit, sich über die neuesten Trends und Herausforderungen in diesem Bereich zu informieren. Darüber hinaus erhalten sie umfassende Kenntnisse über ein bestimmtes Problem-Lösungs-Paar. Die Studierenden diskutieren in einer Präsentation und einem zusammenfassenden Bericht kritisch die Arbeit im Hinblick auf die damit verbundene Arbeit und die experimentelle Genauigkeit.\n\nLehrinhalte: - Grundlagen im Lesen, Präsentieren und Schreiben - Lesen einer Forschungsarbeit zur Datenintegration - Den Inhalt kritisch präsentieren - Teilnahme an Seminarsitzungen. - Verfassen einer Zusammenfassung und Diskussion zum Papier\n\nBeschreibung der Lehr- und Lernformen: Wissenschaftliche Artikel werden gelesen, zusammengefasst und kritisch analysiert. Im Rahmen des Smeinars, werden Inhalte präsentiert und gemeinsam diskutiert. Studierende erstellen eine schriftliche Zusammenfassung und Analyse des ausgewählten Themas. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, EW 109",
+     "building": "TU:Charlottenburg/EW",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364758"
+   }
+  },
+  {
+   "id": "tu_moses:11964:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced topics in digital markets: Wissenschaftliches Arbeiten",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=11964&semester=77",
+   "type": "Projekt",
+   "lecturers": [
+    "Rötzmeier-Keuper, Julia"
+   ],
+   "org": "FG Digitale Märkte",
+   "language": "Deutsch",
+   "description": "Modul: Advanced Topics in Digital Markets: Projekt zum wissenschaftlichen Arbeiten\n\nLernergebnisse: Die Studierenden erlernen eine empirische Studie zu planen, durchzuführen und auszuwerten. Die erlernte Methodik wenden sie dann im Zusammenhang mit einer aktuellen Thematik innerhalb der drei Forschungsbereiche des Fachgebiets an und verfassen eine Projektarbeit basierend auf dem durchgeführten Projekt. Nach Abschluss der Veranstaltung verfügen die Studierenden über Kenntnisse zum Gliedern und Verfassen einer wissenschaftlichen Arbeit, zu Literaturrecherche und -bewertung sowie zu empirischen Erhebungs- und Analysemethoden. Die Veranstaltung stellt eine gute Vorbereitung auf die Anfertigung einer Abschlussarbeit am Fachgebiet Digitale Märkte dar.\n\nLehrinhalte: Die Forschungsthemen, die die Studierenden bearbeiten, sind angelehnt an die drei Forschungsfelder des Fachgebiets: Konsumentenverhalten in digitalen Märkten, Management der digitalen Transformation und transformative Dienstleistungsforschung.\n\nBeschreibung der Lehr- und Lernformen: Das Modul ist als „flipped classroom“ Veranstaltung konzipiert. Studierende lernen die Grundlagen der Durchführung einer empirischen Studie über speziell für das digitale Format aufbereitete Lehrmaterialien und vertiefen ihre Kenntnisse zu diesen Methoden durch die Anwendung auf eine spezifische Thematik. Der Arbeitsfortschritt wird in regelmäßig stattfindenden Online-Coachings diskutiert. Mithilfe der vermittelten Methode werden die Studierenden eine empirische Studie zu einer vorher spezifizierten Thematik im Bereich Digitale Märkte durchführen und innerhalb einer Projektarbeit verschriftlichen. Der Kurs vermittelt die wesentlichen Grundlagen, die für das Schreiben einer Abschlussarbeit am Fachgebiet für Digitale Märkte erforderlich sind. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "12:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-19",
+     "last_date": "2027-02-08",
+     "room": null,
+     "building": null,
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363596"
+   }
+  },
+  {
+   "id": "tu_moses:11673:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advanced Topics in Networked and Distributed Systems",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=11673&semester=77",
+   "type": "Seminar",
+   "number": "0432 L 824",
+   "org": "FG Intelligent Networks and Management of Distributed Systems (INET)",
+   "language": "Englisch",
+   "description": "Modul: Network Architectures - Seminar\n\nLernergebnisse: The successful completion of the seminar enables the participants to understand recent, complex, and professional literature and to summarize the work. Furthermore, every participant acquires profound knowledge in his/her small topic.\n\nLehrinhalte: During the seminar, students acquire scientific knowledge starting with a topic of their choosing. Then, they present the acquired knowledge of the research area in a written report and in a talk. The key benefits for the students are to learn to review original scientific literature and common practices as well as train their communication skills in written and oral forms in a professional context. The participation in the seminar includes continuous attendance and active participation in addition to the written report and talk on an accepted paper. The seminar „Network Architectures\" is offered at least once every semester in one of the following two variants: Focus Measurement: This seminar deals with recent findings and scientific research papers concerning Internet measurements. In general these topics are measuring and analyzing special characteristics (e.g., throughput, delay, jitter, RTTs, topology) of Internet traffic. Focus Routing: This seminar deals with recent findings and scientific research articles concerning Internet measurement. Topics range from improvement of routing algorithms over topology detection and emulation to traffic engineering or secure routing.\n\nBeschreibung der Lehr- und Lernformen: Please, see „7. Work Requirements and Credit points\" for details Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Advanced Topics in Networked and Distributed Systems\n\nLernergebnisse: The successful completion of the seminar module enables the participants to understand recent, complex, and professional literature and to summarize the work. Furthermore, every participant acquires profound knowledge in his/her small topic. The goal is to get an understanding of the fundamental theoretical and algorithmic aspects of distributed and networked systems, and their applicability in state-of-the-art and emerging technology. You will learn techniques to model, analyze and optimize networked and distributed systems, and get an understanding of emerging trends and applications.\n\nLehrinhalte: Given the popularity of data-driven applications (e.g., related to business, health and entertainment) and artificialintelligence, computing systems are becoming increasingly distributed and networked. This results in increasingly stringent performance and dependability requirements on such systems. In this seminar, we discuss emerging and innovative new approaches to improve the efficiency and security of distributed and networked systems. We will revisit the theoretical foundations of networked and distributed systems, the underlying fundamental algorithms and optimizations they rely on, and discuss their applicability in modern networks. We will also discuss recent proposals in the literature which aim to render distributed and networked systems more flexible and secure, and explore further optimization opportunities. Contents: The seminar module revolve around fundamental problems and design principles. A tentative outline of the main topics to becovered in the course are * Network algorithms and theory of networking * Distributed algorithms and optimization * Decentralization and scalability * Emerging networking technology and applications, and their impact on models and optimizations\n\nBeschreibung der Lehr- und Lernformen: Seminar Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-16",
+     "last_date": "2027-02-12",
+     "room": "Charlottenburg, MAR 0.016",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364097"
+   }
+  },
+  {
+   "id": "tu_moses:13913:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advances in Water Management and Climate Adaptation",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13913&semester=77",
+   "type": "Projekt",
+   "lecturers": [
+    "Cominola, Andrea"
+   ],
+   "org": "FG Smart Water Networks (SWN)",
+   "language": "Englisch",
+   "description": "Modul: Advances in Water Management and Climate Adaptation (3/6 LP)\n\nLernergebnisse: In diesem Kurs lernen die Studierenden die neuesten Forschungsergebnisse im Bereich Wassermanagement und Klimaanpassung kennen. Sie erwerben ein tiefgreifendes Verständnis der Auswirkungen des Klimawandels auf den Wasserkreislauf, die Wasserverfügbarkeit, den Wasserbedarf, die Wasserqualität und Naturgefahren. Sie lernen die regionalen und globalen Auswirkungen des Klimawandels auf die Wasserressourcen kennen, darunter die zunehmende Häufigkeit hydroklimatischer Extreme (Dürren und Überschwemmungen) sowie die Auswirkungen klimabedingter Naturgefahren auf unsere Gemeinden. Die Studierenden lernen außerdem, wie man wissenschaftliche Literatur liest und rezensiert. Sie lernen, wie man eine Forschungsarbeit/ein Forschungsprojekt/eine Rezension prägnant analysiert und präsentiert. Dieses Modul umfasst zwei Komponenten: 1. LECTURE SERIES (3 ECTS) In Vorlesungen von Nachwuchswissenschaftlern zu aktuellen Fallstudien, Forschungsarbeiten und Beispielen aus der Praxis lernen die Studierenden Instrumente, Technologien, Strategien und Maßnahmen zur Planung und Bewirtschaftung von Wasserressourcen kennen, um die Anpassung an den Klimawandel auf verschiedenen räumlichen und zeitlichen Ebenen zu fördern. Diese Vorlesungsreihe bietet den Studierenden ein aktives Forum, um Themen im Zusammenhang mit Wassermanagement und Klimaanpassung mit internationalen Nachwuchswissenschaftlern in einem multidisziplinären und integrativen Umfeld zu diskutieren. Diese Komponente kann unabhängig von der zweiten Komponente (Projekt) absolviert werden. Studierende, die sie erfolgreich abschließen, erhalten 3 ECTS. 2. PROJEKT (3 ECTS) Die zweite Komponente dieses Moduls besteht aus einem Projekt, das als Blockkurs von 6 Tagen über 2 Wochen organisiert ist. In diesem Projekt arbeiten die Studierenden in Gruppen unter Anleitung der Kursleiter an der Erstellung einer wissenschaftlichen Literaturrecherche: - Das Thema der Übersicht wird während des Semesters mit den Kursleitern vereinbart. - Jeder Tag konzentriert sich auf eine wichtige Phase des Literaturüberblicksprozesses (Planung, Recherche, Bewertung und Auswahl, Kennzeichnung, Analyse, Verfassen) mit angeleiteter, praktischer Gruppenarbeit. - Alle Gruppen tragen zu verschiedenen Teilen des Literaturüberblicks bei. Die Teilnahme an der Vorlesungsreihe (Komponente 1) ist für diese Komponente erforderlich. Der Abschluss beider Komponenten wird mit 6 ECTS bewertet. Komponente 1 kann unabhängig für 3 ECTS absolviert werden. Dieser Kurs wird gemeinsam mit der Subdivision „Water policy, management and control“ (HS5) der European Geosciences Union und der Subdivision „Water and Society“ der American Geophysical Union organisiert und von diesen unterstützt.\n\nLehrinhalte: Wasser spielt eine entscheidende Rolle für die Deckung der Bedürfnisse von Mensch und Umwelt, darunter Wasserbedarf, Nahrungsmittel- und Energiesicherheit, Gesundheit und Ökosystemleistungen. Der Klimawandel erschwert unseren Zugang zu Wasserressourcen und verschärft zusammen mit Bevölkerungswachstum und Urbanisierung die Belastung der vorhandenen Wasserressourcen. Darüber hinaus verschärft die zunehmende Häufigkeit und Intensität hydroklimatischer Extreme die Anfälligkeit unserer Gemeinden für wasserbedingte Gefahren wie Überschwemmungen. Anpassungsstrategien und -maßnahmen sind erforderlich, um die Wasserversorgungssicherheit, die Widerstandsfähigkeit und eine nachhaltige Bewirtschaftung der Wasserressourcen unter den unsicheren soziotechnischen Veränderungen der Zukunft zu fördern. Wie in der EU-Anpassungsstrategie hervorgehoben wird, wird der Klimawandel Auswirkungen auf alle Ebenen der Gesellschaft und alle Wirtschaftssektoren haben, sodass auch die Anpassungsmaßnahmen systemisch sein müssen. Die Vorlesungsreihe „Advances in Water Management and Climate Adaptation” ist ein umfassender Kurs, der sich mit den neuesten Techniken, Instrumenten, Technologien, Strategien und politischen Maßnahmen im Bereich der Wasserressourcenbewirtschaftung und der Anpassung an die Herausforderungen des Klimawandels befasst. Zu den Instrumenten und Technologien gehören unter anderem fortschrittliche Modellierungstechniken, digitale Technologien, Fernerkundung und geografische Informationssysteme. Strategien und Maßnahmen zur Wasserbewirtschaftung und Klimaanpassung werden die Verflechtung zwischen ökologischen, technologischen, gesellschaftlichen und wirtschaftlichen Interessen aufzeigen und Themen wie Klimagerechtigkeit, Mehrzieloptimierung, Risiko- und Konfliktmanagement sowie multisektorale Dynamiken unter Unsicherheit behandeln. Nach einer Einführungssitzung werden verschiedene Nachwuchsforscher von internationalen Universitäten, Forschungseinrichtungen, Technologiezentren und Politikinstituten ihre neuesten Forschungsergebnisse, Projekte, Erfahrungen, Herausforderungen und Visionen zum Thema Wasserressourcenmanagement und Klimaanpassung vorstellen. Jede Vorlesung dauert (ungefähr) eine Stunde und wird von einer Diskussion zwischen den teilnehmenden Studierenden und dem Dozenten gefolgt. Zusätzlich nehmen Studierende, die auch die PROJEKT-Komponente (insgesamt 6 ECTS) belegen, an einem 6-tägigen Intensivkurs teil, in dem sie in Gruppen gemeinsam eine wissenschaftliche Literaturrecherche zu einem relevanten Thema erstellen. Unter Anleitung der Dozenten werden die Studierenden in alle Phasen des Literaturrechercheprozesses einbezogen - von der Festlegung des Umfangs bis zum Verfassen und Zusammenfassen der Ergebnisse - und verbessern so ihr kritisches Denken, ihre Teamfähigkeit und ihre wissenschaftlichen Schreibfähigkeiten. Diese Komponente ergänzt die Vorlesungsreihe und vermittelt praktische Erfahrungen im Umgang mit komplexen wissenschaftlichen Diskursen. Der Abschluss beider Komponenten wird mit 6 ECTS bewertet; die Vorlesungsreihe allein kann mit 3 ECTS bewertet werden. Die Bewertung erfolgt anhand einer Portfolio-Prüfung, die folgende Elemente umfasst: - wöchentliche Quizfragen zum Vorlesungsinhalt (alle Studierenden) - ein kurzer Abschlussbericht - individuell erstellt - zu einem der in der Vorlesungsreihe behandelten Themen (nur für Studierende, die die 3-ECTS-Vorlesungsreihe besuchen) - schriftlicher Beitrag aus der Gruppenarbeit, die im Rahmen der Projektkomponente als Teil einer wissenschaftlichen Literaturrecherche erstellt wurde (nur für Studierende, die beide Modulkomponenten für 6 ECTS besuchen)\n\nBeschreibung der Lehr- und Lernformen: Die Vorlesungen finden wöchentlich statt. Die Studierenden nehmen persönlich an der TU Berlin teil, während Gastredner entweder persönlich anwesend sind oder online zugeschaltet werden. Die Folien werden den Studierenden zur Verfügung gestellt. Zusätzliches Material (z. B. Forschungsarbeiten, Links) wird nach der Live-Sitzung zur Verfügung gestellt. Das Projekt findet als Blockkurs von 6 Tagen über einen Zeitraum von zwei Wochen statt. Die Studierenden nehmen persönlich an der TU Berlin teil und arbeiten in Gruppen unter Anleitung der Kursleiter. Weitere Informationen zum endgültigen Zeitplan, zu den Vorlesungsräumen und zum Zugang zu den Vorlesungen und Projektmaterialien für den Kurs werden den angemeldeten Studierenden über die E-Learning-Plattform ISIS mitgeteilt. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "08:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2027-02-04",
+     "last_date": "2027-02-11",
+     "room": "Charlottenburg",
+     "building": "TU:Charlottenburg",
+     "group": "Block course",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364862"
+   }
+  },
+  {
+   "id": "tu_moses:13042:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Advances in Water Management and Climate Adaptation",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13042&semester=77",
+   "type": "Ringvorlesung",
+   "lecturers": [
+    "Cominola, Andrea"
+   ],
+   "org": "FG Smart Water Networks (SWN)",
+   "language": "Englisch",
+   "description": "Modul: Advances in Water Management and Climate Adaptation\n\nLernergebnisse: In this course, students will learn about cutting-edge research advances in water management and climate adaptation. They will gain a deep understanding of the impacts of climate change on the hydrological cycle, water availability, demand, quality, and natural hazards. They will learn about regional and global implications of climate change on water resources, including the increased frequency of hydroclimatic extremes (droughts and floods), along with the impact of climate change-induced natural hazards on our communities. Through lectures given by early-stage researchers on recent case studies, research papers, and real-world examples, students will learn about tools, technologies, strategies, and policies in water resources planning and management to foster climate adaptation at various spatial and temporal scales. This lecture series provides the students with an active forum to discuss topics related to water management and climate adaptation with international early-stage researchers in a multi-disciplinary and inclusive setting. Students will learn how to read scientific literature. They will learn how to concisely analyze and present a research work/review. This course is co-organized with and supported by the HS5 subdivision \"Water policy, management and control” of the European Geosciences Union and the “Water and Society” subdivision at the American Geophysical Union.\n\nLehrinhalte: Water plays a critical role in sustaining human and environmental needs, including water demands, food and energy security, health, and ecosystem services. Climate change is hampering our access to water resources and, along with population growth and urbanization, it is exacerbating the stress on existing water resources. Furthermore, the increasing frequency and intensity of hydroclimatic extremes is worsening the susceptibility of our communities to hazards associated to water, such as flooding. Adaptation strategies and action are needed to foster water security, resilience, and sustainable water resources management under uncertain future socio-technical transformation. As highlighted in the EU Adaptation Strategy, climate change will have impacts at all levels of society and across all sectors of the economy, so adaptation actions must also be systemic. The lecture series \"Advances in Water Management and Climate Adaptation\" is a comprehensive course designed to explore the latest techniques, tools, technologies, strategies, and policies in managing water resources and adapting to the challenges posed by climate change. Tools and technologies will include, among others, advanced modelling techniques, digital technologies, remote sensing, geographic information systems. Water management and climate adaptation strategies and policies will unpack the intertwined relationship between environmental, technological, societal, and economic stakes, and include topics related to climate justice, multi-objective optimization, risk and conflict management, and multi-sector dynamics under uncertainty. After an introductory session, different early-stage researchers from international universities, research institutions, technology centers, and policy institutes will present cutting edge research, projects, lessons learned, challenges and visions on water resources management and climate adaptation. Each lecture will be of (approximately) 1-hour duration, followed by a discussion among the attending students and the lecturer. Assessment includes weekly quizzes on the lecture content and a short final report on one of the topics covered in the lecture series.\n\nBeschreibung der Lehr- und Lernformen: The lectures will take place on a weekly basis. Students will attend in-person at TU Berlin, while guest speakers will be either in person or connected online. Slides will be made available to the students. Additional material (e.g., research papers, links) will be made available after the live session. Further instructions about the final schedule, lecture rooms, and on how to get access to the lectures and exercise materials online for the course will be communicated to the registered students via the e-learning ISIS platform. Voraussetzungen für die Teilnahme / Prüfung\n\n---\n\nModul: Advances in Water Management and Climate Adaptation (3/6 LP)\n\nLernergebnisse: In diesem Kurs lernen die Studierenden die neuesten Forschungsergebnisse im Bereich Wassermanagement und Klimaanpassung kennen. Sie erwerben ein tiefgreifendes Verständnis der Auswirkungen des Klimawandels auf den Wasserkreislauf, die Wasserverfügbarkeit, den Wasserbedarf, die Wasserqualität und Naturgefahren. Sie lernen die regionalen und globalen Auswirkungen des Klimawandels auf die Wasserressourcen kennen, darunter die zunehmende Häufigkeit hydroklimatischer Extreme (Dürren und Überschwemmungen) sowie die Auswirkungen klimabedingter Naturgefahren auf unsere Gemeinden. Die Studierenden lernen außerdem, wie man wissenschaftliche Literatur liest und rezensiert. Sie lernen, wie man eine Forschungsarbeit/ein Forschungsprojekt/eine Rezension prägnant analysiert und präsentiert. Dieses Modul umfasst zwei Komponenten: 1. LECTURE SERIES (3 ECTS) In Vorlesungen von Nachwuchswissenschaftlern zu aktuellen Fallstudien, Forschungsarbeiten und Beispielen aus der Praxis lernen die Studierenden Instrumente, Technologien, Strategien und Maßnahmen zur Planung und Bewirtschaftung von Wasserressourcen kennen, um die Anpassung an den Klimawandel auf verschiedenen räumlichen und zeitlichen Ebenen zu fördern. Diese Vorlesungsreihe bietet den Studierenden ein aktives Forum, um Themen im Zusammenhang mit Wassermanagement und Klimaanpassung mit internationalen Nachwuchswissenschaftlern in einem multidisziplinären und integrativen Umfeld zu diskutieren. Diese Komponente kann unabhängig von der zweiten Komponente (Projekt) absolviert werden. Studierende, die sie erfolgreich abschließen, erhalten 3 ECTS. 2. PROJEKT (3 ECTS) Die zweite Komponente dieses Moduls besteht aus einem Projekt, das als Blockkurs von 6 Tagen über 2 Wochen organisiert ist. In diesem Projekt arbeiten die Studierenden in Gruppen unter Anleitung der Kursleiter an der Erstellung einer wissenschaftlichen Literaturrecherche: - Das Thema der Übersicht wird während des Semesters mit den Kursleitern vereinbart. - Jeder Tag konzentriert sich auf eine wichtige Phase des Literaturüberblicksprozesses (Planung, Recherche, Bewertung und Auswahl, Kennzeichnung, Analyse, Verfassen) mit angeleiteter, praktischer Gruppenarbeit. - Alle Gruppen tragen zu verschiedenen Teilen des Literaturüberblicks bei. Die Teilnahme an der Vorlesungsreihe (Komponente 1) ist für diese Komponente erforderlich. Der Abschluss beider Komponenten wird mit 6 ECTS bewertet. Komponente 1 kann unabhängig für 3 ECTS absolviert werden. Dieser Kurs wird gemeinsam mit der Subdivision „Water policy, management and control“ (HS5) der European Geosciences Union und der Subdivision „Water and Society“ der American Geophysical Union organisiert und von diesen unterstützt.\n\nLehrinhalte: Wasser spielt eine entscheidende Rolle für die Deckung der Bedürfnisse von Mensch und Umwelt, darunter Wasserbedarf, Nahrungsmittel- und Energiesicherheit, Gesundheit und Ökosystemleistungen. Der Klimawandel erschwert unseren Zugang zu Wasserressourcen und verschärft zusammen mit Bevölkerungswachstum und Urbanisierung die Belastung der vorhandenen Wasserressourcen. Darüber hinaus verschärft die zunehmende Häufigkeit und Intensität hydroklimatischer Extreme die Anfälligkeit unserer Gemeinden für wasserbedingte Gefahren wie Überschwemmungen. Anpassungsstrategien und -maßnahmen sind erforderlich, um die Wasserversorgungssicherheit, die Widerstandsfähigkeit und eine nachhaltige Bewirtschaftung der Wasserressourcen unter den unsicheren soziotechnischen Veränderungen der Zukunft zu fördern. Wie in der EU-Anpassungsstrategie hervorgehoben wird, wird der Klimawandel Auswirkungen auf alle Ebenen der Gesellschaft und alle Wirtschaftssektoren haben, sodass auch die Anpassungsmaßnahmen systemisch sein müssen. Die Vorlesungsreihe „Advances in Water Management and Climate Adaptation” ist ein umfassender Kurs, der sich mit den neuesten Techniken, Instrumenten, Technologien, Strategien und politischen Maßnahmen im Bereich der Wasserressourcenbewirtschaftung und der Anpassung an die Herausforderungen des Klimawandels befasst. Zu den Instrumenten und Technologien gehören unter anderem fortschrittliche Modellierungstechniken, digitale Technologien, Fernerkundung und geografische Informationssysteme. Strategien und Maßnahmen zur Wasserbewirtschaftung und Klimaanpassung werden die Verflechtung zwischen ökologischen, technologischen, gesellschaftlichen und wirtschaftlichen Interessen aufzeigen und Themen wie Klimagerechtigkeit, Mehrzieloptimierung, Risiko- und Konfliktmanagement sowie multisektorale Dynamiken unter Unsicherheit behandeln. Nach einer Einführungssitzung werden verschiedene Nachwuchsforscher von internationalen Universitäten, Forschungseinrichtungen, Technologiezentren und Politikinstituten ihre neuesten Forschungsergebnisse, Projekte, Erfahrungen, Herausforderungen und Visionen zum Thema Wasserressourcenmanagement und Klimaanpassung vorstellen. Jede Vorlesung dauert (ungefähr) eine Stunde und wird von einer Diskussion zwischen den teilnehmenden Studierenden und dem Dozenten gefolgt. Zusätzlich nehmen Studierende, die auch die PROJEKT-Komponente (insgesamt 6 ECTS) belegen, an einem 6-tägigen Intensivkurs teil, in dem sie in Gruppen gemeinsam eine wissenschaftliche Literaturrecherche zu einem relevanten Thema erstellen. Unter Anleitung der Dozenten werden die Studierenden in alle Phasen des Literaturrechercheprozesses einbezogen - von der Festlegung des Umfangs bis zum Verfassen und Zusammenfassen der Ergebnisse - und verbessern so ihr kritisches Denken, ihre Teamfähigkeit und ihre wissenschaftlichen Schreibfähigkeiten. Diese Komponente ergänzt die Vorlesungsreihe und vermittelt praktische Erfahrungen im Umgang mit komplexen wissenschaftlichen Diskursen. Der Abschluss beider Komponenten wird mit 6 ECTS bewertet; die Vorlesungsreihe allein kann mit 3 ECTS bewertet werden. Die Bewertung erfolgt anhand einer Portfolio-Prüfung, die folgende Elemente umfasst: - wöchentliche Quizfragen zum Vorlesungsinhalt (alle Studierenden) - ein kurzer Abschlussbericht - individuell erstellt - zu einem der in der Vorlesungsreihe behandelten Themen (nur für Studierende, die die 3-ECTS-Vorlesungsreihe besuchen) - schriftlicher Beitrag aus der Gruppenarbeit, die im Rahmen der Projektkomponente als Teil einer wissenschaftlichen Literaturrecherche erstellt wurde (nur für Studierende, die beide Modulkomponenten für 6 ECTS besuchen)\n\nBeschreibung der Lehr- und Lernformen: Die Vorlesungen finden wöchentlich statt. Die Studierenden nehmen persönlich an der TU Berlin teil, während Gastredner entweder persönlich anwesend sind oder online zugeschaltet werden. Die Folien werden den Studierenden zur Verfügung gestellt. Zusätzliches Material (z. B. Forschungsarbeiten, Links) wird nach der Live-Sitzung zur Verfügung gestellt. Das Projekt findet als Blockkurs von 6 Tagen über einen Zeitraum von zwei Wochen statt. Die Studierenden nehmen persönlich an der TU Berlin teil und arbeiten in Gruppen unter Anleitung der Kursleiter. Weitere Informationen zum endgültigen Zeitplan, zu den Vorlesungsräumen und zum Zugang zu den Vorlesungen und Projektmaterialien für den Kurs werden den angemeldeten Studierenden über die E-Learning-Plattform ISIS mitgeteilt. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": "2027-02-04",
+     "room": "Charlottenburg, MAR 0.015",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "VL",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363967"
+   }
+  },
+  {
+   "id": "tu_moses:11983:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Adversarial Machine Learning",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=11983&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "lecturers": [
+    "Imgrund, Erik",
+    "Rieck, Konrad"
+   ],
+   "org": "FG Maschinelles Lernen und IT-Sicherheit",
+   "language": "Englisch",
+   "description": "Modul: Adversarial Machine Learning\n\nLernergebnisse: After completion of the module, the students have a comprehensive understanding of attacks and defenses in machine learning. They are able to define security goals, formalize threats and identify vulnerabilities in the application of learning algorithms. They know the working principles of attack types and can transfer them to new domains. These attack types include adversarial examples, poisoning, backdoors, as well as inference attacks. They can apply defense mechanisms, such as adversarial training, certified robustness and attack detection. Finally, students are aware of the ethical implications of adversarial machine learning and understand its impact on society and policy.\n\nLehrinhalte: The lecture covers classic and recent topics in adversarial machine learning. These topics include - White-box and black-box threat models - Techniques for crafting adversarial examples - Poisoning and backdoor attacks - Membership inference and model extraction - Problem-space attacks and attacks in structured domains - Adversarial preprocessing - Countermeasures measures and defenses - Attack and backdoor detection methods - Experimental design principles\n\nBeschreibung der Lehr- und Lernformen: This integrated course consists of a lecture combined with exercise assignments. The latter require independently solving programming exercises with the guidance of a teaching assistant. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "08:00",
+     "end": "10:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Charlottenburg, C 230",
+     "building": "TU:Charlottenburg/C",
+     "group": "Adversarial Machine Learning (Lecture)",
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "12:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": "2027-02-10",
+     "room": "Charlottenburg, EW 015",
+     "building": "TU:Charlottenburg/EW",
+     "group": "Adversarial Machine Learning (Exercise)",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "363174"
+   }
+  },
+  {
+   "id": "tu_moses:13444:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Adversarial Machine Learning",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13444&semester=77",
+   "type": "Klausur",
+   "org": "FG Maschinelles Lernen und IT-Sicherheit",
+   "language": "Englisch",
+   "by_arrangement": true,
+   "extra": {
+    "veranstaltung": "335986"
+   }
+  },
+  {
+   "id": "tu_moses:13910:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Aerodynamics of bio-inspired flight: from animals to robots",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=13910&semester=77",
+   "type": "Integrierte Veranstaltung",
+   "lecturers": [
+    "Engels, Thomas"
+   ],
+   "org": "FG Numerische Fluiddynamik",
+   "language": "Englisch",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-13",
+     "last_date": "2027-02-09",
+     "room": "Charlottenburg, MAR 0.010 (EG li.)",
+     "building": "TU:Charlottenburg/MAR",
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-17",
+     "last_date": "2026-11-17",
+     "room": null,
+     "building": null,
+     "group": "Termingruppe 1",
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-12-15",
+     "last_date": "2026-12-15",
+     "room": null,
+     "building": null,
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "365465"
+   }
+  },
+  {
+   "id": "tu_moses:414:2026W",
+   "source": "tu_moses",
+   "university": "TU",
+   "semester": "2026W",
+   "title": "Aerodynamik II",
+   "url": "https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=414&semester=77",
+   "type": "Übung",
+   "number": "3534 L 113",
+   "lecturers": [
+    "Weiss, Julien",
+    "Ebert, Carola"
+   ],
+   "org": "FG Aerodynamik, insb. Überschalltechnik",
+   "language": "Deutsch",
+   "description": "Modul: Aerodynamik II\n\nLernergebnisse: Die Studierenden verfügen nach erfolgreichem Bestehen des Moduls Aerodynamik II über: Kenntnisse: - von grundlegenden Eigenschaften kompressibler Strömungen - von Kompressibitlitätskorrekturen und deren Einfluss auf inkompressible Druckverteilungen - von Verdichtungsstößen und Expansionen - von Tragflügelumströmungen im Transschall - von der Auslegung superkritischer Tragflügelprofile - von der Interaktion zwischen Stößen und der Grenzschicht an Tragflügeln - von aktiven und passiven Reduktionsmöglichkeiten des viskosen Widerstandes im Transschall - von der subsonischen Umströmung von Deltaflügeln - vom Einsatz numerischer Strömungssimulationen in der Aerodynamik - von Windkanälen und Versuchsanlagen Fertigkeiten: - Kompressibitlitätskorrektur einer inkompressiblen Druckverteilung - Berechnung der Änderungen von Strömungsgrößen über schräge und senkrechte Stöße - Berechnung der Änderungen von Strömungsgrößen über die an Eckenumströmungen auftretenden Expansionen - Abschätzung der kritischen Flugmachzahl eines Profils ab der Überschallphänomene an einem Profil auftreten - Erstellung eines Profileinsatzgrenzendiagramms Kompetenzen: - Deutung der bei hohen Flugmachzahlen an einem transsonsichen Profil auftretenden Phänomene sowie eine Abschätzung der Folgen auf die Profilumströmung - Auslegung von Profilen nach aerodynamischen und wirtschaftlichen Vorgaben für transsonische Umströmungen - Beurteilung des Profileinsatzgebietes und Voraussage bzw. Bewertung von Phänomenen die beim Verlassen des Einsatzbereiches auftreten - Arbeiten in Kleingruppen\n\nLehrinhalte: Vorlesung: - Grundlagen kompressibler Strömungen - Kompressibilitätstransformationen / -korrekturen - Verdichtungsstöße - Expansionsströmungen - Tragflügelaerodynamik im Transschall - Stoß-Grenzschicht-Interferenzen - Maßnahmen zur Reduktion des viskosen Widerstandes - Deltaflügel - Einführung in die numerische Strömungssimulation - Versuchsanlagen Übung: - Grundlagen: Rechnungen zu einfachen kompressiblen Strömungen, z.B. kompressibler Aufstau - Kompressibilitätstransformation: Korrektur einer inkompressiblen Druckverteilung eines Profils für kompressible Strömungen sowie der Diskussion der Einsatzgrenzen von Kompressibilitäts-Korrekturverfahren - Stöße und Expansionen: An einem Keilprofil werden die Phänomene Stoß, Schrägstoß und Expansionen diskutiert und die Umströmung des Profils berechnet - Profileinsatzgrenzen: Anhand von Druckverteilungen eines Profils werden wichtige Grenzen im Profileinsatzgrenzen-Diagramm erstellt sowie sämtliche Grenzen des Einsatzbereiches diskutiert und der optimale Einsatzbereich des Profils bestimmt - Stoß-Grenzschicht-Interferenzen: Anhand von Messdaten eines Profils wird der Einfluss von Stößen auf die Profilgrenzschicht und Profilumströmung untersucht - Numerische Strömungssimulationen: Für die Couette-Strömung existiert eine analytische Lösung, die hergeleitet wird. Mit einem Finite-Differenzen-Verfahren wird die strömungsbeschreibende DGL gelöst und die Ergebnisse mit der analytischen Lösung verglichen - Versuchsanlagen: Verschiedene Windkanaltypen werden diskutiert, ihr Einsatz- und Geschwindigkeitsbereich analysiert sowie die Einhaltung der Reynolds- und Machzahl in Kryokanälen erläutert Experiment: Am Transschallkanal des Instituts für Luft- und Raumfahrt werden an einem transsonischen Profil in Kleingruppen Untersuchungen zur Tragflügelumströmung im Transschall durchgeführt. Eine Schlierenoptik verdeutlicht die in der Vorlesung und Übung erläuterten Phänomene wie Stoßlage und Expansionswellen.\n\nBeschreibung der Lehr- und Lernformen: Es kommen Vorlesungen sowie theoretische und experimentelle Übungen zum Einsatz. Vorlesung: In der Vorlesung werden die theoretischen Grundlagen vermittelt. Übungen: In den theoretischen Übungen werden Lösungen von den Lehrenden vorgestellt. An den theoretischen Übungen nehmen alle Studierenden gleichzeitig teil; die experimentellen Übungen werden in kleinen Gruppen durchgeführt. Zu den Übungen werden Hausarbeiten angeboten, die in kleinen Gruppen bearbeitet werden. Voraussetzungen für die Teilnahme / Prüfung",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": "2027-02-08",
+     "room": "Charlottenburg, EW 202",
+     "building": "TU:Charlottenburg/EW",
+     "group": "Termingruppe 1",
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "extra": {
+    "veranstaltung": "364366"
+   }
+  }
+ ]
+}

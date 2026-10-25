@@ -24,11 +24,16 @@ def _due(state: dict, key: str) -> bool:
     return nxt is None or date.fromisoformat(nxt) <= date.today()
 
 
-def _mark(state: dict, key: str, source, count: int) -> None:
-    state[key] = {"crawled": date.today().isoformat(),
-                  "next_update": source.next_update(date.today()).isoformat(),
-                  "count": count}
-    save_json(STATE, state)
+def _mark(state: dict, key: str, source, count: int, semesters: list[str]) -> None:
+    """Record a crawl; the next date comes from the university calendar.
+    LMS sources span semesters, so they follow the earliest semester refresh."""
+    today = date.today()
+    nxt = min(source.next_update(sem, today, published=count > 0 or len(semesters) > 1) for sem in semesters)
+    state[key] = {"crawled": today.isoformat(), "next_update": nxt.isoformat(), "count": count}
+    # re-read so parallel crawl processes don't overwrite each other's entries
+    disk = load_json(STATE, {})
+    disk[key] = state[key]
+    save_json(STATE, disk)
 
 
 def main(argv=None) -> int:
@@ -79,7 +84,7 @@ def main(argv=None) -> int:
                     continue
                 if not courses:
                     log.info("%s %s: nothing published", name, sem)
-                    _mark(state, key, srcs[name], 0)
+                    _mark(state, key, srcs[name], 0, [sem])
                     continue
                 save_json(RAW / f"{name}_{sem}.json", {
                     "kind": "catalog", "source": name, "semester": sem,
@@ -87,7 +92,7 @@ def main(argv=None) -> int:
                     "courses": [x.to_dict() for x in courses],
                 })
                 log.info("%s %s: saved %d courses", name, sem, len(courses))
-                _mark(state, key, srcs[name], len(courses))
+                _mark(state, key, srcs[name], len(courses), [sem])
     elif args.cmd == "lms":
         srcs = lms_sources()
         for name in args.source or list(srcs):
@@ -105,7 +110,7 @@ def main(argv=None) -> int:
                 "crawled": datetime.now(timezone.utc).isoformat(timespec="minutes"),
                 "courses": [x.to_dict() for x in courses],
             })
-            _mark(state, name, srcs[name], len(courses))
+            _mark(state, name, srcs[name], len(courses), semester_keys())
     elif args.cmd == "build":
         from .build import build
         build(ai=args.ai, ai_max=args.ai_max)

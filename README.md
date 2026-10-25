@@ -1,6 +1,6 @@
 # Berlin Courses
 
-One searchable list of the courses at Berlin universities (TU, UdK, FU, HU, HTW, …),
+One searchable list of the courses at Berlin universities (TU, UdK, FU, HU, HTW, KHB, ASH, FH Potsdam, …),
 filterable by **when you're free** and **how far it is** from home or work by
 foot, bike, e-scooter or BVG.
 
@@ -23,9 +23,13 @@ site/                  static frontend (GitHub Pages), no build step
 ```
 
 **Update schedule.** Catalogs change around publication and the start of
-lectures, not weekly. Each source has update dates (default: Feb 1, Mar 15,
-Apr 10, May 5, Aug 1, Sep 15, Oct 10, Nov 5). The workflow runs daily but only
-crawls sources whose date has passed; everything else is served from `data/raw`.
+lectures, not weekly. `crawler/calendars.py` holds every university's lecture
+periods and catalog publication dates (researched, with sources). Each
+semester is crawled at publication (re-checked weekly until it appears),
+2 weeks before lectures, 1 week after the start and 5 weeks after the start
+(blocks get added late). The workflow runs daily but only crawls what's due
+(`data/state.json`); everything else is served from `data/raw`. Update
+`calendars.py` once a year; unknown semesters fall back to the usual pattern.
 Force a crawl from the Actions tab ("Run workflow" → force).
 
 **Privacy.** Home/work addresses, free time and favourites are stored only in
@@ -43,7 +47,7 @@ python -m playwright install chromium
 python -m crawler list                   # available sources
 python -m crawler crawl --source tu_moses --limit 20
 python -m crawler lms                    # ISIS + UdK Moodle
-export ANTHROPIC_API_KEY=...             # optional
+echo "ANTHROPIC_API_KEY=sk-ant-..." > .env   # optional, gitignored
 python -m crawler build --ai
 python -m http.server -d site 8000       # open http://localhost:8000
 ```

@@ -94,8 +94,12 @@ class TuMoses(CatalogSource):
                 for i, vid in enumerate(chunk):
                     try:
                         pg.goto(f"{BASE}/veranstaltung.html?veranstaltung={vid}")
-                        tab = pg.get_by_text("Studiengangszuordnungen und Module").first
-                        tab.click()
+                        tab = pg.get_by_text("Studiengangszuordnungen und Module")
+                        if tab.count() == 0:  # course not assigned to any module
+                            with lock:
+                                links[vid] = []
+                            continue
+                        tab.first.click()
                         pg.wait_for_load_state("networkidle")
                         pg.wait_for_timeout(400)
                         found = sorted(set(re.findall(

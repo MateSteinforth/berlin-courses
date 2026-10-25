@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Berlin Courses</title>
-<meta name="description" content="All TU and UdK Berlin courses in one place, filterable by your free time and travel time.">
+<meta name="description" content="All Berlin university courses in one place, filterable by time of day and distance from you.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23e4572e'/><path d='M8 10h16M8 16h16M8 22h10' stroke='white' stroke-width='3' stroke-linecap='round'/></svg>">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -24,7 +24,7 @@
     <input id="q" type="search" placeholder="Search titles, lecturers, topics…" autocomplete="off">
   </div>
   <div class="top-actions">
-    <button id="openSetup" class="btn primary">My places &amp; free time</button>
+    <button id="openList" class="btn primary">★ My list <span id="favCountTop" class="count light"></span></button>
     <button id="toggleFilters" class="btn ghost mobile-only">Filters</button>
   </div>
 </header>
@@ -38,24 +38,36 @@
     <section>
       <h3>University</h3>
       <div id="unis" class="chips"></div>
-      <label class="toggle"><input type="checkbox" id="fSg"> Only Studium Generale (open to all)</label>
     </section>
     <section>
-      <h3>Fits my life</h3>
-      <label class="toggle"><input type="checkbox" id="fFree"> Only in my free time (incl. travel)</label>
-      <label class="toggle"><input type="checkbox" id="fDist"> Max travel
-        <select id="maxMin">
-          <option>15</option><option>20</option><option selected>30</option><option>45</option><option>60</option>
-        </select> min</label>
-      <div class="mode-row" id="modes"></div>
-      <div class="origin-row">
-        from <select id="origin">
-          <option value="best">home or work (closest)</option>
-          <option value="home">home</option>
-          <option value="work">work</option>
-        </select>
+      <h3>Distance</h3>
+      <form class="addr" id="addrForm">
+        <input id="addr" placeholder="Your address, e.g. Oranienstr. 25" autocomplete="street-address">
+        <button class="btn" type="submit">Set</button>
+      </form>
+      <p class="hint" id="addrFound">Not stored anywhere. Looked up via OpenStreetMap.</p>
+      <div class="dist-controls off" id="distControls">
+        <div class="slider-head"><span>Max distance</span><b id="kmVal">any</b></div>
+        <input type="range" id="km" min="1" max="25" step="0.5" value="25">
+        <div class="slider-head"><span>Max travel time</span><b id="minVal">any</b></div>
+        <input type="range" id="maxMin" min="5" max="90" step="5" value="90">
+        <div class="mode-row" id="modes"></div>
+        <p class="hint" id="travelStatus"></p>
       </div>
-      <p class="hint" id="travelStatus"></p>
+    </section>
+    <section>
+      <h3>Time of day</h3>
+      <div class="slider-head"><span id="todLabel">any time</span></div>
+      <div class="range2" id="todRange">
+        <div class="track"><div class="fill" id="todFill"></div></div>
+        <input type="range" id="todA" min="420" max="1320" step="30" value="420" aria-label="From">
+        <input type="range" id="todB" min="420" max="1320" step="30" value="1320" aria-label="To">
+      </div>
+      <div class="ticks"><span>7</span><span>10</span><span>13</span><span>16</span><span>19</span><span>22</span></div>
+    </section>
+    <section>
+      <h3>Days</h3>
+      <div id="days" class="chips"></div>
     </section>
     <section>
       <h3>Format</h3>
@@ -64,23 +76,14 @@
       <label class="toggle"><input type="checkbox" id="fArr"> Include “by arrangement” / no dates</label>
     </section>
     <section>
-      <h3>Days</h3>
-      <div id="days" class="chips"></div>
-    </section>
-    <section>
-      <h3>Time of day</h3>
-      <div id="tod" class="chips"></div>
-      <div class="origin-row" style="margin-top:8px">between <select id="todFrom"></select> and <select id="todTo"></select></div>
-    </section>
-    <section>
       <h3>Language</h3>
       <div id="langs" class="chips"></div>
     </section>
-    <section>
+    <section id="relSection">
       <h3>D+C relevance</h3>
       <div id="rel" class="chips"></div>
     </section>
-    <section>
+    <section id="tagSection">
       <h3>Topics</h3>
       <div id="tags" class="chips small"></div>
     </section>
@@ -92,7 +95,7 @@
       <div class="tabs" role="tablist">
         <button role="tab" data-view="list" class="active">List</button>
         <button role="tab" data-view="map">Map</button>
-        <button role="tab" data-view="week">My week <span id="favCount" class="count"></span></button>
+        <button role="tab" data-view="mine">★ My list <span id="favCount" class="count"></span></button>
       </div>
       <div class="sort">
         <span id="resultCount"></span>
@@ -106,7 +109,7 @@
     </div>
     <div id="view-list" class="view active"><div id="list"></div><button id="more" class="btn ghost full" hidden>Show more</button></div>
     <div id="view-map" class="view"><div id="map"></div></div>
-    <div id="view-week" class="view"><div id="week"></div></div>
+    <div id="view-mine" class="view"><div id="mine"></div></div>
   </main>
 </div>
 
@@ -114,33 +117,6 @@
   <div class="drawer-bg" data-close></div>
   <article class="drawer-panel" id="drawerBody"></article>
 </div>
-
-<dialog id="setup">
-  <form method="dialog" class="setup">
-    <header>
-      <h2>My places &amp; free time</h2>
-      <button class="icon" value="close" aria-label="Close">✕</button>
-    </header>
-    <p class="hint">Stored only in this browser. Addresses are looked up via OpenStreetMap and never leave your device otherwise.</p>
-    <div class="places">
-      <label>Home <span class="where" id="homeFound"></span>
-        <div class="addr"><input id="homeAddr" placeholder="Street and number, Berlin"><button type="button" class="btn" data-geo="home">Set</button></div>
-      </label>
-      <label>Work <span class="where" id="workFound"></span>
-        <div class="addr"><input id="workAddr" placeholder="Street and number, Berlin"><button type="button" class="btn" data-geo="work">Set</button></div>
-      </label>
-    </div>
-    <h3>When am I free?</h3>
-    <p class="hint">Click or drag to paint the times you could be in class. Travel there and back has to fit too.</p>
-    <div class="grid-tools">
-      <button type="button" class="btn ghost" data-preset="school">Preset: school hours (Mon–Fri 8:30–15:00)</button>
-      <button type="button" class="btn ghost" data-preset="all">Everything</button>
-      <button type="button" class="btn ghost" data-preset="none">Clear</button>
-    </div>
-    <div id="freeGrid" class="free-grid"></div>
-    <footer><button class="btn primary" value="done">Done</button></footer>
-  </form>
-</dialog>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="app.js"></script>

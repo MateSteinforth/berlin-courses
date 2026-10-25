@@ -99,7 +99,8 @@ def describe(key: str) -> tuple[str, str | None, str | None]:
     """building key -> (display name, address or None, campus fallback key or None)."""
     uni, _, rest = key.partition(":")
     if uni == "ADDR":  # source already gave a street address
-        return rest, f"{rest}, Berlin", None
+        city = "" if re.search(r"\b\d{5}\b", rest) else ", Berlin"
+        return rest, f"{rest}{city}", None
     if uni == "TU":
         campus, _, code = rest.partition("/")
         if code and code in TU_BUILDINGS:

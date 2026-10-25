@@ -1,0 +1,22 @@
+{
+ "tu_moses_2026W": {
+  "crawled": "2026-10-25",
+  "next_update": "2026-11-16",
+  "count": 50
+ },
+ "tu_moses_2027S": {
+  "crawled": "2026-10-25",
+  "next_update": "2026-11-05",
+  "count": 0
+ },
+ "tu_isis": {
+  "crawled": "2026-10-25",
+  "next_update": "2026-11-05",
+  "count": 2567
+ },
+ "udk_moodle": {
+  "crawled": "2026-10-25",
+  "next_update": "2026-11-05",
+  "count": 989
+ }
+}

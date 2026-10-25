@@ -1,0 +1,447 @@
+{
+ "Ackerstraße 76, 13355 Berlin": [
+  52.5385,
+  13.38476
+ ],
+ "Einsteinufer 11, 10587 Berlin": [
+  52.51429,
+  13.32681
+ ],
+ "Einsteinufer 17, 10587 Berlin": [
+  52.51508,
+  13.32672
+ ],
+ "Fraunhoferstraße 33, 10587 Berlin": [
+  52.51452,
+  13.32134
+ ],
+ "Hardenbergstraße 16, 10623 Berlin": [
+  52.50744,
+  13.32883
+ ],
+ "Hardenbergstraße 36, 10623 Berlin": [
+  52.51071,
+  13.32466
+ ],
+ "Marchstraße 12, 10587 Berlin": [
+  52.51513,
+  13.32342
+ ],
+ "Marchstraße 23, 10587 Berlin": [
+  52.51663,
+  13.32354
+ ],
+ "Pascalstraße 8, 10587 Berlin": [
+  52.52387,
+  13.32357
+ ],
+ "Straße des 17. Juni 115, 10623 Berlin": [
+  52.5123,
+  13.3296
+ ],
+ "Straße des 17. Juni 145, 10623 Berlin": [
+  52.51203,
+  13.32428
+ ],
+ "Straße des 17. Juni 152, 10623 Berlin": [
+  52.51337,
+  13.324
+ ],
+ "Albrecht-Thaer-Weg 6-8, Berlin": [
+  52.46618,
+  13.30123
+ ],
+ "Alice-Salomon-Platz 5, Berlin": [
+  52.5372,
+  13.60609
+ ],
+ "Altensteinstraße 6, Berlin": [
+  52.457,
+  13.30254
+ ],
+ "Am Kupfergraben 5, Berlin": [
+  52.52093,
+  13.39563
+ ],
+ "Arnimallee 10, Berlin": [
+  52.45638,
+  13.29651
+ ],
+ "Arnimallee 14, Berlin": [
+  52.45602,
+  13.2946
+ ],
+ "Arnimallee 22, Berlin": [
+  52.45474,
+  13.2934
+ ],
+ "Arnimallee 3-5, Berlin": [
+  52.45724,
+  13.29718
+ ],
+ "Arnimallee 6, Berlin": [
+  52.45663,
+  13.2973
+ ],
+ "Arnimallee 7, Berlin": [
+  52.45707,
+  13.29641
+ ],
+ "Bebelplatz 2, Berlin": [
+  52.51647,
+  13.39308
+ ],
+ "Boltzmannstraße 1, Berlin": [
+  52.44853,
+  13.28038
+ ],
+ "Boltzmannstraße 16-20, Berlin": [
+  52.44637,
+  13.27726
+ ],
+ "Boltzmannstraße 3, Berlin": [
+  52.44807,
+  13.2806
+ ],
+ "Burgstraße 26, Berlin": [
+  52.5211,
+  13.40101
+ ],
+ "Bühringstraße 20, Berlin": [
+  52.55829,
+  13.43987
+ ],
+ "Carl-Heinr.Becker Weg 6-10, Berlin": null,
+ "Dorotheenstraße 1, Berlin": [
+  52.39817,
+  13.14491
+ ],
+ "Dorotheenstraße 24, Berlin": [
+  52.51969,
+  13.39285
+ ],
+ "Dorotheenstraße 26, Berlin": [
+  52.51919,
+  13.39178
+ ],
+ "Dorotheenstraße 28, Berlin": [
+  52.51921,
+  13.39137
+ ],
+ "Dorotheenstraße 65, Berlin": [
+  52.5184,
+  13.38728
+ ],
+ "Fabeckstraße 23/25, Berlin": [
+  52.45387,
+  13.29119
+ ],
+ "Fabeckstraße 34 / 36, Berlin": [
+  52.45356,
+  13.29404
+ ],
+ "Fabeckstraße 35, Berlin": [
+  52.45261,
+  13.29242
+ ],
+ "Friedrichstraße 191, Berlin": [
+  52.51084,
+  13.38964
+ ],
+ "Garystraße 21, Berlin": [
+  52.44707,
+  13.28136
+ ],
+ "Garystraße 35-37, Berlin": [
+  52.44968,
+  13.27202
+ ],
+ "Garystraße 55, Berlin": [
+  52.44941,
+  13.27572
+ ],
+ "Georgenstraße 23, Berlin": [
+  52.41871,
+  13.3374
+ ],
+ "Georgenstraße 36, Berlin": [
+  52.51988,
+  13.39113
+ ],
+ "Georgenstraße 47, Berlin": [
+  52.5203,
+  13.39407
+ ],
+ "Grunewaldstraße 35, Berlin": [
+  52.45916,
+  13.30764
+ ],
+ "Habelschwerdter Allee 30, Berlin": [
+  52.4498,
+  13.28843
+ ],
+ "Habelschwerdter Allee 45, Berlin": [
+  52.45191,
+  13.28825
+ ],
+ "Hannoversche Straße 23, Berlin": [
+  52.52721,
+  13.38278
+ ],
+ "Hannoversche Straße 27, Berlin": [
+  52.52676,
+  13.38465
+ ],
+ "Hannoversche Straße 6, Berlin": [
+  52.52764,
+  13.38253
+ ],
+ "Hausvogteiplatz 5-7, Berlin": [
+  52.51305,
+  13.39537
+ ],
+ "Hessische Straße 1-4, Berlin": [
+  52.52931,
+  13.37959
+ ],
+ "Ihnestraße 21, Berlin": [
+  52.44936,
+  13.27677
+ ],
+ "Ihnestraße 22, Berlin": [
+  52.44892,
+  13.27768
+ ],
+ "Invalidenstraße 118, Berlin": [
+  52.53045,
+  13.38553
+ ],
+ "Invalidenstraße 42, Berlin": [
+  52.53091,
+  13.38057
+ ],
+ "Johannisstraße 10, Berlin": [
+  52.52455,
+  13.39206
+ ],
+ "Kiepenheuerallee 5, 14469 Potsdam": [
+  52.41236,
+  13.05075
+ ],
+ "Koserstraße 20, Berlin": [
+  52.46118,
+  13.29443
+ ],
+ "Königin-Luise-straße 1 / 3, Berlin": [
+  52.45941,
+  13.30657
+ ],
+ "Königin-Luise-straße 12 / 16, Berlin": [
+  52.4578,
+  13.30156
+ ],
+ "Königin-Luise-straße 2 / 4, Berlin": [
+  52.45872,
+  13.30601
+ ],
+ "Königin-Luise-straße 24 / 26, Berlin": [
+  52.45761,
+  13.29701
+ ],
+ "Königsweg 61-69, Berlin": [
+  52.42733,
+  13.23686
+ ],
+ "Landoltweg 9 / 11, Berlin": [
+  52.44947,
+  13.28766
+ ],
+ "Lansstraße 7 / 9, Berlin": [
+  52.45713,
+  13.29176
+ ],
+ "Lehrter Straße 59, Berlin": [
+  52.53126,
+  13.36117
+ ],
+ "Lentzeallee 55/57, Berlin": [
+  52.46854,
+  13.29933
+ ],
+ "Lentzeallee 75, Berlin": [
+  52.46826,
+  13.30103
+ ],
+ "Luisenstraße 56, Berlin": [
+  52.52516,
+  13.37985
+ ],
+ "Malteserstraße 74-100 B, Berlin": null,
+ "Malteserstraße 74-100 C, Berlin": null,
+ "Malteserstraße 74-100 D, Berlin": null,
+ "Malteserstraße 74-100 G, Berlin": null,
+ "Malteserstraße 74-100 T, Berlin": null,
+ "Monbijoustraße 2b, Berlin": [
+  52.52306,
+  13.39479
+ ],
+ "Newtonstraße 14, Berlin": [
+  52.43267,
+  13.52862
+ ],
+ "Newtonstraße 15, Berlin": [
+  52.43324,
+  13.53043
+ ],
+ "Oertzenweg 19B, Berlin": [
+  52.43052,
+  13.23774
+ ],
+ "Otto-von-Simson-Straße 26, Berlin": [
+  52.45287,
+  13.28881
+ ],
+ "Otto-von-Simson-Straße 7, Berlin": [
+  52.45511,
+  13.28951
+ ],
+ "Philippstraße 12, Berlin": [
+  52.52616,
+  13.38041
+ ],
+ "Philippstraße 13, Berlin": [
+  52.52695,
+  13.38359
+ ],
+ "R.-v.-Ostertag-straße 7-13, Berlin": null,
+ "Robert-von-Ostertag-straße 15, Berlin": [
+  52.42783,
+  13.23691
+ ],
+ "Rudower Chaussee 16, Berlin": [
+  52.43206,
+  13.53435
+ ],
+ "Rudower Chaussee 18, Berlin": [
+  52.43193,
+  13.53384
+ ],
+ "Rudower Chaussee 25, Berlin": [
+  52.42929,
+  13.52999
+ ],
+ "Rudower Chaussee 26, Berlin": [
+  52.43114,
+  13.53115
+ ],
+ "Rudower Straße 18, Berlin": [
+  52.44425,
+  13.56656
+ ],
+ "Rüdesheimer straße 54 / 56, Berlin": [
+  52.47124,
+  13.3137
+ ],
+ "Schmitt-Ott-straße 13, Berlin": null,
+ "Schwendenerstraße 1, Berlin": [
+  52.45474,
+  13.29902
+ ],
+ "Schönhauser Allee 10-11, Berlin": [
+  52.53058,
+  13.41215
+ ],
+ "Spandauer Straße 1, Berlin": [
+  52.52079,
+  13.40322
+ ],
+ "Straße 1, Berlin": [
+  52.58107,
+  13.44221
+ ],
+ "Straße 2, Berlin": [
+  52.58042,
+  13.44421
+ ],
+ "Straße 40/41, Berlin": [
+  52.59393,
+  13.47487
+ ],
+ "Straße 5-9, Berlin": [
+  52.58998,
+  13.53448
+ ],
+ "Straße 6, Berlin": [
+  52.58313,
+  13.53138
+ ],
+ "Straße 7, Berlin": [
+  52.58884,
+  13.53631
+ ],
+ "Takustraße 3, Berlin": [
+  52.45472,
+  13.29641
+ ],
+ "Takustraße 6, Berlin": [
+  52.4541,
+  13.29532
+ ],
+ "Takustraße 9, Berlin": [
+  52.45598,
+  13.29716
+ ],
+ "Thielallee 63, Berlin": [
+  52.44799,
+  13.2843
+ ],
+ "Thielallee 67, Berlin": [
+  52.44648,
+  13.28396
+ ],
+ "Thielallee 73, Berlin": [
+  52.44658,
+  13.28359
+ ],
+ "Treskowallee 8, Berlin": [
+  52.4932,
+  13.52462
+ ],
+ "Universitätsstraße 3b, Berlin": [
+  52.51979,
+  13.39155
+ ],
+ "Unter den Linden 11, Berlin": [
+  52.51685,
+  13.3921
+ ],
+ "Unter den Linden 6, Berlin": [
+  52.51834,
+  13.39292
+ ],
+ "Unter den Linden 9, Berlin": [
+  52.5169,
+  13.3928
+ ],
+ "Vant-Hoff-straße 8, Berlin": null,
+ "Wilhelminenhofstraße 75A, Berlin": [
+  52.45504,
+  13.52533
+ ],
+ "Ziegelstraße 10/11, Berlin": [
+  52.52354,
+  13.39161
+ ],
+ "Ziegelstraße 13, Berlin": [
+  52.58828,
+  13.46714
+ ],
+ "Ziegelstraße 4, Berlin": [
+  52.58716,
+  13.46601
+ ],
+ "Zum Großen Windkanal 2, Berlin": [
+  52.43386,
+  13.53215
+ ]
+}

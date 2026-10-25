@@ -1,9 +1,23 @@
 # Berlin universities and their course catalogs
 
 Status of each institution in this project. "Module" is the crawler plugin in
-`crawler/sources/`. Students of most Berlin universities can take courses at the
-others (Nebenhörer / Gasthörer / BUA cross-registration), so the aim is to cover
-everything that publishes a catalog.
+`crawler/sources/`.
+
+## What can Design & Computation students take?
+
+- **Free elective area (Freier Wahlbereich), 12 LP:** may be chosen from *the
+  entire module offering of TU Berlin, UdK Berlin, other universities and
+  equivalent institutions* (StuPO M.A. Design & Computation 2024,
+  [TU AMBl](https://www.static.tu.berlin/fileadmin/www/10000000/Studiengaenge/StuPOs/Fakultaet_I/Design_Computation_M.A._2024.pdf)).
+  So yes, practically any university, including Potsdam.
+  Wahlpflichtbereich I/II (12 LP each) are restricted to the module lists of the program
+  ([MOSES Studiengang 247](https://moseskonto.tu-berlin.de/moses/modultransfersystem/studiengaenge/anzeigen.html?studiengang=247)).
+- **Getting in:** as a *Nebenhörer*, a guest student enrolled elsewhere, you apply at the host university per course/semester.
+  Rules differ: TU (AllgStuPO §40) gives guests lower priority in capped courses;
+  FU's political science department caps guests at 6 SWS with a tight application window;
+  [BHT](https://www.bht-berlin.de/188) charges no fee but requires a first degree for master courses.
+  Many courses (UdK Studium Generale, KHB/FHP electives) are simply booked by
+  emailing the lecturer.
 
 ## Covered
 
@@ -19,6 +33,8 @@ everything that publishes a catalog.
 | **HTW Berlin** | HIS-LSF `lsf.htw-berlin.de` | public | `htw_lsf` | "Kommentar" (where filled in) |
 | **weißensee kunsthochschule (KHB)** | Incom `see.incom.org/vlv/<year>-<1\|2>` | public | `khb_incom` | workspace "Info" text; block dates extracted by Claude Haiku |
 | **ASH (Alice Salomon Hochschule)** | HIS-LSF `ash-berlin.eu/qisserver` | public | `ash_lsf` | "Kommentar" (where filled in) |
+| **FH Potsdam** (Design, Interface Design) | Incom `fhp.incom.org/vlv` | public | `fhp_incom` | workspace "Info" text |
+| any school, by hand | JSON in `data/manual/` | – | `manual` | as entered; free-text dates parsed by Haiku |
 
 ## Not yet covered
 
@@ -26,9 +42,11 @@ everything that publishes a catalog.
 |---|---|---|
 | **BHT (Berliner Hochschule für Technik)** | Runs **HISinOne** at `polli.bht-berlin.de` (same system as UdK). The catalog is public but for WiSe 26/27 says "wird gerade aufgebaut" (still being built, empty). Public lecturer and room timetables exist in the same system. | Generalize `udk_hisinone` to take a host and enable it once the catalog is filled; until then a room-timetable crawler could supply times (descriptions from the module handbook PDFs). |
 | **HWR Berlin** | Moved to **S.A.M.** (academyFIVE) at `sam.hwr-berlin.de` (Campus4u retired). Its public catalog lists 1,165 WiSe 2026 entries (50 per page, `?page=N`), but they're modules only, with title, credits and lecturer. Dates and rooms aren't public. | Low relevance for D+C (business, law, public administration). Could list modules without times, or crawl with a login. |
-| **HfM Hanns Eisler** | Music conservatory, website only. | Low priority. |
-| **HfS Ernst Busch** | Acting/directing school, website only. | Low priority. |
-| **EHB / KHSB** | Church-run universities of applied sciences. | Low priority. |
+| **HfS Ernst Busch** | Timetable in ASIMUT (`hfs-berlin.asimut.net`) and CampusCore (`cms.hfs-berlin.de`), both behind an HfS login; no public catalog. Dance courses of HZT (joint with UdK) are already in the UdK data. | Add courses by hand to `data/manual/HfS_<semester>.json` (e.g. from the semester PDF or emails), or crawl ASIMUT with an HfS account. |
+| **Uni Potsdam** | HISinOne "PULS"; the catalog URL redirects to the admissions portal. | Find the public catalog path; then reuse the UdK HISinOne crawler. |
+| **Filmuniversität Babelsberg** | No public online catalog found. | Research. |
+| **HfM Hanns Eisler** | No public online catalog found (website only). | Low priority. |
+| **EHB / KHSB** | No public online catalog found. | Low priority. |
 | **Charité** | Medicine; teaching is not open to external students. | Skip. |
 | Private (Bard College Berlin, Hertie School, ESMT, CODE University, …) | Mostly not open to students of other universities. | Skip unless a cooperation exists. |
 
