@@ -1,8 +1,11 @@
 name: Update data & deploy
 
+# Daily check is cheap: every source has its own next-update date in data/state/,
+# and only sources that are due get crawled – each in its own parallel job, so a slow
+# or failing source never holds up or breaks the others. One final job merges the
+# results, runs the AI step (Batch API, new/changed courses only), commits once and deploys.
+
 on:
-  # Daily check is cheap: each source has its own next-update date in
-  # data/state.json, and only sources that are due get crawled.
   schedule:
     - cron: "17 4 * * *"
   workflow_dispatch:
@@ -16,65 +19,128 @@ on:
         type: string
         default: ""
       ai_unis:
-        description: "Run the AI step only for these universities (comma-separated, or 'all')"
+        description: "Run the AI step for these universities (comma-separated, or 'all')"
         type: string
-        default: "UdK"
+        default: "all"
   push:
     branches: [main]
-    paths: ["site/**", "crawler/**", ".github/workflows/**"]
+    paths: ["site/**", "crawler/**", "scripts/**", ".github/workflows/**"]
 
 permissions:
   contents: write
   pages: write
   id-token: write
 
+# Data runs and code-push deploys queue separately: GitHub keeps only one waiting run per
+# group, so a code push must not be able to replace a waiting scheduled crawl.
 concurrency:
-  group: update
+  group: ${{ github.event_name == 'push' && 'deploy' || 'data' }}
   cancel-in-progress: false
 
 jobs:
-  update:
+  plan:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    outputs:
+      jobs: ${{ steps.due.outputs.jobs }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - id: due
+        run: |
+          ARGS=""
+          [ "${{ inputs.force }}" = "true" ] && ARGS="--force"
+          [ -n "${{ inputs.source }}" ] && ARGS="$ARGS --source ${{ inputs.source }}"
+          JOBS=$(python -m crawler due $ARGS)
+          echo "due: $JOBS"
+          echo "jobs=$JOBS" >> "$GITHUB_OUTPUT"
+
+  crawl:
+    needs: plan
+    if: needs.plan.outputs.jobs != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        source: ${{ fromJson(needs.plan.outputs.jobs) }}
+    name: crawl ${{ matrix.source.name }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Crawl ${{ matrix.source.name }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # free-text dates (Studium Generale, block courses)
+          UDK_USER: ${{ secrets.UDK_USER }}
+          UDK_PASS: ${{ secrets.UDK_PASS }}
+          TU_USER: ${{ secrets.TU_USER }}
+          TU_PASS: ${{ secrets.TU_PASS }}
+        run: |
+          DUE=""; [ "${{ inputs.force }}" = "true" ] || DUE="--due"
+          if [ "${{ matrix.source.kind }}" = "lms" ]; then CMD=lms; else CMD=crawl; fi
+          python -m crawler $CMD --source ${{ matrix.source.name }} $DUE
+      # hand the changed files to the final job (also when the crawl failed halfway)
+      - name: Collect changed data
+        if: always()
+        run: |
+          mkdir -p out
+          git status --porcelain --untracked-files=all data | awk '{print $NF}' | while read -r f; do
+            [ -f "$f" ] && mkdir -p "out/$(dirname "$f")" && cp "$f" "out/$f"
+          done
+          find out -type f | sed 's/^/  /'
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: crawl-${{ matrix.source.name }}
+          path: out
+          if-no-files-found: ignore
+          retention-days: 14
+
+  update:
+    needs: [plan, crawl]
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main  # latest data, not the (possibly older) commit that triggered a queued run
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
+      - run: pip install -r requirements.txt
 
-      - name: Install
-        run: |
-          pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
-
-      - name: Crawl catalogs that are due
+      - uses: actions/download-artifact@v4
         if: github.event_name != 'push'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          # Optional logins, only needed if a source stops being public:
-          UDK_USER: ${{ secrets.UDK_USER }}
-          UDK_PASS: ${{ secrets.UDK_PASS }}
-          TU_USER: ${{ secrets.TU_USER }}
-          TU_PASS: ${{ secrets.TU_PASS }}
-        run: |
-          ARGS=""
-          if [ "${{ inputs.force }}" != "true" ]; then ARGS="--due"; fi
-          if [ -n "${{ inputs.source }}" ]; then ARGS="$ARGS --source ${{ inputs.source }}"; fi
-          python -m crawler crawl $ARGS || echo "::warning::some catalog sources failed"
-          if [ -z "${{ inputs.source }}" ]; then
-            python -m crawler lms $( [ "${{ inputs.force }}" != "true" ] && echo --due ) || echo "::warning::LMS crawl failed"
-          fi
+        with:
+          pattern: crawl-*
+          path: artifacts
 
-      # Save crawled data right away, even if a crawl failed – later steps can't lose it.
-      - name: Commit crawled data
-        if: always() && github.event_name != 'push'
-        run: bash scripts/commit-data.sh "Crawl $(date -u +%F)"
+      # Save crawled data right away – later steps can't lose it.
+      - name: Merge and commit crawled data
+        if: github.event_name != 'push'
+        run: |
+          [ -d artifacts ] && python scripts/merge_data.py artifacts/*
+          bash scripts/commit-data.sh "Crawl $(date -u +%F)"
 
       # AI only on scheduled/manual runs (a code push never spends tokens). Submit the
       # Batch API job first and commit its id, so a cancelled run can be resumed.
@@ -82,7 +148,7 @@ jobs:
         if: github.event_name != 'push'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          AI_UNIS: ${{ inputs.ai_unis || vars.AI_UNIS || 'UdK' }}
+          AI_UNIS: ${{ inputs.ai_unis || vars.AI_UNIS || 'all' }}
         run: |
           python -m crawler build --ai --ai-unis "$AI_UNIS" --ai-wait 0
           bash scripts/commit-data.sh "AI batch submitted $(date -u +%F)"
@@ -90,7 +156,7 @@ jobs:
       - name: Build site data (collect AI results, up to 2 h)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          AI_UNIS: ${{ inputs.ai_unis || vars.AI_UNIS || 'UdK' }}
+          AI_UNIS: ${{ inputs.ai_unis || vars.AI_UNIS || 'all' }}
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then python -m crawler build
           else python -m crawler build --ai --ai-unis "$AI_UNIS" --ai-wait 120; fi
@@ -108,8 +174,11 @@ jobs:
 
   deploy:
     needs: update
-    if: needs.update.outputs.changed == 'true' || github.event_name != 'schedule'
+    if: always() && needs.update.result == 'success' && (needs.update.outputs.changed == 'true' || github.event_name != 'schedule')
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

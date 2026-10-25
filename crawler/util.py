@@ -75,6 +75,17 @@ def save_json(path: Path, obj, compact: bool = False) -> None:
     tmp.replace(path)
 
 
+STATE_DIR = DATA / "state"   # one small JSON per crawl key: last crawl + next scheduled update
+
+
+def load_state() -> dict:
+    return {f.stem: load_json(f, {}) for f in sorted(STATE_DIR.glob("*.json"))}
+
+
+def save_state(key: str, entry: dict) -> None:
+    save_json(STATE_DIR / f"{key}.json", entry)
+
+
 def parse_de_date(s: str, default_year: int | None = None) -> str | None:
     """'13.10.26' / '13.10.2026' / '13.10' -> ISO date."""
     m = re.match(r"(\d{1,2})\.(\d{1,2})\.?(\d{2,4})?", s.strip())

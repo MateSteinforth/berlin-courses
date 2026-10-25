@@ -14,9 +14,7 @@ import warnings
 from datetime import date, datetime, timezone
 
 
-from .util import DATA, RAW, load_json, save_json, semester_keys
-
-STATE = DATA / "state.json"
+from .util import RAW, load_json, load_state, save_json, save_state, semester_keys
 
 
 def _due(state: dict, key: str) -> bool:
@@ -30,10 +28,7 @@ def _mark(state: dict, key: str, source, count: int, semesters: list[str]) -> No
     today = date.today()
     nxt = min(source.next_update(sem, today, published=count > 0 or len(semesters) > 1) for sem in semesters)
     state[key] = {"crawled": today.isoformat(), "next_update": nxt.isoformat(), "count": count}
-    # re-read so parallel crawl processes don't overwrite each other's entries
-    disk = load_json(STATE, {})
-    disk[key] = state[key]
-    save_json(STATE, disk)
+    save_state(key, state[key])   # one file per key: parallel crawl jobs never touch the same file
 
 
 def main(argv=None) -> int:
@@ -58,6 +53,9 @@ def main(argv=None) -> int:
     b.add_argument("--ai-wait", type=int, default=120, help="minutes to wait for AI batches (0 = submit only)")
     b.add_argument("--ai-unis", help="only call the AI for these universities, comma-separated (default: all)")
     sub.add_parser("list", help="list available sources")
+    d = sub.add_parser("due", help="JSON list of sources to crawl now (for the workflow's job matrix)")
+    d.add_argument("--force", action="store_true", help="every source, ignoring the schedule")
+    d.add_argument("--source", action="append", help="only these sources")
     args = ap.parse_args(argv)
 
     from .sources import catalog_sources, lms_sources
@@ -67,8 +65,19 @@ def main(argv=None) -> int:
             print(f"{name:16} {s.university}  {type(s).__doc__ or ''}".rstrip())
         return 0
 
+    if args.cmd == "due":
+        import json
+        st = load_state()
+        jobs = [{"name": n, "kind": "catalog"} for n in catalog_sources()
+                if args.force or any(_due(st, f"{n}_{sem}") for sem in semester_keys())]
+        jobs += [{"name": n, "kind": "lms"} for n in lms_sources() if args.force or _due(st, n)]
+        if args.source:
+            jobs = [j for j in jobs if j["name"] in args.source]
+        print(json.dumps(jobs))
+        return 0
+
     failed = False
-    state = load_json(STATE, {})
+    state = load_state()
     if args.cmd == "crawl":
         srcs = catalog_sources()
         for name in args.source or list(srcs):

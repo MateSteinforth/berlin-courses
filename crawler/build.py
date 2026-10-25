@@ -13,7 +13,7 @@ from collections import defaultdict
 from datetime import datetime, timezone
 
 from .locations import resolve
-from .util import RAW, SITE_DATA, load_json, save_json, semester_keys, semester_label
+from .util import RAW, SITE_DATA, load_json, load_state, save_json, semester_keys, semester_label
 
 log = logging.getLogger(__name__)
 
@@ -202,7 +202,7 @@ def build(ai: bool = False, ai_max: int | None = None, ai_unis: list[str] | None
         "sources": sources_meta,
         "count": len(out),
         "ai": sum(1 for c in out if "tags" in c),
-        "next_update": min((v["next_update"] for v in load_json(RAW.parent / "state.json", {}).values()),
+        "next_update": min((v["next_update"] for v in load_state().values()),
                            default=None),
     }
     save_json(SITE_DATA / "courses.json", out, compact=True)
