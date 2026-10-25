@@ -1,0 +1,64 @@
+{
+ "built": "2026-10-25T06:03+00:00",
+ "semesters": [
+  {
+   "key": "2026W",
+   "label": "WiSe 2026/27",
+   "count": 15261
+  },
+  {
+   "key": "2027S",
+   "label": "SoSe 2027",
+   "count": 0
+  }
+ ],
+ "sources": {
+  "ash_lsf_2026W": {
+   "crawled": "2026-10-24T22:24+00:00",
+   "count": 514
+  },
+  "fhp_incom_2026W": {
+   "crawled": "2026-10-24T22:46+00:00",
+   "count": 176
+  },
+  "fu_vv_2026W": {
+   "crawled": "2026-10-24T22:16+00:00",
+   "count": 5095
+  },
+  "htw_lsf_2026W": {
+   "crawled": "2026-10-24T22:24+00:00",
+   "count": 2665
+  },
+  "hu_agnes_2026W": {
+   "crawled": "2026-10-24T22:22+00:00",
+   "count": 4131
+  },
+  "khb_incom_2026W": {
+   "crawled": "2026-10-24T22:24+00:00",
+   "count": 121
+  },
+  "tu_moses_2026W": {
+   "crawled": "2026-10-25T01:08+00:00",
+   "count": 2103
+  },
+  "udk_hisinone_2026W": {
+   "crawled": "2026-10-24T23:43+00:00",
+   "count": 435
+  },
+  "udk_sg_2026W": {
+   "crawled": "2026-10-24T22:46+00:00",
+   "count": 30
+  },
+  "tu_isis": {
+   "crawled": "2026-10-24T22:08+00:00",
+   "count": 2567
+  },
+  "udk_moodle": {
+   "crawled": "2026-10-24T22:09+00:00",
+   "count": 989
+  }
+ },
+ "count": 15261,
+ "ai": 0,
+ "next_update": "2026-11-05"
+}
