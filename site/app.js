@@ -157,7 +157,12 @@ async function computeTravel() {
       const chunk = keys.slice(i, i + 80);
       const coords = [`${home.lon},${home.lat}`, ...chunk.map((k) => `${S.locs[k].lon},${S.locs[k].lat}`)].join(";");
       try {
-        const j = await fetchJson(`https://routing.openstreetmap.de/${profile}/table/v1/driving/${coords}?sources=0&annotations=duration,distance`);
+        let j;
+        for (let attempt = 0; ; attempt++) { // public OSRM server rate-limits bursts (429): back off and retry
+          try { j = await fetchJson(`https://routing.openstreetmap.de/${profile}/table/v1/driving/${coords}?sources=0&annotations=duration,distance`, 20000); break; }
+          catch (e) { if (attempt >= 3) throw e; await new Promise((r) => setTimeout(r, 1500 * (attempt + 1))); }
+        }
+        await new Promise((r) => setTimeout(r, 400));
         chunk.forEach((k, idx) => {
           const dist = j.distances?.[0]?.[idx + 1], dur = j.durations?.[0]?.[idx + 1];
           if (dist == null) return;
@@ -239,7 +244,7 @@ function matches(c) {
   if (f.sems.length && !f.sems.includes(c.sem)) return false;
   if (f.unis.length && !f.unis.includes(c.u) && !(c.sg && f.unis.includes(SG))) return false;
   const fm = c._fmt;
-  if (fm === "none" && !f.arr) return false;
+  if (fm === "none" && !f.arr && !(c.sg && f.unis.includes(SG))) return false;
   if (f.formats.length && fm !== "none" && !f.formats.includes(fm)) return false;
   if (f.past && fm !== "weekly" && fm !== "none" && c._last && c._last < todayIso) return false;
   if (f.days.length) {

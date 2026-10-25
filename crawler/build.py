@@ -123,7 +123,9 @@ def build(ai: bool = False, ai_max: int | None = None, ai_unis: list[str] | None
     courses = _merge_studium_generale(courses)
     for c in courses:
         if c.get("extra", {}).get("lms_url") and not c.get("lms"):
-            c["lms"] = {"url": c["extra"]["lms_url"], "title": c["title"], "source": c["source"]}
+            # catalogs often link Moodle's participants page; the course page is what students need
+            url = re.sub(r"/user/index\.php\?id=", "/course/view.php?id=", c["extra"]["lms_url"])
+            c["lms"] = {"url": url, "title": c["title"], "source": c["source"]}
 
     lms: list[dict] = []
     for f in sorted(RAW.glob("*.json")):
