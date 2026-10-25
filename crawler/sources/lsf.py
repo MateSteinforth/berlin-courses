@@ -85,7 +85,13 @@ class LsfSource(CatalogSource):
         # The tree misses courses that aren't filed under it (ASH: 2/3 of all courses!).
         # The search listing has everything; admin entries are filtered out in build.
         if not limit:
-            for pid in self._search_ids(s, semester):
+            listed = self._search_ids(s, semester)
+            if not listed:
+                # the tree always shows the current semester; course pages don't always state theirs
+                # (ASH), so without this the tree's courses got saved as an unpublished semester
+                log.info("%s: no courses listed for %s – not published yet", self.name, semester)
+                return []
+            for pid in listed:
                 courses.setdefault(pid, [])
         ids = sorted(courses, key=int)[: limit or None]
         log.info("%s: %d tree nodes, %d courses in tree, %d in total with search", self.name,
