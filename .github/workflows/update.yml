@@ -40,6 +40,8 @@ jobs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main  # latest data, not the (possibly older) commit that triggered a queued run
 
       - uses: actions/setup-python@v5
         with:
@@ -86,7 +88,11 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Update course data $(date -u +%F)"
-            git push
+            # main may have moved during a long crawl: replay our data commit on top (our files win on conflicts)
+            for i in 1 2 3; do
+              git pull --rebase -X theirs origin main && git push && break
+              sleep 10
+            done
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
