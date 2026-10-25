@@ -700,6 +700,15 @@ function bindEvents() {
   $("#openList").onclick = () => setView("mine");
   $("#more").onclick = () => { S.shown += PAGE; renderList(); };
   $("#toggleFilters").onclick = () => $("#filters").classList.toggle("open");
+  // theme: follows the system until toggled, then remembered
+  const isDark = () => (document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) === "dark";
+  const syncTheme = () => { $("#theme").textContent = isDark() ? "☀️" : "🌙"; };
+  $("#theme").onclick = () => {
+    const t = isDark() ? "light" : "dark";
+    document.documentElement.dataset.theme = t; store.set("theme", t); syncTheme();
+  };
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", syncTheme);
+  syncTheme();
 }
 
 // ---------- boot ----------

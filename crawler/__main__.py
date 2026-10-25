@@ -2,7 +2,7 @@
 
   python -m crawler crawl [--source tu_moses] [--semester 2026W] [--limit 20]
   python -m crawler lms   [--source tu_isis] [--limit 100]
-  python -m crawler build [--ai] [--ai-max 50]
+  python -m crawler build [--ai] [--ai-max 50] [--ai-unis UdK,TU]
   python -m crawler list
 """
 from __future__ import annotations
@@ -55,6 +55,7 @@ def main(argv=None) -> int:
     b = sub.add_parser("build", help="merge raw data into site/data")
     b.add_argument("--ai", action="store_true", help="call Claude for uncached courses")
     b.add_argument("--ai-max", type=int)
+    b.add_argument("--ai-unis", help="only call the AI for these universities, comma-separated (default: all)")
     sub.add_parser("list", help="list available sources")
     args = ap.parse_args(argv)
 
@@ -86,6 +87,12 @@ def main(argv=None) -> int:
                     log.info("%s %s: nothing published", name, sem)
                     _mark(state, key, srcs[name], 0, [sem])
                     continue
+                # a broken crawl (site hiccup, stuck paginator) must not wipe good data
+                prev = len(load_json(RAW / f"{name}_{sem}.json", {}).get("courses", []))
+                if not args.limit and prev >= 100 and len(courses) < prev * 0.6:
+                    log.error("%s %s: only %d courses vs %d last time – keeping the old file", name, sem, len(courses), prev)
+                    failed = True
+                    continue
                 save_json(RAW / f"{name}_{sem}.json", {
                     "kind": "catalog", "source": name, "semester": sem,
                     "crawled": datetime.now(timezone.utc).isoformat(timespec="minutes"),
@@ -113,7 +120,8 @@ def main(argv=None) -> int:
             _mark(state, name, srcs[name], len(courses), semester_keys())
     elif args.cmd == "build":
         from .build import build
-        build(ai=args.ai, ai_max=args.ai_max)
+        unis = [u.strip() for u in (args.ai_unis or "").split(",") if u.strip() and u.strip() != "all"]
+        build(ai=args.ai, ai_max=args.ai_max, ai_unis=unis or None)
     return 1 if failed else 0
 
 

@@ -101,7 +101,7 @@ def _merge_studium_generale(courses: list[dict]) -> list[dict]:
     return out
 
 
-def build(ai: bool = False, ai_max: int | None = None) -> None:
+def build(ai: bool = False, ai_max: int | None = None, ai_unis: list[str] | None = None) -> None:
     sems = semester_keys()
     courses: list[dict] = []
     sources_meta = {}
@@ -134,19 +134,19 @@ def build(ai: bool = False, ai_max: int | None = None) -> None:
     used = _link_lms(courses, lms) if lms else set()
     log.info("build: %d catalog courses, %d LMS spaces, %d linked", len(courses), len(lms), len(used))
 
-    ai_data = {}
+    # cached AI results for everyone; new API calls only with --ai (optionally limited to some universities)
+    from .enrich import enrich
+    import os
+    key = os.environ.pop("ANTHROPIC_API_KEY", None)
+    try:
+        ai_data = enrich(courses)  # cache hits only
+    finally:
+        if key:
+            os.environ["ANTHROPIC_API_KEY"] = key
     if ai:
-        from .enrich import enrich
-        ai_data = enrich(courses, max_new=ai_max)
-    else:
-        from .enrich import enrich as _cached_only
-        import os
-        key = os.environ.pop("ANTHROPIC_API_KEY", None)
-        try:
-            ai_data = _cached_only(courses)  # cache hits only
-        finally:
-            if key:
-                os.environ["ANTHROPIC_API_KEY"] = key
+        subset = [c for c in courses if not ai_unis or c["university"] in ai_unis]
+        log.info("AI: enrichment for %s (%d courses)", ", ".join(ai_unis) if ai_unis else "all universities", len(subset))
+        ai_data.update(enrich(subset, max_new=ai_max))
 
     keys = {s["building"] for c in courses for s in c.get("sessions", []) if s.get("building")}
     locations = resolve(keys)

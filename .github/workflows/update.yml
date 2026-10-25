@@ -15,6 +15,10 @@ on:
         description: "Only this source (e.g. tu_moses, udk_hisinone, fu_vv, hu_agnes, htw_lsf, udk_sg)"
         type: string
         default: ""
+      ai_unis:
+        description: "Run the AI step only for these universities (comma-separated, or 'all')"
+        type: string
+        default: "UdK"
   push:
     branches: [main]
     paths: ["site/**", "crawler/**", ".github/workflows/**"]
@@ -68,7 +72,9 @@ jobs:
       - name: Build site data (AI enrichment for new courses only)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m crawler build --ai
+          # test phase: AI only for UdK. Set the repo variable AI_UNIS=all (or pass the input) to enrich everything.
+          AI_UNIS: ${{ inputs.ai_unis || vars.AI_UNIS || 'UdK' }}
+        run: python -m crawler build --ai --ai-unis "$AI_UNIS"
 
       - name: Commit data
         id: commit

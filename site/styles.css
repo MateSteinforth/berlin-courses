@@ -65,6 +65,7 @@ h1 { font-size: 16px; font-weight: 700; letter-spacing: -.01em; }
 .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; }
 .btn.ghost { background: transparent; }
 .btn.full { width: 100%; }
+.icon-btn { padding: 6px 9px; font-size: 15px; line-height: 1; }
 .icon { border: 0; background: none; font-size: 18px; cursor: pointer; color: var(--muted); }
 .mobile-only { display: none; }
 

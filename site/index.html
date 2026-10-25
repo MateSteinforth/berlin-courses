@@ -10,6 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="styles.css">
+<script>try { const t = localStorage.getItem("bc.theme"); if (t) document.documentElement.dataset.theme = JSON.parse(t); } catch {}</script>
 </head>
 <body>
 <header class="top">
@@ -24,6 +25,7 @@
     <input id="q" type="search" placeholder="Search titles, lecturers, topics…" autocomplete="off">
   </div>
   <div class="top-actions">
+    <button id="theme" class="btn ghost icon-btn" aria-label="Toggle dark mode" title="Toggle dark mode"></button>
     <button id="openList" class="btn primary">★ My list <span id="favCountTop" class="count light"></span></button>
     <button id="toggleFilters" class="btn ghost mobile-only">Filters</button>
   </div>
