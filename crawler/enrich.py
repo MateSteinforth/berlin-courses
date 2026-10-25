@@ -47,7 +47,8 @@ SCHEMA = {
 }
 
 SYSTEM = (
-    "You classify university courses from Berlin universities (TU Berlin, UdK Berlin) for a "
+    "You classify courses from Berlin and Potsdam universities and art schools (TU, UdK, FU, HU, HTW, ASH, "
+    "weißensee, FH Potsdam, …) for a "
     "course finder used by students of the Master 'Design & Computation' (a joint UdK/TU program "
     "spanning architecture, design, art, computation, digital fabrication, interaction, AI and "
     "critical theory). Given a course record, return:\n"
