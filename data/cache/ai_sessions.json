@@ -1318,5 +1318,537 @@
    "last_date": "2027-01-17",
    "room": "soft power e.V., Fürbringerstr. 11, 10961 Berlin"
   }
+ ],
+ "b38d38b6468f80bc": [],
+ "3e8fd47ebac7be9c": [],
+ "20ef4499f2e86e9d": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "17:00",
+   "rhythm": "block",
+   "first_date": "2027-02-01",
+   "last_date": "2027-02-09",
+   "room": "LW 019"
+  }
+ ],
+ "5d9dc40555887a6d": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "D107"
+  }
+ ],
+ "1c6cadd6024d69e2": [],
+ "1f13f1814954110c": [],
+ "c22dcfe2067268fb": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "irregular",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "Interface Lab (LW 126)"
+  }
+ ],
+ "0cea0f9c75d19653": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "17:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": "2026-10-16",
+   "room": "LW 019"
+  },
+  {
+   "weekday": 2,
+   "start": "14:00",
+   "end": "18:00",
+   "rhythm": "single",
+   "first_date": "2026-10-21",
+   "last_date": "2026-10-21",
+   "room": "LW 019"
+  },
+  {
+   "weekday": 4,
+   "start": "10:00",
+   "end": "17:00",
+   "rhythm": "single",
+   "first_date": "2026-10-23",
+   "last_date": "2026-10-23",
+   "room": "LW 019"
+  }
+ ],
+ "781b14512d9fad2a": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "D307"
+  }
+ ],
+ "d5ced30f9353a4c0": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "LW226"
+  }
+ ],
+ "cb68c6d02fca5ab4": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "block",
+   "first_date": "2026-09-28",
+   "last_date": "2026-10-08",
+   "room": "D323"
+  }
+ ],
+ "97e164f525ef9426": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "14:30",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": "2026-10-16",
+   "room": "D 105"
+  }
+ ],
+ "a10e5775dd4692f7": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "16:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "D/323"
+  }
+ ],
+ "6a8649976548184e": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-10-06",
+   "last_date": "2026-10-06",
+   "room": "D311"
+  }
+ ],
+ "c014043101e3d609": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "D108"
+  }
+ ],
+ "0dd67d3a8892afa5": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "LW228"
+  }
+ ],
+ "e32fde07b1a10768": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "D226"
+  }
+ ],
+ "e74ece89c5836cd9": [
+  {
+   "weekday": null,
+   "start": "09:30",
+   "end": "16:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "D/310"
+  }
+ ],
+ "088edd0d283ca220": [
+  {
+   "weekday": 0,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "Werkstattgebäude 216"
+  }
+ ],
+ "4990a0cd0c987835": [],
+ "8992c9c0426f98a0": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "irregular",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "D119"
+  }
+ ],
+ "f790e2399e1ec08a": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "block",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "D.2.23"
+  }
+ ],
+ "8ac4ef58c85dcbdc": [],
+ "a264b93044e39bc2": [],
+ "233b46bcaedf73b5": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "16:00",
+   "rhythm": "block",
+   "first_date": "2027-02-01",
+   "last_date": null,
+   "room": "D119"
+  }
+ ],
+ "ed49b380dbf72c96": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "irregular",
+   "first_date": "2026-10-16",
+   "last_date": null,
+   "room": "D.1.05 / Zoom"
+  }
+ ],
+ "c6f835f6da824f85": [],
+ "4787b8d26df49c44": [],
+ "cb0a0c7ae6aa2d1d": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "irregular",
+   "first_date": "2026-12-04",
+   "last_date": null,
+   "room": null
+  }
+ ],
+ "9bf27e3ca28724e9": [
+  {
+   "weekday": 2,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-10-14",
+   "last_date": "2026-10-14",
+   "room": "C3.01"
+  }
+ ],
+ "115933af8a631e2d": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "17:00",
+   "rhythm": "block",
+   "first_date": "2026-10-05",
+   "last_date": "2026-10-09",
+   "room": null
+  }
+ ],
+ "af3e8ffcb5ba06a0": [
+  {
+   "weekday": 3,
+   "start": null,
+   "end": null,
+   "rhythm": "weekly",
+   "first_date": "2026-10-15",
+   "last_date": null,
+   "room": "wird noch bekanntgegeben"
+  }
+ ],
+ "9b7209ead381d33f": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "block",
+   "first_date": "2026-10-05",
+   "last_date": "2026-10-09",
+   "room": null
+  }
+ ],
+ "64a5af8ac46169be": [
+  {
+   "weekday": null,
+   "start": "10:30",
+   "end": "15:00",
+   "rhythm": "block",
+   "first_date": "2026-11-27",
+   "last_date": "2026-11-28",
+   "room": "C.303"
+  }
+ ],
+ "4d717a6048b41635": [
+  {
+   "weekday": 5,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-11-07",
+   "last_date": "2026-11-07",
+   "room": "F.109"
+  }
+ ],
+ "899e18e91630a1e8": [],
+ "ee2cb1977f719a9f": [
+  {
+   "weekday": 4,
+   "start": "10:00",
+   "end": "13:00",
+   "rhythm": "single",
+   "first_date": "2026-11-13",
+   "last_date": "2026-11-13",
+   "room": "C.301"
+  },
+  {
+   "weekday": 5,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "single",
+   "first_date": "2026-11-14",
+   "last_date": "2026-11-14",
+   "room": "C.301"
+  },
+  {
+   "weekday": 6,
+   "start": "10:00",
+   "end": "18:00",
+   "rhythm": "single",
+   "first_date": "2026-11-15",
+   "last_date": "2026-11-15",
+   "room": "C.301"
+  },
+  {
+   "weekday": 0,
+   "start": "16:00",
+   "end": "18:00",
+   "rhythm": "single",
+   "first_date": "2026-12-16",
+   "last_date": "2026-12-16",
+   "room": "C.301"
+  }
+ ],
+ "f6c3e62b062af85b": [],
+ "20c94f18f86f958f": [],
+ "c09f0d0d3ce63f52": [
+  {
+   "weekday": 0,
+   "start": null,
+   "end": null,
+   "rhythm": "weekly",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": null
+  },
+  {
+   "weekday": 1,
+   "start": null,
+   "end": null,
+   "rhythm": "weekly",
+   "first_date": null,
+   "last_date": null,
+   "room": null
+  }
+ ],
+ "efd3afa286199bc3": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-10-13",
+   "last_date": "2026-10-13",
+   "room": "Drawing Garage / C104"
+  }
+ ],
+ "0179ea409006627b": [
+  {
+   "weekday": 1,
+   "start": null,
+   "end": null,
+   "rhythm": "weekly",
+   "first_date": "2026-10-20",
+   "last_date": null,
+   "room": "nach Verabredung"
+  }
+ ],
+ "b9be7536773ca81a": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "irregular",
+   "first_date": "2026-10-15",
+   "last_date": null,
+   "room": "T2.01"
+  }
+ ],
+ "bea888834a5cf91d": [
+  {
+   "weekday": 1,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-10-13",
+   "last_date": "2026-10-13",
+   "room": "studio mut & anmut"
+  }
+ ],
+ "5256d0f4cbd7e1a2": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "irregular",
+   "first_date": "2026-10-14",
+   "last_date": null,
+   "room": "Ateliers Malereigebäude"
+  }
+ ],
+ "93b2834719e6f038": [
+  {
+   "weekday": 4,
+   "start": null,
+   "end": null,
+   "rhythm": "weekly",
+   "first_date": "2026-10-23",
+   "last_date": null,
+   "room": "Bronzegießerei Johannisthal - 3.Stock"
+  }
+ ],
+ "250d8dbef4818cc6": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "block",
+   "first_date": "2026-10-28",
+   "last_date": "2026-10-30",
+   "room": "Kinoraum Malerei"
+  },
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "block",
+   "first_date": "2026-12-09",
+   "last_date": "2026-12-11",
+   "room": "Kinoraum Malerei"
+  },
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "block",
+   "first_date": "2027-02-03",
+   "last_date": "2027-02-05",
+   "room": "Kinoraum Malerei"
+  }
+ ],
+ "c24b734b43dbccb8": [],
+ "6c70e8a2b996b520": [],
+ "19e7cb88d24b63eb": [],
+ "82df39ddf639d4cc": [],
+ "f5d4464d7021b800": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "irregular",
+   "first_date": "2026-10-14",
+   "last_date": null,
+   "room": "H108"
+  }
+ ],
+ "685d762cf66aa0ee": [
+  {
+   "weekday": null,
+   "start": "10:00",
+   "end": "15:00",
+   "rhythm": "block",
+   "first_date": "2026-11-02",
+   "last_date": null,
+   "room": "khb, Aula"
+  }
+ ],
+ "a6d78eb96260ebb3": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "block",
+   "first_date": "2026-10-30",
+   "last_date": null,
+   "room": "Mart-Stam-Raum"
+  }
+ ],
+ "bbebc01a8afd763e": [],
+ "bc20724719bc0fa1": [],
+ "d72aab78da6e2f8c": [
+  {
+   "weekday": 1,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-10-20",
+   "last_date": "2026-10-20",
+   "room": "Hörsaal C1.05"
+  }
+ ],
+ "04a549130ed95041": [],
+ "8bb4d229e95fc7ab": [],
+ "1c9d986c7d7f20a1": [
+  {
+   "weekday": 0,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-10-26",
+   "last_date": "2026-10-26",
+   "room": "Zoom"
+  }
  ]
 }

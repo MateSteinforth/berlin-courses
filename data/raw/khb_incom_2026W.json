@@ -2,7 +2,7 @@
  "kind": "catalog",
  "source": "khb_incom",
  "semester": "2026W",
- "crawled": "2026-10-24T22:24+00:00",
+ "crawled": "2026-10-25T11:26+00:00",
  "courses": [
   {
    "id": "khb_incom:4218:2026W",
@@ -56,7 +56,21 @@
    "org": "Produkt-Design",
    "language": "Deutsch",
    "description": "Willkommen zum Autodesk-Fusion-360-Blockseminar! Fusion 360 ist als etablierter und zukunftsorientierter parametrischer Solid-Modeler ein exzellentes Tool für die fertigungsorientierte digitale Modellierung und Umsetzung von Produkten und damit ein wichtiges Gegenstück zu Surface-Modelern wie Rhino. Der Kurs beginnt mit einer Einführung in die Konventionen des manuellen technischen Zeichnens und wird sich dann mit den ausgeweiteten Grundlagen des parametrischen Solidmodellings von der Skizze bis hin zu fertigungsbereiten Baugruppen und deren Visualisierungen beschäftigen. Ziel ist, das Programm sowohl als professionelle Qualifizierung als auch für eure Designs vollumfänglich zu beherrschen, um eure Gestaltung umzusetzen. Welcome to the Autodesk Fusion 360 Intensive Course! As an established and progressive parametric solid modeler, Fusion 360 is an excellent tool for manufacturing-oriented digital modeling and product implementation, making it an important counterpart to surface modelers such as Rhino. The course begins with an introduction to the conventions of manual technical drawing and will then cover the expanded fundamentals of parametric solid modeling—from sketches to production-ready assemblies and their visualizations. The goal is to master the program fully, both as a professional skill and for your own designs, so you can bring your ideas to life.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 5,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-11-07",
+     "last_date": "2026-11-07",
+     "room": "F.109",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Produkt-Design",
     "Simulation von Physis"
@@ -157,7 +171,21 @@
    "org": "Produkt-Design",
    "language": "Deutsch",
    "description": "Nach dem ersten Studienjahr in den künstlerisch-gestalterischen Grundlagen kommen die Design-Studierenden ins Fachgebiet Produkt-Design. Die Jahrgangsgruppe verbringt ihr drittes (Winter-)Semester bei den Design-Grundlagen. Welche Grundlagen gibt es im Produktdesign und wie werden sie vermittelt? Möglichst viele Perspektiven zugleich öffnen den Blick auf die ganze Komplexität des Entwerfens, auf vielen Ebenen – technologisch, gestalterisch, gesellschaftlich. Entwerfen läßt sich üben, die Fülle der Grundlagen in den wöchentlichen Lehrveranstaltungen erfahren. Lehrende und Studierende durchmessen gemeinsam zugehörige Wissensgebiete. Es geht darum, eine Vielfalt von Akteuren, Methoden und Positionen zu kennen, zu erleben und in das eigene Handeln einzubauen.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-10-14",
+     "last_date": "2026-10-14",
+     "room": "C3.01",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Produkt-Design",
     "Entwurfslehre"
@@ -339,7 +367,21 @@
    "org": "Produkt-Design",
    "language": "Deutsch",
    "description": "Was passiert, wenn wir als Designer*innen unsere digitalen Werkzeuge selbst gestalten? In diesem Blockseminar bauen wir mithilfe von KI eigene Software-Werkzeuge für den 3D-Druck. Formen, Oberflächen und Parameter beschreiben wir in Sprache oder Skizzen. Die KI schreibt daraus den Code für ein Tool, das Geometrie und G-Code erzeugt. So lassen sich Dinge steuern, die herkömmliche Slicer nicht abdecken: variable Schichthöhen, eine an die Schichthöhe angepasste Extrusion oder eigene Oberflächenstrukturen. Im Mittelpunkt steht die Frage, wie sich gestalterische Praxis verändert, wenn KI selbst zum Werkzeug wird, mit dem wir Werkzeuge bauen. Die KI schreibt den Code, die gestalterische Autorschaft bleibt bei uns. Das setzt ein genaues Verständnis von Maschine und Material voraus und die Fähigkeit, gestalterische Absichten präzise zu formulieren. Erprobt werden die Tools im Keramik-3D-Druck und im FDM-Druck. Wer tiefer einsteigen möchte, erhält zum Abschluss einen Ausblick auf das Grasshopper-Plugin TOOLPATHS. Termine: 4.+5.12. und 11.+12.12.2026 Es sind keine Vorkenntnisse nötig. ____________________________________________________________ What happens when we as designers create our own digital tools? In this block seminar we use AI to build our own software tools for 3D printing. We describe forms, surfaces and parameters in words or sketches. From this, the AI writes the code for a tool that generates geometry and G-code. This allows us to control things that standard slicers don't cover: variable layer heights, extrusion adjusted to layer height, or custom surface structures. The seminar asks how design practice changes when AI itself becomes the tool we use to build tools. The AI writes the code, while design authorship remains with us. This requires a precise understanding of machine and material and the ability to articulate design intentions clearly. The tools are tested in ceramic 3D printing and FDM printing. For those who want to go further, the seminar closes with an outlook on the Grasshopper plugin TOOLPATHS. Dates: 4+5 December and 11+12 December 2026 No prior knowledge needed.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "irregular",
+     "first_date": "2026-12-04",
+     "last_date": null,
+     "room": null,
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Produkt-Design",
     "Simulation von Physis"
@@ -461,7 +503,57 @@
    "org": "Produkt-Design",
    "language": "Deutsch",
    "description": "Der Kurs dient als Einführung ins Interaction Design bzw. User Experience Design und vermittelt grundlegende Methoden, Prozesse und Tools. An an einem Wochenende bewegen wir uns im Schnelldurchlauf durch einen exemplarischen Gestaltungsprozess. Den Abschluss des Kurses bildet eine Präsentation der Ergebnisse in der Folgewoche. Kurstermine Freitag, 13.11., 10:00 bis 13:00 Uhr Samstag, 14.11., 10:00 bis 18:00 Uhr Sonntag, 15.11., 10:00 bis 18:00 Uhr Präsentationstermin: Montag, 16.12., 16:00 bis 18:00 Uhr Bitte mitbringen Laptop, Smartphone und/oder Kamera Marker, Stifte, etc. für Skizzen Kleber, Schere, Cutter, etc. für Prototypen Wichtig: Eine Teilnahme an allen vier Kursterminen is erforderlich, um den Kurs erfolgreich abzuschließen. Bitte haltet euch diese entsprechend frei. --- This course serves as an intro to Interaction Design and User Experience Design and covers its fundamental methods, processes and tools. Over the course of a weekend we will fast forward through an exemplary design process based on a concrete challenge. We're concluding with a presentation of the results, a few days after the weekend. Course dates Friday, Nov 13th, 3pm to 6pm Saturday, Nov 14th, 10am to 6pm Sunday, Nov 15th, 10am to 6pm Presentations: Monday, Nov 16th, 4pm to 6pm Please bring Laptop, smartphone and/or camera. Markers, pens, etc. for sketches Glue, scissors, cutter, etc. for prototypes Important: attendance at all four course dates is mandatory to successfully complete the course. Please block time accordingly.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2026-11-13",
+     "last_date": "2026-11-13",
+     "room": "C.301",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-14",
+     "last_date": "2026-11-14",
+     "room": "C.301",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-15",
+     "last_date": "2026-11-15",
+     "room": "C.301",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-12-16",
+     "last_date": "2026-12-16",
+     "room": "C.301",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Produkt-Design",
     "Simulation von Prozessen"
@@ -486,7 +578,21 @@
    "org": "Produkt-Design",
    "language": "Deutsch",
    "description": "Für alle, die in die Typografie einsteigen oder ihre Fähigkeiten verbessern wollen, die eine Anleitung benötigen, wie man in Druck und digitalen Umgebungen gut mit Typografie und Satz umgeht. Ziel des zweitägigen Blockseminars ist es, die Bedeutung von Typografie & Layout für das Produktdesign zu reflektieren. Freitag, 27. November: 10.30 – 15 Uhr Samstag, 28. November: 10:30 – 15 Uhr Der erste Teil des Kurses besteht aus einem Blockseminar in Anwesenheit an zwei Tagen. Wir gehen Schritt für Schritt die grundlegenden Aspekte und goldenen Regeln der Typografie und des Satzes durch. Diese grundlegenden Gestaltungsprinzipien gelten für jeden Bereich des Grafikdesigns, unabhängig von Software, und gleich ob für Print oder digitale Formate. • Basics: typografisches Vokabular (Schriftanatomie, Schriftfamilien) • Schriftauswahl und Kombination, Kontext • Layout: Typografie als Teil eines Ganzen (Satzspiegel, Größen, Abstände, Texthierarchie) • Seitenaufbau & Gestaltungsraster (Formate, Ränder, Spalten, Grundlinienraster) • Mikrotypografie: typografische Details (grundlegende Parameter, Interpunktion) Im zweiten Teil des Kurses werden wir in die individuelle Einzelbetreuung übergehen, um eure konkreten Projekte wie Portfolio, Abschlussarbeit oder Semesterdokumentation zu besprechen. Die Einzelkonsultation ist optional, Termine machen wir individuell aus.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:30",
+     "end": "15:00",
+     "rhythm": "block",
+     "first_date": "2026-11-27",
+     "last_date": "2026-11-28",
+     "room": "C.303",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Produkt-Design",
     "Präsentation / Dokument..."
@@ -538,6 +644,44 @@
    }
   },
   {
+   "id": "khb_incom:4176:2026W",
+   "source": "khb_incom",
+   "university": "KHB",
+   "semester": "2026W",
+   "title": "3 Plastisches Gestalten",
+   "url": "https://see.incom.org/workspace/4176/about",
+   "lecturers": [
+    "Lucia Mors de Castro"
+   ],
+   "org": "Mode-Design",
+   "language": "Deutsch",
+   "description": "Entwicklung einer individuellen „Schnittbibliothek“, die den großen Variationsspielraum des Schnittes hinsichtlich der Körperformen und in Bezug auf Passform und Auflösung, Form und Struktur, Form und Material umfasst. Spezielle Lösungsansätze und Modellierungsmöglichkeiten in Schnitt, Material und Verarbeitung sowie Kausalität und Wechselwirkung und die benötigte Fachsprache werden erarbeitet. Das Aufbereiten von Produktionsschnitten und die Erfüllung von Anforderungen der Konfektion sind Inhalt des Kurses. Variationen des Schnittes in Bezug auf Passform, Form, Struktur und Material werden erarbeitet. Reflexion und Präsentation der eigenen Arbeit sowie die Kommunikation mit Kolleg*innen/Mitarbeiter*innen/Produktionsbetrieben etc. wird von den Studierenden trainiert und im gegenseitigen Feedback erarbeitet.",
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "12:30",
+     "rhythm": "weekly",
+     "first_date": null,
+     "last_date": null,
+     "room": "C 2.01",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "catalog_path": [
+    "Mode-Design",
+    "Plastisches Gestalten II..."
+   ],
+   "extra": {
+    "raw_dates": "Format: None. Wann: Mittwoch 10:00 - 12:30. Erster Termin: None. Ort: C 2.01.\nEntwicklung einer individuellen „Schnittbibliothek“, die den großen Variationsspielraum des Schnittes hinsichtlich der Körperformen und in Bezug auf Passform und Auflösung, Form und Struktur, Form und Material umfasst. Spezielle Lösungsansätze und Modellierungsmöglichkeiten in Schnitt, Material und Verarbeitung sowie Kausalität und Wechselwirkung und die benötigte Fachsprache werden erarbeitet. Das Aufbereiten von Produktionsschnitten und die Erfüllung von Anforderungen der Konfektion sind Inhalt des Kurses. Variationen des Schnittes in Bezug auf Passform, Form, Struktur und Material werden erarbeitet. Reflexion und Präsentation der eigenen Arbeit sowie die Kommunikation mit Kolleg*innen/Mitarbeiter*innen/Produktionsbetrieben etc. wird von den Studierenden trainiert und im gegenseitigen Feedback erarbeitet.",
+    "room": "C 2.01",
+    "credits": "4 Credits"
+   }
+  },
+  {
    "id": "khb_incom:4088:2026W",
    "source": "khb_incom",
    "university": "KHB",
@@ -551,7 +695,21 @@
    "org": "Mode-Design",
    "language": "Deutsch",
    "description": "Blockkurs 5.- 9. Oktober 2026 Plastisches Gestalten 4 im 7. Semester BA",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "17:00",
+     "rhythm": "block",
+     "first_date": "2026-10-05",
+     "last_date": "2026-10-09",
+     "room": null,
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Mode-Design",
     "Plastisches Gestalten IV..."
@@ -574,7 +732,21 @@
    ],
    "org": "Mode-Design",
    "language": "Deutsch",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": null,
+     "room": "wird noch bekanntgegeben",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Mode-Design",
     "Dokumentation und Präse..."
@@ -661,7 +833,21 @@
    "org": "Mode-Design",
    "language": "Deutsch",
    "description": "Blockunterricht vom 05.–09.10.2026",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "block",
+     "first_date": "2026-10-05",
+     "last_date": "2026-10-09",
+     "room": null,
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Mode-Design",
     "Zeichnen"
@@ -822,7 +1008,33 @@
    ],
    "org": "Mode-Design",
    "language": "Deutsch",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": null,
+     "end": null,
+     "rhythm": "weekly",
+     "first_date": "2026-10-12",
+     "last_date": null,
+     "room": null,
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": null,
+     "end": null,
+     "rhythm": "weekly",
+     "first_date": null,
+     "last_date": null,
+     "room": null,
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Mode-Design",
     "Entwurfsprojekt"
@@ -846,7 +1058,21 @@
    "org": "Mode-Design",
    "language": "Deutsch",
    "description": "Blockunterricht vom 05.–09.10.2026",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "block",
+     "first_date": "2026-10-05",
+     "last_date": "2026-10-09",
+     "room": null,
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Mode-Design",
     "Zeichnen"
@@ -934,44 +1160,6 @@
    }
   },
   {
-   "id": "khb_incom:4176:2026W",
-   "source": "khb_incom",
-   "university": "KHB",
-   "semester": "2026W",
-   "title": "3 Plastisches Gestalten",
-   "url": "https://see.incom.org/workspace/4176/about",
-   "lecturers": [
-    "Lucia Mors de Castro"
-   ],
-   "org": "Mode-Design",
-   "language": "Deutsch",
-   "description": "Entwicklung einer individuellen „Schnittbibliothek“, die den großen Variationsspielraum des Schnittes hinsichtlich der Körperformen und in Bezug auf Passform und Auflösung, Form und Struktur, Form und Material umfasst. Spezielle Lösungsansätze und Modellierungsmöglichkeiten in Schnitt, Material und Verarbeitung sowie Kausalität und Wechselwirkung und die benötigte Fachsprache werden erarbeitet. Das Aufbereiten von Produktionsschnitten und die Erfüllung von Anforderungen der Konfektion sind Inhalt des Kurses. Variationen des Schnittes in Bezug auf Passform, Form, Struktur und Material werden erarbeitet. Reflexion und Präsentation der eigenen Arbeit sowie die Kommunikation mit Kolleg*innen/Mitarbeiter*innen/Produktionsbetrieben etc. wird von den Studierenden trainiert und im gegenseitigen Feedback erarbeitet.",
-   "sessions": [
-    {
-     "weekday": 2,
-     "start": "10:00",
-     "end": "12:30",
-     "rhythm": "weekly",
-     "first_date": null,
-     "last_date": null,
-     "room": "C 2.01",
-     "building": "ADDR:Bühringstraße 20",
-     "group": null,
-     "note": null
-    }
-   ],
-   "by_arrangement": false,
-   "catalog_path": [
-    "Mode-Design",
-    "Plastisches Gestalten II..."
-   ],
-   "extra": {
-    "raw_dates": "Format: None. Wann: Mittwoch 10:00 - 12:30. Erster Termin: None. Ort: C 2.01.\nEntwicklung einer individuellen „Schnittbibliothek“, die den großen Variationsspielraum des Schnittes hinsichtlich der Körperformen und in Bezug auf Passform und Auflösung, Form und Struktur, Form und Material umfasst. Spezielle Lösungsansätze und Modellierungsmöglichkeiten in Schnitt, Material und Verarbeitung sowie Kausalität und Wechselwirkung und die benötigte Fachsprache werden erarbeitet. Das Aufbereiten von Produktionsschnitten und die Erfüllung von Anforderungen der Konfektion sind Inhalt des Kurses. Variationen des Schnittes in Bezug auf Passform, Form, Struktur und Material werden erarbeitet. Reflexion und Präsentation der eigenen Arbeit sowie die Kommunikation mit Kolleg*innen/Mitarbeiter*innen/Produktionsbetrieben etc. wird von den Studierenden trainiert und im gegenseitigen Feedback erarbeitet.",
-    "room": "C 2.01",
-    "credits": "4 Credits"
-   }
-  },
-  {
    "id": "khb_incom:4115:2026W",
    "source": "khb_incom",
    "university": "KHB",
@@ -989,12 +1177,12 @@
    "by_arrangement": true,
    "catalog_path": [
     "Textil- und Material-Design",
-    "Plastisches Gestalten: K..."
+    "Digitale Werkzeuge - CAD..."
    ],
    "extra": {
     "raw_dates": "Format: None. Wann: keine Angabe zum Wochentag. Erster Termin: None. Ort: None.\n",
     "room": null,
-    "credits": "4 Credits"
+    "credits": "2 Credits"
    }
   },
   {
@@ -1348,7 +1536,21 @@
    "org": "Visuelle Kommunikation",
    "language": "Deutsch",
    "description": "Früchte sind ein Sinngebilde für Deutung in der Kunst. Nicht selten werden sie in der Ikonographie, als Motive der Narration verwendet. In Mythen tauchten Früchte auf, oft wurden sie mit Göttinnen der Fruchtbarkeit und der Ernte in Verbindung gebracht. Ambrosia ist die Frucht, die den Göttern die Unsterblichkeit verleiht. Trauben sind im Bacchus-Kult, den Gott des Weins, der Freude und des Theaters in der antiken griechischen Kultur tief verwurzelt. In der Genesis ist der Apfel das Synonym zur verbotenen Frucht, den Baum der Erkenntnis, und stellt eine Bedrohung da. Der Granatapfel ist Sinnbild für die Schönheit der Frau und somit wird er gekürt als die Frucht der Liebe und Sinnlichkeit schlechthin. Die koreanischen Volkserzählung „Der Tiger und die Kaki“ (Gotgam) ist eine humorvolle Sage, über einen hungriger Tiger, der durch eine getrockneten süßen Kaki vertrieben wird. Obst ist in der Literatur ein vielschichtiges faszinierendes Motiv. Die Autoren verwenden es seit eh und jeh um Symbolisches auszudrucken. Nicht selten stellt es ein Sinnbild für die warme Jahreszeit da, den Sommer. Es ist ein Lobgesang auf Genuss und eine Metapher fürs Leben. Johann Wolfgang Goethe schrieb in seiner Gedichte „Allerreifste Früchte“, … Kommt, von allerreifsten Früchten Mit Geschmack und Lust zu speisen! Über Rosen läßt sich dichten, In die Äpfel muß man beißen. Obst war traditionell ein beliebtes malerisches Motiv im Stillleben und stand im Vanitas-Stillleben für die Vergänglichkeit des Lebens. Paul Cèzanne malte im Lauf seines Lebens rund 200 Stilleben. Dabei spielten Äpfel eine besondere Rolle. als die grundlegenden Forschungsobjekte für seine Studien über Form, Farbe und Raum. Der italienische Renaissancemaler Giuseppe Arcimboldo ist legendär für seine Obst- und Gemüseporträts. Die „Campbell's Tomato Soup“ (Tomatensuppe) von Andy Warhol ist eines der berühmtesten Meisterwerke der Pop Art und ein absolutes Symbol der modernen Konsumgesellschaft. Beim zufälligen herabfallenden Apfel in seinem Garten entdeckte Isaac Newton die Erdgravitation. Der Designer Rob Janoff entwarf das Apple-Logo, den ikonischen alttestamentarischen Apfel mit Biss, im Jahr 1977. Auch beim alltäglichen Sprachgebrauch gibt es zahlreiche Redewendungen, um durch Früchte etwas anzudeuten „in den sauren Apfel zu beißen“, „Äpfel mit Birnen vergleichen“, „der Apfel fällt nicht weit vom Stamm“, „Ausquetschen wie eine Zitrone“, „Tomaten auf den Augen haben“, „Alles Banane!“. Was wir suchen und finden, ist die Kirsche im Kuchen, wie die Abbildungen von Früchten (gegebenenfalls Gemüse) eigensinnig, trotzig, sensibel aber auch humorvoll sein können. Bilderzählungen, die unsere Emotionen und Gedanken in Bewegung setzen. Für die Studie und Umsetzung der Ideen werden wie folgend benötigt, eine Geschichtenfindung, analoges Zeichnen, bewegtes Bild in Analog und Digital und eine Publikation. Der Schwerpunkt des Semesterprojekts „Obstrausch“ ist Zeichnen, Animieren und Zeichentrickfilm. Animation mit dem Software Dragonframe wird als Vertiefungskurs angeboten. Prof. Joseph Imorde unterstützt und begleitet das Semesterthema theoretisch. Teamarbeit ist zugelassen und die Unterrichtssprache ist Deutsch. Projekt von Prof. Kyung-hwa Choi-ahoi. Begleitet von Prof. Joseph Imorde und Matthias Hübner. Vertiefungskurs von Daniel Sterlin-Altman Projektbeginn: Di. 13.10 um 10:00 in der Drawing Garage (C104) Unterrichtstage: Variable i.a. Montags oder/und Dienstags, selten Mittwochs",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-10-13",
+     "last_date": "2026-10-13",
+     "room": "Drawing Garage / C104",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Visuelle Kommunikation",
     "Semesterprojekt"
@@ -1480,7 +1682,21 @@
    "org": "Visuelle Kommunikation",
    "language": "Deutsch",
    "description": "Kneipen als »Dritte Orte« im ländlichen Raum, Semesterprojekt mit den Schwerpunkten »social design«, Datenvisualisierung und Szenografie in Kooperation mit dem Institut für Stadt- und Regionalplanung der Technischen Universität Berlin und dem Amt für Kultur- und Sport des Landkreises Oder-Spree. studio mut.und.anmut Wintersemester 2026/27",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-10-13",
+     "last_date": "2026-10-13",
+     "room": "studio mut & anmut",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Visuelle Kommunikation",
     "Semesterprojekt"
@@ -1488,6 +1704,84 @@
    "extra": {
     "raw_dates": "Format: Projekt. Wann: keine Angabe zum Wochentag. Erster Termin: 13.10.2026. Ort: studio mut & anmut.\nKneipen als »Dritte Orte« im ländlichen Raum, Semesterprojekt mit den Schwerpunkten »social design«, Datenvisualisierung und Szenografie in Kooperation mit dem Institut für Stadt- und Regionalplanung der Technischen Universität Berlin und dem Amt für Kultur- und Sport des Landkreises Oder-Spree. studio mut.und.anmut Wintersemester 2026/27",
     "room": "studio mut & anmut",
+    "credits": null
+   }
+  },
+  {
+   "id": "khb_incom:4134:2026W",
+   "source": "khb_incom",
+   "university": "KHB",
+   "semester": "2026W",
+   "title": "Künstlerische Praxis Malerei",
+   "url": "https://see.incom.org/workspace/4134/about",
+   "lecturers": [
+    "Pia Linz",
+    "Friederike Feldmann",
+    "Nader Ahriman"
+   ],
+   "org": "Malerei",
+   "language": "Deutsch",
+   "description": "Dieser Workspace ist obligatorisch, um eine Note bzw. einen Semesterschein für die Künstlerische Praxis Malerei zu erhalten.",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "irregular",
+     "first_date": "2026-10-14",
+     "last_date": null,
+     "room": "Ateliers Malereigebäude",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "catalog_path": [
+    "Malerei",
+    "Künstlerische Praxis"
+   ],
+   "extra": {
+    "raw_dates": "Format: None. Wann: keine Angabe zum Wochentag. Erster Termin: 14.10.2026. Ort: Ateliers Malereigebäude.\nDieser Workspace ist obligatorisch, um eine Note bzw. einen Semesterschein für die Künstlerische Praxis Malerei zu erhalten.",
+    "room": "Ateliers Malereigebäude",
+    "credits": null
+   }
+  },
+  {
+   "id": "khb_incom:4228:2026W",
+   "source": "khb_incom",
+   "university": "KHB",
+   "semester": "2026W",
+   "title": "Einzelgespräche-Individual Sessions",
+   "url": "https://see.incom.org/workspace/4228/about",
+   "lecturers": [
+    "Pia Linz"
+   ],
+   "org": "Malerei",
+   "language": "Deutsch",
+   "description": "english below Jeden Dienstag stehe ich für Einzelgespräche zur Verfügung. Bitte schreibt mir zur Terminabsprache möglichst frühzeitig: linz@kh-berlin.de ----- I am available for one-on-one meetings every Tuesday. Please write to me as early as possible to schedule an appointment: linz@kh-berlin.de",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": null,
+     "end": null,
+     "rhythm": "weekly",
+     "first_date": "2026-10-20",
+     "last_date": null,
+     "room": "nach Verabredung",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "catalog_path": [
+    "Malerei",
+    "Künstlerische Praxis"
+   ],
+   "extra": {
+    "raw_dates": "Format: None. Wann: Dienstag. Erster Termin: 20.10.2026. Ort: nach Verabredung.\nenglish below Jeden Dienstag stehe ich für Einzelgespräche zur Verfügung. Bitte schreibt mir zur Terminabsprache möglichst frühzeitig: linz@kh-berlin.de ----- I am available for one-on-one meetings every Tuesday. Please write to me as early as possible to schedule an appointment: linz@kh-berlin.de",
+    "room": "nach Verabredung",
     "credits": null
    }
   },
@@ -1582,7 +1876,45 @@
    "org": "Malerei",
    "language": "Deutsch",
    "description": "3 x 3-tägige Workshops im Wintersemester Grundierungen: 28.10 - 30-10 Maltechniken: 09.12 - 11.12 Papier: 03.02 - 05.02 Traditionellen und zeitgenössischen Grundierungen : Einführung mittels Präsentation und physischer Beispiele, um eine große Bandbreite an Bildträgern und Grundierungen zu zeigen. Praktische Workshops über drei Tage hinweg: Die Studierenden erarbeiten Acryl-, Kreidegrund sowie transparente Grundierung mit Hasenleim (RSG) oder einem zeitgenössischen Äquivalent (PVA). Am Ende verfügt jede*r Studierende über 4 Leinwände und 2 Malplatten, die in mehreren, zwischendurch angeschliffenen Schichten grundiert wurden. Vermittlung von verschiedenen Maltechniken: Einführung mittels Präsentation und Kontextualisierung des Begriffs „Maltechnik„, gefolgt von drei praktischen Workshops, die drei unterschiedliche Herangehensweisen vermitteln: 1) Nass-in-Nass, 2) Malen in Schichten, 3) Colouring-in: halb-geplant. Das Malmedium dieses Workshops ist Ölfarbe; das Sujet ist das Stillleben; als Bildquelle dienen das Leben, die Fotografie sowie eine Kombination aus Leben und Imagination/Gestaltung. *Die Wahl von Ölfarbe begründet sich in ihrer Bandbreite. Die Studierenden werden über andere, wasserbasierte Medien informiert, falls diese für sie besser geeignet sein sollten. Papier-Qualitäten und Handhabung : Einführung mittels Präsentation und physischer Materialproben, um Papier als Bildträger, Medium und als nützliche Entwicklungsstufe zu betrachten. Praktische Workshops über drei Tage: 1) Papier als Bildträger (Grundieren und Medientests), 2) Papier als Medium und bewusster Signifikant (Collage, Zine-Herstellung), 3) Papier als Entwicklungsschritt (Frottage, Trace-Monotypie). Jeder Tag verbindet Beispiele von Künstler*innen mit einer entsprechenden praktischen Übung. Das Ziel ist es, den Studierenden anhand von Übungen, die Unterschiede zwischen den Herangehensweisen herauszuarbeiten, eine Bandbreite an neuen Techniken zu vermitteln, damit sie erkennen können, was für ihre eigene Praxis nützlich ist. Materialien: In jedem Fall werden den Studierenden vorab Materiallisten zugeschickt; wo es kosteneffizienter ist, organisiere ich gerne den Einkauf in größerer Menge, etwa für Grundierungen, Ölmalmaterialien oder einen Bogen hochwertiges Aquarellpapier für alle. DE + EN ++++++ Einzelberatung n ach vorheriger Vereinbarung möglich am Donnerstag/Freitag",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "block",
+     "first_date": "2026-10-28",
+     "last_date": "2026-10-30",
+     "room": "Kinoraum Malerei",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "block",
+     "first_date": "2026-12-09",
+     "last_date": "2026-12-11",
+     "room": "Kinoraum Malerei",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "block",
+     "first_date": "2027-02-03",
+     "last_date": "2027-02-05",
+     "room": "Kinoraum Malerei",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Malerei",
     "Fachspezifische Grundlagen"
@@ -1632,56 +1964,6 @@
    }
   },
   {
-   "id": "khb_incom:4134:2026W",
-   "source": "khb_incom",
-   "university": "KHB",
-   "semester": "2026W",
-   "title": "Künstlerische Praxis Malerei",
-   "url": "https://see.incom.org/workspace/4134/about",
-   "lecturers": [
-    "Pia Linz",
-    "Friederike Feldmann",
-    "Nader Ahriman"
-   ],
-   "org": "Malerei",
-   "language": "Deutsch",
-   "description": "Dieser Workspace ist obligatorisch, um eine Note bzw. einen Semesterschein für die Künstlerische Praxis Malerei zu erhalten.",
-   "by_arrangement": true,
-   "catalog_path": [
-    "Malerei",
-    "Künstlerische Praxis"
-   ],
-   "extra": {
-    "raw_dates": "Format: None. Wann: keine Angabe zum Wochentag. Erster Termin: 14.10.2026. Ort: Ateliers Malereigebäude.\nDieser Workspace ist obligatorisch, um eine Note bzw. einen Semesterschein für die Künstlerische Praxis Malerei zu erhalten.",
-    "room": "Ateliers Malereigebäude",
-    "credits": null
-   }
-  },
-  {
-   "id": "khb_incom:4228:2026W",
-   "source": "khb_incom",
-   "university": "KHB",
-   "semester": "2026W",
-   "title": "Einzelgespräche-Individual Sessions",
-   "url": "https://see.incom.org/workspace/4228/about",
-   "lecturers": [
-    "Pia Linz"
-   ],
-   "org": "Malerei",
-   "language": "Deutsch",
-   "description": "english below Jeden Dienstag stehe ich für Einzelgespräche zur Verfügung. Bitte schreibt mir zur Terminabsprache möglichst frühzeitig: linz@kh-berlin.de ----- I am available for one-on-one meetings every Tuesday. Please write to me as early as possible to schedule an appointment: linz@kh-berlin.de",
-   "by_arrangement": true,
-   "catalog_path": [
-    "Malerei",
-    "Künstlerische Praxis"
-   ],
-   "extra": {
-    "raw_dates": "Format: None. Wann: Dienstag. Erster Termin: 20.10.2026. Ort: nach Verabredung.\nenglish below Jeden Dienstag stehe ich für Einzelgespräche zur Verfügung. Bitte schreibt mir zur Terminabsprache möglichst frühzeitig: linz@kh-berlin.de ----- I am available for one-on-one meetings every Tuesday. Please write to me as early as possible to schedule an appointment: linz@kh-berlin.de",
-    "room": "nach Verabredung",
-    "credits": null
-   }
-  },
-  {
    "id": "khb_incom:4273:2026W",
    "source": "khb_incom",
    "university": "KHB",
@@ -1694,7 +1976,21 @@
    "org": "Bildhauerei",
    "language": "Deutsch",
    "description": "Das Seminar ist offen für alle Studierende der Bildhauerei, die sich mit fotografischen Abbildungen auseinandersetzten und neben fotografischen Formaten auch installative und raumbezogene Arbeitsansätze verfolgen. Im Mittelpunkt des Seminars stehen eure individuellen Projekte, die wir gemeinsam anschauen und besprechen. Darüber hinaus werden wir uns in diesem Semester mit der Frage beschäftigen, welches Potenzial in einem räumlichen und relationalen Umgang mit dem Medium Fotografie liegt. Fotografien fixieren Momente. Sie frieren die Zeit ein und bannen ihren Gegenstand in eine feste Erscheinungsform. Trotz dieser Unbeweglichkeit weisen Fotografien eine erstaunliche Wendigkeit auf, wenn sie in Kontakt mit ihrem Umraum treten. Denn der Kontext hat Einfluss darauf wie wir Bilder lesen. In der Nachbarschaft zu anderen Bildern und Objekten aber auch in Bezug zum Raum und Ort färben Inhalte ab und Bedeutungen verschieben sich. Das Zusammenspiel, die Anordnung und Verortung fotografischer Bilder können so bewegliche Bedeutungsfelder eröffnen, in denen das Ganze mehr zum Vorschein bringt als die Summe seiner Teile. — This seminar is open to all sculpture students who are exploring photographic imagery and who, in addition to photographic formats, are also pursuing installation-based and space-related approaches to their work. The seminar will focus on your individual projects, which we will review and discuss together. In addition, this semester we will explore the potential inherent in a spatial and relational approach to the medium of photography. Photographs capture moments. They freeze time and fix their subject in a static form. Despite this immobility, photographs exhibit remarkable flexibility when they interact with their surroundings. Because context influences how we interpret images. In the vicinity of other images and objects, but also in relation to space and place, contents rub off on one another and meanings shift. The interplay, arrangement, and location of photographic images can thus open up fluid fields of meaning in which the whole reveals more than the sum of its parts.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": null,
+     "end": null,
+     "rhythm": "weekly",
+     "first_date": "2026-10-23",
+     "last_date": null,
+     "room": "Bronzegießerei Johannisthal - 3.Stock",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Bildhauerei",
     "Künstlerische Praxis"
@@ -1793,7 +2089,21 @@
    ],
    "org": "Bühnen- und Kostümbild",
    "language": "Deutsch",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "irregular",
+     "first_date": "2026-10-15",
+     "last_date": null,
+     "room": "T2.01",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Bühnen- und Kostümbild",
     "Künstlerisches Grundlag..."
@@ -2038,6 +2348,7 @@
    "semester": "2026W",
    "title": "REHEARSING FUTURES",
    "url": "https://see.incom.org/workspace/4208/about",
+   "type": "Seminar",
    "lecturers": [
     "Prof. Pauline Doutreluingne"
    ],
@@ -2061,10 +2372,10 @@
    "by_arrangement": false,
    "catalog_path": [
     "Raumstrategien",
-    "Modul V: Wahlpflichtfach"
+    "Modul V: Theorieseminar:..."
    ],
    "extra": {
-    "raw_dates": "Format: None. Wann: Donnerstag, 10:00 – 13:00. Erster Termin: 15.10.2026. Ort: Seminarraum Raumstrategien.\nClimate change does not begin with the climate crisis. It emerges from histories of broken worlds. We are living in a time in which the future often appears as something already determined: ecological collapse, climate catastrophe, political instability, extinction and displacement. These are worlds shaped by histories of colonialism, extraction, violence, displacement and unequal access to land, resources and belonging. How can we imagine a future that is not simply a continuation of the present? This seminar begins with the idea of broken worlds. Drawing on Kathryn Yusoff's A Billion Black Anthropocenes or None, we will question the apparently universal history contained in the concept of the Anthropocene. Climate change is not the beginning of planetary transformation. It is entangled with much longer histories in which particular landscapes, peoples, bodies and forms of life have alr",
+    "raw_dates": "Format: Seminar. Wann: Donnerstag, 10:00 – 13:00. Erster Termin: 15.10.2026. Ort: Seminarraum Raumstrategien.\nClimate change does not begin with the climate crisis. It emerges from histories of broken worlds. We are living in a time in which the future often appears as something already determined: ecological collapse, climate catastrophe, political instability, extinction and displacement. These are worlds shaped by histories of colonialism, extraction, violence, displacement and unequal access to land, resources and belonging. How can we imagine a future that is not simply a continuation of the present? This seminar begins with the idea of broken worlds. Drawing on Kathryn Yusoff's A Billion Black Anthropocenes or None, we will question the apparently universal history contained in the concept of the Anthropocene. Climate change is not the beginning of planetary transformation. It is entangled with much longer histories in which particular landscapes, peoples, bodies and forms of life have alr",
     "room": "Seminarraum Raumstrategien",
     "credits": "6 Credits"
    }
@@ -2101,7 +2412,7 @@
    "by_arrangement": false,
    "catalog_path": [
     "Raumstrategien",
-    "Modul II: Praxisseminar:..."
+    "Modul I: Theorieseminar:..."
    ],
    "extra": {
     "raw_dates": "Format: Seminar. Wann: Mittwoch, 10:00 – 17:00. Erster Termin: 25.11.2026. Ort: Haus der Kulturen der Welt - Bonaventure's office.\n**History as Contested Space — A Deep Dive into Michel Rolph Trouillot’s ‘Silencing the Past: Power and the Production of History’ ** If we consider what Haitian anthropologist Michel Rolph Trouillot writes about the unthinkability of the Haitian revolution, one has another vantage point from which to appreciate Bwa Kayiman, the ceremonial and political birthplace of the Haitian revolution, gathering that took place on August 14th, 1791 at Morne Rouge in the then San Domingue, and what we call a space of eco-political knowledge. Trouillot writes that “The Haitian Revolution thus entered history with the peculiar characteristic of being unthinkable even as it happened. Official debates and publications of the times, including the long list of pamphlets on Saint-Domingue published in France from 1790 to 1804, reveal the incapacity of most contemporaries to understand the ongoing revolution",
@@ -2116,6 +2427,7 @@
    "semester": "2026W",
    "title": "WE DO THIS ’TIL WE FREE US- The discipline of Hope",
    "url": "https://see.incom.org/workspace/4248/about",
+   "type": "Seminar",
    "lecturers": [
     "Lerato Shadi"
    ],
@@ -2139,12 +2451,12 @@
    "by_arrangement": false,
    "catalog_path": [
     "Raumstrategien",
-    "Modul V: Theorie-Praxis-..."
+    "Modul IV: Praxisseminar:..."
    ],
    "extra": {
-    "raw_dates": "Format: None. Wann: Montag, 10:00 – 13:00. Erster Termin: None. Ort: Raumstrategien / Library.\nWE DO THIS ’TIL WE FREE US- The discipline of Hope “Hope is a discipline… We have to iterate it, model it, build it, and practice it every day.” — Mariame Kaba, We Do This ’Til We Free Us How do we move away from punitive, individualistic, and extractive ways of making and being together? How do we cultivate hope not as a vague feeling, but as an active, daily artistic and relational discipline? This semester, we take Mariame Kaba’s seminal work We Do This ’Til We Free Us as our starting point to explore abolition, collective care, and liberation as practical strategies within spatial and creative practice. In a world that conditions us toward surveillance, punishment, competition, and capitalist urgency, this seminar invites us to practice building the worlds we actually want to inhabit—here and now. Continuing our practice-based structure as a workshop / exhibition / reading-room, we w",
+    "raw_dates": "Format: Seminar. Wann: Montag, 10:00 – 13:00. Erster Termin: None. Ort: Raumstrategien / Library.\nWE DO THIS ’TIL WE FREE US- The discipline of Hope “Hope is a discipline… We have to iterate it, model it, build it, and practice it every day.” — Mariame Kaba, We Do This ’Til We Free Us How do we move away from punitive, individualistic, and extractive ways of making and being together? How do we cultivate hope not as a vague feeling, but as an active, daily artistic and relational discipline? This semester, we take Mariame Kaba’s seminal work We Do This ’Til We Free Us as our starting point to explore abolition, collective care, and liberation as practical strategies within spatial and creative practice. In a world that conditions us toward surveillance, punishment, competition, and capitalist urgency, this seminar invites us to practice building the worlds we actually want to inhabit—here and now. Continuing our practice-based structure as a workshop / exhibition / reading-room, we w",
     "room": "Raumstrategien / Library",
-    "credits": "16 Credits"
+    "credits": "8 Credits"
    }
   },
   {
@@ -3063,7 +3375,21 @@
    "org": "Künstlerische Grundlagen",
    "language": "Deutsch",
    "description": "Grundlagen Digitaler Medien werden wir ganz ernst nehmen: ich werde nichts voraussetzen, sondern bei den Grundlagen anfangen, den grundlegendsten digitalen Konzepten wie binären Zahlen, binärer Kodierung von Text, Bild und Video, Algorithmen etc. Damit ihr euch alle gleichermassen darauf einlassen könnt, egal ob ihr Design oder Freie Kunst studiert, egal, welche Erfahrungen ihr bisher mit digitaler Technologie gemacht habt, egal, ob ihr euch das zutraut oder es euch zugetraut wurde ... Wir werden starten mit machtkritischen historischen Exkursen, die Zuschreibungen, Stereotype und Vorurteile dekonstruieren. Denn Digitale Technologien, Digitale Medien müssen nicht weiß männlich konotiert sein und waren es auch noch nie: uns wurde es nur so verkauft und erzählt. Deshalb könnte der Kurs auch Feministischer machtkritischer Medien-Kurs heissen. „Coding for Everyone“ ist das übergeordnete Motto und ja, ihr habt richtig gehört: wir werden gemeinsam programmieren. Wir werden gemeinsam programmieren, damit ihr Bits und Bytes auch als selbstverständliche Materialien wie Stift und Papier, eben nur digitale Materialien wahrnehmt und weil ein Grundverständnis von Programmierung es uns allen ermöglicht, die uns umgebende digitale Welt besser zu verstehen und bestenfalls auch diskursiv mitzugestalten. Es bleibt aber nicht nur digital: es wird vielfältige digitale und analoge Transformationen geben. Wir werden selbst programmierte Ergebnisse wieder ins analoge Material überführen: mit gehackten Strickmaschinen, CNC Fräsen, 3D Druckern oder Roboterarmen, die z.B. zeichnen können. Und wir werden auch mit Hilfe von sog. Mikrocontrollern, Sensoren und Aktoren kleine elektronische Schaltungen bauen, um physische Interaktionen zu gestalten. In verschiedenen Gesprächsformaten wird es die Möglichkeit zur Reflexion des eigenen digitalen Verhaltens geben, zur machtkritischen Diskussion digitaler Tools, natürlich auch Künstlicher Intelligenz. Wenn alles gut läuft, erwerbt ihr im Kurs ein Grund-Repertoire an digital-technologischen Kompetenzen, damit ihr euer eigenes Nähe–Distanz Verhältnis zu digitalen Medien und Technologien neu finden könnt. |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| Fundamentals of Digital Media We will take the fundamentals of digital media very seriously: I will not assume any prior knowledge, but will start with the basics—the most fundamental digital concepts such as binary numbers, binary encoding of text, images, and video, algorithms, etc. So that all of you can engage with this equally—regardless of whether you’re studying design or fine arts, regardless of your previous experience with digital technology, and regardless of whether you feel confident doing this or have been told you’re capable of it... We’ll begin with historical digressions that critique power structures and deconstruct attributions, stereotypes, and prejudices. After all, digital technologies and digital media do not have to be associated with white men—and never have been: that’s just how they’ve been marketed and portrayed to us. That’s why the course could just as well be called a “Feminist, Power-Critical Media Course.” “Coding for Everyone” is the overarching theme, and yes, you heard right: we're going to code together. We're going to code together so that you come to see bits and bytes as everyday materials—just like pen and paper, only digital—and because a basic understanding of coding enables all of us to better understand the digital world around us and, at best, to help shape it through discourse. But it won’t stop at the digital realm: there will be a wide range of digital and analog transformations. We’ll convert our programmed results back into analog material: using hacked knitting machines, CNC mills, 3D printers, or robotic arms that can, for example, draw. And we’ll also build small electronic circuits using microcontrollers, sensors, and actuators to design physical interactions. Through various discussion formats, you’ll have the opportunity to reflect on your own digital behavior and engage in a critical discussion of digital tools—including, of course, artificial intelligence. If all goes well, you’ll acquire a basic set of digital and technological skills in this course that will help you redefine your own balance between closeness and distance in relation to digital media and technologies.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "irregular",
+     "first_date": "2026-10-14",
+     "last_date": null,
+     "room": "H108",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Künstlerische Grundlagen",
     "Orientierung: Grundlagen..."
@@ -3113,6 +3439,161 @@
    }
   },
   {
+   "id": "khb_incom:4157:2026W",
+   "source": "khb_incom",
+   "university": "KHB",
+   "semester": "2026W",
+   "title": "Kostümkunde 1: Von der Antike bis zum Mittelalter",
+   "url": "https://see.incom.org/workspace/4157/about",
+   "type": "Blockseminar",
+   "lecturers": [
+    "Petra Leutner"
+   ],
+   "org": "Theorie und Geschichte",
+   "language": "Deutsch",
+   "description": "Prof. Dr. Petra Leutner, Vorlesung „Kostümkunde 1 – Von der Antike bis zum Mittelalter“ Die historische Entwicklung von Mode, Textil und Kleidung ist ein weites Feld und bietet viele Überraschungen. Es gibt unerwartete Beziehungen zwischen Gegenwart, Geschichte und Tradition. Die Figur und die Kleider der vorzeitlichen minoischen Schlangengöttin wirken erstaunlich modern, und die Formen mittelalterlicher Trompetenärmel können wir problemlos in zeitgenössischen Modekollektionen wiederfinden. Zudem sind die Verbindungen zwischen Religion, Politik und Kleidung von großer Bedeutung. Wir untersuchen die Entwicklung von den archaischen Anfängen der Kultur bis zum Ende des Mittelalters und dem Beginn der Renaissance. Wir werden gemeinsam folgende Fragen diskutieren und beantworten: Wie werden Form, Material und Gestalt von Textilien überhaupt überliefert? Ab wann gibt es frühe Zeugnisse? Wie verändert sich Kleidung im Laufe der Geschichte und zu welchem Zeitpunkt und unter welchen Voraussetzungen kann man überhaupt von „Mode“ sprechen? Wie haben sich genderkonforme Kleiderkonventionen herausgebildet und verändert? Was wissen wir über die Kleidung anderer Kulturen? Wichtige Literatur (wird ergänzt): Loschek, Ingrid: Reclams Mode- und Kostümlexikon, Stuttgart: Reclam 2005 (5. aktualisierte und erw. Aufl.) Thiel, Erika: Geschichte des Kostüms. Die europäische Mode von den Anfängen bis zur Gegenwart, Leipzig: Henschel 2010 (9. aktualisierte Aufl.) Blocktermine Kostümkunde 1: Di 20.10.2026 9:45-13:00 Hörsaal C1.05 Di 03.11.2026 9:45-13:00 Hörsaal C1.05 Sa 21.11.2026 Exkursion (15:00-18:00) Di 24.11.2026 9:45-13:00 Hörsaal C1.05 Di 15.12.2026 9:45-13:00 Hörsaal C1.05 Di 05.01.2027 9:45-13:00 Hörsaal C1.05 Di 12.01.2027 9:45-13:00 Hörsaal C1.05 Sa 30.01.2027 Exkursion (15:00-18:00) Di 02.02 2027 9:45-13:00 Hörsaal C1.05",
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-10-20",
+     "last_date": "2026-10-20",
+     "room": "Hörsaal C1.05",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "catalog_path": [
+    "Theorie und Geschichte",
+    "Kostümkunde - Antike bi..."
+   ],
+   "extra": {
+    "raw_dates": "Format: Blockseminar. Wann: Blockseminar. Erster Termin: 20.10.2026. Ort: Hörsaal C1.05.\nProf. Dr. Petra Leutner, Vorlesung „Kostümkunde 1 – Von der Antike bis zum Mittelalter“ Die historische Entwicklung von Mode, Textil und Kleidung ist ein weites Feld und bietet viele Überraschungen. Es gibt unerwartete Beziehungen zwischen Gegenwart, Geschichte und Tradition. Die Figur und die Kleider der vorzeitlichen minoischen Schlangengöttin wirken erstaunlich modern, und die Formen mittelalterlicher Trompetenärmel können wir problemlos in zeitgenössischen Modekollektionen wiederfinden. Zudem sind die Verbindungen zwischen Religion, Politik und Kleidung von großer Bedeutung. Wir untersuchen die Entwicklung von den archaischen Anfängen der Kultur bis zum Ende des Mittelalters und dem Beginn der Renaissance. Wir werden gemeinsam folgende Fragen diskutieren und beantworten: Wie werden Form, Material und Gestalt von Textilien überhaupt überliefert? Ab wann gibt es frühe Zeugnisse? Wie ve",
+    "room": "Hörsaal C1.05",
+    "credits": "2 Credits"
+   }
+  },
+  {
+   "id": "khb_incom:4202:2026W",
+   "source": "khb_incom",
+   "university": "KHB",
+   "semester": "2026W",
+   "title": "Survive Life - Professionalisierung in der Kreativwirtschaft",
+   "url": "https://see.incom.org/workspace/4202/about",
+   "type": "Blockseminar",
+   "lecturers": [
+    "Marie Mergler"
+   ],
+   "org": "Theorie und Geschichte",
+   "language": "Deutsch",
+   "description": "Künstler:innen und Gestalter:innen sind konstant mit dem Dilemma konfrontiert, ihre Praxis mit strategischen und administrativen Herausforderungen in Einklang zu bringen. Daher ist die Selbstorganisation nicht nur Reflexion über die eigenen Zielsetzungen, sondern auch die Absicherung, Zeit und Raum für die künstlerische Produktion zu haben. Diese Lehrveranstaltung konzentriert sich auf eine Einführung in die grundlegenden Organisationsbereiche eines Studios in der Kreativwirtschaft, wie zum Beispiel Netzwerkpflege, Öffentlichkeitsarbeit, Online-Marketing, Werkkataloge, Büroangelegenheiten, Bewerbungen, Zusammenarbeit mit privaten und öffentlichen Partner:innen, Versicherung und Steuern. Im Besonderen soll besprochen werden, warum welche Bereiche relevant sind und wie man sich diesen nähern kann. Die Teilnehmenden des Seminars können und sollen hierbei thematische Schwerpunkte setzen. Es sollen dabei konkrete Informationen zu den genannten Themenfeldern vermittelt werden, die darauf ausgelegt sind, klassische Fettnäpfchen und Zeitfresser zu vermeiden, um Frustrationsgrenzen zu minimieren. Das Seminar ist realitätsbezogen und setzt sich mit der aktuellen Situation von Kreativen in der Szene auseinander. Abhängig von den Schwerpunkten der Teilnehmenden wird eine Sitzung als Exkursion geplant. Voraussetzungen zur Teilnahme: - Laptop / Tablet mitbringen - Aufgaben zwischen Seminaren sind Teil der Leistung Zusätzliches Angebot: Am Ende jeder Sitzung kann bei Bedarf eine Akut-Sprechstunde 1:1 eingerichtet werden, in der die Studierenden dringliche Probleme und Angelegenheiten thematisieren können.",
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "block",
+     "first_date": "2026-10-30",
+     "last_date": null,
+     "room": "Mart-Stam-Raum",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "catalog_path": [
+    "Theorie und Geschichte",
+    "Kunstwissenschaft"
+   ],
+   "extra": {
+    "raw_dates": "Format: Blockseminar. Wann: Blockseminar. Erster Termin: 30.10.2026. Ort: Mart-Stam-Raum.\nKünstler:innen und Gestalter:innen sind konstant mit dem Dilemma konfrontiert, ihre Praxis mit strategischen und administrativen Herausforderungen in Einklang zu bringen. Daher ist die Selbstorganisation nicht nur Reflexion über die eigenen Zielsetzungen, sondern auch die Absicherung, Zeit und Raum für die künstlerische Produktion zu haben. Diese Lehrveranstaltung konzentriert sich auf eine Einführung in die grundlegenden Organisationsbereiche eines Studios in der Kreativwirtschaft, wie zum Beispiel Netzwerkpflege, Öffentlichkeitsarbeit, Online-Marketing, Werkkataloge, Büroangelegenheiten, Bewerbungen, Zusammenarbeit mit privaten und öffentlichen Partner:innen, Versicherung und Steuern. Im Besonderen soll besprochen werden, warum welche Bereiche relevant sind und wie man sich diesen nähern kann. Die Teilnehmenden des Seminars können und sollen hierbei thematische Schwerpunkte setzen. Es ",
+    "room": "Mart-Stam-Raum",
+    "credits": "2 Credits"
+   }
+  },
+  {
+   "id": "khb_incom:1835:2026W",
+   "source": "khb_incom",
+   "university": "KHB",
+   "semester": "2026W",
+   "title": "BA/MA/Diplomand:innen-Forschungs-Kolloquium: »Künstlerische & gestalterische Forschung 1«",
+   "url": "https://see.incom.org/workspace/1835/about",
+   "type": "Kolloquium",
+   "lecturers": [
+    "Prof. Dr. Knut Ebeling"
+   ],
+   "org": "Theorie und Geschichte",
+   "language": "Deutsch",
+   "description": "Die aktuelle Diskussion um künstlerische oder gestalterische Forschung nimmt das Kolloquium zum Anlass, um über ›forschende‹ – das heißt theoretische, diskursive oder epistemische – Anteile im theoretischen MA- oder Diplom-Projekt nachzudenken und aus dieser Reflexion geeignete Formate und Medien der Artikulation für diese forschende Tätigkeit zu entwickeln. Weil KünstlerInnen und GestalterInnen selber ›forschen‹, geht es hier weniger darum, ihre praktische Arbeit zu reflektieren als ›practice-based‹ in ihren eigenen Medien und Formaten Theorie zu produzieren. Diese Vernetzung zwischen Theorie und Praxis, Kunst und Wissenschaft, Wissenschaft und Design begreift die künstlerische und gestalterische Arbeit als einen Ort der Wissensproduktion, der von Theorien und Diskursen, Konzeptionen und Begriffen nicht zu trennen ist. TERMINE WiSe 2026/27 19.10. 2.11. 9.11. 16.11. 30.11. 9.12. ???",
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "18:00",
+     "end": "21:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-19",
+     "last_date": null,
+     "room": "ehemalige »Professoren-Mensa« neben der Mensa",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "catalog_path": [
+    "Theorie und Geschichte",
+    "Theorie-Kolloquium BA+Dipl"
+   ],
+   "extra": {
+    "raw_dates": "Format: Kolloquium. Wann: Montag, 18:00 – 21:00. Erster Termin: 19.10.2026. Ort: ehemalige »Professoren-Mensa« neben der Mensa.\nDie aktuelle Diskussion um künstlerische oder gestalterische Forschung nimmt das Kolloquium zum Anlass, um über ›forschende‹ – das heißt theoretische, diskursive oder epistemische – Anteile im theoretischen MA- oder Diplom-Projekt nachzudenken und aus dieser Reflexion geeignete Formate und Medien der Artikulation für diese forschende Tätigkeit zu entwickeln. Weil KünstlerInnen und GestalterInnen selber ›forschen‹, geht es hier weniger darum, ihre praktische Arbeit zu reflektieren als ›practice-based‹ in ihren eigenen Medien und Formaten Theorie zu produzieren. Diese Vernetzung zwischen Theorie und Praxis, Kunst und Wissenschaft, Wissenschaft und Design begreift die künstlerische und gestalterische Arbeit als einen Ort der Wissensproduktion, der von Theorien und Diskursen, Konzeptionen und Begriffen nicht zu trennen ist. TERMINE WiSe 2026/27 19.10. 2.11. 9.11. 16.11. 30.11. 9.12. ???",
+    "room": "ehemalige »Professoren-Mensa« neben der Mensa",
+    "credits": null
+   }
+  },
+  {
+   "id": "khb_incom:4163:2026W",
+   "source": "khb_incom",
+   "university": "KHB",
+   "semester": "2026W",
+   "title": "Cyberfeminism and Visual Cultures",
+   "url": "https://see.incom.org/workspace/4163/about",
+   "lecturers": [
+    "Verena Straub"
+   ],
+   "org": "Theorie und Geschichte",
+   "language": "Englisch",
+   "description": "Since the 1990s, cyberfeminists have explored how digital technologies change our ideas of gender, bodies, and identity. Cyberfeminism, however, is not a unified movement. The term encompasses different approaches that critique patriarchal power structures online while also asking how digital technologies can be used and “hacked” for feminist purposes. Art has played a central role from the very beginning. This seminar traces key developments in cyberfeminism from its origins to the present. We will examine manifestos and artistic practices alongside more recent approaches such as glitch feminism, xenofeminism, and networked feminism, and read selected texts by authors including Donna Haraway, Sadie Plant, and Legacy Russell. Particular attention will be paid to visual cultures: How do digital technologies change images of bodies and gender? What queer-feminist visual strategies emerge online? And how do cyberfeminist ideas live on in memes, selfies, avatars, and other image practices on social media? Seit den 1990er Jahren fragen Cyberfeminist*innen danach, wie digitale Technologien unsere Vorstellungen von Geschlecht, Körper und Identität verändern. Dabei ist Cyberfeminismus keine einheitliche Bewegung. Der Begriff umfasst unterschiedliche Ansätze, die patriarchale Machtstrukturen im Netz kritisieren und zugleich fragen, wie sich digitale Technologien für feministische Zwecke nutzen und ‚hacken‘ lassen. Kunst spielte dabei von Beginn an eine zentrale Rolle. Das Seminar zeichnet wichtige Linien des Cyberfeminismus von seinen Anfängen bis in die Gegenwart nach. Wir beschäftigen uns mit Manifesten und künstlerischen Positionen ebenso wie mit neueren Ansätzen des Glitch-, Xeno- und Netzfeminismus und lesen ausgewählte Texte, etwa von Donna Haraway, Sadie Plant und Legacy Russell. Ein besonderer Schwerpunkt liegt auf visuellen Kulturen: Wie verändern digitale Technologien Bilder von Körper und Geschlecht? Welche queerfeministischen Bildstrategien entstehen im Netz? Und wie leben Ideen des Cyberfeminismus in Memes, Selfies, Avataren und anderen Bildpraktiken der Sozialen Medien weiter?",
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "11:30",
+     "rhythm": "weekly",
+     "first_date": "2026-10-15",
+     "last_date": null,
+     "room": "ehemalige »Professoren-Mensa« neben der Mensa",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
+   "catalog_path": [
+    "Theorie und Geschichte",
+    "Visuelle Kulturen"
+   ],
+   "extra": {
+    "raw_dates": "Format: None. Wann: Donnerstag, 10:00 – 11:30. Erster Termin: 15.10.2026. Ort: ehemalige »Professoren-Mensa« neben der Mensa.\nSince the 1990s, cyberfeminists have explored how digital technologies change our ideas of gender, bodies, and identity. Cyberfeminism, however, is not a unified movement. The term encompasses different approaches that critique patriarchal power structures online while also asking how digital technologies can be used and “hacked” for feminist purposes. Art has played a central role from the very beginning. This seminar traces key developments in cyberfeminism from its origins to the present. We will examine manifestos and artistic practices alongside more recent approaches such as glitch feminism, xenofeminism, and networked feminism, and read selected texts by authors including Donna Haraway, Sadie Plant, and Legacy Russell. Particular attention will be paid to visual cultures: How do digital technologies change images of bodies and gender? What queer-feminist visual strategies emerge o",
+    "room": "ehemalige »Professoren-Mensa« neben der Mensa",
+    "credits": "2 Credits"
+   }
+  },
+  {
    "id": "khb_incom:4129:2026W",
    "source": "khb_incom",
    "university": "KHB",
@@ -3126,7 +3607,21 @@
    "org": "Theorie und Geschichte",
    "language": "Deutsch",
    "description": "Ein künstlerisch-forschendes Blockseminar zu kuratorischen Ansätzen zeitgenössischer Kunstinstitutionen von Mona Jas in Zusammenarbeit mit Barbara Campaner (Georg Kolbe Museum) und Claudia Ehgartner (Hamburger Bahnhof – Nationalgalerie der Gegenwart). Das Blockseminar untersucht zeitgenössische Formen des Kuratierens und fragt, wie sich gesellschaftlicher Wissenstransfer in Ausstellungsformaten künstlerisch umsetzen lässt. Ausgangspunkt bildet Eva Sturms Konzept einer Kunstvermittlung von Kunst aus: Kuratieren und Mitteln setzen bei der Eigenlogik der Werke an und führen zu ihnen zurück. Die Studierenden erproben diese Bewegung forschend an zwei Häusern vor Ort: dem Hamburger Bahnhof – Nationalgalerie der Gegenwart mit der Ausstellung Lina Lapelytė. We Make Years Out of Hours und dem Georg Kolbe Museum mit der Ausstellung everybody . Dazu werden die Ausstellungen von Rivane Neuenschwander, dream.lab , und von Carola Dertnig, Finally it’s Happening , im KinderKunstLabor für zeitgenössische Kunst (Österreich, St. Pölten) thematisiert. Das Seminar knüpft an das gleichnamige Forschungsvorhaben (in Kollaboration mit der Universität der Angewandten Kunst Wien) an, das Performance und Notation auf ihre künstlerische Wissensproduktion hin befragt. Inwieweit werden Ausstellungshäuser zu Plattformen demokratischer Aushandlung? Wie lassen sich kuratorische Ansätze übersetzen? Wie gestaltet ein Haus sein Programm mit und für unterschiedliche Öffentlichkeiten? Inwiefern gelangt Wissen durch Zeichnen, Notieren und Performance in einen Transfer? Wie erwächst aus dem Ausstellen ein Beitrag zum gesellschaftlichen Zusammenhalt? Die Häuser verkörpern eigene institutionelle Logiken: das große staatliche Museum der Gegenwart, das biografisch gegründete Künstler:innen-Museum mit Fokus auf Körper und Skulptur sowie der experimentelle Produktions- und Diskursort - angeschlossen an die Landessammlungen NÖ, der sich an ein junges Publikum richtet und mit ihm arbeitet. Im Vergleich ihrer kuratorischen Ansätze treten verschiedene Modelle hervor, wie Kunst öffentlich wird und Gemeinschaft entsteht. Vor Ort entwickeln die Teilnehmer:innen eigene forschende Arbeiten – Notationen, Partituren, zeichnerische und performative Übersetzungen –, die einen kuratorischen Ansatz erschließen und kommentieren. Kurze fachliche Inputs, Recherche, Teamarbeit und Präsentationen strukturieren die Woche. Ablauf Vorbereitung · Lektüre und Recherche, frei einteilbar Arbeitsform: individuell Baustein 1 · Mo 2.11.2026, 10–15 Uhr Auftakt: Von Kunst aus, zur Kunst hin. Fragestellung, methodischer Rahmen, Performance und Notation, Score und Partitur. Arbeitsform: Plenum, weißensee kunsthochschule berlin Baustein 2 · Di 3.11.2026, 10–15 Uhr Hamburger Bahnhof – Nationalgalerie der Gegenwart. Einen kuratorischen Ansatz vor Ort erforschen, am Beispiel der Ausstellung Lina Lapelytė. We Make Years Out of Hours. Arbeitsform: Plenum und Team vor Ort Baustein 3 · Mi 4.11.2026, 10–15 Uhr Georg Kolbe Museum. Körper, Skulptur, Raum: kuratorische Setzung und ihre Öffentlichkeit untersuchen am Beispiel der Gruppenausstellung everybody mit mit Pauline Boudry und Renate Lorenz, EVA & ADELE, Carolyn Lazard, Monilola Olayemi Ilupeju, Janne Kummer, Luís Lázaro Matos und Lauryn Youden. Arbeitsform: Plenum und Team vor Ort Baustein 4 · Do 5.11.2026, 10–15 Uhr Fallstudie KinderKunstLabor für zeitgenössische Kunst: Entlang der Ausstellungen Rivane Neuenschwander, dream.lab; Carola Dertnig, Finally it's Happening, und Graziela Kunsch Die Kinderregierung vergleichen die TN die kuratorischen Ansätze. Arbeitsform: Plenum, weißensee kunsthochschule berlin [Anbindung KKL: digital] Baustein 5 · Fr 6.11.2026, 10–15 Uhr Zusammenführung: Präsentation der forschenden Arbeiten, Reflexion Gesellschaft bilden. Arbeitsform: Plenum, weißensee kunsthochschule berlin Nachbereitung · Verschriftlichung einer kurzen Arbeit (3–4 S.), Abgabe bis Ende März Arbeitsform: individuell Auswahl an Fachliteratur Bishop, Claire (2012): Artificial Hells. Participatory Art and the Politics of Spectatorship. London / New York: Verso. Carson, Anne (1986): Eros the Bittersweet. An Essay. Kapitel „Alphabetic Edge“, S. 53–61. Princeton: Princeton University Press. Dertnig, Carola / Seibold, Stefanie (Hg.) (2006): let's twist again. Was man nicht denken kann, das soll man tanzen. Performance in Wien von 1960 bis heute. Gumpoldskirchen / Wien: D.E.A. Dertnig, Carola / Thun-Hohenstein, Felicitas (Hg.) (2014): Performing the Sentence. Research and Teaching in Performative Fine Arts. Berlin: Sternberg Press. Folkerts, Hendrik (2016): Der Partitur nach. Notation, Verkörperung und liveness. In: South as a State of Mind #7 (documenta 14 #2). Gunsilius, Maike / Kowalski, Hannah (2021): Handeln. Entscheiden. Performen. Künstlerische Forschung mit Kindern und Jugendlichen. Bielefeld: Athena. Halprin, Anna (1995): Moving Toward Life. Five Decades of Transformational Dance. Hg. Rachel Kaplan. Middletown: Wesleyan University Press. Ingold, Tim (2007): Lines. A Brief History. London / New York: Routledge. Jas, Mona (2024): Wissenstransfer und Wissen teilen. Von wechselseitigen Lernprozessen im Kontext einer Kunstinstitution. In: Kulturelle Bildung Online (peer reviewed, DOI 10.25529/qpdv-be17). Jas, Mona / Weigl, Aron (Hg.) (2024): Können Institutionen (laufen) lernen? Wien: Passagen. Kunsch, Graziela (2022): Public Daycare / Eltern und Kleinkinder Krippe. Ausstellungsbeitrag, documenta fifteen, Kassel. Rancière, Jacques (2008): Le spectateur émancipé. Paris: La Fabrique (dt. Der emanzipierte Zuschauer. Wien: Passagen, 2009). Sturm, Eva (2011): Von Kunst aus. Kunstvermittlung mit Gilles Deleuze. Wien / Berlin: Turia + Kant. Ausstellungen (Auswahl) Juliet Kinchin, Century of the Child: Growing by Design, 1900–2000. Museum of Modern Art, New York (29.7.–5.11.2012). Mercedes Azpilicueta, CaccHho CucchhA (Ausstellung für Kinder und Erwachsene). de Appel, Amsterdam (13.9.–23.11.2025); Kunstmuseum Liechtenstein, Vaduz (ab 3.5.2026); KinderKunstLabor für zeitgenössische Kunst, St. Pölten (ab 10.3.2028). Lygia Clark, Retrospektive . Neue Nationalgalerie, Berlin (23.5.–12.10.2025). Carola Dertnig, Finally it's Happening . Raumkonzept: Seth Weiner. KinderKunstLabor für zeitgenössische Kunst, St. Pölten (25.9.2026–21.2.2027). everybody . Mit Pauline Boudry und Renate Lorenz, EVA & ADELE, Carolyn Lazard, Monilola Olayemi Ilupeju, Janne Kummer, Luís Lázaro Matos und Lauryn Youden. Georg Kolbe Museum Berlin (8.8.2026 – 29.11.2026) Lina Lapelytė. We Make Years Out of Hours . Hamburger Bahnhof – Nationalgalerie der Gegenwart Berlin (01.05.2026–10.01.2027) Rivane Neuenschwander, dream.lab . KinderKunstLabor für zeitgenössische Kunst, St. Pölten (13.9.2024-23.2.2025); Kunsthalle Mainz (7.3.-15.6.2025); Itaú Cultural, São Paulo, Brazil (14.8.-2.11.2025) Anmeldung Anmeldung bis [Anmeldeschluss] unter [incom-Link einfügen] Max. [25] Teilnehmende – first come, first serve. Voraussetzungen Voraussetzung sind die regelmäßige Teilnahme, die Vor- und Nachbereitung der Bausteine mit Texten und kurzen Übungen sowie eine kurze schriftliche Arbeit. Diese bezieht sich frei auf einen kuratorischen Ansatz einer der besuchten Institutionen.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "15:00",
+     "rhythm": "block",
+     "first_date": "2026-11-02",
+     "last_date": null,
+     "room": "khb, Aula",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Theorie und Geschichte",
     "Kunstwissenschaft"
@@ -3341,7 +3836,21 @@
    "org": "Theorie und Geschichte",
    "language": "Englisch",
    "description": "[engl. below] Das Seminar untersucht Kunst als Praxis der Bewegung: von Bildern, Körpern, Gedanken, Dingen und Wissen durch Städte, Institutionen, Grenzen und gesellschaftliche Räume. Ausgangspunkt ist ein kurzer Einblick in historische Wanderausstellungen der UNESCO (späte 1940er- bis 1980er-Jahre), die Kunstreproduktionen und künstlerische Arbeiten international zirkulieren ließen. Anhand ausgewählter Kataloge – etwa zu „Japanischen Holzschnitten“, „Chinesischer Malerei“, „Die Kunst des Schreibens“, „Afrikanischer Kunst“ oder den „Künsten Ozeaniens“ sowie Süd- und Mittelamerikas – fragen wir nach Ausstellung, Reproduktion und kultureller Vermittlung jenseits etablierter Museumsräume. Den Schwerpunkt bildet die selbständige künstlerische Forschung der Studierenden. Ausgehend von eigenen Interessen (und angelehnt an das historische Material) entwickeln die Teilnehmenden individuelle oder kollaborative Projekte, erproben künstlerische Formen und reflektieren ihre Prozesse regelmäßig. Möglich sind Arbeiten im Stadtraum sowie performative, fotografische, filmische, kartografische, textuelle, installative oder archivbasierte Ansätze. Entscheidend ist nicht ein bestimmtes Medium, sondern eine präzise Fragestellung und eine forschende künstlerische Praxis. Ein gemeinsames Ziel ist es, ein eigenes Format einer Wanderausstellung zu entwickeln, zu erproben und – wenn möglich – auch durchzuführen. Perspektivisch ist eine Kooperation mit der UNESCO und ihrem Archiv in Paris denkbar; das Archiv könnte selbst zu einer möglichen Station der Ausstellung werden. Bewegung wird dabei nicht als neutral verstanden: Ihre Möglichkeiten und Einschränkungen sind mit Geschlecht, Class, Race, Staatsangehörigkeit, Beeinträchtigungen und Barrieren für gesellschaftliche Teilhabe verbunden. Insbesondere feministische, queere und dekoloniale Perspektiven fragen danach, wie öffentliche Räume Körper sichtbar machen, kontrollieren oder ausschließen. Künstlerische Bezugspunkte können unter anderem Adrian Pipers Catalysis , Kubra Khademis performativer Gang durch Kabul, Ana Mendietas Silueta-_Arbeiten sowie aktuelle Arbeiten von Vivian Ngozi Aghamelu zu Körper, Haar, Migration und öffentlicher Präsenz sein. Texte von Lauren Elkin, Sara Ahmed, Claudia Rankine und Virginia Woolf begleiten die Projekte als Anregung und methodische Wegbegleitung. Je nach Interesse können auch ältere oder klassische Positionen vertieft werden, etwa Griselda Pollocks Überlegungen zu _Moderne und Räumen der Weiblichkeit , Walter Benjamins Passagen-Werk , Gilles Deleuze und Félix Guattaris Nomadologie oder Michel de Certeaus Kunst des Handelns. **Termine & Infos ** Auftakttreffen: 26. Oktober, 17 Uhr (Zoom) Blockseminar auf dem Gutshof Sauen: 24.–27.11. (ganztags) Nachtreffen und gemeinsame Aktion(en): tbd An- und Abreise bitte selbst organisieren und bitte ab 26.10. bei Juliane Springsguth (Raum A1.12) eintragen und bezahlen. ____________________________________________________________ This seminar examines art as a practice of movement—exploring how images, bodies, thoughts, objects, and knowledge circulate through cities, institutions, borders, and social spaces. The starting point is a brief insight into UNESCO traveling exhibitions from the late 1940s to the 1980s, which circulated art reproductions and artistic works internationally. Looking at selected UNESCO catalogs—such as those on “Japanese Woodcuts,” “Chinese Painting,” “The Art of Writing,” “African Art,” or the “Arts of Oceania,” as well as South and Central America—we will investigate exhibition, reproduction, and cultural mediation beyond established museum spaces. The core of the seminar is the students’ independent artistic research. Based on their own interests (and drawing on the historical material), participants develop individual or collaborative projects, experiment with artistic forms, and regularly reflect on their processes. Projects can include interventions in urban spaces as well as performative, photographic, cinematic, cartographic, textual, installation, or archive-based approaches. Rather than a specific medium, the focus lies on a precise research question and an investigative artistic practice. A shared goal is to develop, test, and, if possible, implement our own traveling exhibition format. Looking ahead, a potential collaboration with UNESCO and its archive in Paris is conceivable, which could itself become a venue for the exhibition. Throughout the course, movement is not understood as neutral: its possibilities and limitations are fundamentally linked to gender, class, racialization, nationality, disability, and barriers to social participation. In particular, feminist, queer, and decolonial perspectives ask how public spaces visualize, control, or exclude bodies. Artistic references may include Adrian Piper’s Catalysis , Kubra Khademi’s performative walk through Kabul, Ana Mendieta’s Silueta series, and recent works by Vivian Ngozi Aghamelu on the body, hair, migration, and public presence. Texts by Lauren Elkin, Sara Ahmed, Claudia Rankine, and Virginia Woolf will accompany the projects as inspiration and methodological guidance. Depending on students’ interests, older or classic works can also be explored in greater depth, such as Griselda Pollock’s reflections on Modernity and Spaces of Femininity , Walter Benjamin’s Arcades Project , Gilles Deleuze and Félix Guattari’s Nomadology , or Michel de Certeau’s Practice of Everyday Life. **Dates & Info ** Kick-off Meeting: October 26th, 5:00 PM (Zoom) Block Seminar at Gutshof Sauen: November 24th–27th (full-day) Follow-up meetings and joint activities: tbd Please organize your own travel to and from Sauen. Starting October 26th, please sign up and pay in person with Juliane Springsguth (Room A1.12). Literatur(e) Ahmed, Sara. Queer Phenomenology: Orientations, Objects, Others. Durham/London: Duke University Press, 2006. De Certeau, Michel. Kunst des Handelns. Berlin: Merve, 1988. Deleuze, Gilles, und Félix Guattari. „Abhandlung über Nomadologie: Die Kriegsmaschine.“ In: Tausend Plateaus: Kapitalismus und Schizophrenie, 459–523. Berlin: Merve, 1992. Dündar, Özlem Özgül, Mia Göhring, Ronya Othmann und Lea Sauer, Hg. Flexen: Flâneusen schreiben Städte. Berlin: Verbrecher Verlag, 2019. Elkin, Lauren. Flâneuse: Women Walk the City in Paris, New York, Tokyo, Venice and London. London: Chatto & Windus, 2016. Geier, Manfred. Geistesblitze: Eine andere Geschichte der Philosophie. Reinbek bei Hamburg: Rowohlt, 2013. Hübner, Falk. Method, Methodology and Research Design in Artistic Research: Between Solid Routes and Emergent Pathways. London: Routledge, 2024. Mendieta, Ana. Ana Mendieta: Earth Body. Sculpture and Performance, 1972–1985. Washington, D.C.: Hirshhorn Museum and Sculpture Garden, 2004. Müller, Andreas, Lydia Kähny u. a., Hg. Re-Reading the Manual of Travelling Exhibitions. UNESCO 1953. Leipzig: Spector Books, 2018. Pollock, Griselda. Vision and Difference: Feminism, Femininity and Histories of Art. London/New York: Routledge, 1988. Rankine, Claudia. Citizen: An American Lyric. Minneapolis: Graywolf Press, 2014. Schlögel, Karl. Im Raume lesen wir die Zeit: Über Zivilisationsgeschichte und Geopolitik. München: Carl Hanser Verlag, 2003. Villani, Tiziana. „Gilles Deleuze: Philosophy and Nomadism.“ Übersetzt von Tessa Marzotto. Deleuze and Guattari Studies 13, Nr. 4 (2019): 516–527. Woolf, Virginia. „Street Haunting: A London Adventure.“ 1927/1930. Witzgall, Susanne. „Mobility and Image-Based Research in Art.“ In: New Mobilities Regimes in Art and Social Sciences, hg. von Susanne Witzgall u. a. London: Routledge, o. J. Yizhuo, Li. „Research-Based Exhibitions: Between Curatorial Spatiality and Space as Method.“ PARSE Journal, 2021.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-10-26",
+     "last_date": "2026-10-26",
+     "room": "Zoom",
+     "building": "ADDR:Bühringstraße 20",
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Theorie und Geschichte",
     "Kunstwissenschaft"
@@ -3771,31 +4280,6 @@
    }
   },
   {
-   "id": "khb_incom:4202:2026W",
-   "source": "khb_incom",
-   "university": "KHB",
-   "semester": "2026W",
-   "title": "Survive Life - Professionalisierung in der Kreativwirtschaft",
-   "url": "https://see.incom.org/workspace/4202/about",
-   "type": "Blockseminar",
-   "lecturers": [
-    "Marie Mergler"
-   ],
-   "org": "Theorie und Geschichte",
-   "language": "Deutsch",
-   "description": "Künstler:innen und Gestalter:innen sind konstant mit dem Dilemma konfrontiert, ihre Praxis mit strategischen und administrativen Herausforderungen in Einklang zu bringen. Daher ist die Selbstorganisation nicht nur Reflexion über die eigenen Zielsetzungen, sondern auch die Absicherung, Zeit und Raum für die künstlerische Produktion zu haben. Diese Lehrveranstaltung konzentriert sich auf eine Einführung in die grundlegenden Organisationsbereiche eines Studios in der Kreativwirtschaft, wie zum Beispiel Netzwerkpflege, Öffentlichkeitsarbeit, Online-Marketing, Werkkataloge, Büroangelegenheiten, Bewerbungen, Zusammenarbeit mit privaten und öffentlichen Partner:innen, Versicherung und Steuern. Im Besonderen soll besprochen werden, warum welche Bereiche relevant sind und wie man sich diesen nähern kann. Die Teilnehmenden des Seminars können und sollen hierbei thematische Schwerpunkte setzen. Es sollen dabei konkrete Informationen zu den genannten Themenfeldern vermittelt werden, die darauf ausgelegt sind, klassische Fettnäpfchen und Zeitfresser zu vermeiden, um Frustrationsgrenzen zu minimieren. Das Seminar ist realitätsbezogen und setzt sich mit der aktuellen Situation von Kreativen in der Szene auseinander. Abhängig von den Schwerpunkten der Teilnehmenden wird eine Sitzung als Exkursion geplant. Voraussetzungen zur Teilnahme: - Laptop / Tablet mitbringen - Aufgaben zwischen Seminaren sind Teil der Leistung Zusätzliches Angebot: Am Ende jeder Sitzung kann bei Bedarf eine Akut-Sprechstunde 1:1 eingerichtet werden, in der die Studierenden dringliche Probleme und Angelegenheiten thematisieren können.",
-   "by_arrangement": true,
-   "catalog_path": [
-    "Theorie und Geschichte",
-    "Grundlagen Wirtschaftswi..."
-   ],
-   "extra": {
-    "raw_dates": "Format: Blockseminar. Wann: Blockseminar. Erster Termin: 30.10.2026. Ort: Mart-Stam-Raum.\nKünstler:innen und Gestalter:innen sind konstant mit dem Dilemma konfrontiert, ihre Praxis mit strategischen und administrativen Herausforderungen in Einklang zu bringen. Daher ist die Selbstorganisation nicht nur Reflexion über die eigenen Zielsetzungen, sondern auch die Absicherung, Zeit und Raum für die künstlerische Produktion zu haben. Diese Lehrveranstaltung konzentriert sich auf eine Einführung in die grundlegenden Organisationsbereiche eines Studios in der Kreativwirtschaft, wie zum Beispiel Netzwerkpflege, Öffentlichkeitsarbeit, Online-Marketing, Werkkataloge, Büroangelegenheiten, Bewerbungen, Zusammenarbeit mit privaten und öffentlichen Partner:innen, Versicherung und Steuern. Im Besonderen soll besprochen werden, warum welche Bereiche relevant sind und wie man sich diesen nähern kann. Die Teilnehmenden des Seminars können und sollen hierbei thematische Schwerpunkte setzen. Es ",
-    "room": "Mart-Stam-Raum",
-    "credits": "2 Credits"
-   }
-  },
-  {
    "id": "khb_incom:4142:2026W",
    "source": "khb_incom",
    "university": "KHB",
@@ -3816,108 +4300,6 @@
    "extra": {
     "raw_dates": "Format: None. Wann: keine Angabe zum Wochentag. Erster Termin: None. Ort: None.\nHerzlich willkommen zum Seminar „Critical Discourse“! Dieses Seminar richtet sich an alle Kunst- und Designstudierenden (mit Ausnahme von Produkt- und Textildesign) in den ersten vier Semestern. Ziel des Seminars ist eine Einführung in das wissenschaftliche Schreiben sowie die Erkundung der Verbindung zwischen eurer künstlerischen Praxis und dem Schreiben. Am Ende des Seminars ist die schriftliche Abgabe einer Mini-Hausarbeit vorgesehen. Im Seminar widmen wir uns Fragen wie: „Was heißt eigentlich wissenschaftliches Arbeiten?“, „Wie gehen wir mit Quellen und Zitaten um?“ oder „Was ist ein Exposé?“ Der gemeinsame Raum ermöglicht es uns, einander in der Projektentwicklung und -umsetzung zu begleiten und durch gegenseitige Unterstützung – etwa in Form von Peer-Feedback – den Austausch zu fördern. So sprechen wir über das Finden einer Forschungsfrage, unterstützen uns bei der Recherche und üb",
     "room": null,
-    "credits": "2 Credits"
-   }
-  },
-  {
-   "id": "khb_incom:4157:2026W",
-   "source": "khb_incom",
-   "university": "KHB",
-   "semester": "2026W",
-   "title": "Kostümkunde 1: Von der Antike bis zum Mittelalter",
-   "url": "https://see.incom.org/workspace/4157/about",
-   "type": "Blockseminar",
-   "lecturers": [
-    "Petra Leutner"
-   ],
-   "org": "Theorie und Geschichte",
-   "language": "Deutsch",
-   "description": "Prof. Dr. Petra Leutner, Vorlesung „Kostümkunde 1 – Von der Antike bis zum Mittelalter“ Die historische Entwicklung von Mode, Textil und Kleidung ist ein weites Feld und bietet viele Überraschungen. Es gibt unerwartete Beziehungen zwischen Gegenwart, Geschichte und Tradition. Die Figur und die Kleider der vorzeitlichen minoischen Schlangengöttin wirken erstaunlich modern, und die Formen mittelalterlicher Trompetenärmel können wir problemlos in zeitgenössischen Modekollektionen wiederfinden. Zudem sind die Verbindungen zwischen Religion, Politik und Kleidung von großer Bedeutung. Wir untersuchen die Entwicklung von den archaischen Anfängen der Kultur bis zum Ende des Mittelalters und dem Beginn der Renaissance. Wir werden gemeinsam folgende Fragen diskutieren und beantworten: Wie werden Form, Material und Gestalt von Textilien überhaupt überliefert? Ab wann gibt es frühe Zeugnisse? Wie verändert sich Kleidung im Laufe der Geschichte und zu welchem Zeitpunkt und unter welchen Voraussetzungen kann man überhaupt von „Mode“ sprechen? Wie haben sich genderkonforme Kleiderkonventionen herausgebildet und verändert? Was wissen wir über die Kleidung anderer Kulturen? Wichtige Literatur (wird ergänzt): Loschek, Ingrid: Reclams Mode- und Kostümlexikon, Stuttgart: Reclam 2005 (5. aktualisierte und erw. Aufl.) Thiel, Erika: Geschichte des Kostüms. Die europäische Mode von den Anfängen bis zur Gegenwart, Leipzig: Henschel 2010 (9. aktualisierte Aufl.) Blocktermine Kostümkunde 1: Di 20.10.2026 9:45-13:00 Hörsaal C1.05 Di 03.11.2026 9:45-13:00 Hörsaal C1.05 Sa 21.11.2026 Exkursion (15:00-18:00) Di 24.11.2026 9:45-13:00 Hörsaal C1.05 Di 15.12.2026 9:45-13:00 Hörsaal C1.05 Di 05.01.2027 9:45-13:00 Hörsaal C1.05 Di 12.01.2027 9:45-13:00 Hörsaal C1.05 Sa 30.01.2027 Exkursion (15:00-18:00) Di 02.02 2027 9:45-13:00 Hörsaal C1.05",
-   "by_arrangement": true,
-   "catalog_path": [
-    "Theorie und Geschichte",
-    "Kostümkunde - Antike bi..."
-   ],
-   "extra": {
-    "raw_dates": "Format: Blockseminar. Wann: Blockseminar. Erster Termin: 20.10.2026. Ort: Hörsaal C1.05.\nProf. Dr. Petra Leutner, Vorlesung „Kostümkunde 1 – Von der Antike bis zum Mittelalter“ Die historische Entwicklung von Mode, Textil und Kleidung ist ein weites Feld und bietet viele Überraschungen. Es gibt unerwartete Beziehungen zwischen Gegenwart, Geschichte und Tradition. Die Figur und die Kleider der vorzeitlichen minoischen Schlangengöttin wirken erstaunlich modern, und die Formen mittelalterlicher Trompetenärmel können wir problemlos in zeitgenössischen Modekollektionen wiederfinden. Zudem sind die Verbindungen zwischen Religion, Politik und Kleidung von großer Bedeutung. Wir untersuchen die Entwicklung von den archaischen Anfängen der Kultur bis zum Ende des Mittelalters und dem Beginn der Renaissance. Wir werden gemeinsam folgende Fragen diskutieren und beantworten: Wie werden Form, Material und Gestalt von Textilien überhaupt überliefert? Ab wann gibt es frühe Zeugnisse? Wie ve",
-    "room": "Hörsaal C1.05",
-    "credits": "2 Credits"
-   }
-  },
-  {
-   "id": "khb_incom:1835:2026W",
-   "source": "khb_incom",
-   "university": "KHB",
-   "semester": "2026W",
-   "title": "BA/MA/Diplomand:innen-Forschungs-Kolloquium: »Künstlerische & gestalterische Forschung 1«",
-   "url": "https://see.incom.org/workspace/1835/about",
-   "type": "Kolloquium",
-   "lecturers": [
-    "Prof. Dr. Knut Ebeling"
-   ],
-   "org": "Theorie und Geschichte",
-   "language": "Deutsch",
-   "description": "Die aktuelle Diskussion um künstlerische oder gestalterische Forschung nimmt das Kolloquium zum Anlass, um über ›forschende‹ – das heißt theoretische, diskursive oder epistemische – Anteile im theoretischen MA- oder Diplom-Projekt nachzudenken und aus dieser Reflexion geeignete Formate und Medien der Artikulation für diese forschende Tätigkeit zu entwickeln. Weil KünstlerInnen und GestalterInnen selber ›forschen‹, geht es hier weniger darum, ihre praktische Arbeit zu reflektieren als ›practice-based‹ in ihren eigenen Medien und Formaten Theorie zu produzieren. Diese Vernetzung zwischen Theorie und Praxis, Kunst und Wissenschaft, Wissenschaft und Design begreift die künstlerische und gestalterische Arbeit als einen Ort der Wissensproduktion, der von Theorien und Diskursen, Konzeptionen und Begriffen nicht zu trennen ist. TERMINE WiSe 2026/27 19.10. 2.11. 9.11. 16.11. 30.11. 9.12. ???",
-   "sessions": [
-    {
-     "weekday": 0,
-     "start": "18:00",
-     "end": "21:00",
-     "rhythm": "weekly",
-     "first_date": "2026-10-19",
-     "last_date": null,
-     "room": "ehemalige »Professoren-Mensa« neben der Mensa",
-     "building": "ADDR:Bühringstraße 20",
-     "group": null,
-     "note": null
-    }
-   ],
-   "by_arrangement": false,
-   "catalog_path": [
-    "Theorie und Geschichte",
-    "Theorie-Kolloquium BA+Dipl"
-   ],
-   "extra": {
-    "raw_dates": "Format: Kolloquium. Wann: Montag, 18:00 – 21:00. Erster Termin: 19.10.2026. Ort: ehemalige »Professoren-Mensa« neben der Mensa.\nDie aktuelle Diskussion um künstlerische oder gestalterische Forschung nimmt das Kolloquium zum Anlass, um über ›forschende‹ – das heißt theoretische, diskursive oder epistemische – Anteile im theoretischen MA- oder Diplom-Projekt nachzudenken und aus dieser Reflexion geeignete Formate und Medien der Artikulation für diese forschende Tätigkeit zu entwickeln. Weil KünstlerInnen und GestalterInnen selber ›forschen‹, geht es hier weniger darum, ihre praktische Arbeit zu reflektieren als ›practice-based‹ in ihren eigenen Medien und Formaten Theorie zu produzieren. Diese Vernetzung zwischen Theorie und Praxis, Kunst und Wissenschaft, Wissenschaft und Design begreift die künstlerische und gestalterische Arbeit als einen Ort der Wissensproduktion, der von Theorien und Diskursen, Konzeptionen und Begriffen nicht zu trennen ist. TERMINE WiSe 2026/27 19.10. 2.11. 9.11. 16.11. 30.11. 9.12. ???",
-    "room": "ehemalige »Professoren-Mensa« neben der Mensa",
-    "credits": null
-   }
-  },
-  {
-   "id": "khb_incom:4163:2026W",
-   "source": "khb_incom",
-   "university": "KHB",
-   "semester": "2026W",
-   "title": "Cyberfeminism and Visual Cultures",
-   "url": "https://see.incom.org/workspace/4163/about",
-   "lecturers": [
-    "Verena Straub"
-   ],
-   "org": "Theorie und Geschichte",
-   "language": "Englisch",
-   "description": "Since the 1990s, cyberfeminists have explored how digital technologies change our ideas of gender, bodies, and identity. Cyberfeminism, however, is not a unified movement. The term encompasses different approaches that critique patriarchal power structures online while also asking how digital technologies can be used and “hacked” for feminist purposes. Art has played a central role from the very beginning. This seminar traces key developments in cyberfeminism from its origins to the present. We will examine manifestos and artistic practices alongside more recent approaches such as glitch feminism, xenofeminism, and networked feminism, and read selected texts by authors including Donna Haraway, Sadie Plant, and Legacy Russell. Particular attention will be paid to visual cultures: How do digital technologies change images of bodies and gender? What queer-feminist visual strategies emerge online? And how do cyberfeminist ideas live on in memes, selfies, avatars, and other image practices on social media? Seit den 1990er Jahren fragen Cyberfeminist*innen danach, wie digitale Technologien unsere Vorstellungen von Geschlecht, Körper und Identität verändern. Dabei ist Cyberfeminismus keine einheitliche Bewegung. Der Begriff umfasst unterschiedliche Ansätze, die patriarchale Machtstrukturen im Netz kritisieren und zugleich fragen, wie sich digitale Technologien für feministische Zwecke nutzen und ‚hacken‘ lassen. Kunst spielte dabei von Beginn an eine zentrale Rolle. Das Seminar zeichnet wichtige Linien des Cyberfeminismus von seinen Anfängen bis in die Gegenwart nach. Wir beschäftigen uns mit Manifesten und künstlerischen Positionen ebenso wie mit neueren Ansätzen des Glitch-, Xeno- und Netzfeminismus und lesen ausgewählte Texte, etwa von Donna Haraway, Sadie Plant und Legacy Russell. Ein besonderer Schwerpunkt liegt auf visuellen Kulturen: Wie verändern digitale Technologien Bilder von Körper und Geschlecht? Welche queerfeministischen Bildstrategien entstehen im Netz? Und wie leben Ideen des Cyberfeminismus in Memes, Selfies, Avataren und anderen Bildpraktiken der Sozialen Medien weiter?",
-   "sessions": [
-    {
-     "weekday": 3,
-     "start": "10:00",
-     "end": "11:30",
-     "rhythm": "weekly",
-     "first_date": "2026-10-15",
-     "last_date": null,
-     "room": "ehemalige »Professoren-Mensa« neben der Mensa",
-     "building": "ADDR:Bühringstraße 20",
-     "group": null,
-     "note": null
-    }
-   ],
-   "by_arrangement": false,
-   "catalog_path": [
-    "Theorie und Geschichte",
-    "Visuelle Kulturen"
-   ],
-   "extra": {
-    "raw_dates": "Format: None. Wann: Donnerstag, 10:00 – 11:30. Erster Termin: 15.10.2026. Ort: ehemalige »Professoren-Mensa« neben der Mensa.\nSince the 1990s, cyberfeminists have explored how digital technologies change our ideas of gender, bodies, and identity. Cyberfeminism, however, is not a unified movement. The term encompasses different approaches that critique patriarchal power structures online while also asking how digital technologies can be used and “hacked” for feminist purposes. Art has played a central role from the very beginning. This seminar traces key developments in cyberfeminism from its origins to the present. We will examine manifestos and artistic practices alongside more recent approaches such as glitch feminism, xenofeminism, and networked feminism, and read selected texts by authors including Donna Haraway, Sadie Plant, and Legacy Russell. Particular attention will be paid to visual cultures: How do digital technologies change images of bodies and gender? What queer-feminist visual strategies emerge o",
-    "room": "ehemalige »Professoren-Mensa« neben der Mensa",
     "credits": "2 Credits"
    }
   },
