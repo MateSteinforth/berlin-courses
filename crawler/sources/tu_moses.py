@@ -188,7 +188,9 @@ class TuMoses(CatalogSource):
                         seen.add(vid)
                         ids.append(vid)
                 empty_pages = empty_pages + 1 if len(ids) == before else 0
-                if (limit and len(ids) >= limit) or empty_pages >= 2:
+                # no "stop after N pages without new ids": 6 such pages occur mid-list (repeated
+                # templates); the last page is detected by the disabled/missing next button below
+                if limit and len(ids) >= limit:
                     break
                 nxt = pg.locator(".ui-paginator-next").last
                 if not nxt.count() or "ui-state-disabled" in (nxt.get_attribute("class") or ""):
