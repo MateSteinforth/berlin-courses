@@ -85,40 +85,53 @@ class TuMoses(CatalogSource):
                        if c.extra.get("veranstaltung") and c.extra["veranstaltung"] not in links})
         log.info("MOSES: looking up modules for %d courses (%d cached)", len(todo), len(links))
         lock = threading.Lock()
+        prog = {"done": 0, "fails": 0, "streak": 0}
+        workers = 3  # gentle: MOSES stops answering when hit by many browsers at once
 
         def worker(chunk):
             with sync_playwright() as p:
                 b = p.chromium.launch()
                 pg = b.new_page()
-                pg.set_default_timeout(45_000)
-                for i, vid in enumerate(chunk):
+                pg.set_default_timeout(30_000)
+                for vid in chunk:
+                    if prog["streak"] >= 10:  # MOSES is down: stop, keep what we have, retry next crawl
+                        break
                     try:
                         pg.goto(f"{BASE}/veranstaltung.html?veranstaltung={vid}")
                         tab = pg.get_by_text("Studiengangszuordnungen und Module")
                         if tab.count() == 0:  # course not assigned to any module
-                            with lock:
-                                links[vid] = []
-                            continue
-                        tab.first.click()
-                        pg.wait_for_load_state("networkidle")
-                        pg.wait_for_timeout(400)
-                        found = sorted(set(re.findall(
-                            r'(/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen\.html\?number=\d+&(?:amp;)?version=\d+)',
-                            pg.content())))
+                            found = []
+                        else:
+                            tab.first.click()
+                            pg.wait_for_load_state("networkidle")
+                            pg.wait_for_timeout(400)
+                            found = sorted({f.replace("&amp;", "&") for f in re.findall(
+                                r'(/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen\.html\?number=\d+&(?:amp;)?version=\d+)',
+                                pg.content())})
                         with lock:
-                            links[vid] = [f.replace("&amp;", "&") for f in found]
+                            links[vid] = found
+                            prog["streak"] = 0
                     except Exception as e:
                         log.debug("module tab %s failed: %s", vid, e)
-                    if i % 200 == 199:
                         with lock:
+                            prog["fails"] += 1
+                            prog["streak"] += 1
+                    with lock:
+                        prog["done"] += 1
+                        if prog["done"] % 25 == 0:
                             save_json(MODULE_LINKS, links)
+                        if prog["done"] % 100 == 0:
+                            log.info("MOSES modules: %d/%d looked up, %d failed", prog["done"], len(todo), prog["fails"])
                 b.close()
 
         t0 = time.time()
-        with ThreadPoolExecutor(WORKERS) as ex:
-            list(ex.map(worker, [todo[k::WORKERS] for k in range(WORKERS) if todo[k::WORKERS]]))
+        with ThreadPoolExecutor(workers) as ex:
+            list(ex.map(worker, [todo[k::workers] for k in range(workers) if todo[k::workers]]))
         save_json(MODULE_LINKS, links)
-        log.info("MOSES: module links done in %.0fs", time.time() - t0)
+        if prog["streak"] >= 10:
+            log.warning("MOSES: module lookup aborted after 10 failures in a row (server not answering); "
+                        "%d/%d done, the rest is retried next crawl", prog["done"], len(todo))
+        log.info("MOSES: module links done in %.0fs (%d failed)", time.time() - t0, prog["fails"])
 
         s = session()
         need = sorted({m for c in courses for m in links.get(c.extra.get("veranstaltung", ""), []) if m not in texts})
