@@ -15,7 +15,7 @@ on:
         type: boolean
         default: false
       source:
-        description: "Only this source (e.g. tu_moses, udk_hisinone, fu_vv, hu_agnes, htw_lsf, udk_sg)"
+        description: "Only these sources, comma-separated (e.g. tu_moses,udk_sg)"
         type: string
         default: ""
       ai_unis:
@@ -56,7 +56,8 @@ jobs:
         run: |
           ARGS=""
           [ "${{ inputs.force }}" = "true" ] && ARGS="--force"
-          [ -n "${{ inputs.source }}" ] && ARGS="$ARGS --source ${{ inputs.source }}"
+          SRC="${{ inputs.source }}"
+          for s in ${SRC//,/ }; do ARGS="$ARGS --source $s"; done
           JOBS=$(python -m crawler due $ARGS)
           echo "due: $JOBS"
           echo "jobs=$JOBS" >> "$GITHUB_OUTPUT"
