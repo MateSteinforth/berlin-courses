@@ -2,7 +2,7 @@
  "kind": "catalog",
  "source": "udk_sg",
  "semester": "2026W",
- "crawled": "2026-10-24T22:46+00:00",
+ "crawled": "2026-10-25T08:40+00:00",
  "courses": [
   {
    "id": "udk_sg:denkanstoesse-ii-gast-arbeitsmigration-islam-gender-diversity-erinnerungskultur-wechselbeziehungen-zu-kunst-popkultur-und-hip-hop-in-der-postmigrantischen-gesellschaft-deutschland:2026W",
@@ -13,7 +13,21 @@
    "url": "https://www.udk-berlin.de/studium/studium-generale/kurse-courses/einfuehrungsvorlesungen-wise-2026-27/denkanstoesse-ii-gast-arbeitsmigration-islam-gender-diversity-erinnerungskultur-wechselbeziehungen-zu-kunst-popkultur-und-hip-hop-in-der-postmigrantischen-gesellschaft-deutschland/",
    "org": "Studium Generale",
    "description": "Denkanstöße II: „Gast“-Arbeitsmigration, Islam, Gender, Diversity, Erinnerungskultur - Wechselbeziehungen zu Kunst, Popkultur und Hip Hop in der postmigrantischen Gesellschaft Deutschland Prof. Dr. Reyhan Şahin Denkanstöße II: „Gast“-Arbeitsmigration, Islam, Gender, Diversity, Erinnerungskultur - Wechselbeziehungen zu Kunst, Popkultur und Hip Hop in der postmigrantischen Gesellschaft Deutschland Einführungsvorlesung, Deutsch/Englisch, 2 SWS, 2 ECTS Dienstags, 18-20 Uhr, wöchentlich ab 20.10.2026, Hardenbergstr. 33, Raum 158 Anmeldung auf Moodle ab 12.10.2026: https://moodle.udk-berlin.de/moodle/course/edit.php?id=3306 Einschreibeschlüssel: denken In dieser Vorlesungsreihe werden wir uns drei großen Themenfeldern widmen: Die Geschichte der sogenannten „Gastarbeiter“-Migration, ihren Bezug zu Religion, Arbeit und Kunst, Hip Hop als Ventil sowie künstlerische Ausdrucksformen von „Gastarbeiter“-Kids. Außerdem beschäftigen wir uns mit postmigrantischer Erinnerungskultur im Bezug auf Kunst und Musik. Dabei werden wir die Geschichten von Arbeitsmigrant*innen aus verschiedenen Perspektiven betrachten sowie die Intersektionalität zwischen Rassismus, Klassismus und Sexismus. Was für Menschen kamen damals nach Deutschland und wie leben sie heute? Was hat die damalige Arbeitsmigration in Deutschland mit dem „Wirtschaftswunder“ zu tun? Was ist der Zusammenhang zwischen den Nachkommen migrantisierter Arbeiterkinder und Hip Hop? Was für eine Rolle spielte Rassismus- oder Sexismuskritik in diesem Kontext? Im Rahmen von (Arbeits)Migration, Islam, Diversität, und Gender wird es ebenso um Rassismus, Antisemitismus und Geschlechterverhältnisse innerhalb unterschiedlicher muslimischer Communities in Deutschland gehen und auch um religiös bedingten Rassismus, Antisemitismus, Minderheitenfeindlichkeit und feministische Islamismuskritik. Dabei spielt auch die Gleichzeitigkeit von unterschiedlichen Formen von Rassismus und Antisemitismus eine beachtliche Rolle. Daneben werden wir die Verbreitung der Hip Hop-Kultur in Deutschland behandeln, in dem wir u.a. auch Songs von verschiedenen Rap-Acts anhören und diese aus linguistischer, intersektional-feministischer und rassismuskritischer Perspektive analysieren. Hierbei wird es im besonderen Maße um die Bereiche Feminismus, Gender, Sexismuskritik und Hip Hop(-Feminismus) gehen, für die wir uns ebenfalls unterschiedliche Rap-Acts anschauen werden. Ebenso werden soziolinguistische und politische Phänomene wie z.B. das antirassistische und feministische Reclaiming betrachtet. Ein weiterer Themenschwerpunkt wird die postmigrantische Erinnerungskultur und Gedenkarbeit in Deutschland sein. Dabei werden wir uns die verschiedenen bundesweiten, unterstützenden Initiativen für Opfern rechtsextremer, rassistischer und antisemitischer Gewalt und ihre Arbeit anschauen, sowie ihren Mehrwert für Schule, Soziale Arbeit, Wissenschaft und Kunst bzw. Hip Hop. Wie wurden diese antirassistischen Initiativen ursprünglich gegründet? Was könnte ihr Nutzen für Schule, Soziale Arbeit, Wissenschaft und Kunst genau sein? Schnittstellen wird es u.a. zwischen Arbeitsmigration, Islam, Alevitentum und Hip Hop, sowie postmigrantisierter Erinnerungskultur und Gedenkarbeit mit Kunst und Musik geben. Regelmäßige Diskussionen mit besonderen Gästen im Rahmen der Talkreihe PROF. BITCH TALKS! sind geplant. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: regelmäßige und aktive Teilnahme, Feedbacks Reyhan Şahin ist Sprachwissenschaftlerin und Islam- und Migrationsforscherin und lehrt seit dem Wintersemester 2025/26 als Gastprofessorin im Bereich Kulturwissenschaften im Studium Generale an der UdK Berlin. Sie promovierte an der Universität Bremen zum Bedeutungssystem des muslimischen Kopftuchs in Deutschland und war als feministische Musikerin „Lady Bitch Ray“ aktiv. Sie schreibt zu Themen wie Feminismus, Islam, Migration, Rassismus, Antisemitismus und Popkultur (u.a. SZ, taz, Missy Magazine, Stern). Ihre Schwerpunkte in der Forschung und Lehre sind: Intersektionalitäts- und Rassismusforschung, Neue Rechte, Islam- und Gender Studies, antimuslimischer Rassismus, Islamismus und Antisemitismus, Alevi Studies, Popkultur und Hip Hop-Studies. Mehr Informationen unter https://www.udk-berlin.de/person/reyhan-sahin/ sowie www.lady-bitch-ray.com .",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "18:00",
+     "end": "20:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-20",
+     "last_date": null,
+     "room": "Hardenbergstr. 33, Raum 158",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Einführungsvorlesungen (WiSe 2026/27)"
@@ -34,7 +48,129 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "MigrantXFuturity - Bildung und Kunst im double bind. Ästhetische Suchbewegungen in Migrationsverhältnissen Saboura Naqshband & Ulaş Aktaş (UdK Berlin) mit Aysun Doğmuş & Sezen Çakmak (TU Berlin) MigrantXFuturity - Bildung und Kunst im double bind. Ästhetische Suchbewegungen in Migrationsverhältnissen Einführungsvorlesung ODER Seminar, Deutsch/Englisch, 2 SWS, 2 ECTS Donnerstags, 16-18 Uhr, 9 Onlinetermine: 22.10., 5.11., 12.11., 19.11., 3.12., 17.12.2026, 14.1., 28.1., 11.2.2027 sowie Präsenzblock : Fr 12.02.27 KW06 10 - 18 Uhr, Hardenbergstraße 33, Raum 110 Sa 13.02.27 KW06 10 - 18 Uhr, Hardenbergstraße 33, Raum 110 Link zur Online Ringvorlesung: https://tu-berlin.zoom.us/j/3154239147?pwd=Y21TWkpydzdYRFhjTjZKWXlJcHY5dz09 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3324 Einschreibeschlüssel / Enrollment Key: migrant Migrationsgesellschaftliche Gegenwart ist von paradoxen Doppelbotschaften geprägt. Menschen werden zugleich zur Teilhabe aufgefordert und von ihr ausgeschlossen, als gleich anerkannt und als „Andere“ markiert. Diese Widersprüche lassen sich als postkoloniale double binds verstehen: als Aporien, in denen gehandelt werden muss, obwohl keine widerspruchsfreie Position existiert (Castro Varela/Haghighat 2023). Das Integrationsparadigma verspricht Zugehörigkeit und reproduziert zugleich die Grenze zwischen einem nationalen „Wir“ und den „Anderen“ (Mecheril 2013/2015). Prozesse des Othering organisieren gleichzeitig Ein- und Ausschluss sowie Auf- und Abwertung migrantisierter Subjekte (Terkessidis 2004; Velho 2010). Daraus entstehen Handlungssituationen, die sich weder durch Anpassung noch durch Widerstand auflösen lassen. Gerade deshalb ist das postkoloniale double bind nicht nur eine Diagnose gesellschaftlicher Machtverhältnisse. Es bezeichnet einen Ort, an dem Handlungsfähigkeit immer wieder neu hervorgebracht werden muss. Hier setzt MigrantXFuturity an. Wir verstehen Futurity nicht als Vorstellung einer besseren Zukunft, sondern als ästhetische und politische Praxis, innerhalb dieser Widersprüche neue Möglichkeiten des Denkens, Wahrnehmens und Handelns zu eröffnen. Zukünftigkeit entsteht nicht jenseits des double bind , sondern aus der Auseinandersetzung mit ihm. Sie bezeichnet die Fähigkeit, trotz kolonialer und rassistischer Ordnungen andere soziale Wirklichkeiten zu imaginieren und bereits in der Gegenwart erfahrbar zu machen. José Esteban Muñoz beschreibt Queer Futurity als politische Praxis der Hoffnung, mit der marginalisierte Subjekte auf einer Zukunft bestehen, die ihnen in der Gegenwart verweigert wird. Der Afro-futurismus unterbricht koloniale Zeitordnungen, indem er alternative Zukunftsentwürfe aus Schwarzer diasporischer Perspektive entwickelt und Kunst, Technologie sowie Imagination als Praktiken kollektiver Selbstermächtigung begreift. Postkoloniale Ansätze (Spivak, Bhabha) verschieben den Blick schließlich auf die Bedingungen des Zukunftsentwurfs selbst: Zukunft ist nie unschuldig, sondern entsteht innerhalb kolonialer Machtverhältnisse. Handlungsfähigkeit bedeutet daher nicht, Widersprüche aufzulösen, sondern – in Spivaks Sinne – das postkoloniale double bind »spielen« zu lernen. Kunst kommt dabei eine besondere Bedeutung zu. Als ästhetische Praxis macht sie die Bilder, Narrative und Affekte sichtbar, durch die gesellschaftliche Wirklichkeit hergestellt wird. Zugleich eröffnet sie Räume, in denen diese Ordnungen irritiert, verschoben und neu entworfen werden können. Ästhetische Erfahrungen reproduzieren gesellschaftliche Bedeutungen nicht nur – sie erzeugen neue Vorstellungsräume und machen damit andere Zukünfte denk- und erfahrbar. Kunst ist deshalb kein bloßer Spiegel migrations-gesellschaftlicher Verhältnisse, sondern ein Medium der Zukünftigkeit . Die Ringvorlesung MigrantXFuturity versteht Bildung und Kunst deshalb als Orte, an denen gesellschaftliche Widersprüche nicht nur analysiert, sondern transformiert werden. Gemeinsam mit Künstler*innen , Kunstpädagog*innen und Wissenschaftler*innen gehen wir also folgenden Fragen nach: Wie werden postkoloniale double binds in Kunst und Bildung sichtbar – und wie lassen sie sich ästhetisch bearbeiten? Welche Formen von Handlungsfähigkeit entstehen im Spannungsfeld von Affirmation und Subversion? Wie entwerfen künstlerische und pädagogische Praktiken Zukünftigkeit innerhalb migrationsgesellschaftlicher Verhältnisse? Welche Bilder, Narrative und ästhetischen Erfahrungen eröffnen Möglichkeiten eines anderen Zusammenlebens? Programm : 22.10.2026 | Double bind postkolonial in Migrationsverhältnissen Vortrag von María do Mar Castro Varela 05.11.2026 | Decolonize Kindheit Vortrag von Olenka Bordo Benavides & Seyran Bostancı 12.11.2026 | Was das Verfahren nicht hören muss. Institutioneller Rassismus und die Ordnung des Hörbaren. Vortrag von Donja Amirpur 19.11.2026 | Mehrsprachigkeit dekolonial Vortrag von Marita Orbegoso Alvarez & Mandana Seyfeddinipur (angefragt) 03.12.2026 | Bildungswege in der Migrationsgesellschaft Vortrag von Çagrı Kahveci & Mohamed Lamrabet 17.12.2026 | „Ich rappe, also bin ich!“ Musikdidaktik & Empowerment Podiumsgespräch mit Ali Konyali, Shanti Suki Osman, Mehtap Arı 14.01.2027 | Queere Künstler*innen of Color Podiumsgespräch mit Rena Onat & Anisha Gupta Müller 28.01.2027 | Afrofuturistische und abolutionistische BildungsXZukünfte Podiumsgespräch mit Saraya Gomis & Ford Kelly (angefragt) 11.02.2027 | Intersektionale Praxisreflexion – Utopien für eine gerechte Bildung Vortrag Maisha M. Auma & Aline Oloff Termin für zweitägigen Block MigrantXFuturity Reflection/Flourishing Lab am Semesterende folgt. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Anwesenheit, aktive Teilnahme Saboura Naqshband (sie/they) ist Politik- und Erziehungswissenschaftler*in, Kulturanthropolog*in und wissenschaftliche Mitarbeiter*in im Fachbereich Grundschulpädagogik / Musisch-Ästhetische Erziehung",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-10-22",
+     "last_date": "2026-10-22",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-05",
+     "last_date": "2026-11-05",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-12",
+     "last_date": "2026-11-12",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-19",
+     "last_date": "2026-11-19",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-12-03",
+     "last_date": "2026-12-03",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-12-17",
+     "last_date": "2026-12-17",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-01-14",
+     "last_date": "2027-01-14",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-01-28",
+     "last_date": "2027-01-28",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-02-11",
+     "last_date": "2027-02-11",
+     "room": "Online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-02-12",
+     "last_date": "2027-02-13",
+     "room": "Hardenbergstraße 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Einführungsvorlesungen (WiSe 2026/27)"
@@ -55,7 +191,105 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Artistic Tools for Conviviality Nila Löber Artistic Tools for Conviviality Seminar, Deutsch/Englisch, 2 ECTS, 2 SWS Montags, 9-13 Uhr, 8 Termine: 19.10., 26.10., 16.11., 30.11., 14.12.2026, 11.1., 25.1. und 8.2.2027 Hardenbergstr. 33, Raum 110 Anmeldung ab jetzt über Moodle mit dem Passwort \"tools\": Kurs: WiSe 2026/27_IK_Löber_Artistic Tools for Conviviality - Mit Coding Agents persönliche künstlerische Werkzeuge entwickeln | Moodle E-Learning UdK Berlin Voraussetzungen : eigener Laptop. Coding-Vorerfahrung nicht erforderlich, aber willkommen. Wir bauen uns mit Hilfe von KI-gestützten Coding Agents unsere digitalen Tools selber, nach menschlichem Maß, theoretisch angelehnt an Ivan Illichs Begriff der Konvivialität, und lernen dabei den selbst alles andere als konvivialen Charakter der LLM-Technologie selbst kennen. Ziel ist weniger, Kunstwerke an sich zu schaffen, sondern Werkzeuge zu entwickeln, die die eigene künstlerische Praxis erweitern, egal ob in Fotografie, Sound, Bildhauerei, Performance, Schreiben oder zeitbasierten Medien. Theoretische Vignetten ordnen das praktische Tun sowohl in zeitgenössische Diskurse zur sogenannten Künstlichen Intelligenz ein als auch in die verschiedenen Dimensionen der Auseinandersetzung mit diesen Phänomenen in der zeitgenössischen Kunst. Das Seminar nimmt also eine paradoxe Position ein: Es nutzt KI-Werkzeuge, und nähert sich ihren Zukunftsversprechen gleichzeitig kritisch an. Am Ende des Seminars hat jede:r Teilnehmer:in mindestens ein eigenes Werkzeug entwickelt und es im Rahmen eines bestehenden Projekts oder eines im Seminar entstandenen Mini-Projekts angewandt, als Werk oder als Studie. Der Kurs richtet sich ausdrücklich an Studierende mit und ohne Erfahrung in der Softwareentwicklung. Erfahrenere arbeiten selbständig auf höherem Niveau weiter; Anfänger:innen werden vor allem bei den ersten Schritten begleitet. Zwischen den Sitzungen arbeiten alle eigenständig weiter. In der zweiten Semesterhälfte kommen die Werkzeuge und ihre Anwendungen zur gemeinsamen Werkstatt-Reflexion zurück: Code-Reviews, Präsentationen, Diskussion. Literatur : Kate Crawford / Vladan Joler: Anatomy of an AI System (2018), Auszug. Timnit Gebru / Émile P. Torres: The TESCREAL Bundle, First Monday (2024), Auszug. Ivan Illich: Selbstbegrenzung. Eine politische Kritik der Technik (1975), Auszug. Eryk Salvaggio / Caroline Sinders / Steph Maj Swanson: Cultural Red Teaming. ARRG! and the Creative Misuse of AI Systems, Critical AI (2025), Auszug. Leistungsanforderungen für den unbenoteten Schein : regelmäßige aktive Teilnahme; Entwicklung eines eigenen Werkzeugs und Anwendung in mindestens einem Werk oder einer Studie; zweiseitige schriftliche Reflexion zum eigenen Prozess. Nila Löber , M.A., lebt und arbeitet in Berlin und ist seit 1996 in der IT tätig, wo sie jeden Hype von Dotcom-Blase bis AI miterlebt hat. Seit 2010 ist sie spezialisiert auf Informationssicherheit. Unter dem Namen nila löber knowledgework (nlkw.de) berät sie Organisationen zu Sicherheitsarchitektur, sicherer Softwareentwicklung und Coding-Agent-Sicherheit. Zu agentischer Coding-Praxis hält sie Vorträge, immer mit den breiteren sozialen und narrativen Kontexten im Blick. Magisterabschluss in Empirischer Kulturwissenschaft mit den Nebenfächern Philosophie und Informatik (Abschlussarbeit zu Imageboards und Meme-Kultur, 2009). Daneben verfolgt sie eine eigenständige künstlerische Praxis in Fotografie und browser-basierten Werkzeugen zwischen Code und Bild (nilafoto.com).",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2026-10-19",
+     "last_date": "2026-10-19",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2026-10-26",
+     "last_date": "2026-10-26",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2026-11-16",
+     "last_date": "2026-11-16",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2026-11-30",
+     "last_date": "2026-11-30",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2026-12-14",
+     "last_date": "2026-12-14",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2027-01-11",
+     "last_date": "2027-01-11",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2027-01-25",
+     "last_date": "2027-01-25",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "09:00",
+     "end": "13:00",
+     "rhythm": "single",
+     "first_date": "2027-02-08",
+     "last_date": "2027-02-08",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -76,7 +310,21 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "En plein air! Wanderstaffelei, Farbentuben und festes Schuhwerk in analoger Praxis bei jeder Wetterlage Hank Schmidt in der Beek En plein air! Wanderstaffelei, Farbentuben und festes Schuhwerk in analoger Praxis bei jeder Wetterlage Seminar an verschiedenen Orten, Deutsch/English, 2 SWS, 2 ECTS Mittwochs, 10-14 Uhr, 8 Termine, wöchentlich ab 21.10.2026, in Hardenbergstr. 33, Raum 102 Weitere Termine: 28.10., 4.11., 11.11., 18.11., 25.11., 2.12., 9.12.2026 an verschiedenen Orten in Berlin, wird gemeinsam im Seminar festgelegt Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3308 Einschreibeschlüssel / Enrollment Key: pleinair! Freilicht- oder PLEIN-AIR-Malerei bezeichnet kunsthistorisch das Gegenstück zur Atelierkunst: den Versuch ein Stück Natur unter natürlichen Bedingungen einzufangen. Im Fokus des Seminars steht allerdings weder das klassische Bild von Landschaft das die Plein-Air-Malerei prägte, noch das standhafte Modell der/s Künstler*in das sie zeichnet, sondern ihre material- und grenzüberschreitenden und absurden Erscheinungsformen. Ziel des Seminars ist es, die Freilichtmalerei von dem biederen Staub, der ihr zuweilen anhaftet zu befreien, sich ein paar Meilen- und Ecksteine der Plein-Air-Malerei (von den Erfindungen einiger Impressionisten über Draufgänger*Innen wie David Hockney, Gabriele Münter, oder Roman Signer) in Erinnerung zu rufen, und im besten Fall anzuregen, wie man auch heute noch den Begriff der Plein-Air-Malerei weiter strapazieren kann. Das Seminar findet analog und selbstverständlich draußen statt - mit Wanderstaffeleien und festem Schuhwerk unterwegs im Berliner Stadtraum und zwar bei jeder Wetterlage. Im Wesentlichen geht es bei dem Seminar darum, sich als wöchentlich zusammenfindende Gruppe mit Feldstaffeleien und Leinwänden den Berliner Stadtraum zu erschließen, sich dabei konstruktiv den damit verbundenen Widrigkeiten zu stellen (Malsituation außerhalb der Komfortzone des eigenen Zuhauses oder Ateliers, unfreiwilliges Publikum im Stadtraum, Wetter, etc). Die erste der insgesamt 8 Seminareinheiten ist ein Vortrag mit zahlreichen kunsthistorischen Beispielen für Ausnahme-, Extrem- und Sonderfälle der Freiluftmalerei, im weiteres Seminarverlauf geht es dann nach draußen. Voraussetzung für die Seminarteilnahme ist ALLES ANDERE als malerisches Talent. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Von den Teilnehmer*Innen wird in erster Linie regelmäßige und aktive Teilnahme und im besten Fall auch aktive Mithilfe bei der gemeinsamen Abschlussausstellung (für die ich gerne meinen Kreuzberger Ausstellungsraum zur Verfügung stelle) erwartet. Hank Schmidt in der Beek wurde 1978 in München geboren und studierte von 1999 bis 2005 Freie Kunst an der HfG Offenbach und an der Academie des Beaux- Arts, Brüssel. Seit 2006 lebt er als Künstler und Sänger der Band Das Lunsentrio in Berlin. In Kreuzberg betreibt er den Ausstellungsraum \"Zum Hank\".",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-21",
+     "last_date": "2026-12-09",
+     "room": "Hardenbergstr. 33, Raum 102",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -97,7 +345,57 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Geschichten des Gelingens – Konstruktives Erzählen Dagrun Hintze Geschichten des Gelingens – Konstruktives Erzählen Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Samstags/Sonntags, jeweils 10-18 Uhr am 31.10./1.11.2026 und 6./7.2.2027 Hardenbergstr. 33, Raum 110 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3317 Einschreibeschlüssel / Enrollment Key: konstruktiv In herausfordernden Zeiten bedeutet Zuversicht eine wichtige Ressource für die Visualisierung und Gestaltung von Zukunft – und aus Doomscrolling ist sowieso noch nie etwas Konstruktives erwachsen. In diesem Seminar schreiben wir „Geschichten des Gelingens“ und greifen dafür auf unsere persönliche Erfahrung genauso zurück wie auf die guten Nachrichten des positiven Journalismus. Inspiriert von Texten bekannter Autorinnen und Autoren erproben wir verschiedene literarische Verfahren, von essayistischem Schreiben über Autofiktion bis hin zum Gedicht. Dabei erweitern wir unser schriftstellerisches Handwerkszeug und trainieren ganz nebenbei unseren Zuversichts- und Zukunftsmuskel. Teilnahmevoraussetzungen: Teilnehmende sollten über so viel Deutschkenntnisse verfügen, dass sie die vorgestellten Texte und die Diskussionen dazu verstehen können. Eigene Texte auf Englisch zu schreiben, ist möglich. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: aktive Teilnahme an Diskussionen über Texte, Teilen von „guten Nachrichten“, Schreiben verschiedener, auf die Zukunft ausgerichteter Texte, Vortragen eigener Texte. Dagrun Hintze veröffentlicht Gedichte, Theaterstücke, Prosa und Essays und publiziert über zeitgenössische Kunst und Dokumentartheater. Für ihre Arbeit wurde sie mehrfach ausgezeichnet, zuletzt 2026 mit einem Stipendium der Shanghai Writers’ Association. Im SS 2019 nahm sie schon einmal einen Lehrauftrag im Studium Generale der UDK wahr, vom SS 2024 bis WS 2025/26 war sie Dozentin für Poetik und Kreatives Schreiben an der HAW Hamburg, im WS 2026/27 unterrichtet sie außerdem im Regie-Studiengang der Folkwang Universität der Künste in Essen.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-10-31",
+     "last_date": "2026-10-31",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-01",
+     "last_date": "2026-11-01",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-02-06",
+     "last_date": "2027-02-06",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-02-07",
+     "last_date": "2027-02-07",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -118,7 +416,93 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Kunst des Protests - Künstlerische Zukünftigkeiten im öffentlichen Raum Carola Lehmann Kunst des Protests - Künstlerische Zukünftigkeiten im öffentlichen Raum Seminar, Deutsch/English, 2 SWS, 2 ECTS Montags, jeweils 16-20 Uhr, 6 Termine: 26.10., 2.11., 16.11., 23.11., 30.11. und 7.12.2026 in Hardenbergstr. 33, Raum 110 sowie Blocktermin am Freitag, 11.12.2026, 10-18 Uhr in Hardenbergstr. 33, Raum 102 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3313 Einschreibeschlüssel / Enrollment Key: art_protest Kunst im öffentlichen Raum kreiert starke Bilder, vermittelt andere Weltentwürfe und erreicht ein weit diverseres Publikum als Kunst im White Cube oder der Black Box. Folgerichtig zieht politische Kunst oft auf die Straße und Protestbewegungen nutzen umgekehrt gern Elemente darstellender und grafischer Kunst. Das Seminar „Kunst des Protests“ untersucht zu Beginn anhand von Bild- und Videobeispielen die Historie der politisch motivierten Kunst: Vom Living Theatre und Atelier Populaire zu Joseph Beuys und Christoph Schlingensief bis hin zu Pussy Riot, dem Peng! Kollektiv und dem Zentrum für politische Schönheit. Mit der Lektüre von Texten zum Thema werden wir die Analyse künstlerischer Protestformen vertiefen. Raum bietet das Seminar auch für den wichtigen Austausch eigener Erfahrungen und künstlerischer Ansätze: Welche Imagination von Zukunft sollte für den öffentlichen Raum gestaltet werden? Die Gespräche und aufgeworfenen Fragen werden Teil der sich anschließenden praktischen Arbeit. Konkret setzen wir uns schwerpunktmäßig mit den Mitteln Kostüm, Performance und Plakat auseinander. Davon ausgehend entwerfen die Studierenden in Kleingruppen eigene künstlerische Skizzen für den urbanen Raum. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Die Teilnehmer*innen entwickeln in Kleingruppen künstlerische Skizzen und zeigen sie im öffentlichen Raum. Carola Lehmann ist Berliner Theatermacherin und Performerin. Mit Projekten wie „Die Vermessung der AfD-Zentrale“, „Activist Tarot“ und ihrer Kooperation mit dem Kollektiv Tausend Hektar arbeitet sie im Grenzbereich von Performance und Aktivismus. Lehrauftrag an der Uni Leipzig „Kunst des Protests“ im Sommersemester 2025. Regelmäßige Tätigkeit als Dozentin für Medienbildung an einer Fachschule seit 2017. Sie wurde bzw. wird gefördert durch den Berliner Senat, den Fonds Darstellende Künste und das Land Mecklenburg-Vorpommern. Carola Lehmann hat Angewandte Theaterwissenschaft in Gießen studiert.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-10-26",
+     "last_date": "2026-10-26",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-11-02",
+     "last_date": "2026-11-02",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-11-16",
+     "last_date": "2026-11-16",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-11-23",
+     "last_date": "2026-11-23",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-11-30",
+     "last_date": "2026-11-30",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 0,
+     "start": "16:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-12-07",
+     "last_date": "2026-12-07",
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-12-11",
+     "last_date": "2026-12-11",
+     "room": "Hardenbergstr. 33, Raum 102",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -139,7 +523,141 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Kunst und KI. KI und Welt Prof. Christiane Kühl Kunst und KI. KI und Welt Ringseminar, Deutsch/English, 2 SWS, 2 ECTS Donnerstags, 16-19 Uhr, 10 Termine 8 Termine in der Hardenbergstr. 33: 29.10. (R. 201), 12.11. (tba), 26.11. (R. 102), 3.12. (R. 004), 10.12.2026 (R. 102), 14.1. (R. 201), 28.1. (R. 201), 11.2.2027 (R. 101-102) sowie fakultativ Dienstag, 26.1.2027, 16-19 Uhr (Jazzinstitut am Einsteinufer 43, Georg-Neumann-Saal) 2 Exkursionen: 05.11.2026: Deutsches Forschungszentrum für künstliche Intelligenz, Salzufer 15/16, 10587 Berlin 04.02.2027: Einstein Center Digital Future, Wilhelmstraße 67, 10117 Berlin Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3354 Einschreibeschlüssel / Enrollment Key: youandai Künstliche Intelligenz hat die Herstellung, Bearbeitung, Verbreitung und Interpretation von Bildern und Sprache grundlegend verändert. Und damit unsere Kommunikation, Weltwahrnehmung und selbstverständlich auch die Kunst. Besonders Generative KI ist nicht nur „ein neues Werkzeug“; sie redefiniert unsere Begriffe von Autorschaft, Kreativität und Verantwortung. Gleichzeitig wirft KI als materielle Infrastruktur viele ökologische, politische und ethische Fragen auf. Wie können Künstler*innen diesen Prozess begleiten und mitgestalten? Im Seminar versuchen wir, die unterschiedlichen Funktionsweisen und weitreichenden Effekte von KI-Technologien zu verstehen. Nicht als IT-Cracks, sondern als forschende Künstler*innen. Wir wollen erfahren, wie man intransparente digitale Strukturen sichtbar machen kann. Wie man mit Maschinen kollaborieren kann. Wie man Systeme souverän hacken kann. Dafür laden wir zu jeder Sitzung Expert*innen und Künstler*innen ein, die genau das tun, kritisch und kreativ. Sie werden ihre Arbeit vorstellen, kontextualisieren, diskutieren und, wo möglich, Hands-on-Übungen machen. Wir starten mit einem Besuch beim Deutschen Forschungszentrum für künstliche Intelligenz und enden mit einem Besuch beim Einstein Center Digital Future. Dazwischen präsentieren Nora Al-Badri, Kim Albrecht, Durell Bishop, Aljoscha Burchardt, CyberRäuber, Michelle Christensen, Random International, Theresa Reiwer, Rimini Protokoll und Michael Wollny ihre wegweisenden Arbeiten mit/über KI in Bildender Kunst, Video, Musik, Design, Theater und immersiven Umgebungen. Das Seminar findet z.T. in Kooperation mit dem INTER Seminar Ars Augmentata statt. Leistungsanforderungen für den unbenoteten Schein: Interesse an theoretischer Auseinandersetzung, künstlerischen Übersetzungsstrategien und lebhafter Diskussion sowie Anfertigung eines Learning Journals, Reflexionsberichts oder einer Projetskizze (2-3 Seiten). Christiane Kühl ist Theatermacherin, Autorin, Redakteurin und seit 2023 Gastprofessorin für Interdisziplinäre künstlerische Praxis und Theorie an der Universität der Künste Berlin. 2004 gründete sie mit dem Videokünstler Chris Kondek die Performancegruppe doublelucky productions . Doublelucky productions interessieren sich für die unsichtbaren digitalen Infrastrukturen, die unsere Lebenswelt organisieren, und versuchen, diese im Theaterraum erfahrbar zu machen. Koproduziert vom HAU Berlin, Residenz Schauspiel Leipzig, Münchner Kammerspielen u.a. entstanden rund 20 Performance-Projekte und Installationen, die national wie international gastieren und mehrfach ausgezeichnet wurden. Daneben Zusammenarbeit mit Interrobang, Rimini Protokoll, Quarantine (UK) und anderen Künstler*innen. 2011–2013 war sie Referentin und Stellvertreterin des Intendanten der Berliner Festspiele. Seit 2014 kuratiert sie gelegentlich interdisziplinäre Symposien zwischen Kunst und Theorie, etwa für das Festival für neue Kunst steirischer herbst (AT) und das Goethe-Institut. Seit 2018 gehört sie zum Team des vielfach prämierten Projekts Weiter Schreiben. Ein Portal für Literatur aus Kriegs- und Krisengebieten . Bevor sie zum Theater kam, arbeitete Christiane Kühl als Journalistin. Sie war Redakteurin der taz, des kulturSPIEGEL und bei radioeins/rbb und schrieb als freie Autorin für verschiedene Zeitungen und Magazine. Mehr Informationen unter www.christianekuehl.de .",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-10-29",
+     "last_date": "2026-10-29",
+     "room": "Hardenbergstr. 33, R. 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-11-12",
+     "last_date": "2026-11-12",
+     "room": "Hardenbergstr. 33, tba",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-11-26",
+     "last_date": "2026-11-26",
+     "room": "Hardenbergstr. 33, R. 102",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-12-03",
+     "last_date": "2026-12-03",
+     "room": "Hardenbergstr. 33, R. 004",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-12-10",
+     "last_date": "2026-12-10",
+     "room": "Hardenbergstr. 33, R. 102",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2027-01-14",
+     "last_date": "2027-01-14",
+     "room": "Hardenbergstr. 33, R. 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2027-01-28",
+     "last_date": "2027-01-28",
+     "room": "Hardenbergstr. 33, R. 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2027-02-11",
+     "last_date": "2027-02-11",
+     "room": "Hardenbergstr. 33, R. 101-102",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "16:00",
+     "end": "19:00",
+     "rhythm": "single",
+     "first_date": "2027-01-26",
+     "last_date": "2027-01-26",
+     "room": "Jazzinstitut am Einsteinufer 43, Georg-Neumann-Saal",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-11-05",
+     "last_date": "2026-11-05",
+     "room": "Deutsches Forschungszentrum für künstliche Intelligenz, Salzufer 15/16, 10587 Berlin",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": null,
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2027-02-04",
+     "last_date": "2027-02-04",
+     "room": "Einstein Center Digital Future, Wilhelmstraße 67, 10117 Berlin",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -160,7 +678,45 @@
    "org": "Studium Generale",
    "language": "Deutsch",
    "description": "Meditation & ästhetische Praxis Prof. Dr. Stephan Porombka Meditation & ästhetische Praxis Kompaktwoche, Deutsch, 2 SWS, 2 ECTS Montag bis Freitag, 15.-19.2.2027 ganztägig in Sauen verbindliches Vorbereitungstreffen: Freitag, 5.2.2027, 18-21 Uhr, Hardenbergstr. 33, Raum 101 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3310 Einschreibeschlüssel / Enrollment Key: meditate INFOSESSION: Freitag, 16.10.2026, 10 Uhr: https://udk-berlin.webex.com/join/s.porombka DAS SEMINAR In diesem Blockseminar wollen wir uns auf die Suche nach Kunstprojekten begeben, in denen die Praxis der Meditation mit der ästhetischen Praxis verbunden wird. Dabei geht es nicht nur um die genauere Bekanntschaft mit bereits bekannten Werken bzw. Werkzusammenhängen. Es geht auch um die Frage der Verbindung von Meditation und ästhetischer Praxis im Kontext der eigenen Arbeit. Wir fragen dafür nach den Bedingungen und Möglichkeiten des Hineingelangens in meditationstypische Zustände. Wir fragen nach meditativen Aspekten der Produktion. Und wir fragen nach meditativen Aspekten der Rezeption. Verbinden werden wir das mit aufeinander aufbauenden Meditationsexperimenten. Am Ende des Seminars soll ein kleiner Übungskatalog zusammengestellt werden, an dem man sich die Semesterferien über orientieren kann. Damit wir den Retreat in Sauen gleich mit der Meditationspraxis beginnen können, treffen wir uns vorher zu einer 3-stündigen Veranstaltung, um kleinere Übungen vorzubereiten und alles Organisatorische zu klären. Die Teilnahme an der vorbereitenden Veranstaltung ist verpflichtend. DIE BEWERBUNG Mit der Anmeldung ist es notwendig, über die UdK-Cloud ein Motivationsschreiben hochzuladen. Dieses Motivationsschreiben sollte eine PDF-Seite sein, das folgendermaßen beschriftet ist: Nachname, Vorname_Motivation_SE_Porombka_WiSe2026-27). Das Hochladen in die Cloud (Link ist im Moodle-Kurs zu finden!) ist NACH der Infosession möglich. Abgabeschluss, Montag, 19.10.2026, abends . In dem kurzen Motivationsschreiben sollte zu lesen sein: a. Notizen zum Stand der eigenen Meditationserfahrung sowie b. eine kurze Erläuterung des künstlerischen oder wissenschaftlichen Projekts/Werkstücks, an dem man während des Retreats in Sauen gerne arbeiten möchte (alles ist möglich, auch einfaches Lesen, Nachdenken, Notieren, Skizzieren; ausgeschlossen ist Bildschirm- und Onlinearbeit). Stephan Porombka wird dann aus den eingereichten Schreiben 20 Studierende auswählen. Alle Bewerber*innen werden bis in der Woche ab dem 19.10. informiert. Leistungsanforderungen für den unbenoteten Schein: Aktive und verbindliche Teilnahme am kompletten Workshop inklusive Vorbereitungstreffen. Stephan Porombka , geboren 1967, ist experimenteller Kulturwissenschaftler und produktiver Gegenwartsbeobachter, der sich ganz besonders für die Formen und Formate des „Nächsten” interessiert. Im Mittelpunkt steht dabei die Aufgabe, die alten, immer noch buch-basierten Konzepte literarischer, essayistischer und journalistischer Produktivität und Kreativität zu transformieren und den Bedingungen der neuen – vor allem: der nächsten! – Schrift- und Schreibkulturen anzupassen. An der Berliner Universität der Künste forscht und lehrt Porombka seit 2013 als Professor für Texttheorie und Textgestaltung.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": null,
+     "end": null,
+     "rhythm": "block",
+     "first_date": "2027-02-15",
+     "last_date": "2027-02-19",
+     "room": "Sauen",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "18:00",
+     "end": "21:00",
+     "rhythm": "single",
+     "first_date": "2027-02-05",
+     "last_date": "2027-02-05",
+     "room": "Hardenbergstr. 33, Raum 101",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-10-16",
+     "last_date": "2026-10-16",
+     "room": "https://udk-berlin.webex.com/join/s.porombka",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -181,7 +737,21 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Memes, Mindworms, Memplexes & c. Prof. Dr. Daniel D. Hromada Memes, Mindworms, Memplexes & c. Seminar, English/Deutsch, 2 SWS, 2 ECTS Wednesdays, 16-18 h, weekly, starts 14.10.2026, Grunewaldstr. 2-5, Raum 110 (Aula) Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3339 Einschreibeschlüssel / Enrollment Key : memeplex How do ideas spread, mutate, and survive? Why do we laugh when others laugh, adopt accents, hum songs that refuse to leave our heads, or suddenly find ourselves saying \"actually\"? This seminar explores the evolution of information through the lens of theory of memes, also known as memetics—the study of how cultural patterns replicate, vary, and undergo selection. Beginning with genes and the logic of biological evolution, we trace the emergence of memes as cultural replicators transmitted through imitation, communication, and media. Along the way we examine mirror neurons, contagious behaviours, habits, dopamine, earworms and mindworms, the Maluma–Takete effect, memetic complexes such as fashion, ideology, and religion, self-referentiality, the formation of the egoplex, viral phenomena, computer viruses and worms, apps, emojis, memecoins, and other contemporary manifestations of cultural evolution. Combining perspectives from evolutionary theory, psychology, neuroscience, philosophy, linguistics, media studies, and computer science, the seminar invites participants to view culture itself as an evolving ecosystem of replicating patterns which often act and express themselves independently from what our bodies, minds and souls \"actually\" want. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: In groups of max 5 students, perform a memetic observation experiment or draft an artistict concept for a memethical campaign. Present and enact the concept & find allies at the concluding Quinquennial Congress. Depending on the additional coursework they complete, students may earn more than 2 ECTS credits for their own degree program. Course materials & Open Educational Resources: https://udk.ai/memeplex Matrix room: https://udk.ai/classroom/#/room/#edu-memetics:medienhaus.udk-berlin.de Daniel Devatman Hromada is since August 2018 UdK’s Juniorprofessor for Digital Education at Einstein Center Digital Future. Born in 1982 in Bratislava, he holds bachelor degrees in humanities from Charles University (Prague) and linguistics from University of Nice Sophia-Antipolis; master degree in artificial and natural cognition from Ecole Pratique des Hautes Etudes (Paris). In 2016, a successful defense of his Thesis “Evolutionary modelis of ontogeny of linguistic categories”, entitled Daniel to carry a double doctorate from both Slovak Technical University (cybernetics) as well as University Paris 8 – Lumieres (psychology). Father of two children, he is a founder and first senator of oldest Slovak digital community kyberia.sk .",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "16:00",
+     "end": "18:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": null,
+     "room": "Grunewaldstr. 2-5, Raum 110 (Aula)",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -202,7 +772,57 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "NETWORK NEURODIVERSITY Angela Alves & Lovis Heuss NETWORK NEURODIVERSITY: Un//masking as artistic practice Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Saturdays/Sundays, 7./8.11. & 14./15.11.2026, each 11-17 h HZT Campus Uferstudios, Studio 11 Please save the date: There will be an online pre-event introducing the un//masking zines on 7 October 2026 at 3pm . In this conversation, Lovis Heuss will speak with Angela Alves about the collaboration. Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3320 Einschreibeschlüssel / Enrollment Key: neurodiverse This seminar creates a space for neurodivergent creative processes, access needs, rest, and collective reflection, grounded in disability joy and critical theory. Bringing together Lovis Heuss’ self-published zine series un//masking the performing arts and Angela Alves’ Care Pods practice, the seminar explores how artistic creation, care, and collective support can work together.The seminar is designed especially for neurodivergent people and welcomes anyone interested in rethinking learning through care, solidarity, and collective practice. Throughout the seminar, un//masking and Care Pods are explored as connected practices. Un//maskingquestions neuronormative expectations in art-making and public life. Care Pods create collective spaces for reflection, processing experiences, and supporting one another. The mornings draw on the un//masking zines as a toolkit and research practice. Through embodied exercises, theory inputs, sCRIPts (scores), disability arts examples, and collective experiments, participants explore neurodivergent approaches to artistic creation. Together, we investigate how un//masking can become a daily practice of resistance and how artistic processes can move beyond expected norms toward more neurodivergent-friendly ways of creating. The afternoons build on Care Pods through sharing circles based on free associative speech, without interruption, judgement, advice, or pressure to solve problems. Care Pods become both an access practice and an artistic method: a space to process experiences, sustain collective learning, and strengthen support networks. Rest is centred throughout the seminar as both an artistic practice and a form of un//masking. Sessions begin with horizontal rest, creating space for different ways of learning, listening, and being together. The participants gain practical and theoretical experience with the un//masking methodology, informed by disability as method, aesthetics of access, neuroqueer disidentification, and the neurodiversity paradigm. The seminar centres neurodivergent experiences and offers working methods that participants can adapt to their own artistic and collaborative practices. Voraussetzung für die Teilnahme / Prerequisites for Participation: neurodivergent perspective Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: active participation Choreography, Dance and Disability Arts Listen & Listen with Lovis Heuss 7 October 2026 3pm-4.30pm online: https://us02web.zoom.us/j/88967078251?pwd=b1COdYQJQWZqpUoHahYZjZssQKdNeR.1 Angela Alves lives with a chronic neurological condition in Berlin and works as a choreographer, dancer and cultural worker at the intersection of art, body and politics. In her work, she questions the dominant social storytelling of ‘healthy’ and ‘sick’ and counters blank spaces and contradictions with her sensitive and intelligent nervous system. From the perspective of lived experience, anti-ableist performances and sound installations are created, as well as a cultural practice of mutual care and solidarity, which Alves trains in collaboration with others. Angela Alves studied dance at ArtEZ (NL) and dance studies at the FU Berlin. Since October 2023, she has been working as an artistic associate in the project team of Prof. Claire Cunningham at the Inter-University Centre for Dance Berlin (HZT), where she researches, teaches and practices neurocrip-feminist practices such as resting, quitting and pleasuring. Lovis Heuss (1990) is a transdisciplinary artist, performer, and drag persona from Zurich. Lovis’s work draws on experiences from queer subculture, Crip Spaces, and collectively organized activism, and explores themes such as un//masking, neuroqueering, gender, and the aesthetics of access. Lovis Heuss is currently working on the ongoing research project “un//masking the Performing Arts” and has already co-curated events for the Zürcher Theater Spektakel (treehouse 2024/25/26) and the Gessnerallee (Relaxed Feiern 2026/27). In addition, Lovis performs solo (Peepshow, 2026), with the independent performance collective CHICKS* (MASTEKTOMIE. A Bittersweet Farewell Song, 2024), and with director Tomer Zirkilevich (SODOM, 2025).",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 5,
+     "start": "11:00",
+     "end": "17:00",
+     "rhythm": "single",
+     "first_date": "2026-11-07",
+     "last_date": "2026-11-07",
+     "room": "HZT Campus Uferstudios, Studio 11",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "11:00",
+     "end": "17:00",
+     "rhythm": "single",
+     "first_date": "2026-11-08",
+     "last_date": "2026-11-08",
+     "room": "HZT Campus Uferstudios, Studio 11",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "11:00",
+     "end": "17:00",
+     "rhythm": "single",
+     "first_date": "2026-11-14",
+     "last_date": "2026-11-14",
+     "room": "HZT Campus Uferstudios, Studio 11",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "11:00",
+     "end": "17:00",
+     "rhythm": "single",
+     "first_date": "2026-11-15",
+     "last_date": "2026-11-15",
+     "room": "HZT Campus Uferstudios, Studio 11",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -223,7 +843,93 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Performing Fakes Prof. Chris Kondek Performing Fakes Intensive Workshop, English/Deutsch, 2 SWS, 2 ECTS Saturdays & Sundays, each 11-16 h in Hardenbergstr. 33 (be aware of different rooms): 7 dates: 10.1.2027 (room 201), 16./17.1. (room 310), 23./24.1. (room 201), 30./31.1. (room 310) Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3355 Einschreibeschlüssel / Enrollment Key: fakeperformance In a world increasingly shaped by digital tools and artificial intelligence, the boundary between the \"real\" and the \"fake\" starts to blur. This blur includes people. Deepfakes, Chatbots, autonomous AI agents make it increasingly hard to discern who – or what – we are dealing with. This workshop asks how our idea of what is real is evolving—and how faking has moved from forgery to a generative force, creating new identities, histories, and realities. Through media analysis and hands-on practice, including discussing and developing AI models, participants will explore how fakes function and how artists can respond to and appropriate these strategies. Rather than condemning fakes, we seek to use their affective potential. Participants will create fake identities, contexts and narrative artifacts: From fake influencers and utopian newsreels to fake visas and non-existent subcultures. These creations will be the raw material for a performance we will develop together – a media performance about fakes using fakes. What futures do these fakes warn against, what do they hope for? Fulfilment criteria for ungraded accreditation: active and regular participation. Chris Kondek , born in Boston in 1962, started as a video designer for theater in 1990 working with the New York Theater company The Wooster Group. In 1995 he began a multi-year collaboration with performance artist Laurie Anderson; in the late 90's he made video for productions by Robert Wilson, The Builder's Association and Michael Nyman. After moving to Berlin in 1999 Kondek established himself in the German Theater world, working with directors Stefan Pucher, Falk Richter, Jossi Wieler, Armin Petras among many others, as well as with choreographer Meg Stuart. In 2007 Kondek created video for the first of many opera productions with Sebastian Baumgarten. With director Lydia Styer he worked on Stockhausen's “Donnerstag aus Licht”, which was named production of the year 2016 by Opernwelt magazine. For his video work in theater Kondek received the OPUS/Deutscher Bühne Prize in 2008 and the Faust Theater Prize in 2012. Since fall 2023, he and Prof. Christiane Kühl share the Professorship for Interdisciplinary Artistic Practice and Theory at Studium Generale at UdK Berlin.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 6,
+     "start": "11:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-10",
+     "last_date": "2027-01-10",
+     "room": "Hardenbergstr. 33, room 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "11:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-16",
+     "last_date": "2027-01-16",
+     "room": "Hardenbergstr. 33, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "11:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-17",
+     "last_date": "2027-01-17",
+     "room": "Hardenbergstr. 33, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "11:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-23",
+     "last_date": "2027-01-23",
+     "room": "Hardenbergstr. 33, room 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "11:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-24",
+     "last_date": "2027-01-24",
+     "room": "Hardenbergstr. 33, room 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "11:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-30",
+     "last_date": "2027-01-30",
+     "room": "Hardenbergstr. 33, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "11:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-31",
+     "last_date": "2027-01-31",
+     "room": "Hardenbergstr. 33, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -244,7 +950,69 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Reclaiming the Opera Pauline Jacob Reclaiming the Opera! Seminar, Deutsch/English, 2 SWS, 2 ECTS 5 Freitagstermine 10-14 bzw. 10-16 Uhr, Achtung: wechselnde Orte 23.10.2026 10:00 - 14:00 in Bundesallee 1-12, PS-R70 (Probensaal) 13.11.2026, 10:00 - 16:00 in Karlsruher Str. 7a, P4 (Bewegungsraum) 18.12.26 10:00 - 14:00 in Bundesallee 1-12, PS-R70 (Probensaal) 22.01.2027, 10:00 - 16:00 in Karlsruher Str. 7a, P4 (Bewegungsraum) 12.02.2027, 10:00 - 16:00 in Karlsruher Str. 7a, P4 (Bewegungsraum) Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3314 Einschreibeschlüssel / Enrollment Key: reclaim! Die Oper: ein vorzeitliches Relikt, das als hoch subventionierte Hochkultur überlebt und dabei patriarchale und intersektional diskriminierende Erzähl- und Arbeitsformen pflegt. Aber die Oper kann auch, zumindest theoretisch, berühren wie kaum etwas anderes – emotional durch die Kombi aus Musik und Theater, physisch durch die Amplitude zwischen Flüstern und hohem C. In diesem Seminar erobern wir die Oper und brechen sie auf das herunter, was sie einmal war: Popmusik ihrer Zeit, die brandaktuelle Themen verhandelt. Dabei seid ihr immer willkommen, egal, ob ihr Musik studiert oder keine musikalische Vorbildung habt. Ausgehend von der Oper Dido and Aeneas von Henry Purcell fragen wir: Wie finden FLINTA*-Personen und andere marginalisierte Gruppen zu ihren Stimmen zurück? Dafür arbeiten wir vor allem praktisch und pflegen produktiven Dilettantismus: Wir hören die Oper und nehmen sie danach auseinander. Wir lernen unsere (Sing-)Stimmen kennen, improvisieren musikalisch und trauen uns über Schamgrenzen hinweg zur Lautstärke. Wir schreiben eigene Texte und fügen Text und Klang zu neuen Opernminiaturen zusammen. Ob DJ-Set mit Live-Lesung, Klarinettensolo oder Playlist-Dinner – die Form der Miniaturen ist vollkommen offen! Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: regelmäßige und aktive Teilnahme, Entwicklung einer Opernminiatur, alleine oder mit anderen zusammen Pauline Jacob ist Co-Leiterin des Musiktheaterkollektivs »staatsoper24«, für das sie Konzepte und Libretti schreibt und häufig Regie führt. Als studierte Opernsängerin (BA Gesang, HfMT Hamburg) performt sie in experimentellen Musiktheaterproduktionen; ihren MA in Angewandter Theaterwissenschaft absolvierte sie an der JLU Gießen, dazu kommen Zertifikate in Musikvermittlung (HfK Bremen) und »Gender, Diversity and Sexuality« (JLU Gießen). Mit staatsoper24 denkt sie die Oper – von Inhalt über Ausbildungsbetrieb bis zur Arbeitsstruktur – ganzheitlich neu, weiblich* und zeitgemäß. In Musiktheater-Performances, musikalischen Hörspielen und performativen Ausstellungen werden marginalisierte Stimmen empowert, es verschwimmen Genregrenzen und manchmal singt ein Hund im Pelzmantel. Ihre Arbeiten liefen u. a. an der Staatsoper Stuttgart, bei den Schwetzinger SWR Festspielen, an der Kölner Philharmonie und der Deutschen Oper Berlin.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-10-23",
+     "last_date": "2026-10-23",
+     "room": "Bundesallee 1-12, PS-R70 (Probensaal)",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-11-13",
+     "last_date": "2026-11-13",
+     "room": "Karlsruher Str. 7a, P4 (Bewegungsraum)",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-12-18",
+     "last_date": "2026-12-18",
+     "room": "Bundesallee 1-12, PS-R70 (Probensaal)",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-01-22",
+     "last_date": "2027-01-22",
+     "room": "Karlsruher Str. 7a, P4 (Bewegungsraum)",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2027-02-12",
+     "last_date": "2027-02-12",
+     "room": "Karlsruher Str. 7a, P4 (Bewegungsraum)",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -265,7 +1033,33 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Rotten Prints (All Good Things Must Come To An End) Charlotte Hornung & Jo Rüßmann Rotten Prints (All Good Things Must Come To An End) Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Freitags/Samstags, jeweils 10-18 Uhr, 27./28.11.2026 sowie 4./5.12.2026 Grunewaldstr. 2-5, Raum 15 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3309 Einschreibeschlüssel / Enrollment Key: rotten Was trotzt unseren Versuchen, die Zukunft greifbar (und haltbar) zu machen? Schimmel, Fäulnis und Verfall markieren den Übergang von menschlichen zu nicht-menschlichen Welten – von materieller zu bakterieller oder mykologischer Kultur. Mit dem ästhetischen Potenzial des Schimmelpilzes setzen sich nicht nur zeitgenössische Künstler*innen auseinander; die menschliche Faszination mit den Agenten der Vergänglichkeit reicht weit zurück, und zeichnet sich beispielsweise in den überreifen Früchten oder welken Blumenköpfen klassischer Stillleben ab. Wir arbeiten mit der Methode der „Verlorenen Form“ im Siebdruck. Bei dieser gibt es kein Zurück – jede Farb-Ebene ergibt sich reduktiv aus der vorherigen, die Druckform geht also im Prozess verloren. Das Schwinden und Eröffnen zeitlicher Horizonte wird erfahrbar, da jede Entscheidung alle zukünftig möglichen Entscheidungen bedingt und limitiert: eine Einladung zum ergebnisoffenen Arbeiten. Der Kurs findet als Blockseminar an vier Terminen in der Siebdruckwerkstatt des Medienhauses statt. Es wird keine druckgrafische Vorerfahrung benötigt. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Regelmäßige und aktive Teilnahme an der Siebdruck-Einführung zu den Grundlagen und den Sitzungen des Seminars. Zeichnerische Experimente & 2-3 mehrfarbige Siebdrucke. Jo Rüßmann (sie / ihr), lebt und arbeitet als Illustratorin und Comiczeichnerin in Berlin. Sie schreibt und zeichnet grafische Erzählungen mit dem Schwerpunkt auf der Spannung, welche zwischen linearer Narration und deren Subversion durch narrative und logische Brüche erzeugt wird. Analoges Zeichnen und Druckgrafik stehen immer im Mittelpunkt ihrer Arbeit. Charlotte Hornung (sie / ihr) arbeitet und lebt als freie Druckgrafikerin in Berlin. Markante Farb- und Formkompositionen, experimentelle Narrative und manuelle Druckvorgänge charakterisieren ihre gestalterische Arbeit. Sie fertigt Druckgrafiken mit Risographie, Sieb- oder Schablonendruck an, sowohl auf Papier als auch auf konstruierten Objekten.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2026-11-27",
+     "last_date": "2026-11-28",
+     "room": "Grunewaldstr. 2-5, Raum 15",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2026-12-04",
+     "last_date": "2026-12-05",
+     "room": "Grunewaldstr. 2-5, Raum 15",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -286,7 +1080,33 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Second Nature: working the routines in our lives Vincent Hulme Second Nature: working with the routines in our lives Seminar, English/Deutsch, 2 SWS, 2 ECTS Wednesdays, 18–20 h, starts 14.10.2026, Hardenbergstr. 33, room 150 Closing exhibition on Wednesday, 3.2.2027, 14-20 h in Hardenbergstr. 33, room 101 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3315 Einschreibeschlüssel / Enrollment Key: 2nature We all have them. The dog walk at six, the skincare regimen, the coffee before anything else, the workout, the way we tidy a desk before we can think. Routines are the small, repeated actions that structure our days and, over time, our lives. We rarely look at them closely. This course is where we do. A routine can be chosen, imposed, or somewhere in between, and that's one of the first things we leave open rather than settle. We investigate contemplatively, not critically. Each participant picks one and stays with it for the semester. We meet weekly to read a handful of texts on habit and attention against our own material. Partway through, we trade: for a few weeks, everyone adds someone else's routine to their own, running both side by side. The one you already have needs no thought at all; the borrowed one takes real attention, because your body hasn't learned it yet. We try things out in the room throughout the semester, and by the end, each participant shows a finished piece built from that work. The course is built for people from any discipline. Our different practices and ways of seeing are the material we work with. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: regular and active participation, logging one chosen routine across the semester, hosting one session with a reading, and presenting the result of that work at the end of the semester. Vincent Hulme is an artist and educator based in Berlin. He studied Fine Art at the Universität der Künste Berlin in the Klasse of Josephine Pryde (Meisterschüler, 2020–2023), with a study year at the École Nationale Supérieure des Beaux-Arts in Paris (2022). His work has been shown in exhibitions across Berlin, Paris, New York, and elsewhere. Since 2019 he has founded and led the Common Ground Studio (CGS) at the UdK — a student-initiated peer-mentorship program supporting Artists at Risk in connecting with the university. Over six years the CGS has worked with more than 70 participants across 12 Fachklassen, developing formats for embedded learning, collective exhibition-making, and peer-led knowledge exchange. The CGS was nominated for the Berlin State Prize for Excellent University Teaching in 2026 and received the DAAD-Preis of the UdK Berlin in 2025. Hulme has additional teaching experience at secondary level in Berlin and has tutored within Klasse Pryde at the UdK. He currently works at the Berliner Künstlerprogramm des DAAD.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "18:00",
+     "end": "20:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": null,
+     "room": "Hardenbergstr. 33, room 150",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "14:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2027-02-03",
+     "last_date": "2027-02-03",
+     "room": "Hardenbergstr. 33, room 101",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -305,7 +1125,21 @@
    "url": "https://www.udk-berlin.de/studium/studium-generale/kurse-courses/interdisziplinaere-kuenstlerische-praxis-und-theorie-wise-2026-27/the-agency-of-objects/",
    "org": "Studium Generale",
    "description": "The Agency of Objects Nina Birri & Jonathan James The Agency of Objects Intensive workshop after the end of the semester, English/Deutsch, 2 SWS, 2 ECTS Monday – Thursday, 15.-18.2.2027, each 10-18 h Straße des 17. Juni 118, room 105 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3319 Einschreibeschlüssel / Enrollment Key: agentobject Re-working the past so it can materially and emotionally better our future is the premise of this course. Reusing and recycling the goods left behind by the dead as a memorial is both a long-standing practice of craftsmanship as well as a growing field of research for interdisciplinary artists and designers. In this course we will get to know the agency of materials and their ability to store memories and help us to transform grief and nostalgia to step into the future. Introductory case studies and examples of this practice will be presented alongside a theoretical foundation in material studies and a short lecture on grief. You will be guided to develop a methodology for re-working sentimental materials or objects into a future facing memorial. Coming from (textile) art and (fashion) design, the primary medium for this course will be textiles – garments, fabric, thread and respective craftsmanship – , however, you are welcome to bring in other techniques, ways of working and mental models from your disciplines. The course will be a mix of input, studio-based practical work and individual and group reflection. The topic of grief can be approached from a personal or societal point of view (e.g. ecological grief or grief for a future that won’t come). The course will be structured roughly according to the following process: material choice, material elaboration, find focus / concept, materialisation, final format, reflection and documentation. The main language of the course is English; questions and individual consults can be in German. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: active attendance and participation in the course; developing and demonstrating a methodology for re-working material into a new object; critical reflection and adaption of course themes on their own field of study; presentation of the processes and final product Nina Birri is a Swiss fashion designer, living and working in Berlin. In her design practice she examines the notion of newness and grief in times of material scarcity in the context of upcycling discarded materials. Nina holds an MA in Design from Berlin University of the Arts. Aside of her fashion design practice she works as a service designer in the public sector. Jonathan James first studied and worked in fashion before graduating with a Masters in Visual Art. He has lectured at University of Sydney and University of Newcastle. He has a Bachelors in Art Education and further education experience in museums and schools. His atelier is in Berlin where his practice focuses on material exploration.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-02-15",
+     "last_date": "2027-02-18",
+     "room": "Straße des 17. Juni 118, room 105",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -324,7 +1158,33 @@
    "url": "https://www.udk-berlin.de/studium/studium-generale/kurse-courses/interdisziplinaere-kuenstlerische-praxis-und-theorie-wise-2026-27/the-future-is-not-yet-carved-in-stone-public-memory-as-speculative-practice/",
    "org": "Studium Generale",
    "description": "The Future Is Not Yet Carved in Stone: Public Memory as Speculative Practice Chiara Faggionato & Lina Mazenett The Future Is Not Yet Carved in Stone: Public Memory as Speculative Practice Intensive workshop, English/Deutsch, 2 SWS, 2 ECTS Saturdays & Sundays, each 10-18 h, 21./22.11.2026 and 30./31.1.2027 Hardenbergstr. 33, room 004 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3318 Einschreibeschlüssel / Enrollment Key: nostonefuture Look up. Who gets the pedestal, and will they still be there in 100 years? Our cities are mostly inhabited by figures from the past. These statues and monuments are not innocent: they carry narratives about power related to gender, nature, culture, class and beyond, that shape how we see the present and imagine the future. During the course we will look closely at how power structures and stereotypes are represented in public statues and ask ourselves: what worldview do these figures carry? What stories do they tell? Whose bodies are glorified, and whose are dominated or absent? What futures were these artworks imagining? In the first block we will engage with these questions through critical readings, site visits, collective discussions and somatic practices. We will explore the public statues of the Museumsinsel, one of the most symbolically charged public spaces in Berlin. We will then move into the Altes Museum, where we will trace the visual language of the Western classical tradition and its narratives of heroism, conquest and power — visual forms that later reappeared in bronze and equestrian monuments erected across colonial territories around the world. We will also visit the ‘Alternatives Denkmal für Deutschland’ (ADfD), a participatory digital counter-monument commemorating migration that was created collectively by artists, researchers, activists and cultural practitioners in Berlin in 2024. In the second block we will shift from analysis to imagination: what statues, narratives, and forms of public memory do we need in order to imagine more just, relational, and ecological futures? Each student brings their own reference — a statue or a monument from their own city, culture or tradition — and applies this critical lens to their context. Together we enter a futurity studio: a space for speculative artistic practices for the public memory of our cities. Students are encouraged to develop their own proposals in response to their research, individually or in small groups. This could take any form: a proposal for a counter-monument, a sound piece, a video, a performance, a temporary intervention, a speculative fiction, a concept for a multispecies memorial, or any other artistic practice. Students are invited to question not only the content of monuments but the form itself — many indigenous cultures never needed to carve heroes in stone: memory lived in rivers, plants, rituals and oral traditions. Together we will imagine: what stories could inhabit our cities? What forms might public memory take? The future is not yet carved in stone. Literaturhinweise und mediale Referenzen / Readings & media: - Haraway, Donna. Staying with the Trouble: Making Kin in the Chthulucene. Duke University Press, 2016. - Hicks, Dan. Every Monument Will Fall. 2025. - Krenak, Aílton. Ancestral Future. 2024. - Rozas-Krause, Valentina & Shanken, Andrew Michael, eds. Breaking the Bronze Ceiling: Women, Memory, and Public Space. Fordham University Press, 2024. - ‘Alternatives Denkmal für Deutschland’ (ADFD): adfd.info - Decolonize Berlin: decolonize-berlin.de Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Active participation in site visits and collective discussions. Engagement with suggested readings. Individual or collaborative research on a statue or monument. Development and presentation of an artistic proposal in response to this research. Amazonen in Berlin is an art collective founded by Chiara Faggionato and Lina Mazenett. The collective develops artistic, community-oriented and educational projects with an ecofeminist and decolonial approach. Their work centres on the critical reading of statues and monuments in urban space and museum collections — exploring the narratives and mythologies they embody and the power structures they perpetuate. Their practice unfolds through different participatory formats such as artistic walks, workshops and experimental tours. They collaborate with FLINTA* associations, curatorial initiatives and cultural spaces across Berlin, like Urbane Praxis, ReRouting and Barazani, and work in ongoing dialogue with the Altes Museum Berlin. Their projects have been funded by European and Berlin-based cultural grants, such as the EU Ecofeminist Movement Building Fund (WECF) and the Berliner Projektfonds Kulturelle Bildung. Chiara Faggionato (she/her) is an interdisciplinary visual artist, researcher, and educator based between Berlin and Vicenza. Her practice weaves together experimental film, art in public space and socially engaged art to explore ecology, mythology and feminism through a transversal lens. She holds an MA in Art in Context from the UdK Berlin and her artworks have been presented internationally in exhibitions and festivals, including Ocean Space, Vorspiel transmediale, Salon Suisse at the 16th Biennale di Venezia and the Clermont-Ferrand Film Festival, among others. Lina Mazenett (she/her) is a Colombian visual artist and researcher based in Berlin. She works across different media, focusing on ecology, decolonial perspectives and non-Western cosmologies. She holds a postgraduate degree in Amazonian Studies from the Universidad Nacional de Colombia, as well as an M.A. in Art in Context from the UdK Berlin. Her work includes participation in the 'Alternatives Denkmal für Deutschland' (ADfD) and the creation of site-specific artistic proposals for Kunst am Bau. Recent exhibitions include TERRA DIASPORA ",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2026-11-21",
+     "last_date": "2026-11-22",
+     "room": "Hardenbergstr. 33, room 004",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-01-30",
+     "last_date": "2027-01-31",
+     "room": "Hardenbergstr. 33, room 004",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -345,7 +1205,57 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "WIDENING TOMORROWS - Horizonte, Panoramen und die Kunst des Weitblicks Matthias Moravek WIDENING TOMORROWS - Horizonte, Panoramen und die Kunst des Weitblicks Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Samstags/Sonntags, jeweils 10-18 Uhr, 7./8.11.2026 und 14./15.11.2026 Hardenbergstr. 33, Raum 004 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3311 Einschreibeschlüssel / Enrollment Key: widetomorrow Die Zukunft liegt neben uns: Es besteht kein Zweifel: Hochformate sind wohl das prägende Format der Gegenwart. Sie organisieren Aufmerksamkeit jedoch vertikal, seriell und eng. Das Panorama dagegen eröffnet Seitwärtsbewegungen, Nachbarschaften, Gleichzeitigkeiten, Peripherien und Leerstellen. Die so entstehenden Horizonte erscheinen als weiter Blick in die Tiefe des Raums, der klar oder verschwommen sein kann: Zukunft wird nicht zum Zielpunkt, sondern zu einem Feld möglicher Beziehungen und kann als ein breiter, vielschichtiger und offener Bild- und Denkraum verstanden werden. Inhaltlicher Ausgangspunkt des interdisziplinären praktischen Seminars bilden zeichnerische, fotografische und filmische Erforschungen von unterschiedlichen Panoramablicken über Berlin und die daraus entwickelbaren Konstruktionen möglicher Zukünftigkeiten als utopische oder dystopische Szenarien. Es verbindet kulturhistorische Überlegungen zu Panoramen und Horizonten mit dem Experimentieren mit bildnerischen Techniken zur Darstellung und Konstruktion von tiefen Bildräumen, weiten Formaten und Zukunftsvisionen. Auf deren Grundlage soll im Seminar eine Idee zu einer eigenen künstlerischen Arbeit entstehen, die Aussichten, Umsichten und den Himmel über Berlin zum Welttheater von Morgen werden lässt. Gemeinsame Überlegungen und der individuelle künstlerische Arbeitsansatz stehen dabei im Vordergrund, der in unterschiedlichen bildnerischen Arbeiten wie etwa Zeichnungen, Malereien, Fotografien, Collagen, Reels, Videos und digitalen Visualisierungstechniken münden kann. Let’s widen tomorrows together! Matthias Moravek (*1976 in Mühlacker, Studium der Bildenden Kunst an der Kunstakademie Karlsruhe sowie der UdK Berlin) setzt sich in seinen Arbeiten mit Inhalt, Form und Farbe von physikalischen Phänomenen und Wetterereignissen sowie postkolonialen Bildgedächtnissen und deren kultureller Wahrnehmung auseinander. Die Bezüge seiner Arbeiten reichen von Reiselithographien des 19. Jahrhunderts bis hin zu den digitalen Bildräumen der Gegenwart. Stipendien und institutionalisierte Förderungen ermöglichten ihm Ausstellungen und Arbeitsaufenthalte in Ahrenshoop, Istanbul, Saint-Louis (Senegal), Los Angeles und Mexico City. Seit 2017 ist er Mitbetreiber und Gesellschafter von Axel Obiger - Raum für zeitgenössische Kunst in Berlin. Seit dem Ende seines Studiums sammelt er Lehrerfahrung an Hochschulen, Seminaren und künstlerischen Privatschulen in Theorie und Praxis der Bildenden Kunst, etwa an der UdK Berlin (SoSe 22, SoSe 23, SoSe24 und SoSe25, interdisziplinäre künstlerische Praxis, Studium Generale) oder der Sommerakademie Dresden (2025) sowie der Berlin Summer University der UdK (2025). Zahlreiche Werkportraits besprachen seine Arbeiten bisher, etwa im Tagesspiegel (Berlin, 2019), in der El Pais (Madrid, 2019) oder in der FAZ (Frankfurt, Main, 2022). Matthias Moravek lebt und arbeitet in Berlin.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-07",
+     "last_date": "2026-11-07",
+     "room": "Hardenbergstr. 33, Raum 004",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-08",
+     "last_date": "2026-11-08",
+     "room": "Hardenbergstr. 33, Raum 004",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-14",
+     "last_date": "2026-11-14",
+     "room": "Hardenbergstr. 33, Raum 004",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-15",
+     "last_date": "2026-11-15",
+     "room": "Hardenbergstr. 33, Raum 004",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -364,7 +1274,57 @@
    "url": "https://www.udk-berlin.de/studium/studium-generale/kurse-courses/interdisziplinaere-kuenstlerische-praxis-und-theorie-wise-2026-27/your-project-management-compass/",
    "org": "Studium Generale",
    "description": "Your Project Management Compass Cassandra Schwermer Your Project Management Compass Intensive workshop, English/Deutsch, 2 ECTS, 2 SWS Friday, 23.10.2026, 14-20 h Saturday, 24.10.2026, 10-18 h Friday, 11.12.2026, 14-20 h Saturday, 12.12.2026, 10-18 h All sessions take place in Hardenbergstr. 33, room 110 Zielgruppe : Diese Blockseminare wenden sich vorrangig an Personen mit internationaler Hochschulzugangsberechtigung. Voraussetzungen : keine Anmeldung: Your Project Management Compass 1 - Research, Concept Development & Project Mapping – Universität der Künste Berlin Your Project Management Compass 2 - Planning, Budgeting & Professional Presentation – Universität der Künste Berlin Your Project Management Compass is a two-part intensive workshop by Cassandra Schwermer connecting artistic research, creative project development, and professional project management. The two workshop blocks build upon each other while each offering participants the opportunity to independently develop and realize their own project proposal. In Part I, participants develop an artistic or cultural idea into a research-based project proposal. The focus is on contextual research, references, concept development, target groups, production conditions, and the visual mapping of the creative process. Part II introduces a new, independently developed project proposal, allowing participants to apply and deepen the methods explored in the first block. Particular attention is given to planning, budgeting, timelines, roles and responsibilities, communication, collaboration, and professional presentation. Working with two independent project ideas enables participants to test different approaches, formats, and strategies. The workshop combines artistic intuition with structural, economic, and collaborative thinking. Visual tools such as process maps, mood boards, timelines, production diagrams, and workflows help make complex creative processes transparent, comprehensible, and professionally communicable. The workshop also explores possibilities of co-creation with artificial intelligence in research, planning, and creative development processes. The workshop aims to strengthen participants in developing, communicating, and realizing their own artistic projects with clarity, independence, professional confidence, and creative sovereignty. Each workshop block results in an independently developed, visually traceable, and presentation-ready project proposal. Leistungsanforderungen für den unbenoteten Schein : regelmäßige aktive Teilnahme; Entwicklung eines eigenen Projektvorschlags mit Präsentation im Kurs; drei bis vier A4-Seiten Schriftgröße 11 Arial, 1,5 Zeilen Abstand schriftliche Reflexion zum eigenen Prozess, Teilnahme an beiden Kursen . Cassandra Schwermer is known as interdisciplinary artist, project developer, author, director, and composer/musician, and Artistic Director of Atelier GET INTO PLAY Berlin, where she conducts transdisciplinary research and develops projects at the intersection of visual arts, performing arts, dance, music, education, and society. At the core of her practice is the playful human being (Homo Ludens) as a driving force for creative, participatory, and collaborative processes. Since 2015, following several stays abroad, transculturality and intersectionality have become defining elements of her professional practice. Her ongoing practice also includes continuous work with artificial intelligence as a tool for artistic co-creation, research, and planning processes, exploring new forms of collaboration between human creativity, artistic practice, and emerging technologies.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "14:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-10-23",
+     "last_date": "2026-10-23",
+     "room": "Hardenbergstr. 33, room 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-10-24",
+     "last_date": "2026-10-24",
+     "room": "Hardenbergstr. 33, room 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "14:00",
+     "end": "20:00",
+     "rhythm": "single",
+     "first_date": "2026-12-11",
+     "last_date": "2026-12-11",
+     "room": "Hardenbergstr. 33, room 110",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-12-12",
+     "last_date": "2026-12-12",
+     "room": "Hardenbergstr. 33, room 110",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Interdisziplinäre künstlerische Praxis und Theorie (WiSe 2026/27)"
@@ -385,7 +1345,21 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "A Short History of the Learning Machine Prof. Dr. Daniel D. Hromada A Short History of the Learning Machine Seminar, English/Deutsch, 2 SWS, 2 ECTS Wednesdays, 14-16 h, weekly, starts 14.10.2026, Grunewaldstr. 2-5, Raum 110 (Aula) Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3326 Einschreibeschlüssel / Enrollment Key: machine Short History of Learning Machines explores humanity's age-old dream of creating artificial minds. From myths of hubris and ancient automata through Pythagoras, Al-Khwarizmi, Leibniz, Babbage, Ada Lovelace, Turing and Shannon, the seminar traces the intellectual and technological history of learning machines. It culminates in contemporary machine learning, neural networks, large language models and AI agents, examining how machines learn, represent and generate information. Combining historical perspective with practical AI literacy, the seminar asks not only how these systems work and how we can work with them, but also whether \"artificial intelligence\" is the right name for these new forms of mind. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation : presentation or referat and/or artefact for winter Rundgang. Depending on the additional coursework they complete, students may earn more than 2 ECTS credits for their own degree program. Course materials & Open Educational Resources: https://udk.ai/machine Matrix room: https://udk.ai/classroom/#/room/#AI-literacy:medienhaus.udk-berlin.de Daniel Devatman Hromada is UdK’s Juniorprofessor for Digital Education at Einstein Center Digital Future since August 2018. Born in 1982 in Bratislava, he holds bachelor degrees in humanities from Charles University (Prague) and linguistics from University of Nice Sophia-Antipolis; master degree in artificial and natural cognition from Ecole Pratique des Hautes Etudes (Paris). In 2016, a successful defense of his Thesis “Evolutionary modelis of ontogeny of linguistic categories”, entitled Daniel to carry a double doctorate from both Slovak Technical University (cybernetics) as well as University Paris 8 – Lumieres (psychology). Father of two children, he is a founder and first senator of oldest Slovak digital community kyberia.sk .",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 2,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-14",
+     "last_date": null,
+     "room": "Grunewaldstr. 2-5, Raum 110 (Aula)",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -406,7 +1380,69 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Amazofuturism: Technologische Utopien des Regenwaldes Aliza Yanes Viacava Amazofuturism: Technologische Utopien des Regenwaldes Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Samstags, jeweils 10-16 Uhr, 5 Termine: 7.11., 14.11., 21.11., 28.11. und 5.12.2026 Hardenbergstr. 33, Raum 150 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3322 Einschreibeschlüssel / Enrollment Key: amazon Wie können wir uns die Zukunft des Amazonasgebiets in einer zunehmend technologisierten Welt vorstellen? Wer hat das Recht, sich diese Zukunft vorzustellen und darüber zu schreiben? Science-Fiction und der größte Regenwald der Welt vereinen sich im Begriff des „Amazofuturism\" – einem literarischen Genre, das sich mit der Stellung des Amazonasgebiets in Zukunftsvisionen auseinandersetzt und dabei koloniale und festgefahrene Sichtweisen hinterfragt. Seit der Einführung des Begriffs im Jahr 2020 zur Bezeichnung einer aus Brasilien stammenden Strömung der bildenden Kunst hat sich das Konzept in der Science-Fiction-Literatur etabliert. Es wirft eine Reihe von Fragen darüber auf, wie man sich die Zukunft dieser Region vorstellt, insbesondere die Frage, wer (selbst im 21. Jahrhundert) das amazonische Subjekt ist. Handelt es sich um das indigene, das mestizische oder das urbane Subjekt? Wie viele mögliche Darstellungen des Amazonasgebiets gibt es und welche davon betont die Strömung des Amazofuturism besonders? Ziel dieses Seminars ist es, uns dem Begriff des Amazofuturism anzunähern, zu erfahren, woher er kommt, wohin er sich entwickelt und wer seine bedeutendsten Vertreter:innen sowohl in der Literatur als auch in der bildenden Kunst sind. Dies erfordert wiederum, dass wir uns mit der Geschichte des Kolonialismus und des Extraktivismus in der Region, der Bedeutung der aktuellen Umweltkämpfe und der Frage auseinandersetzen, wie all dies in literarischen Werken und visuellen Darstellungen ästhetisch zusammenfließt. Während des Seminars werden wir Texte lesen sowie Dokumentarfilme sehen. Außerdem wird angestrebt, im Rahmen des Seminars ein Zoom-Gespräch mit einer Expertin für indigene Literatur in Brasilien zu organisieren. Für die Abschlusspräsentation werden die Studierenden aufgefordert, sich eingehend mit einem der im Seminar behandelten Themen zu befassen oder weitere Beispiele für zeitgenössische Darstellungen in der Science-Fiction aus anderen Teilen der Welt vorzustellen. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: aktive, regelmäßige Teilnahme, Textlektüre und Abschlusspräsentation. Aliza Yanes Viacava hat einen Bachelor in Literaturwissenschaft an der Universidad Nacional Mayor de San Marcos (Lima, Peru), sowie einen Master in Interdisziplinäre Lateinamerikastudien (FU Berlin) und einen Master in Kunst im Kontext an der UdK Berlin. Ihre künstlerische Praxis verbindet literarische Forschung, kreatives Schreiben, Vermittlung, Video und Performance. Ihre Arbeiten thematisieren vor allem die diskursiven Aspekte der historischen und kulturellen Beziehungen zwischen Lateinamerika und Europa. Sie übersetzt komplexe wissenschaftliche Inhalte in zugängliche Formate. Ihr Fokus liegt auf Spuren der Kolonialzeit, besonders in den Diskursen des 16. Jahrhunderts über Fabelwesen der sogenannten „Neuen Welt\". Am Studium Generale leitete sie Seminare zu den Themen Eurozentrismus, lateinamerikanische Avantgarde und Mythen zur Zeit der Eroberung Amerikas.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-11-07",
+     "last_date": "2026-11-07",
+     "room": "Hardenbergstr. 33, Raum 150",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-11-14",
+     "last_date": "2026-11-14",
+     "room": "Hardenbergstr. 33, Raum 150",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-11-21",
+     "last_date": "2026-11-21",
+     "room": "Hardenbergstr. 33, Raum 150",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-11-28",
+     "last_date": "2026-11-28",
+     "room": "Hardenbergstr. 33, Raum 150",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-12-05",
+     "last_date": "2026-12-05",
+     "room": "Hardenbergstr. 33, Raum 150",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -427,7 +1463,105 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Dunkle Aufklärung // Dark Enlightenment Michael Annoff Dunkle Aufklärung / Dark Enlightenment Seminar, Deutsch/English, 2 SWS, 2 ECTS Freitags, 10-14 Uhr, ca. 14-tägig, 8 Termine: 16.10., 30.10., 13.11., 27.11., 11.12.2026, 15.1., 22.1. und 5.2.2027 Hardenbergstr. 33, Raum 151 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3332 Einschreibeschlüssel / Enrollment Key: dark Dunkle Aufklärung ist ein zentrales Konzept der rechtsautoritären Wende, die in den letzten Jahren immer mehr Tech-Konzerne erfasst hat. Sie wendet sich radikal von den Werten der ursprünglichen Aufklärung ab. Stattdessen behauptet die neoreaktionäre Dunkle Aufklärung, dass Freiheit, Demokratie und Diversität politischem und technologischem Fortschritt im Weg stehen. Eng mit dieser Ideologie verbunden ist das Geschichtsbild des longtermism: Es interessiert sich mehr für ferne Zukunftsszenarien wie die Ausrottung der Menschheit durch KI oder die Besiedlung des Sonnensystems als für gegenwärtige soziale und ökologische Krisen. Das Seminar untersucht Ideale und Formate der Aufklärung von ihren Ursprüngen bis zum aktuellen Wendepunkt. Es betrachtet künstlerische Bearbeitungen aufklärerischer Bewegungen und Gegenbewegungen aus den Perspektiven kritischer, dekolonialer und queerfeministischer Theorie. Back to the Future - ein Versuch, die lange Geschichte der eurozentristischen Aufklärung, ihre Verdienste, Leerstellen und Versäumnisse aus deren künstlerischen Bearbeitungen heraus zu verstehen. Mit dem Ziel, zu diskutieren, wie sich in den Künsten in naher Zukunft auf die Dunkle Aufklärung reagieren lässt. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Regelmäßige und aktive Teilnahme und Vorbereitung Michael Annoff ist Anthropologe, Performer und Kurator. Er wurde nach einem kulturwissenschaftlichen und philosophischen Studium wissenschaftlicher Mitarbeiter an der Graduiertenschule für die Künste und die Wissenschaften der UdK. Von 2016 bis 2022 lehrte er Kultur & Vermittlung an der Fachhochschule Potsdam, wo er 2021 mit dem Brandenburger Landeslehrpreis ausgezeichnet wurde. Seine Performances, Installationen und kuratorische Arbeiten waren u.a. am Haus der Kulturen der Welt, dem HAU Hebbel am Ufer und dem Museum für Kunst & Gewerbe Hamburg und der Bundeskunsthalle zu sehen. Michael Annoff interessiert sich für Social Justice und Institutionskritik in Kunst und Kulturproduktion, die Geschichte(n) queerer und antirassistischer Aktivismen und das Konzept der Performance in den Künsten und der Anthropologie. Seit 2024 gibt er gemeinsam mit Nuray Demir die performative Publikation thewordsoftheartyclass.com heraus.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-10-16",
+     "last_date": "2026-10-16",
+     "room": "Hardenbergstr. 33, Raum 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-10-30",
+     "last_date": "2026-10-30",
+     "room": "Hardenbergstr. 33, Raum 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-11-13",
+     "last_date": "2026-11-13",
+     "room": "Hardenbergstr. 33, Raum 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-11-27",
+     "last_date": "2026-11-27",
+     "room": "Hardenbergstr. 33, Raum 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-12-11",
+     "last_date": "2026-12-11",
+     "room": "Hardenbergstr. 33, Raum 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-01-15",
+     "last_date": "2027-01-15",
+     "room": "Hardenbergstr. 33, Raum 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-01-22",
+     "last_date": "2027-01-22",
+     "room": "Hardenbergstr. 33, Raum 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-02-05",
+     "last_date": "2027-02-05",
+     "room": "Hardenbergstr. 33, Raum 151",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -446,7 +1580,45 @@
    "url": "https://www.udk-berlin.de/studium/studium-generale/kurse-courses/seminare-kulturwissenschaft-wise-2026-27/from-an-archive-to-a-ruin-from-a-ruin-to/",
    "org": "Studium Generale",
    "description": "From an archive to a ruin – from a ruin to... Mirjana Mitrović From an archive to a ruin – from a ruin to... Block seminar, English/Deutsch, 2 SWS, 2 ECTS Tuesday, 20.10.2026, 10-14 h, Kick-off: Introduction and meeting with the curators of transmediale Tuesday, 26.1.2027, 17-21 h, Marshall McLuhan Lecture, Kanadische Botschaft Friday-Sunday, 29.-31.1.2027, each 12-18 h: transmediale, silent green & exhibition, Akademie der Künste Berlin Vilém Flusser Archiv, Grunewaldstr. 2-5, room 208 Excursions: 26.1., 17-21 Uhr, 29./30./31.1.2027, each from 12-18 h Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3325 Einschreibeschlüssel / Enrollment Key: ruin Since 2007 the Vilém Flusser Archive is situated at the Medienhaus at Berlin University of the Arts. The archive will thus celebrate its 20th anniversary at the UdK in 2027. At the same time, however, it is not all cause for celebration, as the archive has had its funding cut as part of the budget cuts, making its closure next year a likely prospect. This raises questions about the significance of archives in today’s society: what value do we place on them? What role should archives play? What prevents them from falling into ruin? Or is that the natural course of events? It is not only the _Vilém_Flusser_Archive that is celebrating its anniversary; the renowned transmediale festival will also be marking its 40th edition in 2027. The two institutions are linked by a long-standing collaboration: for the past 15 years, together they have been organising the Vilém Flusser Residency. The upcoming edition of transmediale will also be exploring similar questions surrounding archives. Marking its 40th anniversary, transmediale 2027 uses this condition to rethink what the institution is and what it can become. The festival refuses a nostalgic or retrospective approach, treating the archive not as history, but as a site for rearticulation. If power operates infrastructurally, resistance must do so as well. transmediale is repositioned as a counter-infrastructure: not a platform for display, but a space where practices, methods, and institutional forms are tested under real conditions of asymmetry. In this seminar, we will explore these two institutions and the mentioned questions. We plan to meet the curators of the upcoming edition of transmediale at the Vilém Flusser Archive in October, and to attend the Marshall McLuhan Lecture at the Canadian Embassy in January, as well as visit transmediale at silent green and the accompanying exhibition at the Academy of Arts. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Attendance at the first session is mandatory. Participants are expected to take a regular and active part in the session, prepare for and follow-up on the excursions and hand in a short written or creative reflection. Mirjana Mitrović is a media artist and researcher. Currently, she works as a research associate at the Vilém Flusser Archive and is doing a PhD about the flâneuse and the digitalisation of urban space at Berlin University of the Arts. She combines artistic and academic practices, focusing on the influence of new technologies, especially the internet and smartphones; the lifeworlds of women* and feminist activism; geographical, physical and mental borders and their transgression. Her art works, ranging from analogue photographs to multimedia installations, are exhibited in Germany and beyond. She studied Cultural Studies, Spanish Philology and Interdisciplinary Latin American Studies. She received a scholarship by the Hans Böckler Foundation, was a fellow at the Institute for Advanced Studies on Science, Technology and Society, TU Graz as well as a Panofsky Fellow at the Zentralinstitut für Kunstgeschichte (Central Institute for Art History), Munich. She is a member of the network „Red de Mujeres Unidas“, German Federal Foreign Office / GIZ and an elected board member of the Association of Democratic Scientists (BdWi). More information: mirjana-mitrovic.de",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-10-20",
+     "last_date": "2026-10-20",
+     "room": null,
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "17:00",
+     "end": "21:00",
+     "rhythm": "single",
+     "first_date": "2027-01-26",
+     "last_date": "2027-01-26",
+     "room": "Kanadische Botschaft",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "12:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-01-29",
+     "last_date": "2027-01-31",
+     "room": "transmediale, silent green & exhibition, Akademie der Künste Berlin",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -467,7 +1639,165 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Futures beyond repair Dr. Annika Haas Futures Beyond Repair Seminar, English/Deutsch, 2 SWS, 2 ECTS Thursdays, 10-12 Uhr, 12 dates: 15.10.; 29.10., 12.11.; 19.11.; 26.11.; 03.12.; 10.12.; 17.12.; 21.01.; 28.01.; 04.02., 11.2.2027, Medienhaus, Grunewaldstr. 2-5, room 310 Block day: Friday, 20.11., 10-18 Uhr, Spore (Excursion / visit of exhibition) Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3329 Einschreibeschlüssel / Enrollment Key: repair Repair is an ambiguous term. The far-right claims to repair societies as a violent necessity in order to restore a better past that never was. At the same time, repair is an urgent necessity when it comes to concrete political reparations for continued colonial violence or climate injustices. However, even reparations remain symbolical gestures when they are not embedded in sincere efforts to work together towards accountable and just futures. Instead of claiming repair as a pathway towards better futures, this seminar will think about futures ‘beyond repair’. As the artist Natascha Sadr Haghighian suggests in the book Beyond Repair (Archive Books, 2020), this way of thinking begins with the acknowledgment of an irreparability, and bears the potential to think and move beyond the reparative, restorative and reproductive mode of thinking and doing. In order to imagine the future differently, we must critically interrogate the underlying narratives that shape our thinking about 'the future', such as crisis, the good life, and progress. In what ways does our attachment to these narratives influence the futures we consider possible and desirable? In this seminar, we approach this question through the discussion of artists’ writings, and theoretical texts from the fields of visual culture, art theory, decolonial, affect and queer theory. Course work includes individual and collective writing exercises as well as the discussion of artworks and exhibitions. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Course work: 1 response paper or a summary of one of the theoretical readings in the course (2 pages); 1 piece of writing that is being developed alongside the writing exercises over the course of the semester (1-2 pages). All course work must be submitted until 31 January. Annika Haas is a writer and scholar in media studies, based in Berlin. Her current research is concerned with artistic practices in a broken world beyond repair. Recently, she has co-curated the exhibition \"The Unworld to Come: Imagining an Otherwise\" at the Contemporary Arts Center at the University of California Irvine. She received a PhD from the Berlin University of the Arts with a dissertation about Hélène Cixous’s philosophy and writing through the body. Since 2020 she has been teaching media theory and courses on the relation of technology, capitalism, and (bad) feelings at the Berlin University of the Arts. She works as a postdoc in the DFG-research group \"Aesthetic Practice\" at the University of Hildesheim. Annika’s backgrounds in media studies and in media art contribute to her understanding of theory as an aesthetic practice. Experimental publishing, hosting conversations and writing workshops are part of this practice. >> https://annikahaa-s.com/teaching/",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-10-15",
+     "last_date": "2026-10-15",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-10-29",
+     "last_date": "2026-10-29",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-11-12",
+     "last_date": "2026-11-12",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-11-19",
+     "last_date": "2026-11-19",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-11-26",
+     "last_date": "2026-11-26",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-12-03",
+     "last_date": "2026-12-03",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-12-10",
+     "last_date": "2026-12-10",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2026-12-17",
+     "last_date": "2026-12-17",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2027-01-21",
+     "last_date": "2027-01-21",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2027-01-28",
+     "last_date": "2027-01-28",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2027-02-04",
+     "last_date": "2027-02-04",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "12:00",
+     "rhythm": "single",
+     "first_date": "2027-02-11",
+     "last_date": "2027-02-11",
+     "room": "Medienhaus, Grunewaldstr. 2-5, room 310",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-20",
+     "last_date": "2026-11-20",
+     "room": "Spore (Excursion / visit of exhibition)",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -486,7 +1816,57 @@
    "url": "https://www.udk-berlin.de/studium/studium-generale/kurse-courses/seminare-kulturwissenschaft-wise-2026-27/how-to-be-fabulous/",
    "org": "Studium Generale",
    "description": "How to be Fabulous? Mohammad Shawky Hassan How to be Fabulous? Block seminar, English/Deutsch, 2 SWS, 2 ECTS Fridays, 10-18 h, on 6.11., 13.11., 20.11., 27.11.2026, Hardenbergstr. 33, room 150 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3328 Einschreibeschlüssel / Enrollment Key: sofab! In this participatory, discussion-based, interdisciplinary seminar, we will examine the history and evolution of “fabulation” as a critical, political, and aesthetic practice. Tracing its development from its early use in literary theory to its adaptations by Black scholars, feminist writers, and queer artists, we will explore the possibilities of fabulation as a methodology that emerges precisely where archives are broken, traces are erased, dissident voices are structurally excluded, and futures are foreclosed. Through readings, screenings, case studies, and discussions, we will focus on historical moments when archival gaps, erasure tactics, or the failure of the cultural apparatus to fully interpellate its intended subjects created openings for fabulators to project their desires and imagine selves and worlds that might have otherwise remained impossible. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Reading assigned texts, active participation in seminar discussions, and regular journaling in English or German. Mohammad Shawky Hassan is an Egyptian multidisciplinary artist, writer, and educator living and working in Berlin. His works include And on a Different Note, which was acquired by the Museum of Modern Art (MoMA) for its permanent collection, and Shall I Compare You to a Summer's Day?, which premiered at the Berlinale Forum. He studied theater, philosophy, video production, and cinema studies at the American University in Cairo, the Academy of Cinematic Arts, and Columbia University in New York. Alongside his artistic practice, he has designed and taught seminars at the Cairo Institute for Liberal Arts & Sciences, Arsenal Film Institute, the German University in Cairo, and Humboldt University.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-06",
+     "last_date": "2026-11-06",
+     "room": "Hardenbergstr. 33, room 150",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-13",
+     "last_date": "2026-11-13",
+     "room": "Hardenbergstr. 33, room 150",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-20",
+     "last_date": "2026-11-20",
+     "room": "Hardenbergstr. 33, room 150",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-27",
+     "last_date": "2026-11-27",
+     "room": "Hardenbergstr. 33, room 150",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -507,7 +1887,57 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Im Kältefieber: Eingefrorene Zukünfte auf einem schmelzenden Planeten Romana Bund Im Kältefieber: Eingefrorene Zukünfte auf einem schmelzenden Planeten Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Termine : Freitag/Samstag, jeweils 10–18 Uhr am 23./24.10.2026 und am 30./31.10.2026, Hardenbergstr. 33, Raum 102 (Exkursionen innerhalb Berlins: Samstag, 24.10.2026, 14–16 Uhr | Freitag, 30.10.2026, 13:30–18 Uhr) Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3330 Einschreibeschlüssel / Enrollment Key: freeze Während Gletscher, Polkappen und Permafrostgebiete weltweit schwinden, gewinnen energieintensive Kühlverfahren zunehmend an Bedeutung. Sie dienen dazu, Lebewesen, Nahrungsmittel oder Daten über lange Zeiträume zu bewahren. Kühlinfrastrukturen sichern globale Liefer- und Nahrungsketten, bewahren Saatgut sowie Blut- und Gewebeproben in Biobanken, lagern Eisbohrkerne als Archive vergangener Klimabedingungen und schützen Datenzentren vor Überhitzung. Niedrige Temperaturen versprechen, ausgewählte Formen menschlichen und mehr-als-menschlichen Lebens zu konservieren, zu verlängern und im Rahmen sogenannter Kryonik-Initiativen bis zur Wiederauferstehung auf Eis zu legen. Im Seminar untersuchen wir, welche Sehnsüchte in Kühl- und Kryotechnologien auf einem immer heißer werdenden Planeten zum Vorschein kommen. Im Mittelpunkt steht die Frage, wie Verfahren des Kühlens und Einfrierens mit kolonialen, kapitalistischen und nationalstaatlichen Interessen verknüpft sind und welche Vorstellungen von Zukunft und (Über-)Leben sie hervorbringen. Anhand ausgewählter Texte, Objekte und Medien analysieren wir, wie niedrige Temperaturen die Grenzen zwischen Leben und Tod, Erhaltung und Verlust sowie Gegenwart und Zukunft im 21. Jahrhundert verschieben und neu ordnen. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Regelmäßige und aktive Teilnahme an den Einheiten, Lust an kollektiver Recherche, gemeinsame Lektüren, Entwicklung und Präsentation eines schriftlichen und/oder künstlerisch-forschenden Abschlussprojekts bis zur letzten Einheit. Romana Bund hat im Sommersemester 2026 ihre kulturwissenschaftliche Promotion an der Universität Wien abgeschlossen. Ihre Dissertation befasste sich mythologischen Mischwesen in wissenschaftlichen Sammlungen, die mit gewaltvollen Geschichten menschlicher und mehr-als-menschlicher Überreste in Verbindung stehen. Sie war Mitglied des vom Österreichischen Wissenschaftsfonds (FWF) geförderten Doktoratskollegs Cultural Mobility Studies. Zu ihren Forschungsschwerpunkten zählen materielle Kultur, Wissenschaftsgeschichte, Mobilitätsforschung, Environmental sowie Oceanic Humanities. Derzeit lehrt sie an der Kunstuniversität Linz zu Fragen des Auftauens und Einfrierens. Neben ihrer wissenschaftlichen Tätigkeit engagiert sie sich in Ausstellungs- und Festivalkontexten und verbindet dabei wissenschaftliche Forschung mit kuratorischer und kultureller Praxis.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2026-10-23",
+     "last_date": "2026-10-24",
+     "room": "Hardenbergstr. 33, Raum 102",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2026-10-30",
+     "last_date": "2026-10-31",
+     "room": "Hardenbergstr. 33, Raum 102",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "single",
+     "first_date": "2026-10-24",
+     "last_date": "2026-10-24",
+     "room": null,
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 4,
+     "start": "13:30",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-10-30",
+     "last_date": "2026-10-30",
+     "room": null,
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -528,7 +1958,105 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Rehearsing Futures: A Critical History of Theater and Performance Ricardo Sarmiento Ramírez Rehearsing Futures: A Critical History of Theater and Performance Seminar, Englisch/Deutsch, 2 ECTS, 2 SWS Thursdays, 10–14 h, bi-weekly, 8 dates: 15.10., 5.11., 19.11., 3.12., 17.12.2026, 14.1., 28.1., 11.2.2027 Hardenbergstr. 33, room 151 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3325 Einschreibeschlüssel / Enrollment Key: ruin Who writes the history of theatre? Which bodies, practices, and forms of knowledge have been left out of its narratives? What happens when history is told through other bodies, other memories, and other territories? This seminar rethinks the history of theatre and performance by shifting attention away from dominant historiographical narratives towards works, artists, and practices that have developed beyond the traditional centres of cultural production. Drawing on case studies primarily from the Global South and other historically marginalized contexts, we will explore how different political, social, and cultural realities have generated distinct ways of understanding performance, embodiment, memory, and collective creation. Rather than simply expanding the existing canon, the seminar asks what happens when we change the questions through which theatre history itself has been written. How do our understandings of theatre and performance change when we approach history through embodied practices, oral traditions, archives, collective memory, and situated forms of knowledge? Instead of producing an alternative history, the course invites participants to critically examine the categories that have shaped dominant narratives and to engage with more plural and situated perspectives. Combining critical readings, collective discussion, the analysis of theatre and performance works, audiovisual materials, and practical exercises, the seminar encourages participants to move continuously between theory and practice. Together, we will explore performance not only as an object of study, but also as a method for investigating history, activating memory, and rehearsing new ways of imagining the present and the future. Participants will encounter performances, films, archival materials, manifestos, and artistic experiments from diverse cultural contexts while developing tools to analyse, discuss, and relate these practices to broader questions of history, politics, and artistic production. Topics include critical historiography, archival and counter-archival practices, embodied memory, decolonial perspectives, collective artistic practices, and performance as a site of knowledge production.The seminar is open to students from all disciplines interested in theatre, performance, visual arts, critical theory, artistic research, and contemporary cultural practices. No previous knowledge is required. The course will be taught in English, with the possibility of participating in discussions in German. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Active participation; short written or performative reflection; collective presentation or practice-based assignment. Ricardo Sarmiento Ramírez is a dramaturg, transdisciplinary artist, and educator based in Berlin. They hold a Master of Arts in Spatial Strategies from Weißensee Kunsthochschule Berlin and a Bachelor’s degree in Dramaturgy and Visual Arts from the Universidad de las Artes in Cuba. Their artistic and research-based practice focuses on theatre, performance, and collective processes, with an emphasis on dramaturgical research, embodied practices, and non-linear approaches to history and knowledge transmission. They worked in international and institutional theatre contexts, including documentary and collective performance projects, and have teaching experience in both academic and non-academic settings. From 2015 to 2018, they worked as a teaching assistant in European Theatre History at the Universidad de las Artes in Cuba and hav led workshops and courses for diverse groups, including children and non-professional participants, in intercultural contexts.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-10-15",
+     "last_date": "2026-10-15",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-11-05",
+     "last_date": "2026-11-05",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-11-19",
+     "last_date": "2026-11-19",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-12-03",
+     "last_date": "2026-12-03",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2026-12-17",
+     "last_date": "2026-12-17",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-01-14",
+     "last_date": "2027-01-14",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-01-28",
+     "last_date": "2027-01-28",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 3,
+     "start": "10:00",
+     "end": "14:00",
+     "rhythm": "single",
+     "first_date": "2027-02-11",
+     "last_date": "2027-02-11",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -549,7 +2077,117 @@
    "org": "Studium Generale",
    "language": "Englisch",
    "description": "States of Transition and Transmission Alex Head States of Transition & Transmission Seminar, English, 2 SWS, 2 ECTS Tuesdays, 14-18 h, 7 dates: 27.10., 10.11., 24.11., 8.12.2026, 12.1., 26.1., 9.2.2027, Hardenbergstr. 33, room 151 Plus two extra dates for live radio sessions: Wednesdays, 20.1.2027, 14-15 h & 3.2.2027, 17-18 h: Studio Ansage, Kreutzigerstraße 23, 10247 Berlin Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3327 Einschreibeschlüssel / Enrollment Key: transition Participants will be introduced to systems thinking as an artistic and philosophical approach. Outcomes will be broadcast as live radio. Reflecting on states of transition, whether describing physics, the human body, an economy, a nation state or otherwise, requires a systems approach. The course draws on a wide range of practitioners to argue that artistic expression benefits from systemic, networked, or collaborative methods. Systems thinking is a tool for developing empathy, multi-perspective and transdisciplinary approaches. In real terms, systems thinking requires the development of new languages. As an artistic process this means active and close listening practices, re-framing intuitive understandings and clearly articulating findings and ideas. Together we will broadcast new knowledge into the world on live DAB radio. We will closely discuss the work of philosopher Manual DeLanda, filmmaker David Lynch, feminist author Elizabeth Fisher, anarchist activist Emma Goldman, anthropologists David Graeber and David Wengrow, Buddhist scholar Joanna Macy and artist Robert Smithson. Grounded in comparative cultural anthropologies we will collectively identify the way personalities and discourse today, shape the reality of tomorrow. The course is of interest to those open to approaching problem solving from multiple perspectives when debating whether to embrace or reject the future. The final session of the course will take place in collaboration with Studio Ansage, at their location in Friederichshain: Kreutzigerstraße 23, 10247 Berlin. There, we will be able to take advantage of the radio studio and broadcast live to DAB radio on 7D Berlin, 12D Brandenburg, (and globally via the parallel broadcasting stream online of Studio Ansage, Berlin). Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Students will be required to complete the reading and listening assignments and to discuss them together. They will also prepare material for broadcast as well as submit findings from the live radio broadcast. 80% attendance of the course is required. Artist Alex Head is interested in working with non-hierarchical networks of artists, researchers and citizens. He founded sub_ʇxǝʇ radio (2017), Co-Founded Wasteland Twinning Network which hijacks the concept of ‘City Twinning’ and applies it to urban Wastelands in order to generate a network for parallel research and action (2011), and Plural Studio (2022). He holds a BA (hons) in Sculpture & Environmental Art at The Glasgow School of Art (2007), Pratt University, New York (2005). He holds an MA in Raumstrategien at Weißensee School of Art (2016). He has given guest lectures at Humboldt University (2017), Centre for Theoretical Studies, Prague (2022), and TU-Darmstadt (2025). His books are Here Comes Trouble, ZK/U Press (2016), RICOCHET, Ljå Forlag (2021), 1001 Accurate Memories, Plural Studio (2025).",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-10-27",
+     "last_date": "2026-10-27",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-10",
+     "last_date": "2026-11-10",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-24",
+     "last_date": "2026-11-24",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-12-08",
+     "last_date": "2026-12-08",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-01-12",
+     "last_date": "2027-01-12",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-01-26",
+     "last_date": "2027-01-26",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-02-09",
+     "last_date": "2027-02-09",
+     "room": "Hardenbergstr. 33, room 151",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "14:00",
+     "end": "15:00",
+     "rhythm": "single",
+     "first_date": "2027-01-20",
+     "last_date": "2027-01-20",
+     "room": "Studio Ansage, Kreutzigerstraße 23, 10247 Berlin",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 2,
+     "start": "17:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-02-03",
+     "last_date": "2027-02-03",
+     "room": "Studio Ansage, Kreutzigerstraße 23, 10247 Berlin",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -568,7 +2206,57 @@
    "url": "https://www.udk-berlin.de/studium/studium-generale/kurse-courses/seminare-kulturwissenschaft-wise-2026-27/the-neuropolitics-of-liberal-time-brain-and-body-in-uncertain-futures/",
    "org": "Studium Generale",
    "description": "The neuropolitics of liberal time: Brain and body in uncertain futures Dr. Liya Yu The neuropolitics of liberal time: Brain and body in uncertain futures Block seminar, English/Deutsch, 2 SWS, 2 ECTS Saturdays / Sundays, each 10-18 h on 28./29.11. and 16./17.1.2026 Hardenbergstr. 33, room 201 Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3321 Einschreibeschlüssel / Enrollment Key: neuro This course explores the structure and impact of time in different political forms, especially how it plays out in our brains and bodies. Drawing on social and political neuroscience research on time perception, ideology, extremism and climate change, we will look at how different time horizons from pre-modern, fascist, communist and liberal are made up at the cognitive level. Why do our brains struggle to process an uncertain, ambiguous and liberal future, and how are right-wing and authoritarian movements tapping into our brain vulnerabilities regarding cognitive closure, absolute certainty and future fatalism? The first weekend seminar in November will review neuroscience, cultural anthropology, political and sociology readings; at the second weekend seminar in January we will develop performance art pieces together. The aim of the course is to develop both an understanding and an artistic and/or performative concept of how to resist authoritarian and illiberal time frames from the brain and body upwards, and how to create a novel way for our bodies to face uncertain future times. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: one performance art piece developed in various small groups on the last day of the course, as well as attendance on all weekends Liya Yu ist neuropolitische Philosophin und Performance Künstlerin. Sie ist die Autorin von Vulnerable Minds: The Neuropolitics of Divided Societies (CUP, 2022) und Hirn statt Moral (Econ, 2026). Sie studierte an der University of Cambridge und promovierte an der Columbia University in New York, und verfügte über internationale Lehraufträge in den USA, Asien und Europa. In Taiwan hatte sie die Künstlerresidenz am Treasure Hill Artist Village inne, wo sie ein anti-patriarchales Tanzperformanceprojelt über den asiatisch weiblichen Körper entwickelte. Philosophie Magazin kürte ihre neuropolitische Theorie zu einer der wichtigsten Ideen für 2025, Brand New Bundestag nominierte sie für den Progressive Science Voices Award 2024. Sie ist das jüngste Mitglied im wissenschaftlichen Beirat der Vereinigung Deutscher Wissenschaftler. Ihre Interviews und Beiträge zu politischer Neurowissenschaft, Rassismus und Dehumanisierung sind in ARD, ZDF, DIE ZEIT, Tagesspiegel, BBC, New Scientist u.v.m. erschienen.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-28",
+     "last_date": "2026-11-28",
+     "room": "Hardenbergstr. 33, room 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2026-11-29",
+     "last_date": "2026-11-29",
+     "room": "Hardenbergstr. 33, room 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 5,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-01-16",
+     "last_date": "2027-01-16",
+     "room": "Hardenbergstr. 33, room 201",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": 6,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "single",
+     "first_date": "2027-01-17",
+     "last_date": "2027-01-17",
+     "room": "Hardenbergstr. 33, room 201",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -589,7 +2277,45 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Weiche Macht Linnéa Bake Weiche Macht Blockseminar, Deutsch/English, 2 SWS, 2 ECTS Samstags / Sonntags, jeweils 10-18 Uhr: Erstes Treffen online, am Donnerstag 12.11.2026 um 18 Uhr: https://meetings.udk-berlin.de/b/leo-jko-d58-3ko 12./13.12.2026 in Hardenbergstr. 33, Raum 102 16./17.1.2027 bei soft power e.V., Fürbringerstr. 11, 10961 Berlin Anmeldung auf Moodle ab / Registration on Moodle begins 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3331 Einschreibeschlüssel / Enrollment Key: soft „Soft Power“ spiegelt die Fähigkeit eines Staates wider, andere zu beeinflussen – ohne militärischen Zwang oder wirtschaftliche Anreize, sondern durch Ressourcen „weicher“ Macht: von mediengestützter Lobbyarbeit und Nation-Branding bis hin zum internationalen Kulturaustausch. Transnationale Präsentationen zeitgenössischer Kunst, wie etwa das Format Biennale, sind seit ihren Anfängen Teil dieses Diskurses und werfen auch heute noch Fragen nach der Instrumentalisierung der Kunst als Repräsentantin nationaler Interessen und diplomatischer Absichten auf. Im Gegensatz zur Propaganda entfaltet die „weiche Macht“ dabei ihre wahre Wirkungskraft, wenn sie sich nicht selbst offenbart: Soft Power beruht auf Überzeugung, Beispiel, Verführung und Mythos. Indem wir uns mit der begrifflichen Definition von Soft Power vertraut machen, identifizieren wir eine Grundlage, auf der wir über diese zugeschriebene Macht – und, angesichts aktueller Geopolitik und der daraus folgenden, lokalen kulturpolitischen Entwicklungen, über deren Zukünftigkeit – kritisch reflektieren können: Zu welchen Strategien der Aneignung lädt der Begriff ein? Welche künstlerischen Auseinandersetzungen provozieren die dem Begriff inhärenten Widersprüche und vermeintliche Gegensätze, etwa: Weichheit als notorisch gegenderte Eigenschaft vs. Stärke/Macht? Der Kurs „weiche Macht“ im Studium Generale findet als 2-teiliges Blockseminar statt, das im ersten Block die gemeinsame Lektüre und Erarbeitung von Grundlagenwissen zur Begriffstheorie umfasst. Im zweiten Block, der in den Räumlichkeiten des Kunstvereins soft power stattfindet, arbeiten die Studierenden als Gruppe/in Kleingruppen in methodisch offener, künstlerischer Auseinandersetzung mit „Soft Power“ als begriffliche These. Das Seminar richtet sich an Studierende aller Studiengänge der UdK und es werden keine Vorkenntnisse erwartet. Das Seminar kann auf Deutsch oder auf Englisch angeboten werden (englischsprachige Lektüre). Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: Im ersten Block: Moderation/Referat/Erarbeitung einer Diskussionsgrundlage (Textlektüre) zu den ausgewählten Themen der Sitzung in Kleingruppen – Voraussetzung ist die Teilnahme an dem Einführungs-Termin (12.11.2026, 18.00 (online)) zur Verteilung der Themen/Texte. Im zweiten Block: methodisch offene Erarbeitung eines künstlerisch-diskursiven Formats/Projekts/Beitrags als Gruppe/in Kleingruppen. Linnéa Bake setzt sich als freischaffende Kuratorin und Autorin mit den politischen Bedingungen auseinander, unter denen kulturelle Räume funktionieren und in die sie intervenieren. Nach ihrem Studium an der UdK und am Royal College of Art in London war sie neben ihrer Arbeit als Mitgründerin des Kunstvereins soft power zuvor u.a. bei der 11. Berlin Biennale, beim Berliner Programm Künstlerische Forschung und an der Akademie der Künste Berlin tätig. Ihre Texte wurden u.a. von der Manifesta 13, dem Kunstverein Göttingen, Künstlerhaus Bethanien, Museum Folkwang und der Kunsthalle Düsseldorf sowie von Magazinen wie Texte zur Kunst, Spike Art Magazine, The Public Review und Nuda veröffentlicht. Nach Residencies und Rechercheaufenthalten u.a. bei Rupert Vilnius und ARC Athens ist sie im Jahr 2026 Curatorial Fellow am Künstlerhaus Bethanien.",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 3,
+     "start": "18:00",
+     "end": null,
+     "rhythm": "single",
+     "first_date": "2026-11-12",
+     "last_date": "2026-11-12",
+     "room": "online",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2026-12-12",
+     "last_date": "2026-12-13",
+     "room": "Hardenbergstr. 33, Raum 102",
+     "building": null,
+     "group": null,
+     "note": null
+    },
+    {
+     "weekday": null,
+     "start": "10:00",
+     "end": "18:00",
+     "rhythm": "block",
+     "first_date": "2027-01-16",
+     "last_date": "2027-01-17",
+     "room": "soft power e.V., Fürbringerstr. 11, 10961 Berlin",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
@@ -610,7 +2336,21 @@
    "org": "Studium Generale",
    "language": "Deutsch/Englisch",
    "description": "Wissen Vertiefen II: Let’s Read about Sex!: Sex, Liebe, Zärtlichkeit und Körperdiskurse – Lust kritisch lesen und lieben lernen! Prof. Dr. Reyhan Şahin Wissen Vertiefen II: Let’s Read about Sex!: Sex, Liebe, Zärtlichkeit und Körperdiskurse – Lust kritisch lesen und lieben lernen! Seminar, Deutsch/Englisch, 2 SWS, 2 ECTS Dienstags, 14-16 Uhr, wöchentlich ab 20.10.2026, Hardenbergstr. 33, Raum 110 Anmeldung auf Moodle ab 12.10.2026: https://moodle.udk-berlin.de/moodle/course/view.php?id=3333 Einschreibeschlüssel: s3x Das Sprechen über Sex, Liebe, Zärtlichkeit ist schon immer ein besonderer Bereich gewesen, der Neugier erwecken und maximal polemisieren kann. Der gesellschaftliche Umgang mit Sex kann von Tabuisierung, Skandalisierung, Ausgrenzung bishin zu Cancelling alles beinhalten - insbesondere, wenn dieser sogenannte Sextalk von Frauen oder queeren Menschen ausgedrückt wird. Welche Arten und Unterschiede gibt es bezüglich des Female Sextalks im Bereich der Literatur und Musik? Wie kann der Bereich Sexualität und Sprache aus linguistischer und semiotischer Perspektive betrachtet werden? Im Fokus Deutschrap: Wie kann Female Sextalk aus der Perspektive der feministischen Intersektionalität betrachtet werden? Von welchen musikalischen und literarischen Interpret:innen wird das Sprechen über Sexualität auf welche Weise rezipiert? Wann wird Sextalk politisch und was hat das Ganze mit Rassismus und/oder Klasse zu tun? Wie funktioniert Reclaiming, die feministische Umdeutung von Female Sextalk als Selbstermächtigung und/oder Empowerment? Neben Sextalk widmen wir uns auch unterschiedlichen Formen der Liebe – sei es die Partnerschaftsliebe oder die Selbstliebe – dabei untersuchen wir, wie diese in der Kulturwissenschaft, Popkultur und Literatur eine Sonderstellung einnehmen. Außerdem wird es einen Exkurs in den Bereich „Sexualität im Islam“ geben: wie wird im Islam, islamischen Schriften und unter islamischen Feminist*innen über Sexualität gesprochen? Welche gesellschaftlichen Erwartungen gibt es bezüglich Sexualität im Islam und was hat das Ganze mit Rassismus und/oder Orientalismus zu tun? In diesem Seminar werden wir verschiedene Texte über Liebe, Sex, Zärtlichkeit und Körperdiskurse lesen, analysieren und kritisch diskutieren. Lesestoff werden ausgewählte literarische Texte u.a. von Eva Illouz, bell hooks, Audre Lorde, Fatima Mernissi oder Leila Slimani bieten, oder aber auch einige Musiksongs aus verschiedenen Genres der Popkultur und Hip Hop. Leistungsanforderungen für den unbenoteten Schein / Fulfilment criteria for ungraded accreditation: regelmäßige und aktive Teilnahme, mündliche Präsentationen. Reyhan Şahin ist Sprachwissenschaftlerin und Islam- und Migrationsforscherin und lehrt seit dem Wintersemester 2025/26 als Gastprofessorin im Bereich Kulturwissenschaften im Studium Generale an der UdK Berlin. Sie promovierte an der Universität Bremen zum Bedeutungssystem des muslimischen Kopftuchs in Deutschland und war als feministische Musikerin „Lady Bitch Ray“ aktiv. Sie schreibt zu Themen wie Feminismus, Islam, Migration, Rassismus, Antisemitismus und Popkultur (u.a. SZ, taz, Missy Magazine, Stern). Ihre Schwerpunkte in der Forschung und Lehre sind: Intersektionalitäts- und Rassismusforschung, Neue Rechte, Islam- und Gender Studies, antimuslimischer Rassismus, Islamismus und Antisemitismus, Alevi Studies, Popkultur und Hip Hop-Studies. Mehr Informationen unter https://www.udk-berlin.de/person/reyhan-sahin/ sowie www.lady-bitch-ray.com .",
-   "by_arrangement": true,
+   "sessions": [
+    {
+     "weekday": 1,
+     "start": "14:00",
+     "end": "16:00",
+     "rhythm": "weekly",
+     "first_date": "2026-10-20",
+     "last_date": null,
+     "room": "Hardenbergstr. 33, Raum 110",
+     "building": null,
+     "group": null,
+     "note": null
+    }
+   ],
+   "by_arrangement": false,
    "catalog_path": [
     "Studium Generale",
     "Seminare Kulturwissenschaft (WiSe 2026/27)"
