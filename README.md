@@ -4,7 +4,7 @@
 
 One searchable list of the courses at Berlin universities (TU, UdK, FU, HU, HTW, KHB, ASH, FH Potsdam, …),
 filterable by **when you're free** and **how far it is** from home or work by
-foot, bike, e-scooter or BVG.
+foot, bike, car or BVG.
 
 Built for students who can take courses anywhere in Berlin (e.g. the
 Design & Computation master at UdK/TU) but have a life around it.
@@ -36,7 +36,7 @@ Force a crawl from the Actions tab ("Run workflow" → force).
 
 **Privacy.** Home/work addresses, free time and favourites are stored only in
 your browser (localStorage). Addresses are geocoded via OpenStreetMap from the
-browser; travel times come from OSRM (walk/bike/scooter) and the BVG REST API
+browser; travel times come from OSRM (walk/bike/car) and the BVG REST API
 (transit, with an estimate when the API is down).
 
 ## Run locally

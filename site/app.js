@@ -8,7 +8,7 @@ const DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 const MODES = [
   { id: "walk", label: "🚶 Walk" },
   { id: "bike", label: "🚲 Bike" },
-  { id: "scooter", label: "🛴 Scooter" },
+  { id: "car", label: "🚗 Car" },
   { id: "transit", label: "🚇 BVG" },
 ];
 const LANGS = { de: "German", en: "English" };
@@ -111,7 +111,7 @@ function haversineKm(a, b) {
 const ESTIMATE = {   // fallback minutes from straight-line km
   walk: (km) => km * 1.3 / 4.8 * 60,
   bike: (km) => km * 1.25 / 15 * 60 + 2,
-  scooter: (km) => km * 1.25 / 17 * 60 + 4,
+  car: (km) => km * 1.3 / 22 * 60 + 6,
   transit: (km) => 9 + km * 1.35 / 20 * 60,
 };
 
@@ -148,11 +148,11 @@ async function computeTravel() {
   if (!home) return;
   const keys = Object.keys(S.locs);
   const status = (t) => { if (run === travelRun) $("#travelStatus").textContent = t; };
-  // walk + bike (+ scooter derived from bike distance) via OSRM tables
-  for (const [mode, profile] of [["walk", "routed-foot"], ["bike", "routed-bike"]]) {
+  // walk, bike and car via OSRM tables
+  for (const [mode, profile] of [["walk", "routed-foot"], ["bike", "routed-bike"], ["car", "routed-car"]]) {
     if (S.travel[mode]) continue;
     status(`Routing ${mode} times…`);
-    const res = {}, scoot = {};
+    const res = {};
     for (let i = 0; i < keys.length; i += 80) {
       const chunk = keys.slice(i, i + 80);
       const coords = [`${home.lon},${home.lat}`, ...chunk.map((k) => `${S.locs[k].lon},${S.locs[k].lat}`)].join(";");
@@ -168,13 +168,14 @@ async function computeTravel() {
           if (dist == null) return;
           // OSRM durations are optimistic; use distance with realistic Berlin speeds
           if (mode === "walk") res[k] = Math.round(dist / 1000 / 4.8 * 60);
-          else { res[k] = Math.round(Math.max(dur / 60, dist / 1000 / 15 * 60) + 2); scoot[k] = Math.round(dist / 1000 / 17 * 60 + 4); }
+          else if (mode === "bike") res[k] = Math.round(Math.max(dur / 60, dist / 1000 / 15 * 60) + 2);
+          // car: OSRM times are optimistic in city traffic; ~22 km/h average + 6 min to find parking
+          else res[k] = Math.round(Math.max(dur / 60 * 1.3, dist / 1000 / 22 * 60) + 6);
         });
       } catch { status("Routing service unavailable – using estimates"); }
     }
     if (run !== travelRun) return;
     S.travel[mode] = res;
-    if (mode === "bike") S.travel.scooter = scoot;
     render();
   }
   if (S.f.mode === "transit") await computeTransit(run, keys);
