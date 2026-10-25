@@ -164,11 +164,7 @@ class TuMoses(CatalogSource):
             pg.goto(f"{BASE}/organisationseinheit.html?oe={ROOT_OE}"
                     f"&include-subordinates=true&search=true&semester={sem_id}")
             pg.wait_for_load_state("networkidle")
-            rpp = pg.locator("select.ui-paginator-rpp-options")
-            if rpp.count():
-                rpp.last.select_option("100")
-                pg.wait_for_load_state("networkidle")
-                pg.wait_for_timeout(1000)
+            # stay at 50 rows: switching to 100 rebuilds the paginator and its "next" button stops working
             ids: list[str] = []
             seen = set()
             empty_pages = 0
@@ -187,7 +183,9 @@ class TuMoses(CatalogSource):
                 cur = pg.locator(".ui-paginator-page.ui-state-active").last.inner_text()
                 for attempt in range(3):  # MOSES sometimes drops a paging request under load
                     try:
-                        nxt.click()
+                        # the numbered link is reliable; fall back to "next" when it isn't in the visible window
+                        num = pg.locator(".ui-paginator-page", has_text=re.compile(rf"^{int(cur) + 1}$")).last
+                        (num if num.count() else nxt).click()
                         pg.wait_for_function(
                             """(cur) => { const a = [...document.querySelectorAll('.ui-paginator-page.ui-state-active')];
                                           return a.length && a[a.length-1].textContent.trim() !== cur; }""",
