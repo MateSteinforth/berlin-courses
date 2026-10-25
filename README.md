@@ -15,12 +15,13 @@ Design & Computation master at UdK/TU) but have a life around it.
 crawler/               Python, runs in GitHub Actions
   sources/             one plugin per catalog (MOSES, HISinOne, FU VV, LSF, Moodle, …)
   locations.py         building codes -> addresses -> coordinates (OSM Nominatim, cached)
-  enrich.py            Claude Haiku: English summary, topic tags, D+C relevance,
-                       free-text date extraction (cached, only new courses cost money)
+  enrich.py            Claude Haiku via the Batch API: English summary, topic tags,
+                       D+C relevance, language (cached; similar courses from earlier
+                       semesters are reused, so only new courses cost money)
   build.py             merge everything -> site/data/*.json
 data/raw/              crawled data, committed (the cache between runs)
 data/cache/            geocoding, AI results, descriptions
-data/state.json        per source: last crawl + next scheduled update
+data/state/            per source + semester: last crawl + next scheduled update
 site/                  static frontend (GitHub Pages), no build step
 ```
 
@@ -30,14 +31,17 @@ periods and catalog publication dates (researched, with sources). Each
 semester is crawled at publication (re-checked weekly until it appears),
 2 weeks before lectures, 1 week after the start and 5 weeks after the start
 (blocks get added late). The workflow runs daily but only crawls what's due
-(`data/state.json`); everything else is served from `data/raw`. Update
+(`data/state/`), each due source in its own parallel job; everything else is
+served from `data/raw`. A crawl that returns far fewer courses than last time
+is not saved. One final job merges the results, runs the AI step and deploys. Update
 `calendars.py` once a year; unknown semesters fall back to the usual pattern.
 Force a crawl from the Actions tab ("Run workflow" → force).
 
-**Privacy.** Home/work addresses, free time and favourites are stored only in
-your browser (localStorage). Addresses are geocoded via OpenStreetMap from the
-browser; travel times come from OSRM (walk/bike/car) and the BVG REST API
-(transit, with an estimate when the API is down).
+**Privacy.** Your address is kept only in memory while the page is open and is
+never stored. Starred courses are remembered in your browser (localStorage) and
+can be exported as PDF or calendar file. Addresses are geocoded via OpenStreetMap
+from the browser; travel times come from OSRM (walk/bike/car) and the BVG REST
+API (transit, with an estimate when the API is down).
 
 ## Run locally
 
