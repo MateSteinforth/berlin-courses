@@ -98,7 +98,12 @@ function slotLabel(s) {
 
 function systemName(c) {
   if (/studium-generale/.test(c.url)) return "Studium Generale";
-  return SYSTEM[c.u] || "catalog";
+  return c.sys || SYSTEM[c.u] || "catalog";
+}
+const lmsLinks = (c) => (c.links || []).filter((l) => l.k === "lms");
+function lmsBadge(c) {
+  const names = [...new Set(lmsLinks(c).map((l) => l.label.replace(/ course.*/, "")))];
+  return names.map((n) => `<span class="tag">${esc(n)}</span>`).join("");
 }
 
 // ---------- distance + travel ----------
@@ -320,7 +325,7 @@ function card(c) {
     <button class="star ${S.favs.has(c.id) ? "on" : ""}" data-fav="${esc(c.id)}" aria-label="Star" title="Add to my list">★</button>
     <div class="when">${slots}${more}${c.arr ? `<span class="slot">by arrangement</span>` : ""}</div>
     ${c.sum ? `<p class="sum">${esc(c.sum)}</p>` : ""}
-    <div class="foot">${travelBadge(c)}${where ? `<span class="tag">📍 ${esc(where)}</span>` : ""}${(c.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("")}${c.lms ? `<span class="tag">${c.lms.source === "tu_isis" ? "ISIS" : "Moodle"}</span>` : ""}</div>
+    <div class="foot">${travelBadge(c)}${where ? `<span class="tag">📍 ${esc(where)}</span>` : ""}${(c.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("")}${lmsBadge(c)}</div>
   </div>`;
 }
 
@@ -546,8 +551,11 @@ async function openCourse(id) {
     <div class="row">${(c.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join(" ")}${(c.kw || []).map((t) => `<span class="tag">${esc(t)}</span>`).join(" ")}</div>
     <div class="links">
       <a class="btn primary" href="${esc(c.url)}" target="_blank" rel="noopener">Open in ${esc(systemName(c))} ↗</a>
-      ${c.lms ? `<a class="btn" href="${esc(c.lms.url)}" target="_blank" rel="noopener">${c.lms.source === "tu_isis" ? "ISIS" : "Moodle"} course ↗</a>` : ""}
+      ${(c.links || []).map((l) => `<a class="btn" href="${esc(l.url)}" target="_blank" rel="noopener">${l.k === "catalog" && !/course/.test(l.label) ? "Also in " : ""}${esc(l.label)} ↗</a>`).join("")}
+    </div>
+    <div class="links">
       <button class="btn" data-fav="${esc(c.id)}">${S.favs.has(c.id) ? "★ On my list" : "☆ Add to my list"}</button>
+      <button class="btn" data-share="${esc(c.id)}">🔗 Share link</button>
     </div>
     <h3>Dates</h3>
     ${rows ? `<table>${rows}</table>` : `<p class="hint">${c.arr ? "By arrangement." : "No dates published."}</p>`}
@@ -556,11 +564,42 @@ async function openCourse(id) {
       ? `${esc(c.sum)}<p class="hint">AI-generated from the title and department – the catalog has no description for this course.</p>`
       : "<span class='hint'>No description published.</span>"}</div>`;
   $("#drawer").hidden = false;
+  setHash(id);
   if (c.hasd) {
     if (!S.details) S.details = await fetchJson("data/details.json", 60000).catch(() => ({}));
     const d = $("#desc"); if (d) d.textContent = S.details[id] || "—";
   }
 }
+// ---------- deeplinks: #course=<id> ----------
+const courseUrl = (id) => `${location.origin}${location.pathname}${location.search}#course=${encodeURIComponent(id)}`;
+const hashId = () => { const m = location.hash.match(/^#course=(.+)$/); return m ? decodeURIComponent(m[1]) : null; };
+function setHash(id) {
+  if (hashId() === id) return;
+  const url = `#course=${encodeURIComponent(id)}`;
+  if (hashId()) history.replaceState(null, "", url);
+  else { history.pushState(null, "", url); S.pushed = true; }
+}
+function closeDrawer() {
+  $("#drawer").hidden = true;
+  if (!hashId()) return;
+  if (S.pushed) { S.pushed = false; history.back(); }
+  else history.replaceState(null, "", location.pathname + location.search);
+}
+function syncFromHash() {
+  const id = hashId();
+  if (id && S.byId.has(id)) openCourse(id);
+  else { $("#drawer").hidden = true; S.pushed = false; }
+}
+async function shareCourse(id, btn) {
+  const c = S.byId.get(id), url = courseUrl(id);
+  if (navigator.share && matchMedia("(pointer: coarse)").matches) {
+    try { await navigator.share({ title: c?.t, url }); return; } catch (e) { if (e.name === "AbortError") return; }
+  }
+  try { await navigator.clipboard.writeText(url); }
+  catch { prompt("Copy this link:", url); return; }
+  const t = btn.textContent; btn.textContent = "✓ Link copied"; setTimeout(() => { btn.textContent = t; }, 1800);
+}
+
 function routeLinks(L0) {
   const p = S.home; if (!p) return "";
   const gm = (m) => `https://www.google.com/maps/dir/?api=1&origin=${p.lat},${p.lon}&destination=${L0.lat},${L0.lon}&travelmode=${m}`;
@@ -667,7 +706,7 @@ async function exportPdf() {
       if (ss.length > 12) text(`+ ${ss.length - 12} more dates`, 9.5, "italic");
       y += 2;
       link(`Sign up / details in ${systemName(c)}`, c.url);
-      if (c.lms) { y += 1; link(`${c.lms.source === "tu_isis" ? "ISIS" : "Moodle"} course`, c.lms.url); }
+      for (const l of c.links || []) { y += 1; link(l.k === "catalog" && !/course/.test(l.label) ? `Also listed in ${l.label}` : l.label, l.url); }
       y += 5;
     }
     ensure(14);
@@ -692,7 +731,9 @@ function bindEvents() {
   document.addEventListener("click", (e) => {
     const fav = e.target.closest("[data-fav]");
     if (fav) { e.stopPropagation(); toggleFav(fav.dataset.fav); return; }
-    if (e.target.closest("[data-close]")) { $("#drawer").hidden = true; return; }
+    const share = e.target.closest("[data-share]");
+    if (share) { shareCourse(share.dataset.share, share); return; }
+    if (e.target.closest("[data-close]")) { closeDrawer(); return; }
     if (e.target.id === "ics") { exportIcs(); return; }
     if (e.target.id === "pdf") { exportPdf(); return; }
     if (e.target.closest("a[href]:not([data-open])")) return;
@@ -701,7 +742,8 @@ function bindEvents() {
     const cardEl = e.target.closest(".card, .ev, .dated li, .mine-row");
     if (cardEl) openCourse(cardEl.dataset.id);
   });
-  document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#drawer").hidden = true; });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#drawer").hidden) closeDrawer(); });
+  addEventListener("popstate", syncFromHash);
   $$(".tabs button").forEach((b) => b.onclick = () => setView(b.dataset.view));
   $("#openList").onclick = () => setView("mine");
   $("#more").onclick = () => { S.shown += PAGE; renderList(); };
@@ -740,6 +782,7 @@ async function boot() {
   }
   buildFilters();
   render();
+  if (hashId()) syncFromHash();
 }
 boot();
 })();

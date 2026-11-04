@@ -28,12 +28,17 @@ log = logging.getLogger(__name__)
 _SEM = re.compile(
     r"\b(WiSe|WS|Wintersemester|Winter|SoSe|SS|Sommersemester|Summer|Sommer)\s*[-_.]?\s*"
     r"(20)?(\d{2})(?:\s*/\s*(20)?(\d{2}))?", re.I)
+_YEAR = re.compile(r"(?<![\d/])(20)?(\d{2})\s*/\s*(20)?(\d{2})(?![\d/])")
 
 
 def semester_of(name: str) -> str | None:
     """'WiSe 2026/27' / 'WS 26/27' / 'SoSe25' -> '2026W' / '2025S'."""
     m = _SEM.search(name)
     if not m:
+        # bare academic year '26/27' or '2026/27' -> winter semester
+        y = _YEAR.search(name)
+        if y and (int(y.group(2)) + 1) % 100 == int(y.group(4)):
+            return f"{2000 + int(y.group(2))}W"
         return None
     kind = m.group(1).lower()
     year = 2000 + int(m.group(3))
