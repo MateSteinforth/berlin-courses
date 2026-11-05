@@ -1850,5 +1850,17 @@
    "last_date": "2026-10-26",
    "room": "Zoom"
   }
+ ],
+ "00ea30ef1b424234": [],
+ "623592e5c1d14733": [
+  {
+   "weekday": null,
+   "start": null,
+   "end": null,
+   "rhythm": "single",
+   "first_date": "2026-10-12",
+   "last_date": null,
+   "room": "Werkstattgebäude 216"
+  }
  ]
 }
