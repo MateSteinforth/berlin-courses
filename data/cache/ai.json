@@ -140913,5 +140913,101 @@
   ],
   "language": "en",
   "dc_relevance": 1
+ },
+ "cea25c184b405bc0": {
+  "summary": "Project rethinking depression through clinical social work, linking psychiatric, social and structural perspectives.",
+  "tags": [
+   "society-politics",
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "62ab2f263341cd21": {
+  "summary": "Three-dimensional form exploration with plaster investigating spatial perception and material.",
+  "tags": [
+   "art",
+   "design",
+   "materials"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "5a39d2d62f01ab6a": {
+  "summary": "Visual storytelling and scientific illustration, translating personal quantified-self data into paper book objects.",
+  "tags": [
+   "art",
+   "fabrication-making",
+   "design"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "6c1c1b457e14aa5e": {
+  "summary": "Crash course teaching navigation of Blender for 3D modeling, animation, rendering, and motion graphics.",
+  "tags": [
+   "xr-3d",
+   "workshop-practice"
+  ],
+  "language": "en",
+  "dc_relevance": 3
+ },
+ "91e47d6e848a6b2e": {
+  "summary": "Letterpress workshop exploring diversity as a typographic theme using lead type and old printing forms.",
+  "tags": [
+   "art",
+   "design",
+   "fabrication-making"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "2342deb0c1f9dbc0": {
+  "summary": "Crash course teaching navigation of Blender for 3D modeling, animation, rendering, and motion graphics.",
+  "tags": [
+   "xr-3d",
+   "workshop-practice"
+  ],
+  "language": "en",
+  "dc_relevance": 3
+ },
+ "f90a407adaf60f5e": {
+  "summary": "Letterpress workshop exploring diversity as a typographic theme using lead type and old printing forms.",
+  "tags": [
+   "art",
+   "design",
+   "fabrication-making"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "5e8161e6c1be849c": {
+  "summary": "Three-dimensional form exploration with plaster investigating spatial perception and material.",
+  "tags": [
+   "art",
+   "design",
+   "materials"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "3596adc9b7231b44": {
+  "summary": "Three-dimensional form exploration with plaster investigating spatial perception and material.",
+  "tags": [
+   "art",
+   "design",
+   "materials"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "a0d239cc4192a312": {
+  "summary": "English exercise course for medical and healthcare electronics terminology.",
+  "tags": [
+   "writing-language",
+   "engineering"
+  ],
+  "language": "en",
+  "dc_relevance": 0
  }
 }
