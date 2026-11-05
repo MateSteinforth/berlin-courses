@@ -141009,5 +141009,798 @@
   ],
   "language": "en",
   "dc_relevance": 0
+ },
+ "73c36dd9137ceda1": {
+  "summary": "Hands-on project work applying facility management practice in a supervised professional setting.",
+  "tags": [
+   "workshop-practice",
+   "career-professional"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "9101c3db55a83ed8": {
+  "summary": "Study trip for early childhood education students, focused on field visits and observation.",
+  "tags": [
+   "education-teaching"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "7102cb7ee09201a9": {
+  "summary": "Administrative meeting with student representatives about university matters.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "fd9c6289e90ada0e": {
+  "summary": "Internal administrative meeting or training related to quality management.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "2200b68777e3db57": {
+  "summary": "Discussion session about arranging internships with the personnel office.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "a9a920b435ceca65": {
+  "summary": "Kickoff meeting for a working group on implementing mandatory attendance rules.",
+  "tags": [
+   "education-teaching"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "0c825879fac13c5f": {
+  "summary": "Training session on using a process portal software for quality management.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "ec33d958c920f12e": {
+  "summary": "Alumni talks on academic writing and building careers after graduate studies.",
+  "tags": [
+   "writing-language",
+   "career-professional"
+  ],
+  "language": "en",
+  "dc_relevance": 1
+ },
+ "933e58246a5b4f1e": {
+  "summary": "Administrative hearings, likely for procedural or disciplinary matters.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "d795abff1d065d47": {
+  "summary": "Internal meeting to discuss quality management processes.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "4ea69f351e13eb61": {
+  "summary": "Internal quality management session on a university process or evaluation.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "81c37da22a4ca547": {
+  "summary": "Counseling service offered by the women's and gender equality officer.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "5038eb7d6ecbbc19": {
+  "summary": "Studio course on recognition practices for an individual artist's work.",
+  "tags": [
+   "art",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "46e81a047adf0408": {
+  "summary": "Research project examining an integrated translation function in foreign-language chat communication.",
+  "tags": [
+   "ai-ml",
+   "hci-interaction"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "0e8c5bf08bfec9ff": {
+  "summary": "Research project evaluating honesty in large language models.",
+  "tags": [
+   "ai-ml"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "3dee43b69a8ec9b8": {
+  "summary": "User-centered development of an AR-based participation tool for urban landscape design.",
+  "tags": [
+   "xr-3d",
+   "urbanism",
+   "hci-interaction"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "d0dd6bf318fc16ab": {
+  "summary": "Research project on multi-agent large language model systems for complex tasks.",
+  "tags": [
+   "ai-ml"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "aed5ea1077cee2ee": {
+  "summary": "Second-phase practical research project in computer science and communication.",
+  "tags": [
+   "ai-ml",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "1e4af092700a551d": {
+  "summary": "Building a hardware-based workflow to read and archive East German floppy disks.",
+  "tags": [
+   "electronics-hardware",
+   "history",
+   "data"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "429f9c882997fbf5": {
+  "summary": "Research on persuasion-based attacks that bypass safety in large language models.",
+  "tags": [
+   "ai-ml"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "3588cfca181e6a4e": {
+  "summary": "Applying foundation models and evolutionary optimization to microbiome-based disease prediction.",
+  "tags": [
+   "ai-ml",
+   "data"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "0f4cd18176286f50": {
+  "summary": "Comparative evaluation of event-driven saga and durable execution architectures in distributed applications.",
+  "tags": [
+   "programming",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "3668f6feeda0fef9": {
+  "summary": "Predicting human health outcomes from gut microbiome data using data analysis methods.",
+  "tags": [
+   "data",
+   "ai-ml"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "59ef363c4e877d9c": {
+  "summary": "Research project on microcontroller-based data processing.",
+  "tags": [
+   "electronics-hardware",
+   "data"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "1b24118e10684bd9": {
+  "summary": "Research on machine learning methods that preserve data privacy.",
+  "tags": [
+   "ai-ml",
+   "data"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "ab935ddeafc38d8e": {
+  "summary": "Developing a digital painting tool for interactive exhibition formats.",
+  "tags": [
+   "art",
+   "creative-coding",
+   "programming"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "b68ea41cebe81d9e": {
+  "summary": "Research on how AI chatbots leak private information.",
+  "tags": [
+   "ai-ml",
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "ddc5b53c7916b4cc": {
+  "summary": "Studying strategic behavior of large language models in repeated games.",
+  "tags": [
+   "ai-ml",
+   "economics-business"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "c5f5abd47fcd1d83": {
+  "summary": "Research on AI-based methods to support in-person teaching.",
+  "tags": [
+   "ai-ml",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "b350ca393f0868ba": {
+  "summary": "Project seminar comparing German building energy laws.",
+  "tags": [
+   "sustainability",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "0249a3a63aea8600": {
+  "summary": "Tutorial supporting students in object-oriented programming.",
+  "tags": [
+   "programming",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "e798e9387324d937": {
+  "summary": "Tutorial supporting students in programming fundamentals.",
+  "tags": [
+   "programming",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "b8e250a5a677a0b1": {
+  "summary": "Project commissioning a cooling ceiling in a laboratory for energy research.",
+  "tags": [
+   "engineering",
+   "sustainability"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "9772080872c13828": {
+  "summary": "Building an experimental pump and valve test rig for predictive maintenance.",
+  "tags": [
+   "engineering",
+   "electronics-hardware",
+   "data"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "683596f9e7711a62": {
+  "summary": "Using LLMs to semantically match data points across building labeling systems.",
+  "tags": [
+   "ai-ml",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "e51d1ceaec3bb317": {
+  "summary": "Project on outdoor air supply for a ventilation system in a building.",
+  "tags": [
+   "engineering",
+   "sustainability"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "1526f7de4d1f9513": {
+  "summary": "Semantic integration of building and automation data for energy systems.",
+  "tags": [
+   "data",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "0ec56aed7f7f5683": {
+  "summary": "Evaluating the energy efficiency of ventilation in data centers.",
+  "tags": [
+   "sustainability",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "64cc0ef52984f674": {
+  "summary": "Identifying and preparing AI use cases in building energy supply for a web presence.",
+  "tags": [
+   "ai-ml",
+   "sustainability"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "76c42f97cedd5f1b": {
+  "summary": "Project developing an access control system for a research laboratory.",
+  "tags": [
+   "engineering",
+   "electronics-hardware"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "85e8bbc1217934bd": {
+  "summary": "Covers ontologies, linked data and semantic linking applied to building automation systems.",
+  "tags": [
+   "ai-ml",
+   "data",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "bcd7709e2a50b83e": {
+  "summary": "Hands-on project working with thermostatic valves in an energy and building lab setting.",
+  "tags": [
+   "engineering",
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "2ee469f67e0bcc4c": {
+  "summary": "Project on building renovation strategies emphasizing minimal, efficient interventions.",
+  "tags": [
+   "sustainability",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "d298141094132682": {
+  "summary": "Analysis of operational data from ventilation systems to detect faults and optimise operation.",
+  "tags": [
+   "data",
+   "engineering",
+   "sustainability"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "022e43c3c4592b88": {
+  "summary": "Using machine learning to build data-driven thermal models of buildings for control.",
+  "tags": [
+   "ai-ml",
+   "engineering",
+   "data"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "142f00bf08cca50d": {
+  "summary": "Developing a digital twin of an adaptive building façade.",
+  "tags": [
+   "engineering",
+   "xr-3d",
+   "architecture"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "82c5bbd62f56e218": {
+  "summary": "Programming a micro air-handling unit for building climate control.",
+  "tags": [
+   "engineering",
+   "electronics-hardware"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "75d32bb57369b469": {
+  "summary": "Commissioning a steam humidifier in a building technology setting.",
+  "tags": [
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "98eb36cdab38b550": {
+  "summary": "Integrating photovoltaics into heritage-protected buildings.",
+  "tags": [
+   "sustainability",
+   "architecture",
+   "engineering"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "728526752325398c": {
+  "summary": "Creating BIM models and plant schematics for virtual learning environments.",
+  "tags": [
+   "architecture",
+   "xr-3d",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "cdd472f85a4bf394": {
+  "summary": "Individual booking slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "6b380303cb11cfda": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "7d236a5cb86bee9d": {
+  "summary": "Tutorial on German economic-administrative law for business students.",
+  "tags": [
+   "economics-business",
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "b8dc91fa767aff64": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "40fddd936fa67671": {
+  "summary": "Individual booking for a webinar session.",
+  "tags": [
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "8f1d160ae510660c": {
+  "summary": "Individual booking for a project pitch session for an IKG project.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "7ada99922a93e339": {
+  "summary": "Individual meeting to discuss an urban garden project.",
+  "tags": [
+   "urbanism",
+   "sustainability"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "2769f0a82cf3f27d": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "35edc08cb6c39c12": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "39eacd5c043d44e8": {
+  "summary": "English-language tutorial on statistics for business students.",
+  "tags": [
+   "mathematics",
+   "economics-business",
+   "data"
+  ],
+  "language": "en",
+  "dc_relevance": 0
+ },
+ "e81a21082ee8ed35": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "27b32985fc611656": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "fa3758224b311ac5": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "16e40d213039a7d4": {
+  "summary": "Individual consultation slot with a faculty member in AI.",
+  "tags": [
+   "ai-ml",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "22a637dd25945f62": {
+  "summary": "Individual consultation slot with a faculty member in AI.",
+  "tags": [
+   "ai-ml",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "d95eb3f0c0911e36": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "e4ce01eb8bbb6a66": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "b63c5ab43ced167a": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "227ffeea5cf829bd": {
+  "summary": "Mentee workshop within a mentoring programme for IT students.",
+  "tags": [
+   "career-professional",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "0136646bb4237eb4": {
+  "summary": "Individual consultation slot with a faculty member in AI.",
+  "tags": [
+   "ai-ml",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "540898535088d0c6": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "a19eeafed1bf490a": {
+  "summary": "Individual consultation slot with a faculty member in AI.",
+  "tags": [
+   "ai-ml",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "f57b3fdd22bb7b8c": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "c30c05e81c140800": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "fcf8fc9e3b43a243": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "147b54532a7351e4": {
+  "summary": "Individual consultation slot with a faculty member in AI.",
+  "tags": [
+   "ai-ml",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "39b51f59829c5efa": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "bd2fd34ba668bdcd": {
+  "summary": "Individual consultation slot with a faculty member in informatics and communication.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "2b647ea50b325b90": {
+  "summary": "Meeting of a student group for the Junge GI community.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "a60381c1ad423ccb": {
+  "summary": "Assessment centre for a career programme, not a course.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "ae63dc0211fe139e": {
+  "summary": "Individual booking slot with a faculty member in Computer Science, Communication and Economics; content not specified.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "b42cfac676d04251": {
+  "summary": "Review session for the GreenBEAR project; content not specified.",
+  "tags": [
+   "sustainability"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "8368d058a561ca46": {
+  "summary": "Preparatory individual slot for first-year event planning with a faculty member in Computer Science, Communication and Economics.",
+  "tags": [
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "569b4a3518d88124": {
+  "summary": "Individual booking slot with a faculty member in Computer Science, Communication and Economics; content not specified.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "2300455a9bac3281": {
+  "summary": "Individual booking slot with a faculty member in Computer Science, Communication and Economics; content not specified.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "2048f423a38b77dd": {
+  "summary": "Individual booking slot with a faculty member in Computer Science, Communication and Economics; content not specified.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "9eeca5e459a30ee3": {
+  "summary": "Individual booking slot with a faculty member in Computer Science, Communication and Economics; content not specified.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "93b2bb6a6e53abb4": {
+  "summary": "Individual booking slot with a faculty member on AI topics in Computer Science, Communication and Economics.",
+  "tags": [
+   "ai-ml",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "3b10f3646d3523b1": {
+  "summary": "Mandatory safety instruction session for campus safety procedures.",
+  "tags": [
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "3d987bec50c31ec4": {
+  "summary": "Annual member assembly meeting of the university association for 2027.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "b35b4f4ac040d917": {
+  "summary": "Specialist lecture for a visiting delegation from China.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "75f1e4b19eecceb7": {
+  "summary": "Individual booking slot with a faculty member in Computer Science, Communication and Economics; content not specified.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
  }
 }
