@@ -141802,5 +141802,149 @@
   ],
   "language": "de",
   "dc_relevance": 0
+ },
+ "0d8e2965a6df6fed": {
+  "summary": "Seminar on current topics in work, engineering and organizational psychology, including psychological risk assessment.",
+  "tags": [
+   "economics-business"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "e9fd569093d70834": {
+  "summary": "Block seminar applying European and international law to current crisis cases such as energy and Ukraine.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "8cc23182735bab32": {
+  "summary": "Lecture and exercises on correlation, regression, multivariate statistics, and neural networks for data analysis.",
+  "tags": [
+   "data",
+   "mathematics"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "e3b5f24740f9677b": {
+  "summary": "Introduces diaconia as a theological and practical field, linking biblical foundations, historical practice and modern organisational questions.",
+  "tags": [
+   "society-politics",
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "fc4a0f95a7be34be": {
+  "summary": "Introduction to disability policy, covering the UN Convention on the Rights of Persons with Disabilities and its effects.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "f76885e8cc6ebf74": {
+  "summary": "Lecture on biochemistry covering core biochemical processes for biology students.",
+  "tags": [
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "64b791b150a288c5": {
+  "summary": "Lecture reading key texts of cultural studies from Aristotle to Kittler, tracing the discipline's history and concepts.",
+  "tags": [
+   "history",
+   "philosophy-theory",
+   "media-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "9c0418dac3ccf8c1": {
+  "summary": "Introduction to interaction and user experience design covering methods, processes, and rapid prototyping over a weekend.",
+  "tags": [
+   "hci-interaction",
+   "design",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 3
+ },
+ "83f09c87a62e9709": {
+  "summary": "Deep reading of Trouillot's Silencing the Past, examining how power shapes historical narratives and the Haitian revolution.",
+  "tags": [
+   "history",
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "50a48d9c4c522827": {
+  "summary": "Drawing course exploring object, space and figure through axonometry, perspective, figure drawing and an individual drawing project.",
+  "tags": [
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "3b8a3c02e64c03e8": {
+  "summary": "Introduction to art-related media theory and philosophy of art, surveying diverse theoretical and artistic positions.",
+  "tags": [
+   "media-theory",
+   "philosophy-theory",
+   "art"
+  ],
+  "language": "en",
+  "dc_relevance": 2
+ },
+ "20d6ccbc798e9616": {
+  "summary": "Group course introducing basic scenic work for first-year performing arts students.",
+  "tags": [
+   "performance",
+   "theatre"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "2d08b40bfc1b5036": {
+  "summary": "Individual singing lessons for second-year students in the performing arts program.",
+  "tags": [
+   "performance",
+   "music"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "51af95ccc9312771": {
+  "summary": "Ring seminar on how artificial intelligence changes image, language and perception in art.",
+  "tags": [
+   "ai-ml",
+   "art",
+   "philosophy-theory"
+  ],
+  "language": "en",
+  "dc_relevance": 3
+ },
+ "f9240828f516e412": {
+  "summary": "Seminar critically reworking opera's patriarchal and exclusionary forms through performance and collective practice.",
+  "tags": [
+   "art",
+   "performance",
+   "society-politics"
+  ],
+  "language": "en",
+  "dc_relevance": 0
+ },
+ "4c7fe5800b77f402": {
+  "summary": "Block seminar on panoramas and horizons as alternative forms of attention and imagining the future.",
+  "tags": [
+   "art",
+   "philosophy-theory"
+  ],
+  "language": "en",
+  "dc_relevance": 1
  }
 }
