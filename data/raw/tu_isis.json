@@ -1,7 +1,7 @@
 {
  "kind": "lms",
  "source": "tu_isis",
- "crawled": "2026-10-24T22:08+00:00",
+ "crawled": "2026-11-16T12:52+00:00",
  "courses": [
   {
    "id": "tu_isis:20412",
@@ -484,6 +484,18 @@
    ]
   },
   {
+   "id": "tu_isis:51088",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Berlin ausgestellt. Die Stadt im Museum – Museen in der Stadt",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51088",
+   "category": [
+    "Fakultät I",
+    "Center for Metropolitan Studies"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:51074",
    "source": "tu_isis",
    "university": "TU",
@@ -624,6 +636,42 @@
    "category": [
     "Fakultät I",
     "Center for Metropolitan Studies"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51106",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27 & SoSe 2027] Arte Lehre",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51106",
+   "category": [
+    "Fakultät I",
+    "Institut für Berufliche Bildung und Arbeitslehre"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51085",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Block-Kurs L554 Vertiefung Technik (ALMA-WP2)",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51085",
+   "category": [
+    "Fakultät I",
+    "Institut für Berufliche Bildung und Arbeitslehre"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51075",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Feldstudie zur Beruflichen Bildung im Berufsfeld Ernährung (L711)",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51075",
+   "category": [
+    "Fakultät I",
+    "Institut für Berufliche Bildung und Arbeitslehre"
    ],
    "semester_hint": "2026W"
   },
@@ -2591,6 +2639,18 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:51120",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Tutorium für Grundlagen der Linguistik BA-KulT SK 1",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51120",
+   "category": [
+    "Fakultät I",
+    "Institut für Sprache und Kommunikation"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:51049",
    "source": "tu_isis",
    "university": "TU",
@@ -4281,6 +4341,27 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:49096",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Wissenschaftliches Informationsmanagement (Universitätsbibliothek)",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=49096",
+   "category": [
+    "Fakultät II",
+    "Galilea"
+   ],
+   "teachers": [
+    "Sonja Aust",
+    "Angelika Bruskowski",
+    "Anna Bürklen",
+    "Tilo Katzmareck",
+    "Laura Carolin Lemke",
+    "Wiebke Petersen",
+    "Sebastian Podschull"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:49095",
    "source": "tu_isis",
    "university": "TU",
@@ -5672,6 +5753,7 @@
    "summary": "offizieller ISIS-Kurs der ERSTIFAHRT im WiSe2026 für Erstis aus Fak V und EEV",
    "teachers": [
     "Tolgahan Bilgi",
+    "Lisa Bormann",
     "Julia Sophie Susanne Böttcher",
     "Josefine Frentin",
     "Josina Aglaia Frischling",
@@ -5725,49 +5807,43 @@
    "summary": "Dies ist der allgemeine Organisationskurs zum Projekt Prozessingenieurwissenschaften im Wintersemester 2026/27.",
    "teachers": [
     "Lorenz Adrian",
+    "Ingalisa Mai-Britt Alsmeier",
     "Dietmar Werner Auhl",
     "Sina Bartfeld",
     "Mina Bizic",
-    "Gregor Blamberg",
     "Henriette Brykczynski",
     "Hyun-Dong Chang",
-    "Chang Ding",
-    "Stephan Drusch",
+    "Lara Delevic",
     "Stefan Elbel",
-    "Karin Engelbert",
+    "Bastian Eysel",
     "Matthias Finkbeiner",
     "Claudia Fleck",
     "Eckhard Flöter",
     "Christian Forbrig",
+    "Malte Friedrichsen",
     "Andrew Fulwider",
     "Isabella Gallino",
-    "Sven-Uwe Geißen",
-    "Brian Richard Gibson",
+    "Nikolas-Paul Oliver Gille-Ruhlich",
     "Matthias Gimpel",
     "Phillip Michael Girvan",
     "Oliver Görke",
     "Sarah Gräfin von Westarp",
+    "Runa Grosse",
     "Emanuela Gruber",
-    "Christian Haase",
+    "Aleksander Gurlo",
     "Andreas Balthasar Held",
     "Ferdinand Leberecht Hellweger",
     "Katharina Herkendell",
-    "Dorian Höffner",
-    "Mathias Hofmann",
-    "Danny Ionescu",
+    "Christian Hoffmann",
     "Thomas Luke Jamieson",
-    "Konstantin Wolfgang Günter Kallies",
     "Luzie Barbara Gertraud Kamecke",
+    "Malena Kieselbach",
     "Niklas Kießling",
     "Steffi Knorn",
-    "Matthias Kraume",
     "Martin Kriegel",
-    "Harald Kruggel-Emden",
     "Justus Victor Kuper-Schönebeck",
+    "Anke Kurreck",
     "Jens Kurreck",
-    "Luise Lallinger",
-    "Alina Clara Lange",
-    "Kevin Harry Lausch",
     "Leonardo Lorena Palito Frazao",
     "Jonathan Maximilian Mach",
     "Nicolas Ignacio Marturano",
@@ -5775,35 +5851,31 @@
     "Vera Meyer",
     "Peter Neubauer",
     "Tamara Nunez Guitar",
+    "Klara Otto",
     "Fontina Petrakopoulou",
     "Anke Putschew",
     "Juri Rappsilber",
     "Cornelia Rauh",
-    "Jascha Reich",
     "Jens-Uwe Repke",
+    "Lea Antonia Rosenfeld",
     "Mark Rosowski",
     "Vera Susanne Rotter",
     "Susanne Rudolph-Flöter",
-    "Aki Sebastian Ruhl",
-    "Edward Vincent Rullmann",
-    "Larissa Vivienne Sankowski",
-    "Denis Saric",
     "Jennifer Schön",
     "Fabian Rolf Schwenke",
     "Torsten Seewald",
     "Toni Sempert",
+    "Akshat Sharma",
     "Ulla Simon",
     "Janosch Stockmar",
-    "Pauline Thomé",
-    "Finn Trautermann",
+    "Christian Thoms-Meyer",
+    "Alejandra Maria Torres Gomez",
     "Ahmet Turnali",
     "Marcus Wend",
+    "Philip Wietstock",
     "Katrin Silke Wilhelm",
-    "Isabel Susan Wolf",
-    "Maria Stephanie Wolff",
     "Liu Yang",
-    "Muhammad Zeeshan",
-    "Mathias Ziersch"
+    "Justus Ludwig Otto Zillessen"
    ],
    "semester_hint": "2026W"
   },
@@ -5963,12 +6035,13 @@
    "teachers": [
     "Nemuuhuslen Batsukh",
     "Claudia Fleck",
-    "Friedrich Jakob Gehne",
     "Paul Kristof Greb",
+    "Charlotte Lindner",
     "Tom Michael Lindtner",
     "Cecilia Müller",
     "Julian Paul Neumüller",
     "Yaren Nezir",
+    "Theo Ulrich Riebel",
     "Anja Sandersfeld",
     "Cody Trepesch",
     "Hieu Vu Phan",
@@ -6055,6 +6128,30 @@
     "Janosch Stockmar",
     "Liu Yang"
    ]
+  },
+  {
+   "id": "tu_isis:51083",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Podcast Sekundärdaten",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51083",
+   "category": [
+    "Fakultät IV",
+    "Institut für Energie- und Automatisierungstechnik"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51082",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Studieneingangsprojekt Elektrotechnik - FG Elektrische Energiespeichertechnik",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51082",
+   "category": [
+    "Fakultät IV",
+    "Institut für Energie- und Automatisierungstechnik"
+   ],
+   "semester_hint": "2026W"
   },
   {
    "id": "tu_isis:51040",
@@ -6218,6 +6315,18 @@
    "university": "TU",
    "title": "[WiSe 2026/27] Medizinische Signalverarbeitung Projekt Montag",
    "url": "https://isis.tu-berlin.de/course/view.php?id=50051",
+   "category": [
+    "Fakultät IV",
+    "Institut für Energie- und Automatisierungstechnik"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:50049",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Medizinische Signalverarbeitung Projekt Dienstag",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=50049",
    "category": [
     "Fakultät IV",
     "Institut für Energie- und Automatisierungstechnik"
@@ -6798,6 +6907,30 @@
    ]
   },
   {
+   "id": "tu_isis:51081",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Studieneingangsprojekt TET",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51081",
+   "category": [
+    "Fakultät IV",
+    "Institut für Hochfrequenztechnik- und Halbleiter-Systemtechnologien"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51068",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Studieneingangsprojekt - FG SENSE",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51068",
+   "category": [
+    "Fakultät IV",
+    "Institut für Hochfrequenztechnik- und Halbleiter-Systemtechnologien"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:51059",
    "source": "tu_isis",
    "university": "TU",
@@ -6861,7 +6994,7 @@
    "id": "tu_isis:50988",
    "source": "tu_isis",
    "university": "TU",
-   "title": "[WiSe 2026/27] Studieneingangsprojekt Elektrotechnik – FG Regelungssysteme",
+   "title": "[WiSe 2026/27] Studieneingangsprojekt – FG Regelungssysteme",
    "url": "https://isis.tu-berlin.de/course/view.php?id=50988",
    "category": [
     "Fakultät IV",
@@ -6923,6 +7056,18 @@
    "university": "TU",
    "title": "[WiSe 2026/27] Studieneingangsprojekt",
    "url": "https://isis.tu-berlin.de/course/view.php?id=50856",
+   "category": [
+    "Fakultät IV",
+    "Institut für Hochfrequenztechnik- und Halbleiter-Systemtechnologien"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:50824",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Studieneingangsprojekt Hochfrequenztechnik/Photonik",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=50824",
    "category": [
     "Fakultät IV",
     "Institut für Hochfrequenztechnik- und Halbleiter-Systemtechnologien"
@@ -7166,6 +7311,30 @@
    "category": [
     "Fakultät IV",
     "Institut für Hochfrequenztechnik- und Halbleiter-Systemtechnologien"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:49954",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Process Technology of Semiconductor Devices and their Packaging and Interconnection in Microelectronic Systems",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=49954",
+   "category": [
+    "Fakultät IV",
+    "Institut für Hochfrequenztechnik- und Halbleiter-Systemtechnologien"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51109",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Exam Communication Acoustics",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51109",
+   "category": [
+    "Fakultät IV",
+    "Institut für Softwaretechnik und Theoretische Informatik"
    ],
    "semester_hint": "2026W"
   },
@@ -9721,7 +9890,6 @@
     "Maria Barbara Fleßner-Jung",
     "Manuela Gadow",
     "Sarah Antonina Hauser",
-    "Luis Robert Landwehrmeyer",
     "Gesine Lapke",
     "Maximilian Lewerenz",
     "Jonathan Arno Luca Maeß",
@@ -9788,6 +9956,18 @@
     "Arja Imme",
     "Anna-Louiza Kalimeraki",
     "Yuliia Yazanova"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51119",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Nachhaltige Produktentwicklung -Arbeitskurs-Blue_Engineering_fuer_lebenszyklusorientierte_Systemgestaltung",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51119",
+   "category": [
+    "Fakultät V",
+    "Institut für Maschinenkonstruktion und Systemtechnik"
    ],
    "semester_hint": "2026W"
   },
@@ -10751,7 +10931,7 @@
    "id": "tu_isis:50982",
    "source": "tu_isis",
    "university": "TU",
-   "title": "[WiSe 2026/27] Kolloquium Handlungs- und Automationspsychologie & Interaktive Mensch-Technik-Systeme",
+   "title": "[WiSe 2026/27] Kolloquium Handlungs- und Automationspsychologie",
    "url": "https://isis.tu-berlin.de/course/view.php?id=50982",
    "category": [
     "Fakultät V",
@@ -11876,7 +12056,7 @@
    "id": "tu_isis:50337",
    "source": "tu_isis",
    "university": "TU",
-   "title": "[WiSe 2026/27] GPE: Simulation of Production Systems",
+   "title": "[WiSe 2026/27] GPE: Simulation of Production and Logistics Systems",
    "url": "https://isis.tu-berlin.de/course/view.php?id=50337",
    "category": [
     "Fakultät V",
@@ -12816,6 +12996,18 @@
    ]
   },
   {
+   "id": "tu_isis:51090",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Wissenschaftliches Arbeiten - Geochemie",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51090",
+   "category": [
+    "Fakultät VI",
+    "Institut für Angewandte Geowissenschaften"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:50925",
    "source": "tu_isis",
    "university": "TU",
@@ -13102,6 +13294,42 @@
    ]
   },
   {
+   "id": "tu_isis:51112",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] BA Vorlesung Entwerfen und Gebäudekunde III/VI & Baukonstruktion III/VI",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51112",
+   "category": [
+    "Fakultät VI",
+    "Institut für Architektur"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51087",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Berlin’s Ringbahn — Ecologies of Urban Transition",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51087",
+   "category": [
+    "Fakultät VI",
+    "Institut für Architektur"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51079",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Vorlesung Architektur, Gebäudetechnik und -systeme",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51079",
+   "category": [
+    "Fakultät VI",
+    "Institut für Architektur"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:51041",
    "source": "tu_isis",
    "university": "TU",
@@ -13345,6 +13573,7 @@
     "Institut für Bauingenieurwesen"
    ],
    "teachers": [
+    "Daniel Aubram",
     "Anne Else Gerda Baumbach",
     "Philipp Beidersandwisch",
     "Lisa Eva Franziska Berki",
@@ -13827,6 +14056,7 @@
    "summary": "Grundlagenprojekt I Ökologie FG Bodenkunde/FG Ökohydrologie Im Projekt werden zu Beginn des Studiums grundlegende Inhalte und thematische Schwerpunkte der Bodenkunde und der Hydrologie interdisziplinär verbunden vermittelt. Die Funktionen von Böden (Lebensraumfunktion, ökologische Regelungsfunktion, Kreislauffunktion, Nutzungsfunktion und Archivfunktion – siehe Bundesbodenschutzgesetz BBodSchGes) sind eng mit dem Wasserhaushalt von Böden und Landschaften verbunden. Der Zustand von Gewässern (inkl. Grundwasser siehe Wasserhaushaltsgesetz WHG) und deren Ökosystemdienstleistungen (MEA 2005)- versorgende, regulierende, kulturelle und unterstützende - wiederum hängen stark von den mit ihnen in Verbindung stehenden Böden ab.",
    "teachers": [
     "Varvara Kosova",
+    "Nils Marvin Müller",
     "Thomas Nehls",
     "Anne Wagner"
    ],
@@ -13844,8 +14074,10 @@
    ],
    "summary": "FG Stadtökologie : Dynamics of the urban environment Mitigating heat stress through climate-sensitive urban design \" Masterprojekt / Profilierungsprojekt Ökologie\" M.Sc. / B.Sc. Ökologie und Umweltplang; \" Environmental Resources in Urban Regions \" M.Sc. Urban Ecosystem Sciences (Stadtökologie) The project can probably be taken as an equivalent to other project modules for profiling / specialisation. Click here for the → VVZ-MOSES entry The aim of the project is to jointly develop a socioecological analysis/monitoring concept for the redevelopment of an urban park (Hertzbergplatz) First Meeting: 📅 Thursday 15.10.26, 14:00 - 18:00 Uhr in EB 317B , Straße des 17. Juni 145 Teaching Language: English & German Session formats: Plenary, small groups, field trip Maximum project members: 20 Background Rising temperatures and frequent heatwaves in cities, described by the “urban heat island” effect, pose significant risks to public health and the economy. In order to reduce the impact of heatwaves in urban areas, well thought-out urban planning is necessary. Integrating green infrastructure and nature-based solutions is crucial for creating resilient and climate-sensitive urban spaces. This project develops an ecological framework for analyzing and monitoring the redevelopment of the Hertzbergplatz in Berlin-Neukölln in the \" Quartier Harzer Straße \", under changing climate conditions. In cooperation with the \" Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen\" , the course focuses on climate resilience, biodiversity, microclimate regulation, and decentralized water management. Through field studies, mapping, and ecological assessment, we will evaluate the current state of the park, identify ecological potentials and vulnerabilities, and design indicators and monitoring strategies. The goal is to ensure that the park’s transformation enhances urban ecological functions, supports climate adaptation, and contributes to a sustainable and resilient urban environment. The project will include knowledge exchange between a second project course focusing on how climate adaptation and urban redevelopment affect social inequalities around Hertzbergplatz in Berlin-Neukölln, developing methods to ensure that transformation processes are socially inclusive and equitable. The goal is to integrate insights on social equity and ecological resilience to develop a holistic understanding of sustainable urban transformation. The project will be in cooperation with Berlinovo (Landeseigenes Wohnungsunternehmen), which wants to increase the quality of their green spaces (climate sensitivity focus) and facades in a huge project in Spandau (multiple big high rise buildings spreading over various streets). They are eager to cooperate and want to define a \"Kooperationsvereinbarung\" to enable publication of the data and already gave permission for sampling and surveying. Supervisor: Alexander Plakias",
    "teachers": [
+    "Timon Tobias Frieder Berger",
     "Varvara Kosova",
-    "Alexander Plakias"
+    "Alexander Plakias",
+    "Mika Leander Schneidewind"
    ],
    "semester_hint": "2026W"
   },
@@ -15162,6 +15394,7 @@
    "teachers": [
     "Aylin Adak",
     "Yannick Maximilian Frisch",
+    "Gwen Maya Goerke",
     "Martin Sebastian Haase",
     "Jurek Antonin Heiss",
     "Katrin Jux",
@@ -15297,6 +15530,23 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:51117",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27 & SoSe 2027] Bibliothek interner Bereich",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51117",
+   "category": [
+    "Zentraleinrichtungen/Zentralinstitute",
+    "Universitätsbibliothek"
+   ],
+   "teachers": [
+    "Angelika Bruskowski",
+    "Jenny Kurth",
+    "Elisabeth Mecking"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:43880",
    "source": "tu_isis",
    "university": "TU",
@@ -15408,6 +15658,23 @@
    ]
   },
   {
+   "id": "tu_isis:51111",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] SEM-Prakt AP",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51111",
+   "category": [
+    "Zentraleinrichtungen/Zentralinstitute",
+    "ZE Elektronenmikroskopie (ZELMI)"
+   ],
+   "teachers": [
+    "Dirk Berger",
+    "Christoph Fahrenson",
+    "Christian Günther"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:50185",
    "source": "tu_isis",
    "university": "TU",
@@ -15447,11 +15714,35 @@
    ]
   },
   {
+   "id": "tu_isis:51104",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27 & SoSe 2027] Zertifikatsprogramm Klima-Coach",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51104",
+   "category": [
+    "Zentraleinrichtungen/Zentralinstitute",
+    "ZE Wissenschaftliche Weiterbildung und Kooperation (ZEWK)"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:51063",
    "source": "tu_isis",
    "university": "TU",
    "title": "[WiSe 2026/27] Podcast- und Audioproduktion in Wissenschaftskommunikation und Lehre",
    "url": "https://isis.tu-berlin.de/course/view.php?id=51063",
+   "category": [
+    "Zentraleinrichtungen/Zentralinstitute",
+    "ZE Wissenschaftliche Weiterbildung und Kooperation (ZEWK)"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51015",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] ISIS/Moodle: Lernwege strukturiert & studierendenfreundlich gestalten (Werkstatt)",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51015",
    "category": [
     "Zentraleinrichtungen/Zentralinstitute",
     "ZE Wissenschaftliche Weiterbildung und Kooperation (ZEWK)"
@@ -15536,6 +15827,17 @@
    "university": "TU",
    "title": "KI@TUB | Der Basiskurs",
    "url": "https://isis.tu-berlin.de/course/view.php?id=46196",
+   "category": [
+    "Zentraleinrichtungen/Zentralinstitute",
+    "ZE Wissenschaftliche Weiterbildung und Kooperation (ZEWK)"
+   ]
+  },
+  {
+   "id": "tu_isis:44956",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "Online-Selbstlernkurs: Lernen zum Mitmachen - Interaktive Lernelemente mit H5P erstellen",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=44956",
    "category": [
     "Zentraleinrichtungen/Zentralinstitute",
     "ZE Wissenschaftliche Weiterbildung und Kooperation (ZEWK)"
@@ -15906,6 +16208,21 @@
    ]
   },
   {
+   "id": "tu_isis:51115",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Testen",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51115",
+   "category": [
+    "Institutionsunabhängige Themen",
+    "innoCampus"
+   ],
+   "teachers": [
+    "Amélie Lydia Liesegang"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:48819",
    "source": "tu_isis",
    "university": "TU",
@@ -15931,7 +16248,9 @@
    ],
    "teachers": [
     "Diana Baumann",
-    "Christian Grümme"
+    "Christian Grümme",
+    "Christian Dieter Antonius Grümme",
+    "Christina Pekrul"
    ],
    "semester_hint": "2026W"
   },
@@ -16403,7 +16722,7 @@
     "Institut für Philosophie, Literatur-, Wissenschafts- und Technikgeschichte",
     "Center for Cultural Studies on Science and Technology in China"
    ],
-   "summary": "Von Orakelknochen, alten Gelehrten und digitalen Welten: Die Erfindung Chinas Dozentin Dr. Tania Becker Veranstaltungsart Hauptseminar/Seminar, zweiwöchentlich mit abweichendem Einführungstermin Module 10686; 10688; 10519 Start und weitere Termine ab Mittwoch, 21. Oktober 2026, von 9:00 bis 10:30 Uhr; weitere Termine am 4. und 18. November sowie 2. Dezember 2026 und am 13. und 27. Januar sowie 10. Februar 2027, jeweils von 9:00 bis 13:00 Uhr Ort online über Zoom Teilnehmendenzahl maximal 100 Anmeldung über ISIS Ankündigungstext Das Seminar untersucht die Entwicklung chinesischer Denk- und Weltvorstellungen von den frühen Kulturen des Neolithikums bis in die Gegenwart. Im Mittelpunkt stehen philosophische Fragen nach Ordnung, Mensch und Kosmos, Wissen, Harmonie, Sprache, Technik und gesellschaftlicher Gestaltung. Ausgehend von den Orakelknocheninschriften der Shang-Zeit und den damit verbundenen Vorstellungen von Himmel, Ritual und Vorsehung verfolgt das Seminar die Herausbildung zentraler philosophischer Traditionen Chinas. Behandelt werden unter anderem der Konfuzianismus, der Daoismus und ausgewählte Strömungen des buddhistischen Denkens sowie deren Einfluss auf Politik, Gesellschaft, Wissenschaft und Alltagskultur. Chinesische Philosophie wird nicht allein als Texttradition betrachtet. Untersucht wird auch, wie sich philosophische Vorstellungen in Ritualen, Verwaltungsformen, Naturbildern, gesellschaftlichen Ordnungsmodellen und technischen Entwicklungen ausdrücken. Ein weiterer Schwerpunkt liegt auf der Frage, wie traditionelle Denkmodelle in der Gegenwart fortwirken und neu interpretiert werden. Welche Bedeutung besitzen konfuzianische Vorstellungen von Ordnung, Gemeinschaft und Verantwortung im heutigen China? Wie verändern Digitalisierung, künstliche Intelligenz und technologische Steuerung das Verhältnis von Mensch, Wissen und Gesellschaft? Lassen sich Verbindungen zwischen frühen kosmologischen Vorstellungen und modernen Visionen einer vernetzten und technologisch gestalteten Welt erkennen? In drei Sitzungen begegnen die Teilnehmenden chinesischen Studierenden der Nankai-Universität in Tianjin. In deutsch-chinesischen Arbeitsgruppen bearbeiten sie gemeinsam ausgewählte philosophische und gesellschaftliche Fragestellungen, vergleichen unterschiedliche Perspektiven und erarbeiten gemeinsame Ergebnisse. Die Gruppenarbeit dient der inhaltlichen Vertiefung sowie dem interkulturellen und wissenschaftlichen Austausch. Die gemeinsamen Sitzungen finden am 4. November, 18. November und 2. Dezember 2026 jeweils ab 9:00 Uhr statt. Literatur · Shelach-Lavi, Gideon: The Archaeology of Early China: From Prehistory to the Han Dynasty. Cambridge University Press, 2015. · Liu, Li / Chen, Xingcan: The Archaeology of China: From the Late Paleolithic to the Early Bronze Age. Cambridge University Press, 2012. · Shen, Chen: Anyang and Sanxingdui: Unveiling the Mysteries of Ancient Chinese Civilizations. Royal Ontario Museum, 2002. · Liu, Bin / Qin, Ling / Zhuang, Yijie (Hrsg.): Liangzhu Culture: Society, Belief, and Art in Neolithic China. Routledge, 2020. · Allan, Sarah: The Shape of the Turtle: Myth, Art, and Cosmos in Early China. State University of New York Press, 1991. · Loewe, Michael: Ways to Paradise: The Chinese Quest for Immortality. Routledge-Neuausgabe, 2024; erstmals erschienen bei Allen & Unwin, 1979. · Hirn, Wolfgang: Der Tech-Krieg. China gegen USA: Und wo bleibt Europa? Campus Verlag, 2024. · Miller, Chris: Der Chip-Krieg. Wie die USA und China um die technologische Vorherrschaft auf der Welt kämpfen. Rowohlt, 2023. Sieren, Frank: Shenzhen: Zukunft Made in China. Zwischen Kreativität und Kontrolle: die junge Megacity, die unsere Welt verändert. Peng",
+   "summary": "Von Orakelknochen, alten Gelehrten und digitalen Welten: Die Erfindung Chinas Dozentin Dr. Tania Becker Veranstaltungsart Hauptseminar/Seminar, zweiwöchentlich mit abweichendem Einführungstermin Module 10686; 10688; 10519 Start und weitere Termine ab Mittwoch, 21. Oktober 2026, von 9:00 bis 10:30 Uhr; weitere Termine am 4. und 18. November sowie 2. Dezember 2026 und am 13. und 27. Januar sowie 10. Februar 2027, jeweils von 9:00 bis 13:00 Uhr Ort online über Zoom Teilnehmendenzahl maximal 100 Anmeldung über ISIS Ankündigungstext Das Seminar untersucht die Entwicklung chinesischer Denk- und Weltvorstellungen von den frühen Kulturen des Neolithikums bis in die Gegenwart. Im Mittelpunkt stehen philosophische Fragen nach Ordnung, Mensch und Kosmos, Wissen, Harmonie, Sprache, Technik und gesellschaftlicher Gestaltung. Ausgehend von den Orakelknocheninschriften der Shang-Zeit und den damit verbundenen Vorstellungen von Himmel, Ritual und Vorsehung verfolgt das Seminar die Herausbildung zentraler philosophischer Traditionen Chinas. Behandelt werden unter anderem der Konfuzianismus, der Daoismus und ausgewählte Strömungen des buddhistischen Denkens sowie deren Einfluss auf Politik, Gesellschaft, Wissenschaft und Alltagskultur. Chinesische Philosophie wird nicht allein als Texttradition betrachtet. Untersucht wird auch, wie sich philosophische Vorstellungen in Ritualen, Verwaltungsformen, Naturbildern, gesellschaftlichen Ordnungsmodellen und technischen Entwicklungen ausdrücken. Ein weiterer Schwerpunkt liegt auf der Frage, wie traditionelle Denkmodelle in der Gegenwart fortwirken und neu interpretiert werden. Welche Bedeutung besitzen konfuzianische Vorstellungen von Ordnung, Gemeinschaft und Verantwortung im heutigen China? Wie verändern Digitalisierung, künstliche Intelligenz und technologische Steuerung das Verhältnis von Mensch, Wissen und Gesellschaft? Lassen sich Verbindungen zwischen frühen kosmologischen Vorstellungen und modernen Visionen einer vernetzten und technologisch gestalteten Welt erkennen? In drei Sitzungen begegnen die Teilnehmenden chinesischen Studierenden der Nankai-Universität in Tianjin. In deutsch-chinesischen Arbeitsgruppen bearbeiten sie gemeinsam ausgewählte philosophische und gesellschaftliche Fragestellungen, vergleichen unterschiedliche Perspektiven und erarbeiten gemeinsame Ergebnisse. Die Gruppenarbeit dient der inhaltlichen Vertiefung sowie dem interkulturellen und wissenschaftlichen Austausch. Die gemeinsamen Sitzungen finden am 4. November, 18. November und 2. Dezember 2026 jeweils ab 9:00 Uhr statt. Literatur · Shelach-Lavi, Gideon: The Archaeology of Early China: From Prehistory to the Han Dynasty. Cambridge University Press, 2015. · Liu, Li / Chen, Xingcan: The Archaeology of China: From the Late Paleolithic to the Early Bronze Age. Cambridge University Press, 2012. · Shen, Chen: Anyang and Sanxingdui: Unveiling the Mysteries of Ancient Chinese Civilizations. Royal Ontario Museum, 2002. · Liu, Bin / Qin, Ling / Zhuang, Yijie (Hrsg.): Liangzhu Culture: Society, Belief, and Art in Neolithic China. Routledge, 2020. · Allan, Sarah: The Shape of the Turtle : Myth, Art, and Cosmos in Early China. State University of New York Press, 1991. · Loewe, Michael: Ways to Paradise: The Chinese Quest for Immortality. Routledge-Neuausgabe, 2024; erstmals erschienen bei Allen & Unwin, 1979. · Hirn, Wolfgang: Der Tech-Krieg. China gegen USA: Und wo bleibt Europa? Campus Verlag, 2024. · Miller, Chris: Der Chip-Krieg. Wie die USA und China um die technologische Vorherrschaft auf der Welt kämpfen. Rowohlt, 2023. Sieren, Frank: Shenzhen: Zukunft Made in China. Zwischen Kreativität und Kontrolle: die junge Megacity, die unsere Welt verändert. Peng",
    "teachers": [
     "Tania Becker"
    ],
@@ -16898,7 +17217,7 @@
     "Institut für Chemie",
     "Anorganische und Analytische Chemie"
    ],
-   "summary": "Vorlesung 3235 L 8103 : Kristallzüchtung I - Grundlagen und Methoden (in jedem Sommersemester) Vorlesung 3235 L 9102: Kristallzüchtung II - Methoden und Anwendungen (in jedem Wintersemester) Herzlich willkommen zur Vorlesung Kristallzüchtung! Wahlpflichtmodul (6 LP) für die Vertiefungsfächer „Materialwissenschaftliche Chemie“, „Synthese & Katalyse“ oder „Technische Chemie“ im Master-Studiengang Chemie. Ansonsten Wahlmodul (6 LP oder einzelne Semestermodule zu je 3 LP), z.B. für die Master- und Bachelorstudiengänge Chemie, Werkstoffwissenschaften und anwendungsorientierte Physik. Mündliche Prüfung \"jederzeit\" (ohne festen Prüfungszeitraum). Jeden Dienstag 16.15-17.45 Uhr im Chemiegebäude der TU Berlin, im Hörsaal C 230. Vorlesung im Wintersemester 2026/27: Kristallzüchtung II. Erster Termin: 20.10.2026 , keine Vorlesung am 27.10.2026, danach jeden Dienstag Einstieg jederzeit möglich, der zweite Teil kann auch vor dem ersten Teil gehört werden. Dieser ISIS-Eintrag gilt auch für alle zurückliegenden und zukünftigen Studienjahre! Skripten und Online-Videos sind vorhanden! Bitte zum Kurs eintragen; Gast-Anmeldung über Kenntwort 'ikz'. P rüfungstermine (in Präsenz, gerne am IKZ in Berlin-Adlershof) jederzeit nach Absprache per Email. Mini-Praktikum (Voraussetzung für \"Kristallzüchtung II\"): Bitte Kurs öffnen für mehr Infos. Ich freue mich auf Eure Teilnahme! Bei Interesse bitte in den Kurs einschreiben oder mir eine Email schicken! Kursleiter: Prof. Dr.-Ing. Matthias Bickermann Leibniz-Institut für Kristallzüchtung (IKZ) Max-Born-Str. 2, 12489 Berlin Tel.: (030) 246499-102 Email: matthias.bickermann@ikz-berlin.de",
+   "summary": "Vorlesung 3235 L 8103 : Kristallzüchtung I - Grundlagen und Methoden (in jedem Sommersemester) Vorlesung 3235 L 9102: Kristallzüchtung II - Methoden und Anwendungen (in jedem Wintersemester) Herzlich willkommen zur Vorlesung Kristallzüchtung! Wahlpflichtmodul (6 LP) für die Vertiefungsfächer „Materialwissenschaftliche Chemie“, „Synthese & Katalyse“ oder „Technische Chemie“ im Master-Studiengang Chemie. Ansonsten Wahlmodul (6 LP oder einzelne Semestermodule zu je 3 LP), z.B. für die Master- und Bachelorstudiengänge Chemie, Werkstoffwissenschaften und anwendungsorientierte Physik. Mündliche Prüfung \"jederzeit\" (ohne festen Prüfungszeitraum). Jeden Dienstag 16.15-17.45 Uhr im Chemiegebäude der TU Berlin, im Hörsaal C 230. Vorlesung im Wintersemester 2026/27: Kristallzüchtung II. Erster Termin: 20.10.2026 , danach jeden Dienstag (nicht am 22. und 29. Dezember 2026). Einstieg jederzeit möglich, der zweite Teil kann auch vor dem ersten Teil gehört werden. Dieser ISIS-Eintrag gilt auch für alle zurückliegenden und zukünftigen Studienjahre! Skripten und Online-Videos sind vorhanden! Bitte zum Kurs eintragen; Gast-Anmeldung über Kenntwort 'ikz'. P rüfungstermine (in Präsenz, gerne am IKZ in Berlin-Adlershof) jederzeit nach Absprache per Email. Mini-Praktikum (Voraussetzung für \"Kristallzüchtung II\"): Bitte Kurs öffnen für mehr Infos. Ich freue mich auf Eure Teilnahme! Bei Interesse bitte in den Kurs einschreiben oder mir eine Email schicken! Kursleiter: Prof. Dr.-Ing. Matthias Bickermann Leibniz-Institut für Kristallzüchtung (IKZ) Max-Born-Str. 2, 12489 Berlin Tel.: (030) 246499-102 Email: matthias.bickermann@ikz-berlin.de",
    "teachers": [
     "Claudia Benzin",
     "Matthias Bickermann"
@@ -17518,7 +17837,8 @@
     "Anja Sandersfeld",
     "Andrei Schliwa",
     "Mark Daniel Schneider",
-    "Christian Thomsen"
+    "Christian Thomsen",
+    "Markus Raphael Wagner"
    ],
    "semester_hint": "2026W"
   },
@@ -17590,7 +17910,7 @@
     "Institut für Physik und Astronomie",
     "Fachgruppe Festkörperphysik"
    ],
-   "summary": "Course Overview Neutron scattering is a valuable experimental technique for investigating condensed matter providing insights into a large range of physical properties found in materials. This course covers the principles of the neutron scattering method and goes into depth on the topics to which it is applied, namely crystallography, magnetism and superconductivity. The first semester focuses on a lectures along with several lab tours totaling 4 SWS per week. The second semester focuses on practical applications usually in the form of a 7 day block course where the students make and investigate a crystal. The course will be taught in English and the first lecture takes place on Tuesday 13th October at 14:00 in room Charlottenburg, MA 648, Subsequent lectures may take place at Helmholtz Zentrum Berlin Wannsee. For more information please contact me at bella.lake@helmholtz-berlin.de Learning Outcomes Through lectures and exercises the students learn about the fundamentals of neutron scattering techniques and how to plan and carry out a neutron scattering experiment. They also gain in-depth knowledge of the topics to which neutron scattering is applied, in particular crystallography, magnetism, and superconductivity. In crystallography, the students learn about crystal lattices and how to interpret space groups as well as how to analyze neutron diffraction data to determine crystal structures. They also learn about the origins of magnetism and magnetic interactions in crystals and how magnetic structures and excitations can be obtained from neutron experiments. In addition, they learn about the origins of superconductivity including quantum coherence and Type-2 superconductors and how vortex lattices can be measured by neutron scattering. Furthermore, the students are introduced to current topics in these research fields and the role that neutron scattering is playing in advancing them. This module provides a broad foundation for experiment-based thesis projects in the field of condensed matter physics. Content The first semester focuses mostly on lectures along with a few lab tours and demonstrations, while the second semester mostly consists of Practicals usually in the form of a 7-day block practical course which takes place at the Helmholz Zentrum Berlin (Wannsee Campus) where the students grow a crystal of a magnetic material and investigate it’s properties experimentally. Winter semester (lectures) The neutron: fundamental properties, neutron beams and sources Neutron scattering theory: correlation functions, Fourier transforms, cross sections Neutron experiments: detection and instrument components Crystallography: symmetry, point groups Crystal systems, Bravais lattices and space groups Lattice dynamics: phonons Neutron diffraction and inelastic neutron scattering techniques Magnetism: magnetic moments, interactions and structures Magnetic excitations and spin-wave theory Phase transitions and critical phenomena Superconductivity: BCS theory, quantum interference Type II superconductors and unconventional superconductors Summer semester (practicals) 1. Powder synthesis of a magnetic material 2. X-ray powder diffraction of this magnetic material 3. Single crystal growth of this material for it crystal structure 4. X-ray laue diffraction of this single crystal 5. Heat capacity measurements for its thermodynamic properties 6. Susceptibility and magnetization for its magnetic properties 7. Analysing neutron scattering data from this material 8. Investigating superconductivity in a high temperature superconductor 9. Investigating structural changes in an orbitally ordered material Recommended literature: Pynn: Neutron scattering - a primer: https://www.ncnr.nist.gov/summerschool/ss16/pdf/ NeutronScatteringPrimer .pdf Squires: Introduction to the theory of thermal neutron scattering, Boothroyd: Principles of neutron scattering from condensed matter Ascroft and Mermin: Solid state physics Burns and Glazer: Space groups for solid state scientists Dove Structure and dynamics An atomic view of materials Nolting: Magnetismus I+II, Blundell: Magnetism in Condensed Matter Rose-Ines and Rhoderick: Introduction to superconductivity Crediting of the module To earn a certificate, students must complete a lab course. The lab part consists of 9 experiments. In addition, students must analyze the data and document them in a report. The certificate is a prerequisite for the oral exam. This module with 12 ECTS points can be chosen as \"Experimentelles Wahlpflichtfach\" (Winter & Summer Semester) in the Master's program of TU Berlin.",
+   "summary": "Course Overview Neutron scattering is a valuable experimental technique for investigating condensed matter providing insights into a large range of physical properties found in materials. This course covers the principles of the neutron scattering method and goes into depth on the topics to which it is applied, namely crystallography, magnetism and superconductivity. The first semester focuses on a lectures along with several lab tours totaling 4 SWS per week. The second semester focuses on practical applications usually in the form of a 7 day block course where the students make and investigate a crystal. The course will be taught in English and the first lecture takes place on Tuesday 13th October at 14:00 in room Charlottenburg, MA 648, Subsequent lectures may take place at Helmholtz Zentrum Berlin Wannsee. Learning Outcomes Through lectures and exercises the students learn about the fundamentals of neutron scattering techniques and how to plan and carry out a neutron scattering experiment. They also gain in-depth knowledge of the topics to which neutron scattering is applied, in particular crystallography, magnetism, and superconductivity. In crystallography, the students learn about crystal lattices and how to interpret space groups as well as how to analyze neutron diffraction data to determine crystal structures. They also learn about the origins of magnetism and magnetic interactions in crystals and how magnetic structures and excitations can be obtained from neutron experiments. In addition, they learn about the origins of superconductivity including quantum coherence and Type-2 superconductors and how vortex lattices can be measured by neutron scattering. Furthermore, the students are introduced to current topics in these research fields and the role that neutron scattering is playing in advancing them. This module provides a broad foundation for experiment-based thesis projects in the field of condensed matter physics. Content The first semester focuses mostly on lectures along with a few lab tours and demonstrations, while the second semester mostly consists of Practicals usually in the form of a 7-day block practical course which takes place at the Helmholz Zentrum Berlin (Wannsee Campus) where the students grow a crystal of a magnetic material and investigate it’s properties experimentally. Winter semester (lectures) The neutron: fundamental properties, neutron beams and sources Neutron scattering theory: correlation functions, Fourier transforms, cross sections Neutron experiments: detection and instrument components Crystallography: symmetry, point groups Crystal systems, Bravais lattices and space groups Lattice dynamics: phonons Neutron diffraction and inelastic neutron scattering techniques Magnetism: magnetic moments, interactions and structures Magnetic excitations and spin-wave theory Phase transitions and critical phenomena Superconductivity: BCS theory, quantum interference Type II superconductors and unconventional superconductors Summer semester (practicals) 1. Powder synthesis of a magnetic material 2. X-ray powder diffraction of this magnetic material 3. Single crystal growth of this material for it crystal structure 4. X-ray laue diffraction of this single crystal 5. Heat capacity measurements for its thermodynamic properties 6. Susceptibility and magnetization for its magnetic properties 7. Analysing neutron scattering data from this material 8. Investigating superconductivity in a high temperature superconductor 9. Investigating structural changes in an orbitally ordered material Recommended literature: Pynn: Neutron scattering - a primer: https://www.ncnr.nist.gov/summerschool/ss16/pdf/ NeutronScatteringPrimer .pdf Squires: Introduction to the theory of thermal neutron scattering, Boothroyd: Principles of neutron scattering from condensed matter Ascroft and Mermin: Solid state physics Burns and Glazer: Space groups for solid state scientists Dove Structure and dynamics An atomic view of materials Nolting: Magnetismus I+II, Blundell: Magnetism in Condensed Matter Rose-Ines and Rhoderick: Introduction to superconductivity Crediting of the module To earn a certificate, students must complete a lab course. The lab part consists of 9 experiments. In addition, students must analyze the data and document them in a report. The certificate is a prerequisite for the oral exam. This module with 12 ECTS points can be chosen as \"Experimentelles Wahlpflichtfach\" (Winter & Summer Semester) in the Master's program of TU Berlin.",
    "teachers": [
     "Cintli Aguilar Maldonado",
     "Alysia Lake"
@@ -18029,6 +18349,7 @@
     "Beate Patzer",
     "Francesco Petiziol",
     "Stephan Reitzenstein",
+    "Anja Sandersfeld",
     "Dirk Schulze-Makuch",
     "Holger Stark",
     "Renske van der Veen",
@@ -18111,6 +18432,23 @@
    ],
    "teachers": [
     "Julia Schulze-Mack"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51101",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Projektlabor Robotik",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51101",
+   "category": [
+    "Fakultät II",
+    "Institut für Physik und Astronomie",
+    "Orientierungsstudium MINTgrün"
+   ],
+   "summary": "Liebe Studierende! Herzlich willkommen im Projektlabor Robotik! Ich freue mich, dass ihr da seid. Gemeinsam werden wir Roboter entwerfen und bauen. Sollten bei euch im Verlauf des Semester organisatorische Fragen aufkommen, schaut bitte immer ZUERST in die Folien der ersten Woche. Dort finden sich die meisten Informationen.",
+   "teachers": [
+    "Anne Jellinghaus"
    ],
    "semester_hint": "2026W"
   },
@@ -18502,6 +18840,23 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:51118",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] PIW_Bioanalytik",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51118",
+   "category": [
+    "Fakultät III",
+    "Institut für Biotechnologie",
+    "Fachgebiet Bioanalytik"
+   ],
+   "summary": "Dies ist die Kursseite für das PIW-Projekt vom Fachgebiet Bioanalytik im Wintersemester 2024/25.",
+   "teachers": [
+    "Christian Forbrig"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:50533",
    "source": "tu_isis",
    "university": "TU",
@@ -18547,7 +18902,9 @@
    "teachers": [
     "Alicja Anna Bigelmajer",
     "Christian Forbrig",
+    "Matias Gabriel Gonzalez Dawabe",
     "Lena Pezerovic",
+    "Juri Rappsilber",
     "Marlene Redlich",
     "Caroline Maria Sahre",
     "Anna Malgorzata Wrobel"
@@ -18651,6 +19008,7 @@
     "Rosa Mimi Haßfurther",
     "Marie-Helene Rebekka Huth",
     "Jonas Moritz Karsten",
+    "Christoph Lange",
     "Peter Neubauer",
     "Simon Seidel",
     "Dingchang Xu"
@@ -18687,6 +19045,7 @@
    ],
    "summary": "Die Vorlesung + Seminare finden jeweils im Campus Wedding Gutstav Meyer Allee 25 im Hörsaal TIB-21C statt. Termine: Montags 14:15-16:00 Donnerstag: 12:15-14:00",
    "teachers": [
+    "Mariano Nicolas Cruz Bournazou",
     "Peter Neubauer"
    ],
    "semester_hint": "2026W"
@@ -18762,6 +19121,19 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:51080",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Bachelor-Kolloquium",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51080",
+   "category": [
+    "Fakultät III",
+    "Institut für Biotechnologie",
+    "Fachgebiet Medizinische Biotechnologie"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:50979",
    "source": "tu_isis",
    "university": "TU",
@@ -18771,9 +19143,6 @@
     "Fakultät III",
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
-   ],
-   "teachers": [
-    "Mark Rosowski"
    ],
    "semester_hint": "2026W"
   },
@@ -18788,26 +19157,18 @@
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
    ],
-   "teachers": [
-    "Julian Heuberger",
-    "Mark Rosowski"
-   ],
    "semester_hint": "2026W"
   },
   {
    "id": "tu_isis:50749",
    "source": "tu_isis",
    "university": "TU",
-   "title": "[WiSe 2026/27] Bioengineering von Organfunktionen - Signaltransduktion in Organoiden",
+   "title": "[WiSe 2026/27] Bioengineering von Organfunktionen - Signaltransduktion in Organoiden VL",
    "url": "https://isis.tu-berlin.de/course/view.php?id=50749",
    "category": [
     "Fakultät III",
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
-   ],
-   "teachers": [
-    "Julian Heuberger",
-    "Mark Rosowski"
    ],
    "semester_hint": "2026W"
   },
@@ -18822,9 +19183,6 @@
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
    ],
-   "teachers": [
-    "Mark Rosowski"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -18837,9 +19195,6 @@
     "Fakultät III",
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
-   ],
-   "teachers": [
-    "Mark Rosowski"
    ],
    "semester_hint": "2026W"
   },
@@ -18854,10 +19209,6 @@
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
    ],
-   "teachers": [
-    "Andreas Nitsche",
-    "Mark Rosowski"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -18870,9 +19221,6 @@
     "Fakultät III",
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
-   ],
-   "teachers": [
-    "Mark Rosowski"
    ],
    "semester_hint": "2026W"
   },
@@ -18887,9 +19235,6 @@
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
    ],
-   "teachers": [
-    "Mark Rosowski"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -18903,9 +19248,6 @@
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
    ],
-   "teachers": [
-    "Sina Bartfeld"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -18918,9 +19260,6 @@
     "Fakultät III",
     "Institut für Biotechnologie",
     "Fachgebiet Medizinische Biotechnologie"
-   ],
-   "teachers": [
-    "Hanna Alena Kulvicki"
    ],
    "semester_hint": "2026W"
   },
@@ -18956,6 +19295,25 @@
    "summary": "This 2-week block course (22.02.2027-05.03.2027) on Reproductive Biology and Reproductive Biotechnologies takes place at the Leibniz-Institute for Zoo and Wildlife Research in Friedrichsfelde and combines lectures with hands-on lab training. In the lectures, we present the basics of reproductive biology and endocrinology, as well as current reproductive biotechnologies with their application in reproductive medicine, animal breeding, and wildlife conservation. In the lab, you will conduct non-invasive hormone monitoring, sperm assessment, and cryopreservation, and get demonstrations of techniques like in vitro fertilization and micromanipulation. We will round out the course with joint discussions on future perspectives and legal and ethical aspects of reproductive biotechnologies.",
    "teachers": [
     "Jennifer Schön"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51113",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Exkursion RES - Digitaler Wandel in Energiesystemen",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51113",
+   "category": [
+    "Fakultät III",
+    "Institut für Energietechnik",
+    "Fachgebiet Digitaler Wandel in Energiesystemen"
+   ],
+   "teachers": [
+    "Thomas William Brown",
+    "Paola Caria",
+    "Julian Matthias Geis",
+    "Fabian Neumann"
    ],
    "semester_hint": "2026W"
   },
@@ -19278,8 +19636,11 @@
    ],
    "summary": "Willkommen zum Kurs Technische Wärmelehre I+II für das WiSe 2025/26 und das SoSe 2026. Die erste Vorlesung findet am 14 .10.2023 im Raum MA 001 um 12:15−13:45 Uhr statt. WICHTIG : TWL I ist im WiSe und TWL II im SoSe. Das Modul wird aber mit einer Klausur abgeschlossen. Im Sommer 2026 werden zwei Klausurtermine angeboten.",
    "teachers": [
-    "Klara-Hermine Emma Fomm",
+    "Felipe Bustamante Schreier",
+    "Sofia Cases Gutmann",
+    "Fontina Petrakopoulou",
     "Sergio Tomasinelli",
+    "Klara Wonneberg",
     "Fernanda Jose Zambrano Ceballos"
    ],
    "semester_hint": "2026W"
@@ -19315,6 +19676,7 @@
    ],
    "summary": "Die Lehrveranstaltung Energietechnik II vertieft die Grundlagen im Bereich Exergieanalyse, führt die exergoökonomische und die exergoökologische Analyse ein und befasst sich mit weiteren Verfahren und Anlagen der Energieumwandlung sowie mit dem rationellen Energieeinsatz.",
    "teachers": [
+    "Fontina Petrakopoulou",
     "Paul Simon Salomon",
     "Moritz Philipp Josef Walter"
    ],
@@ -19348,7 +19710,9 @@
     "Fachgebiet Energieverfahrenstechnik und Umwandlungstechniken regenerativer Energien"
    ],
    "teachers": [
-    "Khulud Alsouleman"
+    "Khulud Alsouleman",
+    "Lara Delevic",
+    "Akshat Sharma"
    ],
    "semester_hint": "2026W"
   },
@@ -19491,6 +19855,19 @@
    "teachers": [
     "Amira Nabil Korayem",
     "Tetyana Morozyuk"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51092",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Vorbereitungskurs mündliche Prüfung EIS I",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51092",
+   "category": [
+    "Fakultät III",
+    "Institut für Energietechnik",
+    "Fachgebiet Wärmeübertragung und -wandlung"
    ],
    "semester_hint": "2026W"
   },
@@ -19850,8 +20227,11 @@
     "Fachgebiet Lebensmittelbiotechnologie und -prozesstechnik"
    ],
    "teachers": [
+    "Runa Grosse",
+    "Luise Lallinger",
     "Cornelia Rauh",
-    "Alexander Henry Rudolph"
+    "Alexander Henry Rudolph",
+    "Robert Sevenich"
    ],
    "semester_hint": "2026W"
   },
@@ -20177,6 +20557,24 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:49744",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] PIW LMMW",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=49744",
+   "category": [
+    "Fakultät III",
+    "Institut für Lebensmitteltechnologie und Lebensmittelchemie",
+    "Fachgebiet Lebensmitteltechnologie und -materialwissenschaften"
+   ],
+   "teachers": [
+    "Ingalisa Mai-Britt Alsmeier",
+    "Nikolas-Paul Oliver Gille-Ruhlich",
+    "Martina Klost"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:49743",
    "source": "tu_isis",
    "university": "TU",
@@ -20214,6 +20612,31 @@
    "teachers": [
     "Ingalisa Mai-Britt Alsmeier",
     "Martina Klost"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51103",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Lebensmittelverfahrenstechnik Praktikum",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51103",
+   "category": [
+    "Fakultät III",
+    "Institut für Lebensmitteltechnologie und Lebensmittelchemie",
+    "Fachgebiet Lebensmittelverfahrenstechnik"
+   ],
+   "teachers": [
+    "Julien Yassin Ahmane",
+    "Natalie Bahr",
+    "Henriette Brykczynski",
+    "Eckhard Flöter",
+    "Luiza Fritzsche",
+    "Anna Barbara Laux",
+    "Jonas Niksch",
+    "Simone Rolf",
+    "Susanne Rudolph-Flöter",
+    "Vivien Schreiber"
    ],
    "semester_hint": "2026W"
   },
@@ -20576,6 +20999,23 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:51097",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Global Climate and SDG Engagement II",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51097",
+   "category": [
+    "Fakultät III",
+    "Institut für Prozess- und Verfahrenstechnik",
+    "Fachgebiet Regelungstechnik / Control Engineering"
+   ],
+   "summary": "In the GCSE II module, the international student groups meet in the project country for the implementation (GCSE II A) or auditing (GCSE II B) of previously planned projects (GCSE I) during two-week summer schools/internships.For TU Berlin students it's considered as an excursion (faculty III). You can apply here! (Through Website)",
+   "teachers": [
+    "Lilly Seidler"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:50695",
    "source": "tu_isis",
    "university": "TU",
@@ -20730,7 +21170,8 @@
     "Zeynep Cankara",
     "Steffi Knorn",
     "Maxim Mironovschi",
-    "Fabian Rolf Schwenke"
+    "Fabian Rolf Schwenke",
+    "Daniel Leon Stors"
    ],
    "semester_hint": "2026W"
   },
@@ -20765,6 +21206,8 @@
    ],
    "summary": "Thermodynamik ist ein wichtiger Bereich der Physik, der sich mit der Untersuchung von Energieübertragung, Wärmeübertragung und Arbeit in physikalischen Systemen befasst. Sie beschäftigt sich mit den grundlegenden Prinzipien und Gesetzen, die das Verhalten von Energie und Materie in verschiedenen Umgebungen beschreiben und hat breite Anwendungen in verschiedenen wissenschaftlichen Disziplinen und Ingenieurwissenschaften. Allgemein bietet Thermodynamik ein umfassendes Rahmenwerk zur Analyse von Prozessen in der Natur, von chemischen Reaktionen bis hin zu physikalischen Phänomenen wie der Arbeit von Motoren und Kältemaschinen. Sie ist von entscheidender Bedeutung für viele Bereiche, einschließlich der Energieerzeugung, Materialwissenschaft, Chemie, Biologie und Umweltwissenschaften.",
    "teachers": [
+    "Alina Buschmann",
+    "Patrick Grümbel",
     "Bertalan Polgar",
     "Denis Saric",
     "Daniel Schumacher",
@@ -20946,6 +21389,7 @@
     "Katharina Maria Kippert",
     "Mohadese Morsalpoor",
     "Vera Susanne Rotter",
+    "Sebastian Christopher Szczudlo",
     "Sijia Tang"
    ],
    "semester_hint": "2026W"
@@ -21203,30 +21647,6 @@
    "university": "TU",
    "title": "Digitalisation and Sustainability",
    "url": "https://isis.tu-berlin.de/course/view.php?id=30418",
-   "category": [
-    "Fakultät III",
-    "Institut für Technischen Umweltschutz",
-    "Fachgebiet Technologie und Nachhaltigkeit"
-   ]
-  },
-  {
-   "id": "tu_isis:30363",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "Aktuelle Umweltprobleme und Technischer Umweltschutz 2022/23",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=30363",
-   "category": [
-    "Fakultät III",
-    "Institut für Technischen Umweltschutz",
-    "Fachgebiet Technologie und Nachhaltigkeit"
-   ]
-  },
-  {
-   "id": "tu_isis:30359",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "Risiko und Ökobilanzen 2022/23",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=30359",
    "category": [
     "Fakultät III",
     "Institut für Technischen Umweltschutz",
@@ -21718,6 +22138,23 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:51084",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] PIW WiSe 26/27 - TUS3 - Desalination in the laboratory: Fresh water production from brackish and sea water",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51084",
+   "category": [
+    "Fakultät III",
+    "Institut für Technischen Umweltschutz",
+    "Fachgebiet Umweltverfahrenstechnik"
+   ],
+   "teachers": [
+    "Nesrine Barbana",
+    "Jascha Reich"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:50981",
    "source": "tu_isis",
    "university": "TU",
@@ -22029,6 +22466,25 @@
     "Fakultät III",
     "Institut für Werkstoffwissenschaften und -technologien",
     "Fachgebiet Keramische Werkstoffe"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51100",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Abschlussarbeiten & Laborarbeiten MW & FZS",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51100",
+   "category": [
+    "Fakultät III",
+    "Institut für Werkstoffwissenschaften und -technologien",
+    "Fachgebiet Metallische Werkstoffe"
+   ],
+   "summary": "In diesem Kurs finden Sie alle zur Zeit angebotenen Themen für Abschlussarbeiten (Bachelor und Master) am FG Metallische Werkstoffe sowie des Forschungszemtrum Strangpressen. Bei Interesse an einem oder mehreren Themen kontaktieren Sie bitte den/die in der Beschreibung angegebene*n Ansprechpartner*in.",
+   "teachers": [
+    "Isabella Gallino",
+    "Sören Müller",
+    "Klara Otto"
    ],
    "semester_hint": "2026W"
   },
@@ -22418,8 +22874,11 @@
     "Institut für Energie- und Automatisierungstechnik",
     "Testbereich"
    ],
+   "summary": "Willkommen im Studieneingangsprojekt. Die Platzvergabe erfolgt zentral in dem Kurs Studieneingagnsprojekt.",
    "teachers": [
     "Johannes Norbert Hoffmann",
+    "Maurice Prestel",
+    "Sara Alida van der Valk",
     "Felix Maas"
    ],
    "semester_hint": "2026W"
@@ -22470,22 +22929,6 @@
    "teachers": [
     "Nils Herbert Norbert Bunke",
     "Rolf Schuhmann"
-   ],
-   "semester_hint": "2026W"
-  },
-  {
-   "id": "tu_isis:49954",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "[WiSe 2026/27] Process Technology of Semiconductor Devices and their Packaging and Interconnection in Microelectronic Systems",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=49954",
-   "category": [
-    "Fakultät IV",
-    "Institut für Hochfrequenztechnik- und Halbleiter-Systemtechnologien",
-    "Testbereich"
-   ],
-   "teachers": [
-    "Sandra Krahn"
    ],
    "semester_hint": "2026W"
   },
@@ -22559,6 +23002,7 @@
    ],
    "summary": "Dieser Kurs ist zur internern Organisation der Tutoren von RN. Nicht für Studierende.",
    "teachers": [
+    "Christos Laskos",
     "Simon Wolfgang Schmitz-Heinen"
    ],
    "semester_hint": "2026W"
@@ -22712,6 +23156,7 @@
    "summary": "Dozent: Prof. Dr.-Ing. Bettar O. el Moctar Lehrveranstaltungsform: VL und UE, 4 SWS bzw. 6 ECTS Prüfungsform: Mündliche Prüfung (50%) Projektarbeit (50%) VL: Di . 10:00 - 12:00 Uhr UE: Mo. 08:00 - 10:00 Uhr ORT: Unser Vorlesungsraum befindet sich im UT2 auf Deck 3. Alle nicht Ortskundigen kommen bitte pünktlich ins Foyer des VWS-Gebäudes. Zugang über die blaue Brücke in der Müller-Breslau-Str. 15. Treffpunkt 10:00 Uhr am 13.10.2026 Inhalte der LV · Grundgleichungen · Numerische Methoden · Turbulenzmodellierung · Methoden zur Berechnung von Mehrphasenströmungen · Fluid-Struktur-Wechselwirkung · Gittererzeugung für industrielle Anwendungen · Beurteilung der Qualität numerischer Lösungen · Praktische Anwendungen",
    "teachers": [
     "Bettar El Moctar",
+    "Joao Maria Muralha",
     "Sebastian Sperling",
     "Kornelia Tietze"
    ],
@@ -23860,6 +24305,8 @@
    ],
    "summary": "Die Studierenden verfügen nach erfolgreichem Bestehen des Moduls über: - Kenntnisse in Komponenten der Verkehrssystemplanung (Modellierung und Simulation von Verkehrssystemen; Analyse und Bewertung von Verkehrssystemen) - Grundkenntnisse über Modelle, Algorithmen und Software für Verkehrssystemplanung - Grundkenntnisse bzgl. Möglichkeiten und Grenzen dieser Modelle, Algorithmen und Software; ggf. erste praktische Erfahrungen mit dieser Software - Grundkenntnisse in der Visualisierung von Modellergebnissen - Kenntnisse über aktuelle Themen im Verkehr im Kontext der Verkehrsmodellierung, z.B. autonome Fahrzeuge, CO2-freier Verkehr, Umweltwirkungen von Verkehr, Radschnellwege",
    "teachers": [
+    "Ricardo Ewert",
+    "Paul Heinrich",
     "Erik Andreas Hygrell",
     "Moritz Jannes Kreuschner",
     "Simon Meinhardt",
@@ -23895,8 +24342,10 @@
     "Kai Nagel",
     "Sydney Cornelia Paltra",
     "Christian Rakow",
+    "Daniel Frank Röder",
     "Gregor Rybczak",
     "Tilmann Schlenther",
+    "Yaroslav Smirnov",
     "Jakub Wilk",
     "Theresa Ziemke"
    ]
@@ -24210,6 +24659,7 @@
    "teachers": [
     "Fabian Frickenstein",
     "Benjamin Lochow",
+    "Mats Wolfgang Georg Martens",
     "Maarten Uijt de Haag"
    ],
    "semester_hint": "2026W"
@@ -24368,7 +24818,8 @@
    "teachers": [
     "Mücahit Batughan Akkaya",
     "Mario Eck",
-    "Dieter Peitsch"
+    "Dieter Peitsch",
+    "Timo Vogel"
    ],
    "semester_hint": "2026W"
   },
@@ -24383,7 +24834,7 @@
     "Institut für Luft- und Raumfahrt",
     "FG Luftfahrtantriebe"
    ],
-   "summary": "Dieser Kurs ist der theoretische Teil der jährlichen Sicherheitsunterweisung am Fachgebiet Luftfahrtantriebe. Es findet noch zusätzlich ein Rundgang durch das Fachgebiet statt.",
+   "summary": "Dieser Kurs ist der theoretische Teil der jährlichen Sicherheitsunterweisung am Fachgebiet Luftfahrtantriebe. Es findet noch zusätzlich ein Rundgang durch das Fachgebiet statt. Er richtet sich an alle Mitarbeiter und Studierende, die am FG Luftfahrtantriebe tätig sind.",
    "teachers": [
     "David Bresemann",
     "Mark Wolf"
@@ -24906,7 +25357,7 @@
     "Institut für Mechanik",
     "Testbereich"
    ],
-   "summary": "Dieser Kurs dient den Mitarbeitenden des Moduls Kinematik und Dynamik der Organisation der Tutorien und Lernräume .",
+   "summary": "Dieser Kurs dient den Mitarbeitenden des Moduls Kinematik und Dynamik der Organisation der Tutorien und Lernräume.",
    "teachers": [
     "Holger Gödecker",
     "Oskar Waschipky"
@@ -24950,24 +25401,6 @@
    ],
    "teachers": [
     "Sirko Bartholomay"
-   ]
-  },
-  {
-   "id": "tu_isis:23173",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "GTS 20/21 - Prüfung",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=23173",
-   "category": [
-    "Fakultät V",
-    "Institut für Strömungsmechanik und Technische Akustik",
-    "Testbereich"
-   ],
-   "teachers": [
-    "Sirko Bartholomay",
-    "Jan Paul Beuth",
-    "Jens Satria Müller",
-    "Kilian Oberleithner"
    ]
   },
   {
@@ -25071,6 +25504,7 @@
     "Jonathan Caspar Hübel",
     "Leonard Nikolas Kaupp",
     "Tunc Kendir",
+    "Daniel Erasmus Klein",
     "Mascha Magdalena Ritter"
    ],
    "semester_hint": "2026W"
@@ -25094,6 +25528,7 @@
     "Jonathan Caspar Hübel",
     "Leonard Nikolas Kaupp",
     "Tunc Kendir",
+    "Daniel Erasmus Klein",
     "Mascha Magdalena Ritter"
    ],
    "semester_hint": "2026W"
@@ -25146,7 +25581,7 @@
     "Institut für Architektur",
     "Architekturtheorie"
    ],
-   "summary": "Betreuer/in: Prof. Arian Heidari Afshari / Prof. Dr.-Ing. habil. Jörg Gleiter Sprache: E Ort: A 511 Beginn: 13. Oktober 2026 Zeit: Introduction: Oct 13, 10 am (online) Monday 2. Nov./7. Dec./18. Jan. 14:00-18:00 Uhr Tuesday 3. Nov./8. Dec./19. Jan. 10:00-14:00 Uhr The Spree as Urban Archive: Berlin Architecture from the Twentieth Century to the Present This course takes the Spree as an urban archive through which Berlin’s architectural and political transformations, from the twentieth century to the present, can be critically read, traced, and reimagined. It follows the river as both itinerary and analytical cut , reading along its banks the regimes of urban production that have shaped modern Berlin . Here , industrialisation, war, reconstruction, Cold War division, socialist and capitalist urban imaginaries, reunification, federal representation, and waterfront speculation emerge not as successive episodes, but as entangled historical forces within a contested metropolitan palimpsest . Through critical reading, field observation, archival work, comparative mapping, and visual argumentation, students examine how institutional landscapes, border residues, infrastructural remains, post-socialist voids, cultural appropriations, speculative redevelopment, luxury housing, and struggles over public access give spatial and architectural form to these urban histories.",
+   "summary": "Betreuer/in: Prof. Arian Heidari Afshari / Prof. Dr.-Ing. habil. Jörg Gleiter Sprache: E Ort: A 508 Beginn: 13. Oktober 2026 Zeit: Introduction: Oct 13, 10 am (online) Monday 2. Nov./7. Dec./18. Jan. 14:00-18:00 Uhr Tuesday 3. Nov./8. Dec./19. Jan. 10:00-14:00 Uhr The Spree as Urban Archive: Berlin Architecture from the Twentieth Century to the Present This course takes the Spree as an urban archive through which Berlin’s architectural and political transformations, from the twentieth century to the present, can be critically read, traced, and reimagined. It follows the river as both itinerary and analytical cut , reading along its banks the regimes of urban production that have shaped modern Berlin . Here , industrialisation, war, reconstruction, Cold War division, socialist and capitalist urban imaginaries, reunification, federal representation, and waterfront speculation emerge not as successive episodes, but as entangled historical forces within a contested metropolitan palimpsest . Through critical reading, field observation, archival work, comparative mapping, and visual argumentation, students examine how institutional landscapes, border residues, infrastructural remains, post-socialist voids, cultural appropriations, speculative redevelopment, luxury housing, and struggles over public access give spatial and architectural form to these urban histories.",
    "teachers": [
     "Jörg Gleiter",
     "Malte Serafin Heesen",
@@ -25243,6 +25678,22 @@
     "Jörg Gleiter",
     "Malte Serafin Heesen",
     "Mercedes Viviana Torero Cifuentes"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51094",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Type and Model I",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51094",
+   "category": [
+    "Fakultät VI",
+    "Institut für Architektur",
+    "Bau- und Stadtbaugeschichte"
+   ],
+   "teachers": [
+    "Ursula Quatember"
    ],
    "semester_hint": "2026W"
   },
@@ -25352,7 +25803,8 @@
    ],
    "summary": "Künstlerische Forschung / Fotografie und Film Dieses entwurfsintegrierte Wahlmodul richtet sich an Studierende, die ihr architektonisches oder städtebauliches Entwurfsprojekt durch künstlerische Forschung vertiefen möchten. Das Kompaktseminar findet vom 9. November bis zum 7. Dezember 2026 statt. Ausgangspunkt der künstlerischen Untersuchung ist der Ort, der urbane Raum, die Architektur oder die Typologie, die im Zentrum des jeweiligen Entwurfsprojekts der Studierenden steht. Mithilfe von Fotografie und Film als Forschungsinstrumenten entwickeln die Studierenden eigene Untersuchungsansätze und realisieren ein künstlerisches Forschungsprojekt im Medium Film. Der Prozess des Filmemachens dient dabei als eigenständige Methode der Beobachtung, Forschung und Vermittlung. Das Wahlfach PIV ist vorrangig vorgesehen für Studierende (BA) des Entwurfsmoduls (AOT) : Friedrichstrasse, coming soon... Video-still of student project : Dynamics of Stillness",
    "teachers": [
-    "Alex Groß"
+    "Alex Groß",
+    "Mika Schwarz"
    ],
    "semester_hint": "2026W"
   },
@@ -25414,6 +25866,8 @@
    "summary": "Urbane Transformation Rixdorf Berlin ist viele Städte, hat viele Zentren und noch mehr Kieze – eine städtische Enzyklopädie. Die Großstadt mit den heutigen Grenzen entstand erst vor hundert Jahren aus einer Vielzahl von Kleinstädten und Landgemeinden zu 20 Bezirken Groß-Berlins. Diese historischen Fragmente und Sub-Zentren sind noch heute gut erkennbar. Dieses BA Studio fokussiert sich auf eine zukunftsfähige und gerechte Transformation eines alltäglichen Kiezes im Bezirk Neukölln als Teil des metropolitanen Gefüges. Dabei werden lokale und großräumliche Trends unter dem Aspekt der ökologischen und sozialen Verträglichkeit analysiert und weitergedacht. Im Zentrum steht die Frage, wie urbane Transformation durch kollaborative Ansätze zu einer gerechten Stadtentwicklung beitragen kann, insbesondere im Kontext der verschiedenen Konflikte und Anpassungsnotwendigkeiten der letzten Dekade. Neukölln, oft stigmatisiert in aktuellen Stadtentwicklungsdebatten, bietet als Alltagsort wichtige Einblicke in die Herausforderungen und Potenziale partizipativer Stadtentwicklung. In einer Reihe methodischer Übungen werden materielle, räumliche, soziale, ökonomische, ökologische und kulturelle Zusammenhänge untersucht, die prägend für die Metropole sind. Teilnehmer*innen erarbeiten ein erweitertes, kritisches Verständnis der Rolle von Planenden in einem zunehmend komplexen Handlungsfeld. Sie entwickeln Ansätze für das strategische Entwerfen und Entwickeln von lebendigen, inklusiven und gemeinschaftlich gestalteten Räumen. Besonderes Augenmerk liegt auf partizipativen Prozessen und der Integration verschiedener Stakeholder in die Planung und Entwicklung resilienter Stadtquartiere. Teaching Day Thursdays or Fridays from 10am Studio A202 First meeting October 15 at 10am Teaching Staff Prof. Dr. Anke Hagemann Dr. Juliana Canedo Dr. Moritz Ahlert Katerina Tzouvala (LA)",
    "teachers": [
     "Moritz Ahlert",
+    "Anke Hagemann",
+    "Joschka Sina Schaper",
     "Juliana Soares Gomes Canedo",
     "Aikaterini Tzouvala"
    ],
@@ -25433,7 +25887,8 @@
    "summary": "Global City Local Spaces Cities do not develop as planners want: Since the origins of modern planning the discipline struggles to position itself between the paradigm of control and the more messy reality of application. With the critique of modernist planning, new approaches and role definitions have been formulated which expose planning not as an isolated, hermetic discipline, but as a complex, dynamic, multi-disciplinary, situated and mostly open-ended process involving a multitude of voices and actors. Decision-making in planning is deeply influenced by broader political and societal contexts, while urban managers, politicians and a multitude of private and public actors exert control over many urban processes and sites. This lecture series will focus on different theoretical and analytical approaches to urban settlements, global urbanisation and transformation as well as on the practice of urban planning. It is structured in three blocks, addressing key questions such as: How can one define the urban as a field of inquiry and planning practice in a planetary perspective? How is the knowledge base of planning generated by different disciplines and across geographies of expertise and power? How can one build an understanding of the co-production of urban space as a toolbox for more inclusionary, sustainable and just planning and design strategies? The principle of making the co-production and the open borders of urban planning knowledge explicit also informs the set-up of the lecture series: In order to represent the spectrum of approaches to urban design and research at Habitat Unit, the lecture brings together multiple voices by researchers and practitioners in the fields of planning, architecture, urban studies and sociology. Students are encouraged to develop a (self)critical awareness of the broader context and multidisciplinary field in which planners operate. This should facilitate (not limit) his/ her creative involvement in forging more beautiful, just, and sustainable urban environments. Photo © Philipp Misselwitz",
    "teachers": [
     "Abde Lilith Batchati",
-    "Anke Hagemann"
+    "Anke Hagemann",
+    "Rahel Stange"
    ],
    "semester_hint": "2026W"
   },
@@ -25472,11 +25927,25 @@
    "teachers": [
     "Fridjof Heinz Sieghard Kleeberg",
     "Verena Katharina Kreß",
+    "Jennifer Luisa Madeleine Münner",
     "Piet Steffen Nieder",
     "Theo Osterhage",
     "Elisa Stamm",
     "Philip Stillke",
     "Angèle Tersluisen"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51110",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27 & SoSe 2027] stud HBD Jahrgang 2026-2028",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51110",
+   "category": [
+    "Fakultät VI",
+    "Institut für Architektur",
+    "Historische Bauforschung und Denkmalpflege"
    ],
    "semester_hint": "2026W"
   },
@@ -25804,6 +26273,25 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:51095",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Conflicting Natures: Rights, Rule, Restoration",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51095",
+   "category": [
+    "Fakultät VI",
+    "Institut für Architektur",
+    "Städtebau und Urbanisierung - CUD"
+   ],
+   "summary": "Nearly a quarter of global land is in private ownership, the most productive of which is owned by just 10%. In Europe, 60% of forests are privately owned (European Forest Institute, 2021; European Parliament, 2024). Similarly, most agricultural land is in the hands of family farms and private individuals. In Germany, almost a third of the country is forested, an area of about 11.4 million hectares: half is privately owned (Bundesministerium für Ernährung und Landwirtschaft, 2024). Much is controlled by historic aristocratic families, the largest being the Thurn und Taxis family (Kontext: Wochenzeitung, n.d.; Wald-Prinz, n.d.). Berlin sits against this trend. It boasts Germany’s largest urban forest (Berliner Forsten, n.d.), a more-than-human landscape in public ownership in a city where non-human natures are increasingly understood as a multiplicity of life. Spatial conflicts over land use, value and climate change intersect with struggles over ideology, class and contested meanings of nature. The reemergence of a transnational ultra-wealthy oligarchic class is banking capital in land, hedging its bets against socio-ecological collapse. In parallel, we are witnessing the return of extremist ideologies where territory is connected to blood and borders, and where ‘Nature’ is used to justify racialised and gendered violence. While we are led to believe the future resides in the ‘cloud(s)’, it is increasingly clear that territory is still and always will be essential for survival. The question is rather who controls it, who is being restricted from accessing it, and how. By mapping the multiscalar and translocal conflicts over the meaning and spatial reorganisation of natures, the course aims to consider broader transformations of space and society inscribed by power, what we call the Refiguration of Spaces (Knoblauch and Löw, 2020; Baxter et al., 2025). While solving these problems is beyond the scope of a lone urban design project, we will use the critical spatial design method to research and map actors, regimes and power dynamics to better understand new spatial figurations of nature. Here, design is understood as critical, dialectical and processual. It is integral to problem-framing and future-thinking and is integrated from the beginning of the course. The aim of the course is to curate an exhibition of the studio’s collective work, as part of the international conference ‘Architectures of Authoritarianism’ hosted at IFA in 2027.",
+   "teachers": [
+    "Jamie Baxter",
+    "Maria Dannecker-Ryall",
+    "Jörg Stollmann"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:51013",
    "source": "tu_isis",
    "university": "TU",
@@ -25820,6 +26308,22 @@
     "Maria Dannecker-Ryall"
    ],
    "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51077",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[SoSe 2027] MA|UD - Final Theses",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51077",
+   "category": [
+    "Fakultät VI",
+    "Institut für Architektur",
+    "Studiengangskoordination"
+   ],
+   "teachers": [
+    "Hendrik Schultz"
+   ],
+   "semester_hint": "2027S"
   },
   {
    "id": "tu_isis:50430",
@@ -26090,6 +26594,7 @@
    "teachers": [
     "Elisa Fischer",
     "Wolfgang Huhnt",
+    "Marlene Frieda Meierhenrich",
     "Joscha Len Peters",
     "Maximilian Sternal",
     "Giora Felix Timmermann",
@@ -26115,6 +26620,7 @@
     "Elisa Fischer",
     "Wolfgang Huhnt",
     "Robert Felix Jürgensen",
+    "Marlene Frieda Meierhenrich",
     "Maximilian Sternal",
     "Giora Felix Timmermann",
     "Joanna Zarah Vetter"
@@ -26193,6 +26699,7 @@
    "teachers": [
     "Anne Else Gerda Baumbach",
     "Jenin Hamzeh Silva",
+    "Roland Hüttl",
     "Lena Mareike Stuht"
    ],
    "semester_hint": "2026W"
@@ -26431,6 +26938,7 @@
     "Bauwirtschaft und Baubetrieb"
    ],
    "teachers": [
+    "Jonathan Schäfer",
     "Sören Max Alfred Sommerfeld"
    ],
    "semester_hint": "2026W"
@@ -26546,8 +27054,7 @@
     "Gazale Salehi",
     "Kristina Schiefner",
     "Lena Mareike Stuht",
-    "Juliane Wagner",
-    "Lars Felix Werner"
+    "Juliane Wagner"
    ],
    "semester_hint": "2026W"
   },
@@ -26617,6 +27124,7 @@
     "Entwerfen und Konstruieren - Stahlbau"
    ],
    "teachers": [
+    "Luca Nicolai Brückmann",
     "Agnes Halfar",
     "Sandra Kriebel",
     "Marco Maibaum",
@@ -26674,12 +27182,13 @@
    ],
    "summary": "Das Grundprojekt ist ein Modul mit vielfältigen Wahloptionen: Das Modul Grundprojekt ist eine Gemeinschaftsveranstaltung aller Fachgebiete des Bauingenieurwesens unter Leitung des Fachgebietes Entwerfen und Konstruieren - Verbundstrukturen und weiteren wechselnden Fachgebieten. In Abhängigkeit der jährlich wechselnden Themenstellungen können zusätzlich Fachgebiete anderer Institute oder Fakultäten eingebunden werden. Die Studierenden haben somit die Möglichkeit aus insgesamt drei, davon einer jährlich wechselnden, Vertiefungsrichtungen zu wählen. Feststehende Vertiefungsrichtungen sind \"Baubetrieb und Bauwirtschaft\" und \"Konstruktiver Ingenieurbau\". Die Themenstellungen werden am Anfang des Semesters bekannt gegeben und in Teams mit Untergruppen selbstständig bearbeitet. Zusätzlich gibt es eine semesterbegleitende Lehrveranstaltung, die den Rahmen für das Projekt bildet. Inhalte dieser Lehrveranstaltung sind u.a.: - Einführung in das Projekt und dessen Teilaufgaben (Aufgabenstellung, Randbedingungen etc.) - Grundlagen des Projektmanagements - Kommunikation im Projekt (Arbeitsweise mit dem Projektkommunikationssystem) zur Verfügung gestellt vom Fachgebiet Bauinformatik. Die Ergebnisse ihrer Arbeit und die projektspezifischen Probleme stellen die Studierenden in schriftlichen und zeichnerischen Ausarbeitungen und in Referaten dar. Nach Bedarf finden gegebenenfalls auch Exkursionen statt. Die eigentliche Projektarbeit findet in Gruppen statt. Die Gruppengrößen richten sich nach den Aufgabenstellungen. Hierbei muss sichergestellt sein, dass sowohl eine Kommunikation innerhalb der Gruppe, die ein Teilprojekt bearbeitet, als auch im übergeordneten Team stattfindet. Für die Kommunikation, d.h. der Austausch von Informationen (E-Mail oder sonstige Schriftstücke, Zeichnungen etc.) wird ein EDV-gestützter Projektarbeitsraum angeboten. Die Ergebnisse der Projektarbeit werden im Rahmen von Abschlusspräsentationen vorgestellt.",
    "teachers": [
-    "Leonard Georg Becker",
+    "Noah Beck",
     "Felix Ehrlich",
     "Johanna Marheineke-Jacob",
     "Moritz Mitterbacher",
     "Jonathan Schäfer",
     "Kristina Schiefner",
+    "Juliane Wagner",
     "Hannah-Sophia Weggässer"
    ],
    "semester_hint": "2026W"
@@ -26864,11 +27373,11 @@
    ],
    "teachers": [
     "Alexandra Bretzke",
+    "Johann Bünger",
     "Theresa Carola Sophia Glotz",
     "Lukas Karl Hardeweg",
     "Philipp Kähler",
-    "Devin Schirm",
-    "Constantin Wuntke"
+    "Devin Schirm"
    ],
    "semester_hint": "2026W"
   },
@@ -26904,7 +27413,11 @@
    ],
    "summary": "For information and discussion",
    "teachers": [
-    "Nayab Bushra"
+    "Nayab Bushra",
+    "Isabelle Fitkau",
+    "Andrea Carolina Funes Fernandez",
+    "Timo Hartmann",
+    "Mohamed Abdelfattah Ibrahim Mohamed"
    ],
    "semester_hint": "2026W"
   },
@@ -26959,6 +27472,7 @@
     "Nayab Bushra",
     "Isabelle Fitkau",
     "Andrea Carolina Funes Fernandez",
+    "Mohamed Abdelfattah Ibrahim Mohamed",
     "Sofia Mari Wilkinson"
    ],
    "semester_hint": "2026W"
@@ -27426,6 +27940,7 @@
     "Benjamin David Elia Dechant",
     "Robert Jackisch",
     "Angela Neutzling",
+    "Robin Caspar Schellenberg",
     "Christine Wallis"
    ],
    "semester_hint": "2026W"
@@ -27500,7 +28015,8 @@
    ],
    "summary": "Der Kurs „Geostatistik in Python\" vermittelt praxisnah die statistischen und datenanalytischen Grundlagen der Geostatistik. Wir starten in der deskriptiven Statistik, Korrelation und Regression, aber besprechen multivariate Methoden wie PCA und logistische Regression bis hin zu Zeitreihenanalyse, räumlicher Punktmusteranalyse, Kriging und maschinellem Lernen (Entscheidungsbäume, Random Forest, neuronale Netze). Alle Inhalte werden direkt in Python umgesetzt und anhand realer Geodaten geübt. Der Kurs findet im Wintersemester 2026/27 als Blockkurs statt und startet am 05.10. um 09:00 Uhr, voraussichtlich bis ca. 16 Uhr. Im Anschluss folgen eine Selbststudienphase sowie eine von den Studierenden einzureichende Hausarbeit.",
    "teachers": [
-    "Marie-Christin Elisabeth Eckert"
+    "Marie-Christin Elisabeth Eckert",
+    "Dominic Seidel"
    ],
    "semester_hint": "2026W"
   },
@@ -27814,7 +28330,6 @@
     "Institut für Landschaftsarchitektur und Umweltplanung",
     "Fachgebiet Umweltprüfung"
    ],
-   "summary": "Bei Teilnahmewunsch im WiSe 2026/27 gerne bis zum Semesterbeginn in diesen Kurs eintragen. Alle weiteren Informationen zur verbindliche Teilnahme folgen dann hier und im Rahmen einer Infoveranstaltung in der ersten Vorlesungswoche (12.-16.10.2026).",
    "teachers": [
     "Gesa Geißler",
     "Dörte Grunzig",
@@ -27912,6 +28427,7 @@
     "Fachgebiet Umwelt-Governance"
    ],
    "teachers": [
+    "Eero B Gaffney",
     "Nicolas Jager",
     "Mehrab-e-Ahmad Mehrab-e-Ahmad",
     "Kamila Rojas Ramirez"
@@ -28161,7 +28677,6 @@
    "summary": "Das Modul 60785: Angewandte Bodenhydrologie besteht aus zwei aufeinanderfolgenden Lehrveranstaltungen, immer mittwochs 10-14 Uhr in Raum FH 301: Bodenkundliche Übungen zur Standortbewertung (PR) und Bodenphysikalische Gelände- und Laborübungen (PR) Kenntnis der Modulbeschreibungen wird vorausgesetzt! Die Prüfungsanmeldung über MTS für das Modul 60785 öffnet erst ab 1 2 .10.202 6 . Bitte beachten Sie unbedingt die Terminkoordination des Dozenten, Dr. Steffen Trinks, innerhalb der ersten Sitzungen! Es kann zu einem Losverfahren kommen bei großer Nachfrage an der Kursteilnahme! Gelost wird hier im ISIS Kurs. Bitte vor dem 31.03.202 7 alle Lehrmaterialien herunterladen, danach sind diese nicht mehr verfügbar.",
    "teachers": [
     "Eva Bettina Jander",
-    "Nils Marvin Müller",
     "Steffen Trinks"
    ],
    "semester_hint": "2026W"
@@ -28955,7 +29470,7 @@
     "Institut für Soziologie",
     "Raumsoziologie"
    ],
-   "summary": "Wer entscheidet, wann du wohin ziehst? – Gentrifizierung, Segregation und Nachbarschaft Die Mieten sind teuer und Hotels lösen Clubs ab. Du kommentierst die Krisen der Welt auf Insta, aber kennst deine Nachbarn nicht. Hier möchten wir mit unserer Projektwerkstatt ansetzen: Was gilt es in unseren Nachbarschaften zu ändern und wie fängt man damit vor der eigenen Haustür an? Auf der ganzen Welt schließen sich Nachbar:innen zusammen – manche zapfen sich illegal Strom, manche bauen Gemeinschaftshäuser, manche verteidigen Lützerath. Manche sind geprägt von ihrer ländlichen Umgebung, andere wollen die Stadt zurückerobern. Ihre Ziele sind unterschiedlich, aber letztlich suchen sie alle jenseits starrer Revolutionstheorien nach dem kleinsten Baustein für gesellschaftlichen Wandel: Gegenmacht vor Ort. Wir möchten in unserer Projektwerkstatt der nachbarschaftlichen Selbstorganisation in Stadt und Land auf den Grund gehen. Welche Erfahrungen, Erfolge und Misserfolge haben Initiativen gemacht? Was unterscheidet ihr Selbstverständnis und die Nachbarschaften, in denen sie aktiv sind? Der Volksentscheid von Deutsche Wohnen Enteignen ist immer noch aktiv, arbeitet aktuell an einem Gesetzesvolksentscheid und wird unter anderem aufgrund der letzten Berlinwahlen wieder sehr präsent diskutiert. Wir widmen uns dieses Wintersemester dem Thema Verdrängung in der Stadt und was wir dagegen tun können. Nach einer kurzen theoretischen Einführung beginnen wir die Suche nach eigenen Antworten, führen Untersuchungen in Nachbarschaften durch, sprechen mit Mitgliedern internationaler Nachbarschaftsorganisationen und entwickeln gemeinsam Theorie und Praxis – in diesem Semester mit besonderem Fokus auf Nachbarschaften im digitalen Zeitalter. Die Projektwerkstatt wurde ursprünglich von Jabora, Malte und Linus aus unseren Fächern Soziologie und Stadtplanung heraus konzipiert. Aktuell wird sie von Leonie und Linus geleitet. Studierende aller Fächer sind herzlich zur Teilnahme eingeladen. Es gibt keine theoretischen Voraussetzungen, ihr seid alle Nachbarinnen und Nachbarn! Die Projektwerkstatt findet in Präsenz, auf Deutsch, im 2-Wochentakt, in 4-stündigen Blöcken (wir werden ausreichend Pausen machen!) statt. Schaut euch dafür gerne den Seminarplan an, der hier demnächst hochgeladen wird. Einführungsveranstaltung: Mi., 15.10.2026, 10:00 Uhr im Raum MAR 0.009 Kontakt: schiedermair@tu-berlin.de (Linus), l.abt@tu-berlin.de (Leonie)",
+   "summary": "Wer entscheidet, wann du wohin ziehst? – Gentrifizierung , Segregation und Nachbarschaft Die Mieten sind teuer und Hotels lösen Clubs ab. Du kommentierst die Krisen der Welt auf Insta, aber kennst deine Nachbarn nicht. Hier möchten wir mit unserer Projektwerkstatt ansetzen: Was gilt es in unseren Nachbarschaften zu ändern und wie fängt man damit vor der eigenen Haustür an? Auf der ganzen Welt schließen sich Nachbar:innen zusammen – manche zapfen sich illegal Strom, manche bauen Gemeinschaftshäuser, manche verteidigen Lützerath. Manche sind geprägt von ihrer ländlichen Umgebung, andere wollen die Stadt zurückerobern. Ihre Ziele sind unterschiedlich, aber letztlich suchen sie alle jenseits starrer Revolutionstheorien nach dem kleinsten Baustein für gesellschaftlichen Wandel: Gegenmacht vor Ort. Wir möchten in unserer Projektwerkstatt der nachbarschaftlichen Selbstorganisation in Stadt und Land auf den Grund gehen. Welche Erfahrungen, Erfolge und Misserfolge haben Initiativen gemacht? Was unterscheidet ihr Selbstverständnis und die Nachbarschaften, in denen sie aktiv sind? Der Volksentscheid von Deutsche Wohnen Enteignen ist immer noch aktiv, arbeitet aktuell an einem Gesetzesvolksentscheid und wird unter anderem aufgrund der letzten Berlinwahlen wieder sehr präsent diskutiert. Wir widmen uns dieses Wintersemester dem Thema Verdrängung in der Stadt und was wir dagegen tun können. Nach einer kurzen theoretischen Einführung beginnen wir die Suche nach eigenen Antworten, führen Untersuchungen in Nachbarschaften durch, sprechen mit Mitgliedern internationaler Nachbarschaftsorganisationen und entwickeln gemeinsam Theorie und Praxis – in diesem Semester mit besonderem Fokus auf Nachbarschaften im digitalen Zeitalter. Die Projektwerkstatt wurde ursprünglich von Jabora, Malte und Linus aus unseren Fächern Soziologie und Stadtplanung heraus konzipiert. Aktuell wird sie von Leonie und Linus geleitet. Studierende aller Fächer sind herzlich zur Teilnahme eingeladen. Es gibt keine theoretischen Voraussetzungen, ihr seid alle Nachbarinnen und Nachbarn! Die Projektwerkstatt findet in Präsenz, auf Deutsch, im 2-Wochentakt, in 4-stündigen Blöcken (wir werden ausreichend Pausen machen!) statt. Schaut euch dafür gerne den Seminarplan an, der hier demnächst hochgeladen wird. Einführungsveranstaltung: Mi., 15.10.2026, 10:00 Uhr im Raum MAR 0.009 Kontakt: schiedermair@tu-berlin.de (Linus), l.abt@tu-berlin.de (Leonie)",
    "teachers": [
     "Leonie Maria Abt",
     "Linus Benedikt Schiedermair"
@@ -29396,7 +29911,7 @@
     "Institut für Stadt- und Regionalplanung",
     "FG Denkmalpflege"
    ],
-   "summary": "…im Dorf lassen. Kneipen als ‚Dritte Orte‘ im ländlichen Raum FG Städtebauliche Denkmalpflege und Urbanes Kulturerbe Projektleitung: Prof. Dr. Stephanie Herold, Fabio Menezes Pacce Dienstags, vsl. 10.00-14.00 Uhr, Raum A904b (erste Sitzung am 27.10.) Wir erleben in ländlichen Räumen – als Folge einer enormen Veränderung ökonomischer, sozialer und kultureller Zusammenhänge – einen grundsätzlichen Wandel der Alltagskultur. Im Bild der Dörfer spiegeln sich – von der Fachwerkscheune über die Dorfkirche bis zum Solarfeld – die enormen Veränderungsprozesse, die in der jüngeren Vergangenheit im ländlichen Raum wirkmächtig gewesen sind. Das gilt auch für Dorfkneipen. Diese sind – oft in Kombination mit großen Festsälen – eine ländliche Infrastruktur für Kultur, Gemeinschaft, Politik gewesen. Im Projekt werden sie als »Dritte Orte« verstanden – also Räume, in denen man niedrigschwellig am gesellschaftlichen Leben teilhaben konnte. Gleichzeitig sind sie als oft räumlich prägende und identitätsstiftende Orte auch als eine spezifische Form des lokalen Erbes zu betrachten. Durch die ökonomischen Verwerfungen der 1990er Jahre, Abwanderung, Überalterung, steigende Energiepreise jedoch, waren viele Dorfkneipen gezwungen, aufzugeben. Heute werden viele nur noch sporadisch genutzt oder stehen ganz leer. In Kooperation mit Masterstudierenden der Weißensee Kunsthochschule Berlin vom FG für Visuelle Kommunikation (Prof. Steffen Schuhmann) beschäftigt sich das Projekt mit Dorfkneipen in der Umgebung von Sauen, Beeskow und Friedland/Niederlausitz. Gemeinsam untersuchen wir historisch gewachsene räumliche Situationen in den Dörfern, Spuren und ehemalige Funktionen der Orte, sammeln Daten und suchen nach Wegen, dieses Wissen zu visualisieren und zu kommunizieren. Im Sinne der public history sollen dabei die Dorfgemeinschaften gezielt als Akteure in die Forschung mit einbezogen werden. Zusammen mit den Dorfgemeinschaften sollen in einem zweiten Schritt Szenarien für eine Wiederbelebung ehemaliger Dorfkneipen konzipiert werden, die neue Nutzungen in bestehenden Gasthöfen möglich machen. Die angewandten Methoden reichen so von Raumanalysen vor Ort und themenbezogenem Mapping über Interviews und teilnehmende Beobachtung bis hin zu aktiven Interventionen. Den theoretischen Rahmen bilden Überlegungen zur Transformationsgeschichte im ländlichen Raum, zur Rolle von Dritten Orten und zu Kneipen als alltäglichem Erbe. Die Ergebnisse des ersten Semesters fließen in eine Wanderausstellung in ehemaligen Kneipen im ländlichen Raum ein. Im zweiten Semester sollen die erarbeiteten Ideen und Konzepte an ausgesuchten Beispielen konkret räumlich, praktisch und partizipativ mit den Dorfgemeinschaften umgesetzt werden. Disclaimer : Das Projekt ist als interdisziplinäres Projekt über zwei Hochschulen hinweg konzipiert. Das heißt, es wird (hoffentlich!) extrem vielseitig, spannend und man lernt garantiert viele neue Perspektiven kennen. Und es ist sehr anwendungsbezogen. Gleichzeitig kann dies aber auch dazu beitragen, dass man etwas flexibler und/oder einsatzbereiter sein muss. Es werden an mehreren Projekttagen ganztägige Exkursionen in das Untersuchungsgebiet unternommen. Die Termine dafür sind für das Wintersemester der 3.11., der 17.11., der 15.12., der 12.01. und der 26.01. Darüber hinaus findet vom 30. November bis 3. Dezember 2026 eine Klausur im Gästehaus der Kunsthochschule Weißensee in Sauen statt. Die Teilnahme ist jeweils obligatorisch.",
+   "summary": "…im Dorf lassen. Kneipen als ‚Dritte Orte‘ im ländlichen Raum FG Städtebauliche Denkmalpflege und Urbanes Kulturerbe Projektleitung: Prof. Dr. Stephanie Herold, Fabio Menezes Pacce Dienstags, vsl. 10.00-14.00 Uhr, Raum A904b ( erste Sitzung am 27.10.) Wir erleben in ländlichen Räumen – als Folge einer enormen Veränderung ökonomischer, sozialer und kultureller Zusammenhänge – einen grundsätzlichen Wandel der Alltagskultur. Im Bild der Dörfer spiegeln sich – von der Fachwerkscheune über die Dorfkirche bis zum Solarfeld – die enormen Veränderungsprozesse, die in der jüngeren Vergangenheit im ländlichen Raum wirkmächtig gewesen sind. Das gilt auch für Dorfkneipen. Diese sind – oft in Kombination mit großen Festsälen – eine ländliche Infrastruktur für Kultur, Gemeinschaft, Politik gewesen. Im Projekt werden sie als »Dritte Orte« verstanden – also Räume, in denen man niedrigschwellig am gesellschaftlichen Leben teilhaben konnte. Gleichzeitig sind sie als oft räumlich prägende und identitätsstiftende Orte auch als eine spezifische Form des lokalen Erbes zu betrachten. Durch die ökonomischen Verwerfungen der 1990er Jahre, Abwanderung, Überalterung, steigende Energiepreise jedoch, waren viele Dorfkneipen gezwungen, aufzugeben. Heute werden viele nur noch sporadisch genutzt oder stehen ganz leer. In Kooperation mit Masterstudierenden der Weißensee Kunsthochschule Berlin vom FG für Visuelle Kommunikation (Prof. Steffen Schuhmann) beschäftigt sich das Projekt mit Dorfkneipen in der Umgebung von Sauen, Beeskow und Friedland/Niederlausitz. Gemeinsam untersuchen wir historisch gewachsene räumliche Situationen in den Dörfern, Spuren und ehemalige Funktionen der Orte, sammeln Daten und suchen nach Wegen, dieses Wissen zu visualisieren und zu kommunizieren. Im Sinne der public history sollen dabei die Dorfgemeinschaften gezielt als Akteure in die Forschung mit einbezogen werden. Zusammen mit den Dorfgemeinschaften sollen in einem zweiten Schritt Szenarien für eine Wiederbelebung ehemaliger Dorfkneipen konzipiert werden, die neue Nutzungen in bestehenden Gasthöfen möglich machen. Die angewandten Methoden reichen so von Raumanalysen vor Ort und themenbezogenem Mapping über Interviews und teilnehmende Beobachtung bis hin zu aktiven Interventionen. Den theoretischen Rahmen bilden Überlegungen zur Transformationsgeschichte im ländlichen Raum, zur Rolle von Dritten Orten und zu Kneipen als alltäglichem Erbe. Die Ergebnisse des ersten Semesters fließen in eine Wanderausstellung in ehemaligen Kneipen im ländlichen Raum ein. Im zweiten Semester sollen die erarbeiteten Ideen und Konzepte an ausgesuchten Beispielen konkret räumlich, praktisch und partizipativ mit den Dorfgemeinschaften umgesetzt werden. Disclaimer : Das Projekt ist als interdisziplinäres Projekt über zwei Hochschulen hinweg konzipiert. Das heißt, es wird (hoffentlich!) extrem vielseitig, spannend und man lernt garantiert viele neue Perspektiven kennen. Und es ist sehr anwendungsbezogen. Gleichzeitig kann dies aber auch dazu beitragen, dass man etwas flexibler und/oder einsatzbereiter sein muss. Es werden an mehreren Projekttagen ganztägige Exkursionen in das Untersuchungsgebiet unternommen. Die Termine dafür sind für das Wintersemester der 3.11., der 17.11., der 15.12., der 12.01. und der 26.01. Darüber hinaus findet vom 30. November bis 3. Dezember 2026 eine Klausur im Gästehaus der Kunsthochschule Weißensee in Sauen statt. Die Teilnahme ist jeweils obligatorisch.",
    "teachers": [
     "Stephanie Herold",
     "Fabio Menezes Pacce"
@@ -29483,8 +29998,7 @@
    "summary": "Präsenzveranstaltung: Donnerstags 8:00 Uhr - 12:00 Uhr im Projektraum Paris A802 Selbststudium: 12:00 Uhr - 18:00 Uhr im Projektraum Paris A802 Start: Donnerstag, 15.10.2026 Anmeldung: Projektplatzvergabe über LABOR K - über ISIS und MTS #60678 / 60679 Betreuung: Prof. Dr. Antje Bruns Thema: Klimaanpassung als Aufgabe der Raumordnungam Beispiel einer Planungsregion Ausgangslage Die Anpassung an die Folgen des Klimawandels gewinnt für die räumliche Planung zunehmend an Bedeutung. Veränderungen des Wasserhaushalts, zunehmende Dürre und Hitze sowie Starkregen und Hochwasser verändern räumliche Nutzungsmöglichkeiten, verschärfen Nutzungskonflikte und stellen neue Anforderungen an die langfristige Sicherung und Entwicklung von Räumen. Damit verändern sich auch die Anforderungen an Landes- und Regionalplanung. Welche räumlichen Entwicklungen müssen angesichts veränderter klimatischer Bedingungen neu bewertet werden? Welche Räume und Funktionen müssen langfristig gesichert werden? Wo entstehen neue Entwicklungs- und Koordinationsbedarfe? Und mit welchen Instrumenten kann insbesondere die Regionalplanung darauf reagieren? Die Bundesländer und Planungsregionen haben sich mit diesen Fragen bislang unterschiedlich intensiv auseinandergesetzt und verschiedene planerische Ansätze entwickelt. Diese Erfahrungen bilden einen wichtigen Ausgangspunkt, um Klimaanpassung als Aufgabe der Raumordnung zu untersuchen und Ansätze für ihre weitere planerische Bearbeitung zu entwickeln. Aufgabenstellung Das Masterprojekt untersucht, wie Landes- und Regionalplanung auf die räumlichen Folgen des Klimawandels reagieren kann und welche Ansätze sich hierfür aus den Erfahrungen anderer Länder und Regionen gewinnen lassen. Die Untersuchung erfolgt am Beispiel einer Planungsregion. Zu Beginn des Projekts wird der Untersuchungsraum ausgehend von einem durch die Lehrveranstaltung gesetzten räumlichen Rahmen konkretisiert. Die Auswahl wird anhand fachlicher und planerischer Kriterien nachvollzogen und begründet. Ein Schwerpunkt liegt voraussichtlich in Brandenburg. Für die ausgewählte Planungsregion werden vorhandene Erkenntnisse zu Klimafolgen und räumlichen Risiken, Klimadaten und -projektionen, Strategien zur Klimaanpassung sowie bestehende und aktuelle Planwerke zusammengeführt. Darauf aufbauend werden zentrale räumliche Herausforderungen identifiziert und ausgewählte Handlungsfelder vertieft untersucht. Im Zentrum steht die planerische Übersetzung der Erkenntnisse: Welche räumlichen Konsequenzen ergeben sich aus dem Klimawandel? Welche davon sind für die Landes- und Regionalplanung relevant? Welche planerischen Handlungsmöglichkeiten bestehen? Und wie können diese in Strategien und Instrumente der Raumordnung übersetzt werden? Erfahrungen aus anderen Bundesländern und Planungsregionen werden gezielt einbezogen. Sie dienen als Vergleichs- und Lernfälle, um unterschiedliche planerische Lösungsansätze kennenzulernen, ihre Voraussetzungen und Wirkungen zu untersuchen und ihre Übertragbarkeit auf die untersuchte Region zu beurteilen. Leitfrage Wie kann Landes- und Regionalplanung auf die räumlichen Folgen des Klimawandels reagieren – und welche Ansätze lassen sich hierfür aus den Erfahrungen anderer Bundesländer und Regionen gewinnen? Vorgehen Die Projektarbeit verbindet wissenschaftliche Analyse, empirische Untersuchung und planerisch-konzeptionelles Arbeiten. In einer ersten Phase wird der Untersuchungsraum konkretisiert und die planerischen und klimatischen Grundlagen zusammengeführt. Darauf aufbauend identifizieren die Studierenden zentrale räumliche Herausforderungen der Klimaanpassung und wählen Handlungsfelder für die vertiefende Bearbeitung aus. Diese werden in studentischen Arbeitsgruppen untersucht. Dokumenten-, Daten- und räumliche Analysen werden durch Gespräche mit Akteur:innen aus Landes- und Regionalplanung sowie ausgewählten Fachbereichen und gegebenenfalls durch Vor-Ort-Erhebungen ergänzt. Für die ausgewählten Handlungsfelder wird anschließend deren Raumordnungsrelevanz untersucht. Eine Orientierung bieten dabei vier grundlegende raumordnerische Funktionen: ▪ Vermeiden: Welche räumlichen Fehlentwicklungen sollten vermieden werden? ▪ Sichern: Welche Räume und Funktionen müssen langfristig gesichert werden? ▪ Entwickeln: Welche räumlichen Strukturen und Funktionen sollten weiterentwickelt werden? ▪ Koordinieren: Wo entstehen Nutzungskonflikte und Abstimmungsbedarfe, die einer überörtlichen räumlichen Koordination bedürfen? Dabei wird zugleich in den Blick genommen, auf welcher Planungsebene die jeweiligen Herausforderungen bearbeitet werden können und wie Landesplanung mit Regionalplanung zusammenwirken. Für ausgewählte Fragestellungen werden anschließend Ansätze anderer Bundesländer und Planungsregionen vergleichend untersucht. Aus der Verbindung von Fallanalyse und Vergleich entwickeln die Studierenden Anforderungen und Handlungsmöglichkeiten für die untersuchte Region. Diese können in planerische Strategien, räumliche Schwerpunktsetzungen sowie exemplarische Ziele, Grundsätze, Gebietskategorien oder andere raumordnerische Festlegungen übersetzt werden. Projektergebnis Als gemeinsames Projektergebnis entsteht eine raumordnerische Klimaanpassungsanalyse für die ausgewählte Planungsregion – möglichst mit Handlungsempfehlungen für die Landes- und Regionalplanung. Die studentischen Arbeitsgruppen bearbeiten ausgewählte Handlungsfelder und führen ihre Ergebnisse zu einer gemeinsamen regionalen Perspektive zusammen. Das Projekt soll ▪ zentrale räumliche Herausforderungen der Klimaanpassung für die Region herausarbeiten, ▪ ausgewählte Handlungsfelder und Nutzungskonflikte vertieft analysieren, ▪ deren Bedeutung für Landes- und Regionalplanung bestimmen, ▪ geeignete Ansätze anderer Länder und Regionen auf ihre Übertragbarkeit prüfen und ▪ daraus planerisch begründete Empfehlungen und exemplarische Lösungsansätze entwickeln. Das Ergebnis verbindet damit regionale Analyse, vergleichendes Lernen und planerische Überlegungen. Es soll eine begründete Perspektive darauf entwickeln, wie Klimaanpassung künftig stärker in der jeweiligen Planungsregion berücksichtigt und mit deren Instrumenten bearbeitet werden kann. Die Projektergebnisse sollen so aufbereitet werden, dass sie für aktuelle Diskussionen und Planungsprozesse anschlussfähig sind.",
    "teachers": [
     "Vincenzo Ballacchino",
-    "Antje Bruns",
-    "Luis Miguel Rivero Bolivar"
+    "Antje Bruns"
    ],
    "semester_hint": "2026W"
   },
@@ -29502,8 +30016,7 @@
    "summary": "Herausforderungen für die örtliche und überörtliche Raumplanung Termine: Do, 05.11., 14.00-18.00 Uhr in Raum A815 Fr., 04.12., 09.00-17.30 Uhr in Raum A816 Fr., 11.12., 09.00-17.30 Uhr in Raum A816 Do, 17.12., 14.00-18.00 Uhr in Raum A815 MOSES MTS #60677 Wie können technische und soziale Infrastrukturen angesichts von Klimawandel, Extremereignissen, Sabotage, demografischem Wandel und sozial-ökologischer Transformation verlässlich, gerecht und zukunftsfähig gestaltet werden? Das Seminar betrachtet Infrastrukturen nicht nur als bauliche Anlagen, sondern als sozio-technische Systeme, die Räume verbinden, gesellschaftliche Teilhabe ermöglichen und zugleich neue Abhängigkeiten schaffen. Im Mittelpunkt stehen zwei Perspektiven: Resilienz – also der Umgang mit Störungen und Verwundbarkeiten – und die zielgerichtete sozial-ökologische Transformation bestehender Infrastrukturen. Anhand studentisch recherchierter Fallbeispiele, etwa des Berliner Stromausfalls, der regionalen Gesundheitsversorgung, der Wärmewende oder des Stromnetzausbaus, diskutieren wir theoretische Konzepte wie Vulnerabilität, Pfadabhängigkeit, Gerechtigkeit und Governance. Ein besonderes Augenmerk gilt dem Zusammenspiel von technischen und sozialen Infrastrukturen sowie den Handlungsmöglichkeiten örtlicher und überörtlicher Planung.",
    "teachers": [
     "Vincenzo Ballacchino",
-    "Antje Bruns",
-    "Luis Miguel Rivero Bolivar"
+    "Antje Bruns"
    ],
    "semester_hint": "2026W"
   },
@@ -29725,10 +30238,31 @@
    ],
    "summary": "“Chongqing, the largest city in south-west China, was the nation's wartime capital in the 1940s. For the past 50 years or so, Chongqing has deteriorated due to its low priority assigned by both central and provincial governments in their development plans. (…) in 1997, Chongqing was designated as the fourth Municipality directly under the Central Government (MCG)” (Han & Wang 2001). „Chongqing has made remarkable progress in economic and social development since it was granted provincial city status in 1997. The city had become a leading economic centre for the upper part of the Yangtze River region and a focal point for an experiment in coordinated urban-rural development. How did the city accomplish such an impressive achievement?! “ (Bao, Li & Lizeri, 2019) Vor diesem Hintergrund beschäftigt sich das Masterprojekt mit besonderen Fragestellungen, Chancen und Herausforderungen der Stadt- und Regionalökonomie in der Desakota-Region Chongqing (also einer besonderen Stadt-Land-Verstädterung), die nicht nur die Größe des Bundeslandes von Brandenburg erreicht, sondern auch Heimat von über 30 Millionen Einwohnerinnen ist. Dabei wird das besondere Thema der verti-horizonalen Stadt im Vordergrund stehen. Hierbei sollen Aspekte der Stadtwirtschaft (z.B. wirtschaftliche Entwicklungsachsen, Industrialisierung, Einzelhandelsagglomerationen, Verkehrliche Auseinandersetzung), Stadtplanung (z.B. Großwohnsiedlungen, städtische Dörfer, Probleme der Binnenmigration / Informalität), Stadtsoziologie (z.B. Grenzen Aufstieg Mittelschicht, Integration von vulnerablen Bevölkerungsgruppen) und Stadtökologie (z.B. Emmission, Grüne Bänder und Versiegelung) Beachtung finden. Dazu werden sogenannte Task-Forces (Kleingruppen aus 3-4 Studierenden) gebildet, die zu den übergeordneten Themen (Stadtplanung, Stadtökonomie, Stadtsoziologie und Stadtökologie) Material zusammentragen, analysieren und auswerten sollen. Darüber hinaus sind neben Institutionenbesuchen und Expert*innengesprächen in Deutschland, ein mind. einwöchiger Aufenthalt vor Ort geplant. Die konkrete(n) Forschungsfrage(n) sollen in den ersten drei Wochen des Projektes verhandelt werden. Das Projekt gliedert sich in eine ca. 6-7-wöchige Vor- und Nachbereitungsphase mit einem mind. einwöchigen Aufenthalt in Chongqing (China) zur Aufnahme originärer Daten (Kernzeit: 5.-13.Dezember 2026 ). Das Ziel wird es sein, am Ende des Projektes eine Art Sammelband herauszugeben, der jeweils Beiträge zu den ausgewählten Themen/ Teilprojekten enthält und eben aktuelle Chancen und Herausforderungen der Stadtplanung/-ökonomie Chongqings aufgreift; je nach Qualität der Beiträge wird eine Publikation entweder in einer ISR-Reihe oder auch in einschlägigen Fachzeitschriften in Erwägung gezogen. Studierende werden sich in diesem Projekt mit einem breiten Methodenspektrum auseinandersetzen, welches insbesondere auf qualitative empirische Arbeitsmethoden fokussiert (z.B. Aufnahme originärer Daten mittels Beobachtung, Kartierung, sponate Befragung, tw. vllcht. auch aktive Begleitung des Prozesses oder Medienanalysen vor Ort); dabei gilt es Zwischen- (vor dem Besuch der Stadt, Dezember 2026) und Endresultate (Mitte Februar 2027) zu präsentieren und anschließend in einem Projektbericht (vgl. Sammelband) zu dokumentieren. Heimische und internationale Experten und durchführende Institutionen werden aktiv in das Projekt einbezogen. Raum - A904a, Architekturgebäude Erste Sitzung 15.10.2026, danach jede Woche Donnerstags, 14-18h Lehrender: Prof. Suwala, Dr. Kibel & S. Bäumler Anmeldung über die Projektwahl des Labor K",
    "teachers": [
+    "Klara Balzuweit",
+    "Lisa Liliane Eyink",
+    "Hendrik Richard Franke",
+    "Daniel Gerlinskiy",
+    "Vinith Babu Gopalakrishnan",
+    "Justus Immanuel Hayner",
     "Jonathan Heil",
+    "Clara Pauline Heinhaus",
+    "Mathis Jakobi",
+    "Urszula Karwowska",
     "Jochen Samuel Kibel",
+    "Leon Leptin",
+    "Rafael Andreas Mayer",
+    "Georg Müller",
+    "Paula Ida Margarete Pretsch",
+    "Dirk Rodehacke",
+    "Max Scholz",
+    "Luis Franz Schreyer",
+    "Meret Stockhecker",
     "Lech Suwala",
     "Anne Totz",
+    "Tim Lasse Behram Uhthoff",
+    "Nele Volkers",
+    "Malte Karl von Daacke",
+    "Seyma Nur Yilmaz",
     "Jakob Sebastian Zielke"
    ],
    "semester_hint": "2026W"
@@ -29847,7 +30381,7 @@
    "summary": "The Scientific Colloquium supports and accompanies the process of writing a master thesis. It provides guidance with identifying and refining the research question as well as developing an appropriate research design or research plan. In a series of joint workshops with the root disciplines (Architecture, Urban and Regional Planning, Landscape Architecture and Sociology) questions of the right methodology or methodological mix for the specific requirements of the individual thesis project are discussed. The course is comprised of block seminars, with the introduction event held later in the semester.",
    "teachers": [
     "Nina Bäckström",
-    "Jamie-Scott Baxter",
+    "Jamie Baxter",
     "Anna Juliane Heinrich"
    ],
    "semester_hint": "2026W"
@@ -29865,7 +30399,8 @@
    ],
    "summary": "AI in City Planning: Tools, Theories, and Practices at the Neighborhood Scale",
    "teachers": [
-    "Jay Yeon Chun"
+    "Jay Yeon Chun",
+    "Angela Million"
    ],
    "semester_hint": "2026W"
   },
@@ -29885,8 +30420,9 @@
     "Maria Luisa Barrero Acosta",
     "Andrea Bluhm",
     "Andreas Brück",
+    "Angela Million",
     "Luca Michael Struth",
-    "Felipe Andres Vergara Ovando",
+    "Felipe Andres Vergara-Toro",
     "Nina Bäckström"
    ],
    "semester_hint": "2026W"
@@ -29906,6 +30442,7 @@
    "teachers": [
     "Nina Bäckström",
     "Andrea Bluhm",
+    "Jay Yeon Chun",
     "Anna Juliane Heinrich",
     "Hannah Maria Klug",
     "Angela Million",
@@ -30103,6 +30640,7 @@
    ],
    "teachers": [
     "Maria Luisa Barrero Acosta",
+    "Nuria Blanco",
     "Andreas Brück",
     "Luca Michael Struth"
    ],
@@ -30139,7 +30677,9 @@
    ],
    "teachers": [
     "Maria Luisa Barrero Acosta",
-    "Andreas Brück"
+    "Andreas Brück",
+    "Angela Million",
+    "Anna Neuhaus"
    ],
    "semester_hint": "2026W"
   },
@@ -30180,7 +30720,7 @@
     "Nija-Maria Linke",
     "Georg Müller",
     "Luca Michael Struth",
-    "Felipe Andres Vergara Ovando"
+    "Felipe Andres Vergara-Toro"
    ],
    "semester_hint": "2026W"
   },
@@ -30268,6 +30808,7 @@
    "summary": "Energie und Ressourcen: Simulation, Analysen und Modelle (ER-SAM) In diesem Kurs beschäftigen wir uns mit aktuellen Fragestellungen der Energiewirtschaft: Wie lassen sich Energiesysteme planen, betreiben und transformieren? Im Kurs lernt ihr solche Probleme mit Python modellieren, analysieren und simulieren kann – von einfachen Datenanalysen bis hin zu komplexeren Netz- und Systemmodellen. Ziel ist es, praxisnahe Methoden und Werkzeuge kennenzulernen.",
    "teachers": [
     "Jeremias Hollnagel",
+    "Tanja Manuela Kneiske",
     "Jakob Ferdinand Rädler"
    ],
    "semester_hint": "2026W"
@@ -30339,6 +30880,32 @@
    ]
   },
   {
+   "id": "tu_isis:51116",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Design Your Happy Life · Online with AI",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51116",
+   "category": [
+    "Fakultät VII",
+    "Institut für Technologie und Management",
+    "Fachgebiet Entrepreneurship und Innovationsmanagement"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:51114",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Design Your Happy Life · Control group (waiting list)",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51114",
+   "category": [
+    "Fakultät VII",
+    "Institut für Technologie und Management",
+    "Fachgebiet Entrepreneurship und Innovationsmanagement"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:51056",
    "source": "tu_isis",
    "university": "TU",
@@ -30349,8 +30916,18 @@
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
    ],
-   "teachers": [
-    "Tobias Ebbing"
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:50689",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Design Your Happy Life · Online",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=50689",
+   "category": [
+    "Fakultät VII",
+    "Institut für Technologie und Management",
+    "Fachgebiet Entrepreneurship und Innovationsmanagement"
    ],
    "semester_hint": "2026W"
   },
@@ -30365,11 +30942,6 @@
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
    ],
-   "summary": "In dieser Projektwerkstatt entwickelt ihr in Teams echte Lösungen für Nachhaltigkeitsherausforderungen . Wir durchlaufen verschiedene Phasen nach Design-Thinking als übergeordneter Methode: Verstehen, Definieren & Ideenfindung, Prototyping und Testen. Format: Sitzungen immer Dienstags 10-14 Uhr, Teamarbeit + asynchrone Projektarbeit Bewertung: Gruppenleistung (Zwischenpräsentationen, Abschlusspräsentation, Projektplan) + Selbstreflexion Teilnehmer*innen aus allen Fachrichtungen willkommen!",
-   "teachers": [
-    "Martha Johanna Lube",
-    "Julian Nikolas Pilzer"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -30382,10 +30954,6 @@
     "Fakultät VII",
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
-   ],
-   "summary": "A self-paced online course about the startup world as it is, not as it is usually told: who actually founds companies and what happens to them, how entrepreneurs think and decide, how a venture is put together, and what it asks of the people who run it — always with the question of what the evidence really shows. 18 sessions in three parts (Orientation, Construction, Realisation), 6 ECTS, in English. Graded pass/fail through three online multiple-choice exams. Dr. Karina Zittel · Prof. Dr. Jan Kratzer · Entrepreneurship and Innovation Management · TU Berlin",
-   "teachers": [
-    "Karina Zittel"
    ],
    "semester_hint": "2026W"
   },
@@ -30400,12 +30968,18 @@
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
    ],
-   "summary": "Dear students, To be able to participate in this course, you will need to apply via the Santander Platform: https://app.santanderopenacademy.com/en/program/venture-campus-winter-term-2026-2027. Deadline is 13 September 2026, 23:59. As there are limited course capacities, we select 50 students based on their study background, semester, and quality of application. All selected Venture Campus students will be manually confirmed or added to this ISIS course by the coordinators. The first lecture will take place on 15 October 2026 at 14:00h (sharp) in presence. Presence is mandatory! Looking forward to the semester! Your Venture Campus Team",
-   "teachers": [
-    "Nora Kempmann",
-    "Susanne Perner",
-    "Hoai Ngan Truong",
-    "Vignesh Velayudham"
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:49468",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Design Your Happy Life · In person",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=49468",
+   "category": [
+    "Fakultät VII",
+    "Institut für Technologie und Management",
+    "Fachgebiet Entrepreneurship und Innovationsmanagement"
    ],
    "semester_hint": "2026W"
   },
@@ -30420,9 +30994,6 @@
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
    ],
-   "teachers": [
-    "Derik Evertz"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -30435,9 +31006,6 @@
     "Fakultät VII",
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
-   ],
-   "teachers": [
-    "Jan Kratzer"
    ],
    "semester_hint": "2026W"
   },
@@ -30452,10 +31020,6 @@
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
    ],
-   "teachers": [
-    "Vanessa Sophie Hieß",
-    "Jan Kratzer"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -30469,10 +31033,6 @@
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
    ],
-   "summary": "The course Thesis accelerator is for Master students in the first stages of writing their master thesis and who are supervised by a research member of the EIM Chair.",
-   "teachers": [
-    "Vanessa Sophie Hieß"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -30485,20 +31045,6 @@
     "Fakultät VII",
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
-   ],
-   "summary": "This workspace provides information for MSc IMES students on their studies, including double degree selection process.",
-   "teachers": [
-    "Danielle Marie Allard",
-    "Funzi Olga Bulisi",
-    "Vanessa Sophie Hieß",
-    "Nora Kempmann",
-    "Jan Kratzer",
-    "Aleksandr Nizovtsev",
-    "Rozaliia Pait",
-    "Przemyslaw Smigiel",
-    "Ines Wolf",
-    "Paul Charles Wolf",
-    "Karina Zittel"
    ]
   },
   {
@@ -30511,10 +31057,6 @@
     "Fakultät VII",
     "Institut für Technologie und Management",
     "Fachgebiet Entrepreneurship und Innovationsmanagement"
-   ],
-   "teachers": [
-    "Vanessa Sophie Hieß",
-    "Jan Kratzer"
    ],
    "semester_hint": "2026W"
   },
@@ -30575,7 +31117,8 @@
    "teachers": [
     "Nicole Bröse",
     "Edgar Gaviria Martinez",
-    "Sören Salomo"
+    "Sören Salomo",
+    "Vladimir Volkov"
    ],
    "semester_hint": "2026W"
   },
@@ -30631,6 +31174,7 @@
    "summary": "Fundamental of Project Management module - Serious Game Approach Winter Term 2026/27 Module Code: 70210 I 6 ECTS I Language: English You'll step into the role of a project management team, navigating a project from its initial definition through to the task planning phase. Throughout the course, you'll engage with realistic scenarios and complete project-related tasks — all within an interactive serious game environment. 🎥 Check out our video introduction to get a sneak peek!",
    "teachers": [
     "Nicole Bröse",
+    "Raghuveer Chadalavada",
     "Edgar Gaviria Martinez",
     "Andrea Guillen de la Rosa",
     "Sören Salomo",
@@ -30712,7 +31256,6 @@
    ],
    "teachers": [
     "Knut Blind",
-    "Joschka Paul Bornefeld",
     "Brigitte Essoun",
     "Luana Ladu",
     "Tom Oliver Lander",
@@ -30755,6 +31298,7 @@
    "teachers": [
     "Brigitte Essoun",
     "Luana Ladu",
+    "Luciano Matias Proto Cassina",
     "Sokol Tominaj"
    ],
    "semester_hint": "2026W"
@@ -30943,6 +31487,7 @@
     "Katharina Achstetter",
     "Miriam Blümel",
     "Alessandro Campione",
+    "Dorothea Sophie Fischer",
     "Claudia Fuls",
     "Louise Charlotte Olimpia Junge",
     "Franziska Klatt",
@@ -31469,18 +32014,6 @@
    ]
   },
   {
-   "id": "tu_isis:23411",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "Kopieren_Pilot_WiSe_20/21",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=23411",
-   "category": [
-    "Zentraleinrichtungen/Zentralinstitute",
-    "Universitätsbibliothek",
-    "Testbereich"
-   ]
-  },
-  {
    "id": "tu_isis:23312",
    "source": "tu_isis",
    "university": "TU",
@@ -31498,18 +32031,6 @@
    "university": "TU",
    "title": "Rollover_Pilot_SoSe_21",
    "url": "https://isis.tu-berlin.de/course/view.php?id=23311",
-   "category": [
-    "Zentraleinrichtungen/Zentralinstitute",
-    "Universitätsbibliothek",
-    "Testbereich"
-   ]
-  },
-  {
-   "id": "tu_isis:23309",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "Rollover_Pilot_WiSE 20/21",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=23309",
    "category": [
     "Zentraleinrichtungen/Zentralinstitute",
     "Universitätsbibliothek",
@@ -33349,6 +33870,19 @@
    ]
   },
   {
+   "id": "tu_isis:51122",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] BANAle Malzeit - Farben, Formen und neue Ideen",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51122",
+   "category": [
+    "Zentraleinrichtungen/Zentralinstitute",
+    "ZE Wissenschaftliche Weiterbildung und Kooperation (ZEWK)",
+    "BANA"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:49451",
    "source": "tu_isis",
    "university": "TU",
@@ -33877,6 +34411,24 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:49916",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] pM training Peer Coaching Gruppen",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=49916",
+   "category": [
+    "Zentraleinrichtungen/Zentralinstitute",
+    "Center for Junior Scholars (TUB-CJS)",
+    "proMotion – Programm für Doktorandinnen"
+   ],
+   "teachers": [
+    "Andrea Adams",
+    "Sophie Müller-Moewes",
+    "Mechthild von Vacano"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:49912",
    "source": "tu_isis",
    "university": "TU",
@@ -34047,6 +34599,7 @@
     "Simone Ulrike Heine",
     "Robert Hildebrandt",
     "Sylwia Hornig",
+    "Constanze Janiszewski",
     "Christian Köhl",
     "Thomas Kunze",
     "Ndjeka Esther Manya",
@@ -34055,6 +34608,7 @@
     "Karsten Schulz",
     "Natascha Schwesinger",
     "Schultze Sven",
+    "Sonja Unterberger",
     "Julia Karin Weigelt",
     "Frederik Wieder"
    ],
@@ -34260,6 +34814,19 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "tu_isis:51091",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Technology EM Video",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51091",
+   "category": [
+    "Weiterbildungsstudiengänge",
+    "TU-Campus EUREF",
+    "Energy Management"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:50226",
    "source": "tu_isis",
    "university": "TU",
@@ -34269,9 +34836,6 @@
     "Weiterbildungsstudiengänge",
     "TU-Campus EUREF",
     "Energy Management"
-   ],
-   "teachers": [
-    "Jing Wu"
    ],
    "semester_hint": "2026W"
   },
@@ -34286,14 +34850,6 @@
     "TU-Campus EUREF",
     "Energy Management"
    ],
-   "summary": "Course Aims: The overall qualification goal of the module is to enable the students to plan, implement, and successfully complete projects economically, efficiently, and according to modern agile and classic management methods. They understand the project or product life cycle and, based on the mediating classic and agile project and product management methodology, they can create, analyze, interpret and evaluate individual essential building blocks of project management and apply them future-oriented. They will learn about challenges in ensuring quality (quality management), opportunities, and threats in development and implementation (risk management), and the principles of identifying user needs (requirements management). Furthermore, the students learn the roles, tasks, and processes in modern project management, as well as the special features and challenges in stakeholder management, and can implement this in the future in a communication and information management strategy. Also, the students are aware of the similarities and differences between individual and multi-project / project portfolio management. Course Content: At the end of the course, the students can act in the mediated roles in agile and classic projects, understand the essential project management processes, can generate central management documents themselves, and can apply and further deepen the methodology in future projects.",
-   "teachers": [
-    "André Dechange",
-    "Rémy Pierre Joseph Alexandre Lavaud",
-    "Raiyan Mahmud Tanim",
-    "Jing Wu",
-    "Kunrong Zheng"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -34306,21 +34862,6 @@
     "Weiterbildungsstudiengänge",
     "TU-Campus EUREF",
     "Energy Management"
-   ],
-   "summary": "This module is an introduction to business studies. It covers the most important principles of business studies taking into account social responsibility and sustainable development. The module engages with the latest research and encourages a critical and reflective approach in providing a foundation in business studies for subsequent modules. Students will be able to define the main features of business studies, apply problem-solving skills to case studies using different fields of knowledge and present options for optimizing the energy sector.",
-   "teachers": [
-    "Justin Becker",
-    "Justin Becker",
-    "Gernot Bohmann",
-    "Mariam Ahmed Mostafa Elsawy Elsheikh",
-    "Melanie Göritz",
-    "Christoph Hendrik Groth-Tonberge",
-    "Phillip Hebert",
-    "Joo Hyun Hwang",
-    "Dodo Knyphausen-Aufseß",
-    "Rémy Pierre Joseph Alexandre Lavaud",
-    "Parasuram Mahadevan",
-    "Joachim Müller-Kirchenbauer"
    ],
    "semester_hint": "2026W"
   },
@@ -34335,15 +34876,6 @@
     "TU-Campus EUREF",
     "Energy Management"
    ],
-   "summary": "The far-reaching changes brought about by the energy transition are increasingly affecting other industries. Policy objectives and stricter regulations require companies to be more responsive to their energy and resource consumption, but there can also be great opportunities. In addition to potential savings through greater energy efficiency, the utilization of flexibility options can also be used to justify new business models. In this module, innovative research approaches in the fields of energy efficiency and building technology will be analyzed and applied in cooperation with companies from the respective fields, offering students and companies alike an attractive cooperation at the interface of entrepreneurial praxis, research and science – a win-win situation for both sides. Students look at aspects of buildings and energy efficiency, including greenhouse gas emissions, demand management, combined heat and power, process chain management, energy efficiency technologies, amortization calculations, local heating and cooling supply, project management, and ISO standards. In doing so, they apply the knowledge gained in earlier modules in practice.",
-   "teachers": [
-    "Gernot Bohmann",
-    "Christian Dworak",
-    "Melanie Göritz",
-    "Rémy Pierre Joseph Alexandre Lavaud",
-    "Joachim Müller-Kirchenbauer",
-    "Jessica Schönebeck"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -34356,17 +34888,6 @@
     "Weiterbildungsstudiengänge",
     "TU-Campus EUREF",
     "Energy Management"
-   ],
-   "summary": "Course Aims: Students can describe, analyze, and evaluate the role of developing and emerging countries in global energy systems as well as their local and regional challenges, peculiarities, and opportunities. You can explain and apply energy-related macroscopic concepts such as economic development and path dependency. Students understand macroscopic concepts as well as political programs and efforts related to energy in developing and emerging countries and can contextually classify and evaluate measures and developments, especially against the background of the term energy poverty and its characteristics. Students are familiar with various off-grid technologies and can choose between them, including the use of suitable methods of integrative planning. Finally, students can act better in group projects, understand the process of development cooperation and can understand and design central elements in it, and are aware of their responsibility for global as well as local sustainable development. Course Content: Global energy (long-term scenarios, determinants of the world energy system, energy in developing and emerging economies); Sustainable development (SDGs, growth and development theory, Hartwick rule, resource dependency, and diversification, case studies); Energy poverty and access (definition, empirical data, generation and consumption patterns of low-income households, subsidies for fossil fuels and reforms, the role of energy efficiency, case studies); Rural electrification and off-grid technologies (off-grid technologies, computer-assisted planning of off-grids including the basics of mixed-integer optimization, economics, and management in off-grids, the practice of development cooperation); Project phase (e.g. off-grid design, development cooperation, business case).",
-   "teachers": [
-    "Dawud Ansari",
-    "Gernot Bohmann",
-    "Wassim Brahim",
-    "Wassim Brahim",
-    "Melanie Göritz",
-    "Christian Hirschhausen",
-    "Rémy Pierre Joseph Alexandre Lavaud",
-    "Khadidja Sakhraoui"
    ],
    "semester_hint": "2026W"
   },
@@ -34381,17 +34902,6 @@
     "TU-Campus EUREF",
     "Energy Management"
    ],
-   "summary": "Course Aims: Students can describe, analyze, and evaluate the role of developing and emerging countries in global energy systems as well as their local and regional challenges, peculiarities, and opportunities. You can explain and apply energy-related macroscopic concepts such as economic development and path dependency. Students understand macroscopic concepts as well as political programs and efforts related to energy in developing and emerging countries and can contextually classify and evaluate measures and developments, especially against the background of the term energy poverty and its characteristics. Students are familiar with various off-grid technologies and can choose between them, including the use of suitable methods of integrative planning. Finally, students can act better in group projects, understand the process of development cooperation and can understand and design central elements in it, and are aware of their responsibility for global as well as local sustainable development. Course Content: Global energy (long-term scenarios, determinants of the world energy system, energy in developing and emerging economies); Sustainable development (SDGs, growth and development theory, Hartwick rule, resource dependency, and diversification, case studies); Energy poverty and access (definition, empirical data, generation and consumption patterns of low-income households, subsidies for fossil fuels and reforms, the role of energy efficiency, case studies); Rural electrification and off-grid technologies (off-grid technologies, computer-assisted planning of off-grids including the basics of mixed-integer optimization, economics, and management in off-grids, the practice of development cooperation); Project phase (e.g. off-grid design, development cooperation, business case).",
-   "teachers": [
-    "Dawud Ansari",
-    "Gernot Bohmann",
-    "Wassim Brahim",
-    "Wassim Brahim",
-    "Melanie Göritz",
-    "Christian Hirschhausen",
-    "Rémy Pierre Joseph Alexandre Lavaud",
-    "Khadidja Sakhraoui"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -34404,13 +34914,6 @@
     "Weiterbildungsstudiengänge",
     "TU-Campus EUREF",
     "Energy Management"
-   ],
-   "teachers": [
-    "Melanie Göritz",
-    "Joo Hyun Hwang",
-    "Rémy Pierre Joseph Alexandre Lavaud",
-    "Jing Wu",
-    "Kunrong Zheng"
    ],
    "semester_hint": "2026W"
   },
@@ -34425,15 +34928,6 @@
     "TU-Campus EUREF",
     "Energy Management"
    ],
-   "summary": "This is a forum for general information of the program Energy Management. If you would like to address all students of all programs, please see EUREF forum. The energy market is one of today´s most fast-paced, decisive, and profitable industries and crucial to both the global economy, the environment, and our future society as a whole. Climate and economic changes, public opinion, technological progress, and regulation shape unforeseen challenges and opportunities. This situation calls for new solutions to be delivered by highly skilled and appropriately trained experts with an all-embracing overview, an international outlook, and the will to create a true impact. Due to its economic, entrepreneurial, and industrial-strength, as well as its successful and progressive energy policies, the —Energiewende—, Germany, stands out as a front runner in the global energy transition. In order to promote the dissemination of knowledge and to facilitate and promote progress in the international energy sector, Technische Universität Berlin has created this unique MBA program combining academic excellence with industry expertise. Our full-time master program “ Energy Management ” at TU-Campus EUREF in Berlin enhances students´ career prospects and enables them to reach the next level of leadership. Successful graduates will have the ability to lead and manage others and to make strategic, problem-solving, and sustainable managerial decisions in the field of energy and beyond. We are looking forward to welcoming you to this exciting program.",
-   "teachers": [
-    "Gernot Bohmann",
-    "Melanie Göritz",
-    "Joo Hyun Hwang",
-    "Rémy Pierre Joseph Alexandre Lavaud",
-    "Jing Wu",
-    "Kunrong Zheng"
-   ],
    "semester_hint": "2026W"
   },
   {
@@ -34446,19 +34940,6 @@
     "Weiterbildungsstudiengänge",
     "TU-Campus EUREF",
     "Energy Management"
-   ],
-   "teachers": [
-    "Anika Bethan",
-    "Gernot Bohmann",
-    "Raunak Pravin Chepurwar",
-    "Hadi Daaboul",
-    "Melanie Göritz",
-    "Joo Hyun Hwang",
-    "Rémy Pierre Joseph Alexandre Lavaud",
-    "Joachim Müller-Kirchenbauer",
-    "Nesdi Sofia Pinzon Jaimes",
-    "Jing Wu",
-    "Kunrong Zheng"
    ],
    "semester_hint": "2026W"
   },
@@ -34561,7 +35042,7 @@
    "id": "tu_isis:49197",
    "source": "tu_isis",
    "university": "TU",
-   "title": "[WiSe 2026/27] 2025 E8: Urban and Transport Planning: Concepts and Experiences",
+   "title": "[WiSe 2026/27] SMM 2025 E8: Urban and Transport Planning: Concepts and Experiences",
    "url": "https://isis.tu-berlin.de/course/view.php?id=49197",
    "category": [
     "Weiterbildungsstudiengänge",
@@ -34614,6 +35095,7 @@
     "Nora Bonatz",
     "Christoph Hendrik Groth-Tonberge",
     "Alejandra Molina Cardozo",
+    "Hamid Mostofi Darbani",
     "Raiyan Mahmud Tanim",
     "Phillip Hebert"
    ],
@@ -35947,6 +36429,24 @@
    ]
   },
   {
+   "id": "tu_isis:51102",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Physikalisches Grundpraktikum für Tutor*innen",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51102",
+   "category": [
+    "Fakultät II",
+    "Institut für Physik und Astronomie",
+    "Fachgruppe Nanoanalytik",
+    "Testbereich"
+   ],
+   "teachers": [
+    "Johannes Marczinkowski",
+    "Nina Owschimikow"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:36993",
    "source": "tu_isis",
    "university": "TU",
@@ -35964,6 +36464,23 @@
    ]
   },
   {
+   "id": "tu_isis:51093",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] Workshop: Wissenschaftliches Arbeiten, Schreiben und Präsentieren",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51093",
+   "category": [
+    "Fakultät II",
+    "Institut für Physik und Astronomie",
+    "Fachgruppenübergreifende Lehre an den physikalischen Instituten",
+    "Testbereich"
+   ],
+   "teachers": [
+    "Julia Schulze-Mack"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "tu_isis:25312",
    "source": "tu_isis",
    "university": "TU",
@@ -35978,6 +36495,23 @@
    "teachers": [
     "Peter Neubauer"
    ]
+  },
+  {
+   "id": "tu_isis:51121",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27] PIW - medBT - Organ on a chip",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=51121",
+   "category": [
+    "Fakultät III",
+    "Institut für Biotechnologie",
+    "Fachgebiet Medizinische Biotechnologie",
+    "Testbereich"
+   ],
+   "teachers": [
+    "Mark Rosowski"
+   ],
+   "semester_hint": "2026W"
   },
   {
    "id": "tu_isis:28339",
@@ -36054,23 +36588,6 @@
     "Testbereich"
    ],
    "summary": "Praktikum zur Vorlesung Schadensanalyse an Komponenten für Turbomaschinen"
-  },
-  {
-   "id": "tu_isis:25746",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "Unfallmechanik und Kraftfahrzeugsicherheit 2021/2022",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=25746",
-   "category": [
-    "Fakultät V",
-    "Institut für Land- und Seeverkehr",
-    "Fachgebiet Kraftfahrzeuge",
-    "Testbereich"
-   ],
-   "teachers": [
-    "Marie Meincke",
-    "Gerd Müller"
-   ]
   },
   {
    "id": "tu_isis:21576",
@@ -36168,31 +36685,6 @@
    ]
   },
   {
-   "id": "tu_isis:30803",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "Darstellen und Gestalten I + II 2022/23",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=30803",
-   "category": [
-    "Fakultät VI",
-    "Institut für Architektur",
-    "Architekturdarstellung und Gestaltung",
-    "Testbereich"
-   ],
-   "summary": "Darstellen und Gestalten ist ein zweisemestriger Kurs, der die Grundsätze der Architekturdarstellung vermittelt. Im ersten Semester liegt der Fokus auf dem manuellen Erstellen von Skizzen, handgefertigten Modellen und maßstabsgetreuen Planzeichnungen. Im zweiten Semester werden die entstandenen Projekte weiterentwickelt und in digitale Formate übertragen.",
-   "teachers": [
-    "Gaizka Altuna Charterina",
-    "Kateryna Bilyk",
-    "Ignacio Borrego Gomez Pallete",
-    "Anna Sophie Hartung",
-    "Karolina Rysava",
-    "Clemens Christian Trautwein",
-    "Aikaterini Tzouvala",
-    "Mirza Vranjakovic",
-    "Andreas Woyke"
-   ]
-  },
-  {
    "id": "tu_isis:40680",
    "source": "tu_isis",
    "university": "TU",
@@ -36208,24 +36700,6 @@
    "teachers": [
     "Anke Hagemann",
     "Philipp Misselwitz",
-    "Aikaterini Tzouvala"
-   ]
-  },
-  {
-   "id": "tu_isis:35795",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "Global City Local Spaces 23/24",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=35795",
-   "category": [
-    "Fakultät VI",
-    "Institut für Architektur",
-    "Entwerfen und internationale Urbanistik - Habitat Unit",
-    "Testbereich"
-   ],
-   "summary": "Global City Local Spaces Cities do not develop as planners want: Since the origins of modern planning the discipline struggles to position itself between the paradigm of control and the more messy reality of application. With the critique of modernist planning, new approaches and role definitions have been formulated which expose planning not as an isolated, hermetic discipline, but as a complex, dynamic, multi-disciplinary, situated and mostly open-ended process involving a multitude of voices and actors. Decision-making in planning is deeply influenced by broader political and societal contexts, while urban managers, politicians and a multitude of private and public actors exert control over many urban processes and sites. This lecture series will focus on different theoretical and analytical approaches to urban settlements, global urbanisation and transformation as well as on the practice of urban planning. It is structured in three blocks, addressing key questions such as: How can one define the urban as a field of inquiry and planning practice in a planetary perspective? How is the knowledge base of planning generated by different disciplines and across geographies of expertise and power? How can one build an understanding of the co-production of urban space as a toolbox for more inclusionary, sustainable and just planning and design strategies? The principle of making the co-production and the open borders of urban planning knowledge explicit also informs the set-up of the lecture series: In order to represent the spectrum of approaches to urban design and research at Habitat Unit, the lecture brings together multiple voices by researchers and practitioners in the fields of planning, architecture, urban studies and sociology. Students are encouraged to develop a (self)critical awareness of the broader context and multidisciplinary field in which planners operate. This should facilitate (not limit) his/ her creative involvement in forging more beautiful, just, and sustainable urban environments. Photo © Anke Hagemann",
-   "teachers": [
-    "Anke Hagemann",
     "Aikaterini Tzouvala"
    ]
   },
@@ -36298,28 +36772,6 @@
     "Jakob Kirchner",
     "Marcel Sabha",
     "Maximilian Sternal"
-   ]
-  },
-  {
-   "id": "tu_isis:35530",
-   "source": "tu_isis",
-   "university": "TU",
-   "title": "Prüfungskurs FG Baustoffe&Bauchemie 23/24",
-   "url": "https://isis.tu-berlin.de/course/view.php?id=35530",
-   "category": [
-    "Fakultät VI",
-    "Institut für Bauingenieurwesen",
-    "Baustoffe und Bauchemie",
-    "Testbereich"
-   ],
-   "teachers": [
-    "Clemens Ehm",
-    "Christoph Kirsch",
-    "Sabine Kruschwitz",
-    "Sabine Kruschwitz",
-    "Christian Lehmann",
-    "Mona Xenia Sando",
-    "Dietmar Aloys Stephan"
    ]
   },
   {
@@ -36567,6 +37019,35 @@
     "Esteban Miguel Perez Gnavi",
     "Tom Ritschel",
     "Berkant Ufakcan"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
+   "id": "tu_isis:46449",
+   "source": "tu_isis",
+   "university": "TU",
+   "title": "[WiSe 2026/27 & SoSe 2027] WiMi Runde",
+   "url": "https://isis.tu-berlin.de/course/view.php?id=46449",
+   "category": [
+    "Fakultät VI",
+    "Institut für Stadt- und Regionalplanung",
+    "FG Stadtplanung und Bestandsentwicklung",
+    "Testbereich"
+   ],
+   "teachers": [
+    "Alena Beatrice Cohrs",
+    "Nils Christian Michael Grube",
+    "Andreas Brück",
+    "Sylvia Butenschön",
+    "Marion De Simone",
+    "Anna Juliane Heinrich",
+    "Svenja Hönig",
+    "Janet Merkel",
+    "Konrad Paul Mierendorff",
+    "Miriam Neßler",
+    "Sarah-Juliane Starre",
+    "Galyna Sukhomud",
+    "Zuzana Tabackova"
    ],
    "semester_hint": "2026W"
   },

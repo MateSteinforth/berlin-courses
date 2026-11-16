@@ -1,7 +1,7 @@
 {
  "kind": "lms",
  "source": "udk_moodle",
- "crawled": "2026-10-24T22:09+00:00",
+ "crawled": "2026-11-16T12:48+00:00",
  "courses": [
   {
    "id": "udk_moodle:76",
@@ -245,21 +245,6 @@
    ]
   },
   {
-   "id": "udk_moodle:3294",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "INTER Leitfaden Projektadministration",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3294",
-   "category": [
-    "Hochschulübergreifend",
-    "INTER"
-   ],
-   "summary": "Dieser Moodle Kurs stellt den offiziellen INTER Leitfaden für die Projektadministration in kleineren Abschnitten dar, die ihn für Nutzer:innen zugänglicher machen sollen.",
-   "teachers": [
-    "Nastasja Wilke"
-   ]
-  },
-  {
    "id": "udk_moodle:3081",
    "source": "udk_moodle",
    "university": "UdK",
@@ -274,23 +259,6 @@
     "Stupa Asta",
     "Momoko Baumgart",
     "André Pascal Gavin Marx"
-   ]
-  },
-  {
-   "id": "udk_moodle:2612",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "StudierendenParlament 2024/25",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2612",
-   "category": [
-    "Hochschulübergreifend",
-    "AStA"
-   ],
-   "summary": "Organisation des StuPas und interne Dokumente",
-   "teachers": [
-    "Stupa Asta",
-    "Guillermina Burgos Fischer",
-    "Sarah Seyed Mortazavi"
    ]
   },
   {
@@ -699,7 +667,8 @@
    "category": [
     "Fakultät Gestaltung",
     "Institut für Geschichte und Theorie der Gestaltung"
-   ]
+   ],
+   "semester_hint": "2026W"
   },
   {
    "id": "udk_moodle:3342",
@@ -744,7 +713,8 @@
    "category": [
     "Fakultät Gestaltung",
     "Institut für Geschichte und Theorie der Gestaltung"
-   ]
+   ],
+   "semester_hint": "2026W"
   },
   {
    "id": "udk_moodle:3125",
@@ -884,17 +854,6 @@
    "university": "UdK",
    "title": "252603 Kunst und Klasse",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2857",
-   "category": [
-    "Fakultät Gestaltung",
-    "Institut für Geschichte und Theorie der Gestaltung"
-   ]
-  },
-  {
-   "id": "udk_moodle:2800",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Grundkurs II: Architektur, Raum, Gesellschaft – Kulturwissenschaftliche Grundlagen (2025/2026)",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2800",
    "category": [
     "Fakultät Gestaltung",
     "Institut für Geschichte und Theorie der Gestaltung"
@@ -1088,17 +1047,6 @@
    ]
   },
   {
-   "id": "udk_moodle:2480",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Grundkurs II: Architektur, Raum, Gesellschaft – Kulturwissenschaftliche Grundlagen (2024/2025)",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2480",
-   "category": [
-    "Fakultät Gestaltung",
-    "Institut für Geschichte und Theorie der Gestaltung"
-   ]
-  },
-  {
    "id": "udk_moodle:2403",
    "source": "udk_moodle",
    "university": "UdK",
@@ -1247,28 +1195,6 @@
    "university": "UdK",
    "title": "Architektur als Beruf",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2143",
-   "category": [
-    "Fakultät Gestaltung",
-    "Institut für Geschichte und Theorie der Gestaltung"
-   ]
-  },
-  {
-   "id": "udk_moodle:2132",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Kolloquium (BA/MA) 23/24",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2132",
-   "category": [
-    "Fakultät Gestaltung",
-    "Institut für Geschichte und Theorie der Gestaltung"
-   ]
-  },
-  {
-   "id": "udk_moodle:2100",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Grundkurs II: Architektur, Raum, Gesellschaft – Kulturwissenschaftliche Grundlagen (2023/2024)",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2100",
    "category": [
     "Fakultät Gestaltung",
     "Institut für Geschichte und Theorie der Gestaltung"
@@ -1473,17 +1399,6 @@
    ]
   },
   {
-   "id": "udk_moodle:1722",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Grundkurs II: Architektur, Raum, Gesellschaft - Kulturwissenschaftliche Grundlagen (2022/2023)",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=1722",
-   "category": [
-    "Fakultät Gestaltung",
-    "Institut für Geschichte und Theorie der Gestaltung"
-   ]
-  },
-  {
    "id": "udk_moodle:1637",
    "source": "udk_moodle",
    "university": "UdK",
@@ -1649,17 +1564,6 @@
    ]
   },
   {
-   "id": "udk_moodle:1355",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Grundkurs II: Architektur, Raum, Gesellschaft – Kulturwissenschaftliche Grundlagen (2021/2022)",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=1355",
-   "category": [
-    "Fakultät Gestaltung",
-    "Institut für Geschichte und Theorie der Gestaltung"
-   ]
-  },
-  {
    "id": "udk_moodle:1345",
    "source": "udk_moodle",
    "university": "UdK",
@@ -1808,17 +1712,6 @@
    "university": "UdK",
    "title": "Riots. Monuments. Riots.",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=884",
-   "category": [
-    "Fakultät Gestaltung",
-    "Institut für Geschichte und Theorie der Gestaltung"
-   ]
-  },
-  {
-   "id": "udk_moodle:865",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Grundkurs II: Architektur, Raum, Gesellschaft – Kulturwissenschaftliche Grundlagen (2020/2021)",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=865",
    "category": [
     "Fakultät Gestaltung",
     "Institut für Geschichte und Theorie der Gestaltung"
@@ -2531,6 +2424,22 @@
    ]
   },
   {
+   "id": "udk_moodle:3452",
+   "source": "udk_moodle",
+   "university": "UdK",
+   "title": "Masterarbeiten-TPS",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3452",
+   "category": [
+    "Fakultät Bildende Kunst",
+    "Art in Context"
+   ],
+   "summary": "Im Master-TPS werden Fragen der Studierenden bezüglich der Erarbeitung von Masterexposés, der Erstellung von Masterarbeiten sowie der Vorbereitung der abschließenden Präsentation gemeinsam bearbeitet. Hinweise zur Vorbereitung Nur zugelassen sind Studierende, die im laufenden Semester entweder einen Masterantrag stellen oder bereits im Prozess der Erstellung einer Masterarbeit sind.",
+   "teachers": [
+    "Karina Griffith",
+    "Patricio Petei Trim"
+   ]
+  },
+  {
    "id": "udk_moodle:3173",
    "source": "udk_moodle",
    "university": "UdK",
@@ -2820,7 +2729,8 @@
    "category": [
     "Fakultät Musik",
     "Musiktheorie"
-   ]
+   ],
+   "semester_hint": "2026W"
   },
   {
    "id": "udk_moodle:3471",
@@ -2873,17 +2783,6 @@
    "university": "UdK",
    "title": "Sauen: Touch - Technology - Improvisation",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3177",
-   "category": [
-    "Fakultät Musik",
-    "Musiktheorie"
-   ]
-  },
-  {
-   "id": "udk_moodle:2961",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Reinicke_Musiktheorie_WiSe 2025/26",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2961",
    "category": [
     "Fakultät Musik",
     "Musiktheorie"
@@ -3043,6 +2942,17 @@
    "category": [
     "Fakultät Musik",
     "Musiktheorie"
+   ]
+  },
+  {
+   "id": "udk_moodle:3494",
+   "source": "udk_moodle",
+   "university": "UdK",
+   "title": "Kollektivkörper in Stimme und Bewegung",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3494",
+   "category": [
+    "Fakultät Musik",
+    "Musikpädagogik"
    ]
   },
   {
@@ -3749,7 +3659,8 @@
    "category": [
     "Fakultät Musik",
     "Musikwissenschaft"
-   ]
+   ],
+   "semester_hint": "2026W"
   },
   {
    "id": "udk_moodle:3464",
@@ -4055,33 +3966,11 @@
    ]
   },
   {
-   "id": "udk_moodle:2940",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Einführung in die Musikwissenschaft 2025/2026",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2940",
-   "category": [
-    "Fakultät Musik",
-    "Musikwissenschaft"
-   ]
-  },
-  {
    "id": "udk_moodle:2934",
    "source": "udk_moodle",
    "university": "UdK",
    "title": "Müller-Oberhäuser: Tests",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2934",
-   "category": [
-    "Fakultät Musik",
-    "Musikwissenschaft"
-   ]
-  },
-  {
-   "id": "udk_moodle:2881",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Hilzinger: Einführung in die Musikwissenschaft (25/26)",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2881",
    "category": [
     "Fakultät Musik",
     "Musikwissenschaft"
@@ -4220,17 +4109,6 @@
    ]
   },
   {
-   "id": "udk_moodle:2528",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Hilzinger: Orchstermusik von Komponistinnen (24/25)",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2528",
-   "category": [
-    "Fakultät Musik",
-    "Musikwissenschaft"
-   ]
-  },
-  {
    "id": "udk_moodle:2527",
    "source": "udk_moodle",
    "university": "UdK",
@@ -4247,17 +4125,6 @@
    "university": "UdK",
    "title": "Hilzinger/Hoppe: Live Talk - 10*19| 10 Gestalterinnen im musikalischen 19. Jahrhundert",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2493",
-   "category": [
-    "Fakultät Musik",
-    "Musikwissenschaft"
-   ]
-  },
-  {
-   "id": "udk_moodle:2482",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Hoppe: Einführung in die Musikwissenschaft 24/25",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2482",
    "category": [
     "Fakultät Musik",
     "Musikwissenschaft"
@@ -4671,17 +4538,6 @@
    ]
   },
   {
-   "id": "udk_moodle:964",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Dorothea Hilzinger: Vertonungen von Stadt und Natur - Oder: Was der Central Park und die Alpen gemeinsam haben 20/21",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=964",
-   "category": [
-    "Fakultät Musik",
-    "Musikwissenschaft"
-   ]
-  },
-  {
    "id": "udk_moodle:962",
    "source": "udk_moodle",
    "university": "UdK",
@@ -4709,17 +4565,6 @@
    "university": "UdK",
    "title": "Christiane Tewinkel, VL \"Musik des 20. und 21. Jahrhunderts\"",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=960",
-   "category": [
-    "Fakultät Musik",
-    "Musikwissenschaft"
-   ]
-  },
-  {
-   "id": "udk_moodle:912",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Dorothea Hilzinger: Einführung in die Musikwissenschaft 20/21",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=912",
    "category": [
     "Fakultät Musik",
     "Musikwissenschaft"
@@ -5112,6 +4957,17 @@
    ]
   },
   {
+   "id": "udk_moodle:3492",
+   "source": "udk_moodle",
+   "university": "UdK",
+   "title": "Labor - Medien&Links - jahrgangsübergreifend",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3492",
+   "category": [
+    "Fakultät Darstellende Kunst",
+    "Theaterpädagogik"
+   ]
+  },
+  {
    "id": "udk_moodle:3462",
    "source": "udk_moodle",
    "university": "UdK",
@@ -5273,17 +5129,6 @@
    "university": "UdK",
    "title": "Publikumsinteraktion in Theater und Performance",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2945",
-   "category": [
-    "Fakultät Darstellende Kunst",
-    "Theaterpädagogik"
-   ]
-  },
-  {
-   "id": "udk_moodle:2898",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Materialien Lehre 2025/26",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2898",
    "category": [
     "Fakultät Darstellende Kunst",
     "Theaterpädagogik"
@@ -6487,6 +6332,26 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "udk_moodle:3497",
+   "source": "udk_moodle",
+   "university": "UdK",
+   "title": "Am ‘I’ the One? Selbsterzählungen zwischen Autotheorie, Crying Selfies und Confessionals",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3497",
+   "category": [
+    "Hochschulübergreifend",
+    "INTER",
+    "Projekte des WiSe 2026/27"
+   ],
+   "summary": "Am 'I' the One? Selbsterzählungen zwischen Autofiktion, Autotheorie, Crying Selfies und Confessionals Alicia Agustín & Tereza Yakovyna & Franca Zajac & Paula Regine Erb Kunst im Kontext & Szenisches Schreiben Anmeldung per Mail an t.yakovyna@udk-berlin.de . About Was bedeutet es, heute ein „Ich“ zu erzählen? Wie prägen Romane, Theater, Essays und Social Media unsere Vorstellungen von Identität, Authentizität und Selbstinszenierung? Und was passiert, wenn persönliche Geschichten öffentlich werden und das eigene Ich zugleich zum Subjekt und Objekt der Erzählung wird? Das Seminar „Am I the One?“ lädt zur kritischen Auseinandersetzung mit autofiktionalen Formen des Schreibens und anderen auto-narrativen Methoden der Gegenwartskultur ein. Wir beschäftigen uns unter anderem mit Social-Media-Confessionals, Romanen, Gegenwartsdramatik und Essayistik. Dabei fragen wir, welche politischen und historischen Bedingungen unser modernes Verständnis des individuellen Ichs prägen und welche Rolle Authentizität, Affekte und persönliche Erzählungen in der heutigen Aufmerksamkeitsökonomie spielen. Wir untersuchen, wie sich individuelle und kollektive Identitäten verändern, wie Subjektivität im digitalen Kapitalismus inszeniert wird und welche Möglichkeiten künstlerische Praktiken eröffnen, bestehende Erzählformen neu zu denken. Dabei beschäftigen wir uns mit unterschiedlichen historischen und künstlerischen Formen des Selbstbezugs – von viktorianischer Introspektion über Samuel Becketts Not I bis hin zu aktuellen Social-Media-Phänomenen. Neben der theoretischen Auseinandersetzung entwickeln die Studierenden in Schreibwerkstätten und Performance-Workshops eigene Texte und künstlerische Arbeiten. Das Seminar verbindet szenisches Schreiben mit performativer Praxis und endet mit einer gemeinsamen Performance, Lesung oder einem Showing. Time & Dates Alle Veranstaltungen finden in Präsenz statt. Die Raumangaben können sich gegebenenfalls noch ändern; Änderungen werden rechtzeitig bekannt gegeben. Samstag, 24.10.2026, 10–18 Uhr – Kick-off Raum: Hardenbergstraße 33, R101 Donnerstag, 12.11.2026, 10–18 Uhr – Schreibwerkstatt (Deutsch; Fragen auch auf Deutsch und Englisch willkommen) Raum: Einsteinufer 43, R035 Freitag, 13.11.2026, 10–18 Uhr – Seminar (Deutsch/Englisch) Raum: Grunewaldstraße 2–5, R110 (Aula) Samstag, 14.11.2026, 10–18 Uhr – Seminar (Deutsch/Englisch) Raum: Grunewaldstraße 2–5, R110 (Aula) Mittwoch, 16.12.2026, 10–18 Uhr – Workshop mit Ivana Sajko (Englisch; Fragen auch auf Deutsch und Englisch willkommen) Raum: Einsteinufer 43, R035 Donnerstag, 04.02.2027, 10–18 Uhr – Seminar (Deutsch/Englisch) Raum: Einsteinufer 43, R035 Freitag, 05.02.2027, 10–18 Uhr – Workshop mit Olympia Bukkakis (Englisch; Fragen auch auf Deutsch und Englisch willkommen) Raum: Einsteinufer 43, R035 Samstag, 06.02.2027, 10–18 Uhr – Seminar (Deutsch/Englisch) Raum: wird noch bekannt gegeben Donnerstag, 11.02.2027, 10–18 Uhr – Präsentationsvorbereitung (Deutsch/Englisch) Raum: Einsteinufer 43, R035 Freitag, 12.02.2027, 10–18 Uhr – Präsentationsvorbereitung (Deutsch/Englisch) Raum: Hardenbergstraße 33, R101 Samstag, 13.02.2027, 10–18 Uhr – Abschließende Präsentationen der künstlerischen Arbeiten (Deutsch/Englisch) Raum: Hardenbergstraße 33, R101 Die Veranstaltungen finden in Präsenz statt. Bitte beachtet, dass sich die Raumangaben gegebenenfalls noch ändern können. Änderungen werden rechtzeitig bekannt gegeben. Leistungsanforderungen Regelmäßige aktive Teilnahme und selbstständige Arbeit am Entwurf einer eigenen künstlerischen Arbeit. Die Studierenden bereiten ihre Präsentationen am 11. und 12. Februar vor und präsentieren ihre Arbeiten am 13. Februar 2027. Credits Leistungspunkte: 4 LP + 2 LP Umfang: 3 SWS Workload: 120 Stunden Veranstaltungstyp: S+Ü Modul: E, SF 3,4, BF B–D",
+   "teachers": [
+    "Alicia Lucia Agustín Fröhlich",
+    "Paula Erb",
+    "Tereza-Tetiana Yakovyna",
+    "Franca Zajac"
+   ],
+   "semester_hint": "2026W"
+  },
+  {
    "id": "udk_moodle:1025",
    "source": "udk_moodle",
    "university": "UdK",
@@ -6647,22 +6512,6 @@
     "Benjamin Rieser"
    ],
    "semester_hint": "2026W"
-  },
-  {
-   "id": "udk_moodle:2178",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Study Abroad 2026/2027",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2178",
-   "category": [
-    "Fakultät Gestaltung",
-    "Architektur",
-    "FG Konstruktives Entwerfen und Tragwerksplanung"
-   ],
-   "teachers": [
-    "Jamila Loutfi",
-    "Edwin Pfeffer"
-   ]
   },
   {
    "id": "udk_moodle:3441",
@@ -7218,22 +7067,6 @@
    ]
   },
   {
-   "id": "udk_moodle:2554",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "BA-Modul 13 2024/25: SE \"Gender und Medien\" + UE \"Fotografie und Realitätskonstruktionen\"",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2554",
-   "category": [
-    "Fakultät Gestaltung",
-    "Gesellschafts- und Wirtschaftskommunikation",
-    "LV Meilicke"
-   ],
-   "summary": "Das BA-Modul 13: Medientheorie/Zeitbasiert Medien 2024/25 setzt sich aus dem Seminar \"Gender und Medien\" (unterrichtet von Dr. Elena Meilicke) und der Übung \"Fotografie und Realitätskonstruktionen\" (unterrichtet von Kata Katz, MA) und wird in zwei Zügen unterrichtet.",
-   "teachers": [
-    "Elena Friede Maria Meilicke"
-   ]
-  },
-  {
    "id": "udk_moodle:1350",
    "source": "udk_moodle",
    "university": "UdK",
@@ -7538,38 +7371,6 @@
    "teachers": [
     "Karin Carola Deckner",
     "Violetta Splitter"
-   ]
-  },
-  {
-   "id": "udk_moodle:1789",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "MODUL 10 - 22/23 SEMINAR - Qualitative Methoden der Sozialforschung",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=1789",
-   "category": [
-    "Fakultät Gestaltung",
-    "Gesellschafts- und Wirtschaftskommunikation",
-    "LV Prof. Deckner"
-   ],
-   "summary": "Die Auseinandersetzung mit Methoden ist für jede Art der wissenschaftlichen Forschung unabdingbar – zum einen weil sie den Weg zu Forschungsergebnissen beschreiben, zum anderen aber auch, weil das Wissen um Methoden die Palette eigener Zugänge zu einem Forschungsthema bereichert und auch erst ermöglicht. Um so mehr Methoden man kennt, desto präziser kann man seinem Forschungsinteresse nachgehen. Gerade die Palette der qualitativen Methoden – um die es in diesem Seminar geht – ist weit und bietet kreativen Spielraum um sich mit diversen Themen und Fragestellungen auseinanderzusetzen. Ziel des Seminars ist die Bandbreite qualitativer Methoden kennenzulernen und sie entsprechend eigener Forschungsfragen zu erproben",
-   "teachers": [
-    "Karin Carola Deckner"
-   ]
-  },
-  {
-   "id": "udk_moodle:1788",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "MODUL 10 - 22/23 VORLESUNG Einführung in die Kommunikations- und Mediensoziologie",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=1788",
-   "category": [
-    "Fakultät Gestaltung",
-    "Gesellschafts- und Wirtschaftskommunikation",
-    "LV Prof. Deckner"
-   ],
-   "summary": "In dieser Vorlesung beschäftigen wir uns zunächst kurz mit grundlegenden Theorien, die prägend für die Entstehung der Soziologie zu Beginn und im Verlauf des 20. Jahrhunderts waren (v.a. Simmel, Weber, Bourdieu,…) und wie in soziologische Diskursen in dieser Zeit Fragen nach Medien und Gesellschaft, bzw. Massenkultur und -medien eingeordnet wurden. Nach dieser Grundlegung wenden wir uns aktuelleren und anschlussfähigen Theorien der Kommunikations- und Mediensoziologie, der cultural and media studies und den science and technology studies (STS) zu. Hier werfen wir mit v.a. Judy Wajcman, Sarah Sharma, Andreas Reckwitz, Didier Eribon und Hartmut Rosa einen Blick auf akute gesellschaftliche Fragen und diskutieren den Zusammenhang mit unseren Lebenswelten.",
-   "teachers": [
-    "Karin Carola Deckner"
    ]
   },
   {
@@ -7933,10 +7734,34 @@
    "semester_hint": "2026W"
   },
   {
+   "id": "udk_moodle:3499",
+   "source": "udk_moodle",
+   "university": "UdK",
+   "title": "Bitte hier nicht registrieren",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3499",
+   "category": [
+    "Fakultät Gestaltung",
+    "Gesellschafts- und Wirtschaftskommunikation",
+    "LV Prof. Hohnsträter"
+   ]
+  },
+  {
+   "id": "udk_moodle:3493",
+   "source": "udk_moodle",
+   "university": "UdK",
+   "title": "M 11: Stragegisches Management – Seminar",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3493",
+   "category": [
+    "Fakultät Gestaltung",
+    "Gesellschafts- und Wirtschaftskommunikation",
+    "LV Prof. Hohnsträter"
+   ]
+  },
+  {
    "id": "udk_moodle:3490",
    "source": "udk_moodle",
    "university": "UdK",
-   "title": "Last Mile Communication. Strategische Kommunikation im KI-Zeitalter",
+   "title": "FM 312: Last Mile Communication. Strategische Kommunikation im KI-Zeitalter",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3490",
    "category": [
     "Fakultät Gestaltung",
@@ -8290,19 +8115,33 @@
    ]
   },
   {
-   "id": "udk_moodle:2590",
+   "id": "udk_moodle:3496",
    "source": "udk_moodle",
    "university": "UdK",
-   "title": "MA 103 Wächter 24/25",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2590",
+   "title": "BA1 Orientierungsmodul Forschung",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3496",
    "category": [
     "Fakultät Gestaltung",
     "Gesellschafts- und Wirtschaftskommunikation",
     "LV Prof. Wächter"
    ],
    "teachers": [
-    "Sylvia Wächter",
-    "Ina Reifel"
+    "Jessica Regina Haß"
+   ]
+  },
+  {
+   "id": "udk_moodle:3495",
+   "source": "udk_moodle",
+   "university": "UdK",
+   "title": "MA1 Orientierungsmodul Forschung",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=3495",
+   "category": [
+    "Fakultät Gestaltung",
+    "Gesellschafts- und Wirtschaftskommunikation",
+    "LV Prof. Wächter"
+   ],
+   "teachers": [
+    "Jessica Regina Haß"
    ]
   },
   {
@@ -9040,7 +8879,7 @@
     "Steffen Herm",
     "Agnes Kelm",
     "Holger Neumann",
-    "Julia Brink"
+    "James Brink"
    ]
   },
   {
@@ -9159,18 +8998,6 @@
    "university": "UdK",
    "title": "Basisprojekt Produkt „Zappel-feel-it“",
    "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2732",
-   "category": [
-    "Fakultät Gestaltung",
-    "Institut für Produkt- und Prozeßgestaltung",
-    "Entwurfsprojekte"
-   ]
-  },
-  {
-   "id": "udk_moodle:1769",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "„Warm up!“ Designgrundlagen, 2022/23",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=1769",
    "category": [
     "Fakultät Gestaltung",
     "Institut für Produkt- und Prozeßgestaltung",
@@ -9446,7 +9273,8 @@
     "Lucas Dudeck",
     "Barbara Elisabeth Johanna Wittmann",
     "Maria Bandomer",
-    "Maria Knoll"
+    "Maria Knoll",
+    "Jonas Maier"
    ]
   },
   {
@@ -10134,36 +9962,6 @@
    ]
   },
   {
-   "id": "udk_moodle:2959",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Stimme und Bewegung 1. Materialität der Stimme.",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2959",
-   "category": [
-    "Fakultät Musik",
-    "Musikpädagogik",
-    "Künstlerisch-Pädagogische Ausbildung"
-   ],
-   "teachers": [
-    "Johanna Schmalöer"
-   ]
-  },
-  {
-   "id": "udk_moodle:2958",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "Stimme und Bewegung. Valeska Gert und der TonTanz.",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2958",
-   "category": [
-    "Fakultät Musik",
-    "Musikpädagogik",
-    "Künstlerisch-Pädagogische Ausbildung"
-   ],
-   "teachers": [
-    "Johanna Schmalöer"
-   ]
-  },
-  {
    "id": "udk_moodle:2001",
    "source": "udk_moodle",
    "university": "UdK",
@@ -10673,24 +10471,6 @@
    ]
   },
   {
-   "id": "udk_moodle:704",
-   "source": "udk_moodle",
-   "university": "UdK",
-   "title": "13.01 Mastercolloquium Jg. 15/16 | Prof. Dr. Alexandra Borchardt, Carsten Großeholz",
-   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=704",
-   "category": [
-    "Zentralinstitut für Weiterbildung",
-    "Kulturjournalismus",
-    "Modul 13 Masterarbeit (Studienabschließendes Modul)"
-   ],
-   "summary": "Kurstermine tba Alle Veranstaltungen und Termine des Sommersemesters findet ihr hier Kursbeschreibung folgt",
-   "teachers": [
-    "Dany Beyer",
-    "Carsten Großeholz",
-    "Alexandra Borchardt"
-   ]
-  },
-  {
    "id": "udk_moodle:703",
    "source": "udk_moodle",
    "university": "UdK",
@@ -10800,6 +10580,7 @@
    "teachers": [
     "Christoph Gengnagel",
     "Jamila Loutfi",
+    "Elke Genzel",
     "Leopold Haas",
     "Isiah Mruck",
     "Paula Tritto"
@@ -10881,7 +10662,6 @@
    "summary": "„Material Forensics“ bedeutet, unsichtbare Geschichten unserer Baumaterialien zu entschlüsseln um deren Lebenszyklen als entwurfsbildendes Werkzeug in der Architektur zu nutzen. Lebenszyklen von Baumaterialien lassen sich durch Umweltindikatoren abbilden. Dabei spielen Umweltindikatoren wie das Treibhausgaspotenzial (CO2), das Versauerungspotenzial von Böden, der Primärenergiebedarf oder der Wasserverbrauch für die Herstellung von Materialien wie Beton zunehmend eine Rolle. Anhand realer Bauvorhaben lernen wir, wie Architekten/innen und Ingenieure/innen aktuell Lebenszyklusanalysen anwenden. In praktischen Übungen sollen diese beispielhaft an einem realen Raum und später an dem eigenen Entwurfsprojekt eingesetzt werden.",
    "teachers": [
     "Christoph Gengnagel",
-    "Jamila Loutfi",
     "Tizian Alkewitz"
    ]
   },
@@ -10918,6 +10698,9 @@
     "FG Versorgungsplanung und Versorgungstechnik",
     "Gebäudetechnik I"
    ],
+   "teachers": [
+    "Helena Burchard"
+   ],
    "semester_hint": "2026W"
   },
   {
@@ -10931,6 +10714,10 @@
     "Architektur",
     "FG Versorgungsplanung und Versorgungstechnik",
     "Gebäudetechnik II"
+   ],
+   "teachers": [
+    "Helena Burchard",
+    "Werner Kaul-Gothe"
    ],
    "semester_hint": "2026W"
   },
@@ -11364,6 +11151,23 @@
     "Siebdruckwerkstatt"
    ],
    "summary": "Dieser Kurs ist ein hybrides Modell und besteht aus einem offenen Blockseminar zur Siebdruckvorstufe und der individuellen praktischen Anwendung in einem Druckprojekt. offenes Blockseminar: 27.11. 10 bis 16 Uhr Raum 10 EG Medienhaus Voraussetzungen für einen Kursabschluss mit 3 Creditpoints: - für Studierende ab 3. Semester BA oder ab 1. Semester MA - einmalig pro Studium (Bachelor oder Master) - aktuelle Werkstatteinführung und erste Siebdruckerfahrungen - Teilnahme Blockseminar und Anwendung der Inhalte in der Umsetzung eines eigenen Siebdruckprojekts - Rechtzeitige Anmeldung eines Druckprojektes bis Freitag 16.10. 10 Uhr Info und Einschreibung am 14.10.26 12:30 in der Siebdruckwerkstatt",
+   "teachers": [
+    "Michael Chudoba"
+   ]
+  },
+  {
+   "id": "udk_moodle:2283",
+   "source": "udk_moodle",
+   "university": "UdK",
+   "title": "Farbmanagement",
+   "url": "https://moodle.udk-berlin.de/moodle/course/view.php?id=2283",
+   "category": [
+    "Fakultät Gestaltung",
+    "Visuelle Kommunikation",
+    "Labore & Werkstätten",
+    "Siebdruckwerkstatt"
+   ],
+   "summary": "Das Thema Farbmanagement kommt oft etwas kurz. Die Idee ist das ganze hier für das Selbststudium als Onlinekurs etwas strukturiert aufzubereiten. Achtung! Dieser Onlinekurs befindet sich im Aufbau...",
    "teachers": [
     "Michael Chudoba"
    ]
