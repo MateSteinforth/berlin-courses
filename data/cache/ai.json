@@ -142772,5 +142772,179 @@
   ],
   "language": "unknown",
   "dc_relevance": 0
+ },
+ "64aaedb3ce526359": {
+  "summary": "Chemistry lab practical for biology students in small groups.",
+  "tags": [
+   "natural-sciences",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "a26295f16133c956": {
+  "summary": "Exercise sessions on current biochemical research questions and methods.",
+  "tags": [
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "5bef941dedce86de": {
+  "summary": "Seminar preparing discussions with research institutions, authorities and industry employers.",
+  "tags": [
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "1d4bce44dbc264f7": {
+  "summary": "Public candidate hearings for a new W2 professorship in biology didactics, open to biology students.",
+  "tags": [
+   "education-teaching"
+  ],
+  "language": "de+en",
+  "dc_relevance": 0
+ },
+ "5bdab67623965939": {
+  "summary": "Seminar training scientific presentation, poster and abstract writing using current research in animal behaviour and cognition.",
+  "tags": [
+   "natural-sciences",
+   "career-professional"
+  ],
+  "language": "en",
+  "dc_relevance": 0
+ },
+ "efe59b16c0d1939f": {
+  "summary": "Practice course where students give presentations and create conference-style posters on current animal behaviour research.",
+  "tags": [
+   "natural-sciences",
+   "workshop-practice"
+  ],
+  "language": "en",
+  "dc_relevance": 0
+ },
+ "6ac5e16c6d2c52bd": {
+  "summary": "Seminar on reproductive medicine for wildlife, including megavertebrates, bears, felids, reptiles and immobilisation techniques.",
+  "tags": [
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "38d15493e0bf24c1": {
+  "summary": "Seminar on team work, team development, and group dynamics in organizations from an occupational psychology perspective.",
+  "tags": [
+   "society-politics",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "a7a9483fb9a0a734": {
+  "summary": "Introduces career fields for literary scholars through practitioner talks on professional entry and requirements.",
+  "tags": [
+   "career-professional",
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "be8e15c71674873c": {
+  "summary": "Lecture on early Netherlandish painting, the Burgundian court, and the emergence of panel painting and portraiture.",
+  "tags": [
+   "history",
+   "art"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "7cbb50a340b4468e": {
+  "summary": "Biweekly exercise accompanying the Earth history and stratigraphy course.",
+  "tags": [
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "d06f1d772cf8647f": {
+  "summary": "Lecture on linear algebra for physics students covering matrices, eigenvalues and operators.",
+  "tags": [
+   "mathematics",
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "d6328606c2375144": {
+  "summary": "Berlin-wide mathematics colloquium series offering broad overviews of mathematical research connections.",
+  "tags": [
+   "mathematics"
+  ],
+  "language": "en",
+  "dc_relevance": 0
+ },
+ "b953477d02309835": {
+  "summary": "Intensive holiday module teaching core Microsoft Word skills for creating text documents, including text correction and formatting.",
+  "tags": [
+   "writing-language",
+   "workshop-practice"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "1764e64bbb5e8cae": {
+  "summary": "Intensive holiday module introducing project calculations and data analysis with Microsoft Excel.",
+  "tags": [
+   "data",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "5cd02ca6f28c329c": {
+  "summary": "Introduction to statistical data analysis using the open-source programming language R.",
+  "tags": [
+   "data",
+   "programming"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "07ed7ceec4e5d3d4": {
+  "summary": "Asynchronous online module on podcast production, carried out largely independently.",
+  "tags": [
+   "sound",
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "b8d04495070f3f12": {
+  "summary": "Intensive in-person module introducing machine learning and deep learning with Python and Keras.",
+  "tags": [
+   "ai-ml",
+   "programming"
+  ],
+  "language": "de",
+  "dc_relevance": 2
+ },
+ "0ce55806b5e7edd3": {
+  "summary": "Hybrid university course on information literacy and research skills for students across all disciplines.",
+  "tags": [
+   "career-professional",
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "c42fb411499bb634": {
+  "summary": "Seminar on team work, team development, and group dynamics in organizations from an occupational psychology perspective.",
+  "tags": [
+   "society-politics",
+   "career-professional"
+  ],
+  "language": "de",
+  "dc_relevance": 0
  }
 }
