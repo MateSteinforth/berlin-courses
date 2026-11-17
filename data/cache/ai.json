@@ -142946,5 +142946,135 @@
   ],
   "language": "de",
   "dc_relevance": 0
+ },
+ "a3399e923f5f34fe": {
+  "summary": "Introduction to the methods and theoretical foundations of political science research.",
+  "tags": [
+   "philosophy-theory"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "1c6b6060c4f65fe8": {
+  "summary": "Selected topics in equine medicine delivered as an online webinar.",
+  "tags": [
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "112010e4f002ee49": {
+  "summary": "Introductory Spanish language practice module at the Instituto Cervantes in Berlin.",
+  "tags": [
+   "writing-language"
+  ],
+  "language": "other",
+  "dc_relevance": 0
+ },
+ "ec052fadfff63935": {
+  "summary": "Second part of the introductory Spanish language module at the Instituto Cervantes in Berlin.",
+  "tags": [
+   "writing-language"
+  ],
+  "language": "other",
+  "dc_relevance": 0
+ },
+ "db98cdb84ea62ef6": {
+  "summary": "Lecture on X-ray emission, diffraction at crystal lattices and structure analysis by X-ray diffraction.",
+  "tags": [
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "9f65b0ea8e022b46": {
+  "summary": "Seminar on X-ray emission, crystal lattice diffraction and crystal structure determination via X-ray diffraction.",
+  "tags": [
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "da3b29347be175d8": {
+  "summary": "Practical course on programming atmospheric circulation models in Fortran for weather modelling; currently cancelled.",
+  "tags": [
+   "programming",
+   "natural-sciences"
+  ],
+  "language": "de",
+  "dc_relevance": 1
+ },
+ "4e93b7fb564d88ae": {
+  "summary": "Colloquium for master's students in sociology presenting and discussing thesis research.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "en",
+  "dc_relevance": 0
+ },
+ "01576e6cffdbb03b": {
+  "summary": "Introductory Modern Greek language exercise course at level A1.1.",
+  "tags": [
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "73fb7c5111cb0ff9": {
+  "summary": "Introductory Modern Greek language exercise course at level A1.2.",
+  "tags": [
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "8fea6b996e1759e1": {
+  "summary": "Modern Greek language exercise course at level A2.1.",
+  "tags": [
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "9ce9c4bff3e304ab": {
+  "summary": "Modern Greek language exercise course at level B2.1.",
+  "tags": [
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "6b143edeba592952": {
+  "summary": "Supplementary seminar on teaching German as a second language for primary and secondary school student-teachers.",
+  "tags": [
+   "education-teaching"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "12faa9e39fa63239": {
+  "summary": "Practical exercise course on Turkish reading comprehension and grammar.",
+  "tags": [
+   "writing-language"
+  ],
+  "language": "de",
+  "dc_relevance": 0
+ },
+ "4f7aaaaede731d77": {
+  "summary": "Introduction to Italian law covering public law foundations and the Italian constitution.",
+  "tags": [
+   "society-politics"
+  ],
+  "language": "unknown",
+  "dc_relevance": 0
+ },
+ "fc9096386c1e0cfd": {
+  "summary": "Seminar on Italian music theatre examining the interplay of voice, sound, body and performance with literature, dance and visual arts.",
+  "tags": [
+   "performance",
+   "music"
+  ],
+  "language": "de",
+  "dc_relevance": 1
  }
 }
