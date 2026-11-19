@@ -25,6 +25,10 @@ class _Scheduled:
         return next_update(self.university, semester, after, published)
 
 
+class LoginRequired(Exception):
+    """The source's public pages now sit behind a login. Old data is kept; the run doesn't fail."""
+
+
 class CatalogSource(_Scheduled, ABC):
     name: str = ""          # plugin id, used in file names and course ids
     university: str = ""    # display name ("TU", "UdK")

@@ -63,5 +63,7 @@ python -m http.server -d site 8000       # open http://localhost:8000
 - Settings → Pages → Source: **GitHub Actions**
 - Settings → Secrets → Actions: `ANTHROPIC_API_KEY` (optional; tags, summaries, Studium Generale dates).
   `UDK_USER`/`UDK_PASS`/`TU_USER`/`TU_PASS` are wired in but not needed today.
+  Since 2026-11-16 TU's MOSES directory redirects to the TU login: the TU crawl is skipped with a
+  warning and the last crawled TU data stays on the site (a login is not implemented).
 
 See [UNIVERSITIES.md](UNIVERSITIES.md) for coverage and how to add a university.

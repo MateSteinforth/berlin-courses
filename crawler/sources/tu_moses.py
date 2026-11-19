@@ -21,7 +21,7 @@ import threading
 import time
 
 from ..util import CACHE, WEEKDAYS_DE, clean, get, load_json, parse_de_date, save_json, session
-from . import CatalogSource
+from . import CatalogSource, LoginRequired
 
 log = logging.getLogger(__name__)
 
@@ -168,6 +168,14 @@ class TuMoses(CatalogSource):
             pg = browser.new_page()
             pg.set_default_timeout(180_000)
             pg.goto(f"{BASE}/organisationseinheit.html")
+            try:  # since 2026-11-16 the directory redirects to the TU single sign-on
+                pg.wait_for_load_state("networkidle", timeout=60_000)
+            except Exception:
+                pass
+            if "shibboleth" in pg.url or "/idp/" in pg.url:
+                where = pg.url.split("?")[0]
+                browser.close()
+                raise LoginRequired(f"MOSES directory redirects to the TU login ({where})")
             sems = _semester_map(pg.content())
             if semester not in sems or not sems[semester][1]:
                 log.info("MOSES: semester %s not published (%s)", semester, sems)

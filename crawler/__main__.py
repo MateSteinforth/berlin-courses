@@ -58,7 +58,7 @@ def main(argv=None) -> int:
     d.add_argument("--source", action="append", help="only these sources")
     args = ap.parse_args(argv)
 
-    from .sources import catalog_sources, lms_sources
+    from .sources import LoginRequired, catalog_sources, lms_sources
 
     if args.cmd == "list":
         for name, s in {**catalog_sources(), **lms_sources()}.items():
@@ -89,6 +89,11 @@ def main(argv=None) -> int:
                 log.info("== %s %s", name, sem)
                 try:
                     courses = srcs[name].crawl(sem, limit=args.limit)
+                except LoginRequired as e:
+                    # not a crawler bug and nothing a retry fixes: keep the old data, don't fail the run
+                    log.warning("%s %s skipped, old data kept: %s", name, sem, e)
+                    print(f"::warning title={name} needs a login::{e}. Old data is kept.")
+                    continue
                 except Exception:
                     log.exception("%s %s failed", name, sem)
                     failed = True
